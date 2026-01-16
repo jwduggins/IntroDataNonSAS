@@ -1,0 +1,69 @@
+Desc	Class	C445	C446
+Clinical Trials Process (5%)	Unit		
+Describe the clinical research process (phases, key roles, key organizations).	Main	0.00	0.00
+Derive programming requirements from an SAP and an annotated Case Report Form. 	Main	0.00	0.00
+Clinical Trials Data Structures (10%)	Unit		
+Identify the clinical trials domains.	Main	0.00	0.00
+Identify key CDISC principals and terms.	Main	0.00	0.00
+Describe the structure and purpose of the CDISC SDTM data model.	Main	0.00	0.00
+Describe the structure and purpose of the CDISC ADaM data model.	Main	0.00	0.00
+Trace data through the full programming process, from raw data to any of the mapped domains. 	Main	0.00	0.00
+Regulatory Submissions (5%)	Unit		
+Apply regulatory requirements to exported SAS data sets (SAS V5 requirements).	Main	0.00	0.00
+Describe the contents and purpose of define.xml.	Main	0.00	0.00
+Manage Clinical Trials Data (5%)	Unit		
+Access DICTIONARY Tables using the SQL procedure.	Main	0.00	0.00
+Examine and explore clinical trials input data (find outliers, missing vs. zero values, etc).	Main	0.75	0.25
+Use DATA STEP functions and features to find anomalous values or to find potential errors. COMPRESS, INDEX, INDEXC, INDEXW, FIND, FINDC, FINDW, ANYALPHA, ANYDIGIT, NOTALPHA, NOTDIGIT, CMISS, NMISS, MISSING, LENGTH, LENGTHN, LENGTHM, LENGTHC	Expanded	0.50	0.50
+Use procedures to find anomalous values or to find potential errors.	Expanded	1.00	0.00
+Transform or Summarize Clinical Trials Data (15%)	Unit		
+Derive variables by applying categorization and windowing techniques to existing variables.	Main	0.50	0.00
+Store dates in a form that is acceptable for use with clinical trials. 	Main	0.00	0.25
+Determine if dates are stored in accordance with ISO 8601 standards.	Expanded	0.00	0.50
+Use functions to store dates using ISO 8601 standards.	Expanded	0.00	0.00
+Reshape SAS data sets.	Main	1.00	0.00
+with PROC TRANSPOSE	Expanded	1.00	0.00
+with arrays in the DATA step	Expanded	1.00	0.00
+Use FIRST./LAST. variables.	Main	1.00	0.00
+Calculate 'change from baseline' results.	Main	1.00	0.00
+Obtain counts of events in clinical trials. 	Main	0.00	0.00
+Apply Statistical Procedures for Clinical Trials (15%)	Unit		
+Use SAS procedures to obtain descriptive statistics for clinical trials data (FREQ, UNIVARIATE, MEANS, SUMMARY). 	Main	1.00	0.00
+Given information on data types (categorical vs. quantitative), determine whether a procedure can produce the requested analysis. 	Main	0.00	0.00
+Given sample code from a statistical procedure, identify syntax and/or semantic errors. (FREQ, TTEST, GLM, REG) 	Main	0.25	0.00
+Create output data sets from statistical procedures.	Main	1.00	0.00
+ODS OUTPUT 	Expanded	1.00	0.00
+OUTPUT statements or options within a procedure	Expanded	1.00	0.00
+Follow instructions to be able to program for both Safety and Efficacy data. 	Main	0.00	0.00
+Macro Programming for Clinical Trials (15%)	Unit		
+Create macro variables and set macro parameters. 	Main	0.50	0.50
+Access user-defined and automatic variables.	Main	1.00	0.00
+Automate repeated tasks by defining and calling macros.	Main	0.00	1.00
+Use system options to debug macros and display values of macro variables in the SAS log (MPRINT, SYMBOLGEN, MLOGIC).	Main	0.00	1.00
+Report Clinical Trials Results (10%)	Unit		
+Use PROC REPORT to produce tables and listings for clinical trials reports.	Main	1.00	0.00
+Apply options in the REPORT statement to modify the report style.	Expanded	1.00	0.00
+Use COLUMN statement to select report items, assign aliases to report items, nest report items, and create headers for one or more report items. 	Expanded	1.00	0.00
+Use DEFINE statement to apply options to report items. E.g., usages, styles, sort order. 	Expanded	1.00	0.00
+Use BREAK and RBREAK statements to add summary rows. 	Expanded	1.00	0.00
+Use COMPUTE blocks to execute programming statements during the creation of the report.	Expanded	1.00	0.00
+Use LINE statements to insert new lines into a report.	Expanded	1.00	0.00
+Use CALL DEFINE statements to modify the contents or aesthetics of the report. 	Expanded	1.00	0.00
+Produce a data set using the OUT= option. 	Expanded	1.00	0.00
+Use ODS statements to produce and augment clinical trials reports.	Main	1.00	0.00
+Use ODS TRACE to identify output object attributes. 	Expanded	1.00	0.00
+Use ODS SELECT/EXCLUDE to produce desired output objects.	Expanded	1.00	0.00
+Use ODS statements to open/close an ODS destination (e.g., PDF, RTF, POWERPOINT, LISTING, WORD) and control destination-specific settings. (e.g., resolution, number of columns, pagination) 	Expanded	1.00	0.00
+Use the ODS GRAPHICS statement to control graphics environment options.	Expanded	1.00	0.00
+Create and work with graphs	Main	0.86	0.00
+Use PROC SGPLOT or PROC SGPANEL to create standard graphs using VBARBASIC/HBARBASIC, VBARPARM/HBARPARM, VBOX/HBOX, HISTOGRAM, DENSITY, SCATTER, SERIES, HIGHLOW, WATERFALL)	Expanded	0.44	0.00
+Use statements and options in PROC SGPLOT and PROC SGPANEL to create graphs based on grouped data and modify their appearance. 	Expanded	1.00	0.00
+Create graphs that include an overlay of multiple graphical elements, including reference lines 	Expanded	1.00	0.00
+Use statements and options to modify the attributes of graphical elements, customize axes, and customize legends.	Expanded	1.00	0.00
+Validate Clinical Trial Data Reporting (20%)	Unit		
+Explain the principles of programming validation in the clinical trial industry.	Main	0.00	0.00
+Utilize the log file to validate clinical trial data reporting.	Main	1.00	0.00
+Use programming techniques to validate clinical trial data reporting (PROC COMPARE, MSGLEVEL).	Main	0.50	0.00
+Determine why two independent validation programs led to a different result.	Main	1.00	0.00
+Identify elements that are not validated when comparing via PROC COMPARE. (titles, footnotes, and attributes such as formats or labels depending on how they are added to a PROC-like REPORT.) 	Main	1.00	0.00
+Identify and Resolve data, syntax and logic errors.	Main	1.00	0.00

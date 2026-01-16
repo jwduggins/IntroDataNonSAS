@@ -1,0 +1,112 @@
+Desc	Class	C445
+Access and Create Data Structures (20% - 25%)	Unit	
+Create temporary and permanent SAS data sets. 	Main	1.00
+Use a DATA step to create a SAS data set from an existing SAS data set.	Expanded	1.00
+Investigate SAS data libraries using base SAS utility procedures.	Main	1.00
+Use a LIBNAME statement to assign a library reference name to a SAS library.	Expanded	1.00
+Investigate a library programmatically using the CONTENTS procedure.	Expanded	1.00
+Access data.	Main	0.94
+Access SAS data sets with the SET statement	Expanded	1.00
+Use PROC IMPORT to access non-SAS data sources.	Expanded	0.83
+Read delimited and Microsoft Excel (.xlsx) files with PROC IMPORT.	Detail	0.50
+Use PROC IMPORT statement options (OUT=, DBMS=, REPLACE)	Detail	1.00
+Use the GUESSINGROWS statement	Detail	1.00
+Use the SAS/ACCESS XLSX engine to read a Microsoft Excel workbook.xlsx file.	Expanded	1.00
+Combine SAS data sets.	Main	1.00
+Concatenate data sets.	Expanded	1.00
+Merge data sets one-to-one.	Expanded	1.00
+Merge data sets one-to-many.	Expanded	1.00
+Create and manipulate SAS date values.	Main	1.00
+Explain how SAS stores date and time values.	Expanded	1.00
+Use SAS informats to read common date and time expressions.	Expanded	1.00
+Use SAS date and time formats to specify how the values are displayed.	Expanded	1.00
+Control which observations and variables in a SAS data set are processed and output.	Main	1.00
+Use the WHERE statement in the DATA step to select observations to be processed.	Expanded	1.00
+Subset variables to be output by using the DROP and KEEP statements.	Expanded	1.00
+Use the DROP= and KEEP= data set options to specify columns to be processed and/or output.	Expanded	1.00
+Manage Data (35% - 40%)	Unit	
+Sort observations in a SAS data set.	Main	1.00
+Use the SORT Procedure to re-order observations in place or output to a new dataset with the OUT= option.	Expanded	1.00
+Remove duplicate observations with the SORT Procedure.	Expanded	1.00
+Conditionally execute SAS statements.	Main	1.00
+Use IF-THEN/ELSE statements to process data conditionally.	Expanded	1.00
+Use DO and END statements to execute multiple statements conditionally	Expanded	1.00
+Use assignment statements in the DATA step.	Main	1.00
+Create new variables and assign a value.	Expanded	1.00
+Assign a new value to an existing variable.	Expanded	1.00
+Assign the value of an expression to a variable.	Expanded	1.00
+Assign a constant date value to a variable.	Expanded	1.00
+Modify variable attributes using options and statements in the DATA step.	Main	1.00
+Change the names of variables by using the RENAME= data set option.	Expanded	1.00
+Use LABEL and FORMAT statements to modify attributes in a DATA step.	Expanded	1.00
+Define the length of a variable using the LENGTH statement.	Expanded	1.00
+Accumulate sub-totals and totals using DATA step statements.	Main	1.00
+Use the BY statement to aggregate by subgroups.	Expanded	1.00
+Use first. and last. processing to identify where groups begin and end.	Expanded	1.00
+Use the RETAIN and SUM statements	Expanded	1.00
+Use SAS functions to manipulate character data, numeric data, and SAS date values.	Main	0.86
+Use SAS functions such as SCAN, SUBSTR, TRIM, UPCASE, and LOWCASE to perform tasks such as the tasks shown below.	Expanded	1.00
+Replace the contents of a character value.	Detail	1.00
+Trim trailing blanks from a character value.	Detail	1.00
+Search a character value and extract a portion of the value.	Detail	1.00
+Convert a character value to upper or lowercase.	Detail	1.00
+Use SAS numeric functions such as SUM, MEAN, RAND, SMALLEST, LARGEST, ROUND, and INT.	Expanded	0.57
+Create SAS date values by using the functions MDY, TODAY, DATE, and TIME.	Expanded	1.00
+Extract the month, year, and interval from a SAS date value by using the functions YEAR, QTR, MONTH, and DAY.	Expanded	1.00
+Perform calculations with date and datetime values and time intervals by using the functions INTCK, INTNX, DATDIF and YRDIF.	Expanded	0.75
+Use SAS functions to convert character data to numeric and vice versa.	Main	1.00
+Explain the automatic conversion that SAS uses to convert values between data types.	Expanded	1.00
+Use the INPUT function to explicitly convert character data values to numeric values.	Expanded	1.00
+Use the PUT function to explicitly convert numeric data values to character values.	Expanded	1.00
+Process data using DO LOOPS.	Main	1.00
+Explain how iterative DO loops function.	Expanded	1.00
+Use DO loops to eliminate redundant code and to perform repetitive calculations.	Expanded	1.00
+Use conditional DO loops.	Expanded	1.00
+Use nested DO loops.	Expanded	1.00
+Restructure SAS data sets with PROC TRANSPOSE.	Main	1.00
+Select variables to transpose with the VAR statement.	Expanded	1.00
+Rename transposed variables with the ID statement.	Expanded	1.00
+Process data within groups using the BY statement	Expanded	1.00
+Use PROC TRANSPOSE options (OUT=, PREFIX= and NAME=).	Expanded	1.00
+Use macro variables to simplify program maintenance	Main	1.00
+Create macro variables with the %LET statement	Expanded	1.00
+Use macro variables within SAS programs.	Expanded	1.00
+Error Handling (15% - 20%)	Unit	
+Identify and resolve programming logic errors.	Main	0.75
+Use the PUTLOG Statement in the Data Step to help identify logic errors.	Expanded	1.00
+Use PUTLOG to write the value of a variable, formatted values, or to write values of all variables.	Expanded	1.00
+Use PUTLOG with Conditional logic.	Expanded	1.00
+Use temporary variables N and ERROR to debug a DATA step.	Expanded	0.00
+Recognize and correct syntax errors.	Main	1.00
+Identify the characteristics of SAS statements.	Expanded	1.00
+Define SAS syntax rules including the typical types of syntax errors such as misspelled keywords, unmatched quotation marks, missing semicolons, and invalid options.	Expanded	1.00
+Use the log to help diagnose syntax errors in a given program.	Expanded	1.00
+Generate Reports and Output (15% - 20%)	Unit	
+Generate list reports using the PRINT procedure.	Main	1.00
+Modify the default behavior of PROC PRINT by adding statements and options such as	Expanded	1.00
+use the VAR statement to select and order variables.	Detail	1.00
+calculate totals with a SUM statement.	Detail	1.00
+select observations with a WHERE statement.	Detail	1.00
+use the ID statement to identify observations.	Detail	1.00
+use the BY statement to process groups.	Detail	1.00
+Generate summary reports and frequency tables using base SAS procedures.	Main	0.92
+Produce one-way and two-way frequency tables with the FREQ procedure.	Expanded	1.00
+Enhance frequency tables with options (NLEVELS, ORDER=).	Expanded	0.50
+Use PROC FREQ to validate data in a SAS data set.	Expanded	1.00
+Calculate summary statistics and multilevel summaries using the MEANS procedure	Expanded	1.00
+Enhance summary tables with options.	Expanded	1.00
+Identify extreme and missing values with the UNIVARIATE procedure.	Expanded	1.00
+Enhance reports system user-defined formats, titles, footnotes and SAS System reporting options.	Main	0.75
+Use PROC FORMAT to define custom formats.	Expanded	0.50
+VALUE statement	Detail	1.00
+CNTLIN= option	Detail	0.00
+Use the LABEL statement to define descriptive column headings.	Expanded	1.00
+Control the use of column headings with the LABEL and SPLIT=options in PROC PRINT output.	Expanded	0.75
+Generate reports using ODS statements.	Main	0.67
+Identify the Output Delivery System destinations.	Expanded	1.00
+Create HTML, PDF, RTF, and files with ODS statements.	Expanded	0.67
+Use the STYLE=option to specify a style template.	Expanded	1.00
+Create files that can be viewed in Microsoft Excel.	Expanded	0.00
+Export data	Main	0.50
+Create a simple raw data file by using the EXPORT procedure as an alternative to the DATA step	Expanded	1.00
+Export data to Microsoft Excel using the SAS/ACCESS XLSX engine.	Expanded	0.00

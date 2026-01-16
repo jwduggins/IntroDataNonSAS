@@ -1,0 +1,550 @@
+The six variables are arranged as follows for each movie:
+Movie Title
+Rotten Tomatoes Score -- Audience Score
+Movie Genre -- Movie Theme
+Studio Name
+
+Fast Five
+78--83
+Action--Escape
+Universal
+Abduction
+4--46
+Action--Maturation
+Vertigo   Entertainment
+Captain America: The First Avenger
+78--75
+Action--Metamorphosis
+Disney
+Green Lantern
+27--48
+Action--Metamorphosis
+Warner     Bros
+Thor
+77--80
+Action--Monster Force
+Disney
+X-Men: First Class
+87--88
+Action--Monster Force
+Disney
+Season Of The Witch
+10--32
+Action--Monster Force
+Relativity
+Battle: Los Angeles
+35--50
+Action--Monster Force
+Relativity         Media
+Priest
+17--37
+Action--Monster Force
+Sony
+Cowboys and Aliens
+44--50
+Action--Monster Force
+Universal
+Mission Impossible
+93--86
+Action--Pursuit
+Paramount
+Sherlock Holmes 2
+60--79
+Action--Pursuit
+Warner             Bros
+Pirates of the Caribbean: On Stranger Tides
+34--61
+Action--Quest
+Disney
+Transformers: Dark of the Moon
+35--67
+Action--Quest
+DreamWorks               Pictures
+Sucker Punch
+23--48
+Action--Quest
+Legendary                Pictures
+Conan the Barbarian
+22--34
+Action--Quest
+Lionsgate
+Sanctum
+30--39
+Action--Quest
+Relativity                  Media
+Hanna
+71--67
+Action--Quest
+Universal
+The Eagle
+39--43
+Action--Quest
+Universal
+Spy Kids: All The Time in the World
+22--40
+Action--Quest
+Weinstein                     Company
+Drive Angry
+45--38
+Action--Rescue
+Independent
+Rise of the Planet of the Apes
+83--87
+Action--Revenge
+20th                       Century                       Fox
+The Mechanic
+53--52
+Action--Revenge
+Independent
+Immortals
+36--59
+Action--Revenge
+Relativity                         Media
+Colombiana
+28--55
+Action--Revenge
+Sony
+The Green Hornet
+44--47
+Action--Rivalry
+Columbia
+Killer Elite
+25--48
+Action--Rivalry
+Independent
+The Three Musketeers
+24--48
+Action--Rivalry
+Independent
+Warrior
+83--93
+Action--Rivalry
+Lionsgate
+Never Back Down 2: The Beatdown
+.--44
+Action--Rivalry
+Sony
+Machine Gun Preacher
+29--71
+Action--Transformation
+Lionsgate
+Real Steel
+58--81
+Action--Underdog
+DreamWorks                                 Pictures
+Hugo
+93--84
+Adventure
+Paramount
+Rango
+88--69
+Animation--Fish Out Of Water
+Paramount
+Cars 2
+38--56
+Animation--Fish Out Of Water
+Pixar
+Hop
+26--50
+Animation--Fish Out Of Water
+Relativity                                     Media
+The Smurfs
+23--50
+Animation--Fish Out Of Water
+Sony                                      Pictures                                      Animation
+Arthur Christmas
+92--82
+Animation--Journey and Return
+Aardman                                       Animations
+Happy Feet 2
+41--59
+Animation--Journey and Return
+Village                                        Roadshow                                        Pictures
+Gnomeo and Juliet
+56--52
+Animation--Love
+Disney
+Rio
+71--73
+Animation--Quest
+20th                                          Century                                          Fox
+Winnie The Pooh
+91--79
+Animation--Quest
+Disney
+Puss In Boots
+83--76
+Animation--Quest
+DreamWorks
+Mars Needs Moms
+36--43
+Animation--Rescue
+Disney
+Kung Fu Panda 2
+82--80
+Animation--Rivalry
+DreamWorks                                              Animation
+Diary of a Wimpy Kid 2: Rodrick Rules
+47--63
+Comedy--Comedy
+20th                                               Century                                               Fox
+Jack and Jill
+4--59
+Comedy--Comedy
+Happy                                                Madison
+Zookeeper
+14--42
+Comedy--Comedy
+Happy                                                 Madison                                                 Productions
+30 Minutes or Less
+43--48
+Comedy--Comedy
+Independent
+Bad Teacher
+44--38
+Comedy--Comedy
+Independent
+The Hangover Part II
+35--58
+Comedy--Comedy
+Legendary                                                    Pictures
+A Very Harold and Kumar Christmas
+72--71
+Comedy--Comedy
+Lionsgate
+Paul
+72--70
+Comedy--Comedy
+Relativity
+Johnny English Reborn
+38--55
+Comedy--Comedy
+Relativity                                                       Media
+No Strings Attached
+49--57
+Comedy--Comedy
+Spyglass                                                        Entertainment
+The Dilemma
+23--31
+Comedy--Comedy
+Spyglass                                                         Entertainment
+Our Idiot Brother
+68--79
+Comedy--Comedy
+The                                                          Weinstein                                                          Company
+Your Highness
+26--36
+Comedy--Comedy
+Universal
+Mr. Popper's Penguins
+47--54
+Comedy--Discovery
+20th                                                            Century                                                            Fox
+50/50
+93--93
+Comedy--Discovery
+Independent
+Take Me Home Tonight
+28--46
+Comedy--Discovery
+Relativity
+Beginners
+84--80
+Comedy--Love
+Independent
+Cedar Rapids
+86--61
+Comedy--Maturation
+20th                                                                Century                                                                Fox
+The Change Up
+24--53
+Comedy--Metamorphosis
+Relativity                                                                 Media
+The Muppets
+97--87
+Comedy--Quest
+Disney
+Tower Heist
+68--61
+Comedy--Revenge
+Relativity
+Horrible Bosses
+69--72
+Comedy--Revenge
+Warner                                                                    Bros
+Bridesmaids
+90--77
+Comedy--Rivalry
+Relativity                                                                     Media
+Arthur
+26--49
+Comedy--Sacrifice
+Warner                                                                      Bros
+Hall Pass
+35--44
+Comedy--Temptation
+Warner                                                                       Bros
+What's Your Number
+24--50
+Comedy--Transformation
+20th                                                                        Century                                                                        Fox
+The Big Year
+38--62
+Comedy--Transformation
+Independent
+The Descendants
+89--88
+Drama--Discovery
+20th                                                                          Century                                                                          Fox
+The Rum Diary
+50--48
+Drama--Discovery
+Independent
+The Tree Of Life
+84--61
+Drama--Discovery
+Independent
+Everything Must Go
+74--53
+Drama--Discovery
+Reliance                                                                             Entertainment
+Larry Crowne
+34--46
+Drama--Discovery
+Universal
+The Company Men
+66--55
+Drama--Discovery
+Weinstein                                                                               Company
+The Lincoln Lawyer
+84--82
+Drama--Fish Out Of Water
+Lionsgate
+Water For Elephants
+60--72
+Drama--Love
+20th                                                                                 Century                                                                                 Fox
+A Dangerous Method
+79--89
+Drama--Love
+Independent
+My Week with Marilyn
+83--84
+Drama--Love
+The                                                                                   Weinstein                                                                                   Company
+The Help
+75--91
+Drama--Maturation
+DreamWorks                                                                                    Pictures
+Dolphin Tale
+84--81
+Drama--Quest
+Independent
+Take Shelter
+92--85
+Drama--Sacrifice
+Independent
+Anonymous
+46--66
+Drama--Tragedy
+Relativity                                                                                       Media
+Footloose
+71--71
+Drama--Transformation
+Spyglass                                                                                        Entertainment
+The Beaver
+62--57
+Drama--Transformation
+Summit                                                                                         Entertainment
+Moneyball
+95--89
+Drama--Underdog
+Columbia
+The Conspirator
+56--65
+Drama--Underdog
+Independent
+Soul Surfer
+46--79
+Drama--Underdog
+Sony
+Hesher
+54--68
+Drama--Wretched Excess
+Independent
+J.Edgar
+42--84
+Drama--Wretched Excess
+Warner                                                                                              Bros
+Harry Potter and the Deathly Hallows Part 2
+96--92
+Fantasy--Rivalry
+Warner                                                                                               Bros
+Another Earth
+63--74
+Fantasy--Temptation
+Independent
+Red State
+57--59
+Horror--Escape
+Independent
+Shark Night 3D
+16--25
+Horror--Escape
+Relativity
+Dylan Dog: Dead of Night
+6--28
+Horror--Monster Force
+Independent
+Paranormal Activity 3
+68--58
+Horror--Monster Force
+Independent
+The Roommate
+4--29
+Horror--Monster Force
+Independent
+Vanishing on 7th Street
+52--62
+Horror--Monster Force
+Independent
+Don't Be Afraid Of The Dark
+59--37
+Horror--Monster Force
+Miramax                                                                                                       Films
+Final Destination 5
+61--56
+Horror--Monster Force
+New                                                                                                        Line                                                                                                        Cinema
+Super 8
+82--78
+Horror--Monster Force
+Paramount
+Insidious
+67--65
+Horror--Monster Force
+Sony
+The Thing
+36--52
+Horror--Monster Force
+Universal
+Red Riding Hood
+11--41
+Horror--Monster Force
+Warner                                                                                                            Bros
+The Rite
+20--43
+Horror--Monster Force
+Warner                                                                                                             Bros
+Apollo 18
+23--31
+Horror--Monster Force
+Weinstein                                                                                                              Company
+Scream 4
+58--57
+Horror--Monster Force
+Weinstein                                                                                                               Company
+Fright Night
+75--68
+Horror--Rivalry
+DreamWorks
+Dream House
+7--38
+Horror--The Riddle
+Morgan                                                                                                                 Creek                                                                                                                 Productions
+Just Go With It
+19--63
+Romance--Comedy
+Happy                                                                                                                  Madison
+Crazy, Stupid, Love
+78--81
+Romance--Discovery
+Warner                                                                                                                   Bros
+Monte Carlo
+38--50
+Romance--Love
+20th                                                                                                                    Century                                                                                                                    Fox
+One Day
+37--54
+Romance--Love
+Independent
+Something Borrowed
+.--.
+Romance--Love
+Independent
+Twilight: Breaking Dawn
+26--68
+Romance--Love
+Independent
+Waiting For Forever
+6--53
+Romance--Love
+Independent
+Midnight in Paris
+93--84
+Romance--Love
+Sony
+Jane Eyre
+85--77
+Romance--Love
+Universal
+Beastly
+19--50
+Romance--Metamorphosis
+CBS                                                                                                                           Films
+Friends With Benefits
+71--68
+Romance--Temptation
+Warner                                                                                                                            Bros
+The Son Of No One
+18--61
+Thriller--Discovery
+Independent
+Trespass
+11--24
+Thriller--Escape
+Independent
+I Am Number Four
+32--57
+Thriller--Maturation
+Paramount
+The Debt
+76--70
+Thriller--Pursuit
+Universal
+Drive
+93--79
+Thriller--Rivalry
+Independent
+Margin Call
+86--73
+Thriller--Sacrifice
+Independent
+The Adjustment Bureau
+72--67
+Thriller--Sacrifice
+Independent
+Unknown
+55--57
+Thriller--The Riddle
+Independent
+In Time
+38--55
+Thriller--The Riddle
+Regency                                                                                                                                     Enterprises
+Source Code
+92--81
+Thriller--The Riddle
+Summit                                                                                                                                      Entertainment
+Contagion
+84--63
+Thriller--The Riddle
+Warner                                                                                                                                       Bros
+The Ides of March
+85--76
+Thriller--Transformation
+Columbia
+Limitless
+69--73
+Thriller--Wretched Excess
+Virgin

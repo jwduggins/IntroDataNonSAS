@@ -1,0 +1,3764 @@
+This is a comma-delimited file constructed by integrating
+records from multiple sources. The variables are:
+Protraction, Region, Gas, Oil, Date
+
+Bay Marchand Area,CENTRAL140339,"93,830",1996-01-01
+Bay Marchand Area,CENTRAL105069,"86,595",1996-02-01
+Bay Marchand Area,Central99941,"92,827",1996-03-01
+Bay Marchand Area,CENTRAL72398,"88,746",1996-04-01
+Bay Marchand Area,Central74693,"67,987",1996-05-01
+Bay Marchand Area,CENTRAL74251,"101,688",1996-06-01
+Bay Marchand Area,CENTRAL98990,"106,530",1996-07-01
+   Bay  Marchand  Area,Central120124,"106,590",1996-08-01
+Bay Marchand Area,Central148798,"96,968",1996-09-01
+Bay Marchand Area,CENTRAL108610,"76,220",1996-10-01
+Bay Marchand Area,Central139721,"85,545",1996-11-01
+Bay Marchand Area,Central124750,"91,355",1996-12-01
+Bay Marchand Area,CENTRAL78324,"74,969",1997-01-01
+Bay Marchand Area,CENTRAL36069,"58,508",1997-02-01
+Bay Marchand Area,Central43418,"63,57O",1997-03-01
+   Bay  Marchand  Area,CEntral
+Bay Marchand Area,CENTRAL117987,"50,733",1997-05-01
+Bay Marchand Area,Central104946,"53,950",1997-06-01
+   Bay  Marchand  Area,central,,,1997-07-01
+Bay Marchand Area,CENTRAL43055,"47,362",1997-08-01
+Bay Marchand Area,Central20530,"39,16O",1997-09-01
+Bay Marchand Area,CENTRAL25510,"40,027",1997-10-01
+Bay Marchand Area,Central37900,"41,182",1997-11-01
+   Bay  Marchand  Area,Central51936,"38,254",1997-12-01
+Bay Marchand Area,Central76440,"64,751",1998-01-01
+Bay Marchand Area,Central77503,"6O,823",1998-02-01
+   Bay  Marchand  Area,central62374,"54,374",1998-03-01
+   Bay  Marchand  Area,CEntral61829,"42,986"
+Bay Marchand Area,CENTRAL40561,"38,625",1998-05-01
+Bay Marchand Area,Central37932,"31,868",1998-06-01
+Bay Marchand Area,Central35628,"33,941",1998-07-01
+   Bay  Marchand  Area,central,,,1998-08-01
+   Bay  Marchand  Area,CEntral
+   Bay  Marchand  Area,central19222,"35,491",1998-10-01
+   Bay  Marchand  Area,central25463,"27,667",1998-11-01
+Bay Marchand Area,Central37502,"32,554",1998-12-01
+Bay Marchand Area,Central40001,"34,472",1999-01-01
+Bay Marchand Area,Central39789,"45,O6O",1999-02-01
+Bay Marchand Area,Central49519,"57,752",1999-03-01
+Bay Marchand Area,CENTRAL43965,"45,491",1999-04-01
+   Bay  Marchand  Area,CEntral
+   Bay  Marchand  Area,central42070,"31,599",1999-06-01
+   Bay  Marchand  Area,central48406,"30,937",1999-07-01
+   Bay  Marchand  Area,CEntral45104,"32,247"
+   Bay  Marchand  Area,Central37713,"32,468",1999-09-01
+   Bay  Marchand  Area,CEntral
+   Bay  Marchand  Area,central31656,"22,612",1999-11-01
+Bay Marchand Area,Central26026,"17,759",1999-12-01
+Bay Marchand Area,Central23776,"24,158",2000-01-01
+   Bay  Marchand  Area,Central19811,"19,291",2000-02-01
+Bay Marchand Area,CENTRAL11989,"16,093",2000-03-01
+   Bay  Marchand  Area,CEntral17020,"14,884"
+   Bay  Marchand  Area,central16372,"14,986",2000-05-01
+   Bay  Marchand  Area,CEntral
+Bay Marchand Area,Central15492,"25,402",2000-07-01
+Bay Marchand Area,Central21084,"27,673",2000-08-01
+Bay Marchand Area,Central14951,"18,7O8",2000-09-01
+Bay Marchand Area,Central14273,"18,274",2000-10-01
+   Bay  Marchand  Area,central22995,"15,878",2000-11-01
+   Bay  Marchand  Area,central,,,2000-12-01
+   Bay  Marchand  Area,central16075,"17,634",2001-01-01
+   Bay  Marchand  Area,central17673,"20,405",2001-02-01
+   Bay  Marchand  Area,CENTRAL23126,"21,705"
+Bay Marchand Area,Central21581,"16,735",2001-04-01
+Bay Marchand Area,Central21300,"17,2O5",2001-05-01
+   Bay  Marchand  Area,CENTRAL94585,"17,865"
+Bay Marchand Area,CENTRAL97477,"16,146",2001-07-01
+   Bay  Marchand  Area,central86839,"14,752",2001-08-01
+   Bay  Marchand  Area,central74627,"16,569",2001-09-01
+Bay Marchand Area,Central95606,"12,845",2001-10-01
+   Bay  Marchand  Area,central76069,"7,837",2001-11-01
+   Bay  Marchand  Area,CEntral
+   Bay  Marchand  Area,central63322,"9,788",2002-01-01
+   Bay  Marchand  Area,central31202,"9,892",2002-02-01
+Bay Marchand Area,CENTRAL69425,"10,228",2002-03-01
+   Bay  Marchand  Area,central50385,"15,757",2002-04-01
+   Bay  Marchand  Area,central45771,"28,627",2002-05-01
+   Bay  Marchand  Area,Central45249,"51,785",2002-06-01
+   Bay  Marchand  Area,central,,,2002-07-01
+Bay Marchand Area,CENTRAL35102,"46,686",2002-08-01
+   Bay  Marchand  Area,central25184,"44,118",2002-09-01
+Bay Marchand Area,CENTRAL21167,"51,838",2002-10-01
+Bay Marchand Area,CENTRAL53032,"50,689",2002-11-01
+Bay Marchand Area,Central71378,"44,732",2002-12-01
+   Bay  Marchand  Area,central26210,"27,331",2003-01-01
+Bay Marchand Area,Central46586,"31,115",2003-02-01
+Bay Marchand Area,CENTRAL51710,"48,197",2003-03-01
+   Bay  Marchand  Area,central36612,"43,527",2003-04-01
+Bay Marchand Area,CENTRAL32173,"42,057",2003-05-01
+Bay Marchand Area,Central22550,"40,321",2003-06-01
+   Bay  Marchand  Area,central22594,"35,812",2003-07-01
+   Bay  Marchand  Area,central27307,"25,712",2003-08-01
+   Bay  Marchand  Area,central17711,"21,255",2003-09-01
+Bay Marchand Area,CENTRAL17263,"21,934",2003-10-01
+   Bay  Marchand  Area,CENTRAL14031,"20,430"
+Bay Marchand Area,CENTRAL13156,"29,710",2003-12-01
+   Bay  Marchand  Area,central18499,"26,662",2004-01-01
+   Bay  Marchand  Area,central14850,"23,266",2004-02-01
+Bay Marchand Area,CENTRAL16864,"24,035",2004-03-01
+   Bay  Marchand  Area,CENTRAL117056,"15,773"
+Bay Marchand Area,Central109148,"11,181",2004-05-01
+Bay Marchand Area,Central89577,"16,997",2004-06-01
+Bay Marchand Area,Central56277,"28,37O",2004-07-01
+   Bay  Marchand  Area,central7553,"19,594",2004-08-01
+Bay Marchand Area,CENTRAL2818,"7,034",2004-09-01
+   Bay  Marchand  Area,Central4119,"11,771",2004-10-01
+Bay Marchand Area,Central6225,"15,511",2004-11-01
+   Bay  Marchand  Area,central,,,2004-12-01
+   Bay  Marchand  Area,Central2872,"6,748",2005-01-01
+   Bay  Marchand  Area,central,,,2005-02-01
+Bay Marchand Area,CENTRAL142419,"11,308",2005-03-01
+   Bay  Marchand  Area,central,,,2005-04-01
+Bay Marchand Area,Central104574,"12,133",2005-05-01
+Bay Marchand Area,Central146512,"16,O2O",2005-06-01
+   Bay  Marchand  Area,CEntral
+Bay Marchand Area,Central139924,"14,51O",2005-08-01
+   Bay  Marchand  Area,central,,,2005-09-01
+   Bay  Marchand  Area,CENTRAL1494,220
+   Bay  Marchand  Area,CEntral148,0
+Bay Marchand Area,Central8543,O,2005-12-01
+   Bay  Marchand  Area,central39761,621,2006-01-01
+Bay Marchand Area,Central6400,396,2006-02-01
+Breton Sound Area,CENTRAL320917,"78,063",1996-01-01
+   Breton  Sound  Area,CENTRAL311543,"60,793"
+Breton Sound Area,Central296003,"76,O6O",1996-03-01
+   Breton  Sound  Area,CEntral285629,"77,032"
+   Breton  Sound  Area,central,,,1996-05-01
+Breton Sound Area,Central227027,"46,928",1996-06-01
+   Breton  Sound  Area,central231605,"69,246",1996-07-01
+   Breton  Sound  Area,central,,,1996-08-01
+   Breton  Sound  Area,CEntral
+   Breton  Sound  Area,CEntral
+   Breton  Sound  Area,CEntral
+   Breton  Sound  Area,central203716,"78,378",1996-12-01
+   Breton  Sound  Area,central273331,"90,057",1997-01-01
+Breton Sound Area,CENTRAL291552,"87,843",1997-02-01
+Breton Sound Area,Central424720,"112,565",1997-03-01
+Breton Sound Area,CENTRAL876078,"136,049",1997-04-01
+   Breton  Sound  Area,central780622,"135,413",1997-05-01
+   Breton  Sound  Area,CEntral
+Breton Sound Area,CENTRAL478189,"116,764",1997-07-01
+   Breton  Sound  Area,CEntral
+Breton Sound Area,Central604698,"123,383",1997-09-01
+   Breton  Sound  Area,Central547361,"129,672",1997-10-01
+   Breton  Sound  Area,CEntral
+Breton Sound Area,Central448302,"116,577",1997-12-01
+   Breton  Sound  Area,central516430,"116,930",1998-01-01
+   Breton  Sound  Area,central,,,1998-02-01
+   Breton  Sound  Area,CEntral759456,"124,732"
+   Breton  Sound  Area,central563242,"97,798",1998-04-01
+Breton Sound Area,CENTRAL793068,"112,128",1998-05-01
+Breton Sound Area,CENTRAL817399,"116,462",1998-06-01
+Breton Sound Area,CENTRAL599967,"113,653",1998-07-01
+   Breton  Sound  Area,CENTRAL584817,"118,444"
+Breton Sound Area,Central355941,"59,438",1998-09-01
+Breton Sound Area,Central352389,"84,47O",1998-10-01
+   Breton  Sound  Area,CEntral
+   Breton  Sound  Area,central437796,"78,425",1998-12-01
+   Breton  Sound  Area,Central247313,"73,353",1999-01-01
+Breton Sound Area,CENTRAL328849,"74,673",1999-02-01
+   Breton  Sound  Area,CENTRAL381570,"79,478"
+   Breton  Sound  Area,central374185,"71,928",1999-04-01
+Breton Sound Area,Central411809,"66,665",1999-05-01
+   Breton  Sound  Area,CEntral
+   Breton  Sound  Area,CEntral
+Breton Sound Area,Central544096,"69,713",1999-08-01
+Breton Sound Area,Central503792,"7O,183",1999-09-01
+   Breton  Sound  Area,Central742502,"69,478",1999-10-01
+   Breton  Sound  Area,central785910,"62,765",1999-11-01
+   Breton  Sound  Area,Central738311,"59,285",1999-12-01
+Breton Sound Area,CENTRAL646154,"61,379",2000-01-01
+   Breton  Sound  Area,central658492,"50,879",2000-02-01
+Breton Sound Area,Central807644,"55,414",2000-03-01
+   Breton  Sound  Area,CENTRAL853350,"74,476"
+Breton Sound Area,Central833661,"93,893",2000-05-01
+   Breton  Sound  Area,Central659948,"75,892",2000-06-01
+   Breton  Sound  Area,Central654281,"76,517",2000-07-01
+   Breton  Sound  Area,central691419,"72,469",2000-08-01
+Breton Sound Area,CENTRAL653834,"61,619",2000-09-01
+Breton Sound Area,CENTRAL866352,"90,646",2000-10-01
+   Breton  Sound  Area,CENTRAL928566,"78,635"
+Breton Sound Area,Central952713,"75,O28",2000-12-01
+Breton Sound Area,Central898016,"85,043",2001-01-01
+Breton Sound Area,CENTRAL821698,"80,499",2001-02-01
+Breton Sound Area,Central890464,"8O,347",2001-03-01
+   Breton  Sound  Area,CEntral
+   Breton  Sound  Area,CEntral813493,"71,324"
+Breton Sound Area,Central745775,"69,503",2001-06-01
+Breton Sound Area,Central674152,"5O,6O5",2001-07-01
+Breton Sound Area,Central635318,"64,32O",2001-08-01
+Breton Sound Area,Central456369,"52,857",2001-09-01
+   Breton  Sound  Area,central,,,2001-10-01
+Breton Sound Area,Central408078,"43,137",2001-11-01
+Breton Sound Area,Central418237,"50,836",2001-12-01
+   Breton  Sound  Area,CEntral
+Breton Sound Area,Central443973,"43,9O7",2002-02-01
+Breton Sound Area,Central581166,"58,296",2002-03-01
+Breton Sound Area,Central743914,"62,289",2002-04-01
+Breton Sound Area,Central732395,"56,727",2002-05-01
+Breton Sound Area,Central693637,"56,961",2002-06-01
+Breton Sound Area,Central714849,"61,75O",2002-07-01
+Breton Sound Area,Central664614,"68,008",2002-08-01
+   Breton  Sound  Area,central583443,"67,373",2002-09-01
+   Breton  Sound  Area,CENTRAL544046,"82,355"
+   Breton  Sound  Area,CEntral
+   Breton  Sound  Area,central530009,"92,812",2002-12-01
+Breton Sound Area,CENTRAL565525,"87,230",2003-01-01
+   Breton  Sound  Area,CENTRAL479797,"69,696"
+Breton Sound Area,CENTRAL605247,"78,080",2003-03-01
+   Breton  Sound  Area,central543853,"71,007",2003-04-01
+   Breton  Sound  Area,central,,,2003-05-01
+Breton Sound Area,CENTRAL514615,"68,296",2003-06-01
+   Breton  Sound  Area,central,,,2003-07-01
+   Breton  Sound  Area,CENTRAL405290,"70,519"
+Breton Sound Area,CENTRAL339204,"58,792",2003-09-01
+   Breton  Sound  Area,Central409873,"68,954",2003-10-01
+Breton Sound Area,Central443545,"81,917",2003-11-01
+   Breton  Sound  Area,CENTRAL383096,"79,355"
+   Breton  Sound  Area,central,,,2004-01-01
+Breton Sound Area,Central481070,"69,149",2004-02-01
+   Breton  Sound  Area,CENTRAL689173,"94,920"
+Breton Sound Area,CENTRAL677425,"89,355",2004-04-01
+Breton Sound Area,Central600450,"96,799",2004-05-01
+   Breton  Sound  Area,central522900,"84,157",2004-06-01
+   Breton  Sound  Area,central,,,2004-07-01
+   Breton  Sound  Area,central,,,2004-08-01
+   Breton  Sound  Area,central699973,"55,363",2004-09-01
+   Breton  Sound  Area,central,,,2004-10-01
+   Breton  Sound  Area,CEntral1396865,"106,515"
+Breton Sound Area,Central972619,"95,329",2004-12-01
+   Breton  Sound  Area,central,,,2005-01-01
+Breton Sound Area,CENTRAL1043852,"96,292",2005-02-01
+   Breton  Sound  Area,central,,,2005-03-01
+Breton Sound Area,Central996434,"1O6,895",2005-04-01
+Breton Sound Area,CENTRAL1022720,"95,177",2005-05-01
+Breton Sound Area,Central970749,"87,327",2005-06-01
+   Breton  Sound  Area,central,,,2005-07-01
+Breton Sound Area,CENTRAL673847,"57,660",2005-08-01
+   Breton  Sound  Area,CENTRAL,.
+Breton Sound Area,Central,.,2005-10-01
+   Breton  Sound  Area,central103128,"38,536",2005-11-01
+   Breton  Sound  Area,CEntral151256,"62,563"
+Breton Sound Area,CENTRAL184632,"65,536",2006-01-01
+   Breton  Sound  Area,Central138790,"56,931",2006-02-01
+Breton Sound Area,CENTRAL15839,"5,827",2006-03-01
+Chandeleur Area,CENTRAL994942,64,1996-01-01
+Chandeleur Area,Central1060279,48,1996-02-01
+Chandeleur Area,Central1220226,83,1996-03-01
+   Chandeleur  Area,CEntral1160380,67
+   Chandeleur  Area,CEntral
+   Chandeleur  Area,central978640,61,1996-06-01
+   Chandeleur  Area,central932571,108,1996-07-01
+   Chandeleur  Area,CEntral
+   Chandeleur  Area,Central1075081,62,1996-09-01
+Chandeleur Area,CENTRAL772973,50,1996-10-01
+Chandeleur Area,Central734466,55,1996-11-01
+   Chandeleur  Area,CEntral
+Chandeleur Area,CENTRAL1686102,62,1997-01-01
+   Chandeleur  Area,CEntral
+   Chandeleur  Area,central,,,1997-03-01
+   Chandeleur  Area,central1525570,46,1997-04-01
+Chandeleur Area,CENTRAL1441697,60,1997-05-01
+   Chandeleur  Area,Central1382631,35,1997-06-01
+   Chandeleur  Area,central1092559,45,1997-07-01
+   Chandeleur  Area,central,,,1997-08-01
+Chandeleur Area,Central1229100,51,1997-09-01
+Chandeleur Area,Central1086606,34,1997-10-01
+Chandeleur Area,Central1178156,4O,1997-11-01
+   Chandeleur  Area,central,,,1997-12-01
+   Chandeleur  Area,central1171381,32,1998-01-01
+   Chandeleur  Area,central,,,1998-02-01
+Chandeleur Area,CENTRAL1028526,48,1998-03-01
+Chandeleur Area,CENTRAL1001576,27,1998-04-01
+   Chandeleur  Area,central943142,17,1998-05-01
+Chandeleur Area,Central918409,25,1998-06-01
+Chandeleur Area,Central841727,19,1998-07-01
+Chandeleur Area,Central811359,18,1998-08-01
+Chandeleur Area,Central499276,21,1998-09-01
+   Chandeleur  Area,Central664579,28,1998-10-01
+   Chandeleur  Area,Central683986,30,1998-11-01
+Chandeleur Area,CENTRAL682727,37,1998-12-01
+Chandeleur Area,Central599703,21,1999-01-01
+   Chandeleur  Area,CEntral526720,29
+   Chandeleur  Area,central,,,1999-03-01
+Chandeleur Area,Central480269,14,1999-04-01
+Chandeleur Area,Central477268,17,1999-05-01
+Chandeleur Area,Central454776,8,1999-06-01
+Chandeleur Area,Central375181,2,1999-07-01
+Chandeleur Area,Central447182,1,1999-08-01
+Chandeleur Area,Central414992,3,1999-09-01
+Chandeleur Area,CENTRAL388870,15,1999-10-01
+   Chandeleur  Area,central,,,1999-11-01
+   Chandeleur  Area,CEntral361908,15
+   Chandeleur  Area,CEntral342712,8
+   Chandeleur  Area,central322707,5,2000-02-01
+Chandeleur Area,Central331805,8,2000-03-01
+   Chandeleur  Area,central304013,45,2000-04-01
+   Chandeleur  Area,central,,,2000-05-01
+Chandeleur Area,Central313255,18,2000-06-01
+Chandeleur Area,CENTRAL320993,20,2000-07-01
+Chandeleur Area,Central318912,28,2000-08-01
+   Chandeleur  Area,central,,,2000-09-01
+Chandeleur Area,Central309396,5,2000-10-01
+Chandeleur Area,Central287993,19,2000-11-01
+Chandeleur Area,CENTRAL468674,35,2000-12-01
+   Chandeleur  Area,CEntral
+   Chandeleur  Area,CENTRAL457804,65
+Chandeleur Area,Central507018,72,2001-03-01
+Chandeleur Area,Central459829,21,2001-04-01
+Chandeleur Area,Central459286,65,2001-05-01
+   Chandeleur  Area,central407587,47,2001-06-01
+   Chandeleur  Area,central426617,35,2001-07-01
+Chandeleur Area,Central403023,39,2001-08-01
+   Chandeleur  Area,CEntral
+   Chandeleur  Area,central402413,40,2001-10-01
+Chandeleur Area,CENTRAL374209,49,2001-11-01
+   Chandeleur  Area,CEntral
+Chandeleur Area,Central493203,58,2002-01-01
+Chandeleur Area,CENTRAL397270,73,2002-02-01
+   Chandeleur  Area,CEntral414008,41
+   Chandeleur  Area,central419915,105,2002-04-01
+Chandeleur Area,Central368708,142,2002-05-01
+   Chandeleur  Area,central370579,90,2002-06-01
+Chandeleur Area,CENTRAL351434,71,2002-07-01
+   Chandeleur  Area,CEntral327321,73
+   Chandeleur  Area,central,,,2002-09-01
+   Chandeleur  Area,CEntral
+Chandeleur Area,Central268122,45,2002-11-01
+   Chandeleur  Area,central267260,40,2002-12-01
+   Chandeleur  Area,CEntral
+   Chandeleur  Area,central,,,2003-02-01
+Chandeleur Area,Central285044,8,2003-03-01
+   Chandeleur  Area,central242284,9,2003-04-01
+   Chandeleur  Area,central257806,9,2003-05-01
+Chandeleur Area,CENTRAL208463,13,2003-06-01
+Chandeleur Area,CENTRAL90102,2,2003-07-01
+   Chandeleur  Area,CENTRAL149015,7
+Chandeleur Area,Central186598,14,2003-09-01
+   Chandeleur  Area,Central137496,19,2003-10-01
+   Chandeleur  Area,CEntral
+Chandeleur Area,Central114440,6O,2003-12-01
+   Chandeleur  Area,central136562,14,2004-01-01
+Chandeleur Area,Central314518,16,2004-02-01
+   Chandeleur  Area,central434566,28,2004-03-01
+   Chandeleur  Area,Central427621,18,2004-04-01
+Chandeleur Area,CENTRAL453249,178,2004-05-01
+   Chandeleur  Area,CEntral
+   Chandeleur  Area,CEntral413413,27
+Chandeleur Area,Central579900,4O,2004-08-01
+Chandeleur Area,Central284504,4,2004-09-01
+Chandeleur Area,Central572530,12,2004-10-01
+   Chandeleur  Area,central490757,26,2004-11-01
+   Chandeleur  Area,Central313948,1,2004-12-01
+   Chandeleur  Area,central496393,0,2005-01-01
+Chandeleur Area,CENTRAL536806,0,2005-02-01
+Chandeleur Area,CENTRAL610556,0,2005-03-01
+Chandeleur Area,Central614375,O,2005-04-01
+Chandeleur Area,Central573255,O,2005-05-01
+   Chandeleur  Area,central568989,0,2005-06-01
+   Chandeleur  Area,CENTRAL491462,0
+Chandeleur Area,Central457477,O,2005-08-01
+Chandeleur Area,Central107756,0,2005-09-01
+Chandeleur Area,CENTRAL396642,0,2005-10-01
+   Chandeleur  Area,CEntral271143,0
+Chandeleur Area,Central265053,O,2005-12-01
+Chandeleur Area,Central196399,O,2006-01-01
+   Chandeleur  Area,Central169128,0,2006-02-01
+   Chandeleur  Area,central191359,0,2006-03-01
+East Cameron Area,Central21063143,"828,811",1996-01-01
+East Cameron Area,CENTRAL20497105,"810,653",1996-02-01
+East Cameron Area,Central22801299,"852,514",1996-03-01
+   East  Cameron  Area,CEntral21782632,"764,091"
+East Cameron Area,Central22332622,"8OO,182",1996-05-01
+East Cameron Area,Central22838613,"720,979",1996-06-01
+   East  Cameron  Area,central,,,1996-07-01
+East Cameron Area,Central22730121,"787,608",1996-08-01
+   East  Cameron  Area,CENTRAL21760581,"743,544"
+East Cameron Area,CENTRAL21469025,"761,526",1996-10-01
+   East  Cameron  Area,central,,,1996-11-01
+   East  Cameron  Area,central,,,1996-12-01
+   East  Cameron  Area,CEntral
+   East  Cameron  Area,central19700965,"646,601",1997-02-01
+East Cameron Area,Central22264871,"685,469",1997-03-01
+   East  Cameron  Area,CEntral
+   East  Cameron  Area,CEntral
+East Cameron Area,CENTRAL25718512,"835,550",1997-06-01
+East Cameron Area,CENTRAL26367176,"906,825",1997-07-01
+East Cameron Area,Central25524941,"942,4O6",1997-08-01
+East Cameron Area,CENTRAL22346511,"850,159",1997-09-01
+East Cameron Area,Central22632132,"868,487",1997-10-01
+   East  Cameron  Area,central,,,1997-11-01
+East Cameron Area,Central23121170,"799,735",1997-12-01
+   East  Cameron  Area,central22583695,"749,426",1998-01-01
+East Cameron Area,Central20967643,"665,242",1998-02-01
+East Cameron Area,Central22846279,"827,234",1998-03-01
+East Cameron Area,CENTRAL22589299,"817,452",1998-04-01
+   East  Cameron  Area,CENTRAL23407904,"863,901"
+   East  Cameron  Area,CEntral
+   East  Cameron  Area,Central25440431,"892,621",1998-07-01
+   East  Cameron  Area,CENTRAL25567667,"818,465"
+   East  Cameron  Area,CEntral
+   East  Cameron  Area,central23444058,"800,575",1998-10-01
+   East  Cameron  Area,central,,,1998-11-01
+   East  Cameron  Area,CEntral21861847,"831,203"
+East Cameron Area,Central22418402,"812,253",1999-01-01
+East Cameron Area,CENTRAL20210798,"685,754",1999-02-01
+East Cameron Area,CENTRAL22000178,"736,933",1999-03-01
+   East  Cameron  Area,CEntral20490512,"682,599"
+   East  Cameron  Area,central20056096,"665,200",1999-05-01
+   East  Cameron  Area,CEntral
+East Cameron Area,CENTRAL19828730,"701,833",1999-07-01
+East Cameron Area,CENTRAL19112077,"651,457",1999-08-01
+   East  Cameron  Area,central17427830,"626,190",1999-09-01
+East Cameron Area,CENTRAL17155770,"655,337",1999-10-01
+East Cameron Area,CENTRAL16918462,"602,346",1999-11-01
+East Cameron Area,CENTRAL18250418,"623,797",1999-12-01
+East Cameron Area,CENTRAL18745729,"589,068",2000-01-01
+East Cameron Area,Central17843683,"559,346",2000-02-01
+East Cameron Area,Central19925602,"61O,44O",2000-03-01
+   East  Cameron  Area,central19858700,"557,977",2000-04-01
+   East  Cameron  Area,central19802185,"510,966",2000-05-01
+East Cameron Area,Central20055767,"552,667",2000-06-01
+East Cameron Area,Central20616910,"56O,739",2000-07-01
+East Cameron Area,Central20310826,"572,772",2000-08-01
+East Cameron Area,CENTRAL18963621,"538,378",2000-09-01
+East Cameron Area,Central18428648,"534,934",2000-10-01
+   East  Cameron  Area,central16853299,"482,069",2000-11-01
+East Cameron Area,CENTRAL17235474,"496,318",2000-12-01
+   East  Cameron  Area,CEntral
+   East  Cameron  Area,central16315068,"427,517",2001-02-01
+   East  Cameron  Area,CEntral17235751,"469,249"
+   East  Cameron  Area,central16819911,"460,934",2001-04-01
+   East  Cameron  Area,Central16960967,"510,137",2001-05-01
+East Cameron Area,Central14962262,"391,239",2001-06-01
+East Cameron Area,CENTRAL14935343,"457,174",2001-07-01
+East Cameron Area,CENTRAL15345842,"462,736",2001-08-01
+   East  Cameron  Area,central15276453,"471,576",2001-09-01
+East Cameron Area,CENTRAL14611587,"485,857",2001-10-01
+   East  Cameron  Area,central13803502,"433,278",2001-11-01
+   East  Cameron  Area,central13167117,"404,259",2001-12-01
+   East  Cameron  Area,central,,,2002-01-01
+East Cameron Area,Central13206919,"43O,1O6",2002-02-01
+   East  Cameron  Area,central14983877,"448,078",2002-03-01
+East Cameron Area,Central15963315,"5O8,993",2002-04-01
+East Cameron Area,Central17740692,"548,8O8",2002-05-01
+East Cameron Area,Central16951337,"545,325",2002-06-01
+East Cameron Area,Central16592787,"507,786",2002-07-01
+East Cameron Area,Central15102140,"496,329",2002-08-01
+East Cameron Area,Central13399695,"371,809",2002-09-01
+   East  Cameron  Area,CENTRAL12452054,"353,866"
+   East  Cameron  Area,CENTRAL14154848,"449,142"
+East Cameron Area,Central13610886,"410,499",2002-12-01
+East Cameron Area,Central12757029,"406,364",2003-01-01
+East Cameron Area,Central11985547,"379,334",2003-02-01
+East Cameron Area,CENTRAL14436458,"428,222",2003-03-01
+   East  Cameron  Area,Central13734571,"403,878",2003-04-01
+East Cameron Area,CENTRAL14699212,"428,693",2003-05-01
+   East  Cameron  Area,Central13658699,"417,376",2003-06-01
+East Cameron Area,CENTRAL13117073,"357,067",2003-07-01
+East Cameron Area,CENTRAL14217505,"408,609",2003-08-01
+East Cameron Area,Central13623467,"380,458",2003-09-01
+East Cameron Area,Central13948190,"4O3,698",2003-10-01
+   East  Cameron  Area,CENTRAL12626846,"378,661"
+   East  Cameron  Area,CENTRAL12354344,"381,786"
+East Cameron Area,CENTRAL11637690,"391,435",2004-01-01
+East Cameron Area,Central11003658,"35O,O36",2004-02-01
+   East  Cameron  Area,CEntral
+East Cameron Area,Central13026825,"413,337",2004-04-01
+East Cameron Area,CENTRAL13701844,"419,500",2004-05-01
+East Cameron Area,Central12640641,"379,673",2004-06-01
+   East  Cameron  Area,central13676559,"413,072",2004-07-01
+   East  Cameron  Area,CEntral
+East Cameron Area,Central11344602,"317,892",2004-09-01
+   East  Cameron  Area,central,,,2004-10-01
+East Cameron Area,Central10904647,"391,O95",2004-11-01
+   East  Cameron  Area,central11271527,"404,250",2004-12-01
+East Cameron Area,Central10865383,"371,755",2005-01-01
+East Cameron Area,Central9077414,"3O7,251",2005-02-01
+East Cameron Area,Central10393910,"5O3,7O3",2005-03-01
+   East  Cameron  Area,CEntral10619896,"479,792"
+East Cameron Area,Central10523916,"433,089",2005-05-01
+East Cameron Area,CENTRAL10329118,"449,331",2005-06-01
+   East  Cameron  Area,CEntral9681987,"364,382"
+East Cameron Area,Central9015259,"3O8,OO7",2005-08-01
+East Cameron Area,Central5863040,"176,225",2005-09-01
+   East  Cameron  Area,CEntral
+East Cameron Area,CENTRAL2624209,"40,967",2005-11-01
+   East  Cameron  Area,central3814248,"27,908",2005-12-01
+East Cameron Area,Central4636069,"88,28O",2006-01-01
+East Cameron Area,CENTRAL4274452,"103,395",2006-02-01
+   East  Cameron  Area,CEntral
+   Eugene  Island  Area,central44532737,"3,776,478",1996-01-01
+   Eugene  Island  Area,central,,,1996-02-01
+   Eugene  Island  Area,CEntral
+   Eugene  Island  Area,CEntral
+Eugene Island Area,CENTRAL43396226,"3,697,131",1996-05-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,Central42232447,"3,614,494",1996-07-01
+   Eugene  Island  Area,CENTRAL43581070,"3,533,325"
+   Eugene  Island  Area,central42140512,"3,425,087",1996-09-01
+   Eugene  Island  Area,central,,,1996-10-01
+   Eugene  Island  Area,CEntral
+   Eugene  Island  Area,CEntral46357921,"3,801,031"
+Eugene Island Area,CENTRAL45834839,"3,739,071",1997-01-01
+   Eugene  Island  Area,Central39925553,"3,343,200",1997-02-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,CENTRAL41151742,"3,390,364",1997-04-01
+   Eugene  Island  Area,central,,,1997-05-01
+Eugene Island Area,Central39510806,"3,408,193",1997-06-01
+Eugene Island Area,Central40268722,"3,357,4O2",1997-07-01
+Eugene Island Area,CENTRAL41079631,"3,631,972",1997-08-01
+Eugene Island Area,Central42067559,"3,744,O61",1997-09-01
+Eugene Island Area,CENTRAL41709004,"3,755,879",1997-10-01
+Eugene Island Area,CENTRAL41956178,"3,656,119",1997-11-01
+   Eugene  Island  Area,CEntral
+   Eugene  Island  Area,central,,,1998-01-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,CENTRAL44944692,"3,961,371",1998-03-01
+   Eugene  Island  Area,CEntral
+   Eugene  Island  Area,central,,,1998-05-01
+   Eugene  Island  Area,central,,,1998-06-01
+   Eugene  Island  Area,CENTRAL41833637,"3,681,515"
+   Eugene  Island  Area,CEntral
+   Eugene  Island  Area,central,,,1998-09-01
+Eugene Island Area,CENTRAL42412458,"3,587,323",1998-10-01
+   Eugene  Island  Area,central,,,1998-11-01
+   Eugene  Island  Area,CENTRAL38984592,"3,306,092"
+Eugene Island Area,Central39022556,"3,260,857",1999-01-01
+   Eugene  Island  Area,CEntral35626120,"2,915,037"
+Eugene Island Area,Central37925313,"3,239,614",1999-03-01
+Eugene Island Area,CENTRAL36578822,"3,047,125",1999-04-01
+Eugene Island Area,Central38218783,"3,063,333",1999-05-01
+Eugene Island Area,CENTRAL35663099,"2,929,738",1999-06-01
+Eugene Island Area,Central36158482,"3,091,201",1999-07-01
+Eugene Island Area,Central35703105,"2,977,O33",1999-08-01
+Eugene Island Area,Central34561014,"2,869,612",1999-09-01
+   Eugene  Island  Area,central35677605,"3,094,714",1999-10-01
+   Eugene  Island  Area,central,,,1999-11-01
+   Eugene  Island  Area,Central33383460,"3,094,178",1999-12-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,CENTRAL30925116,"2,969,634",2000-02-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,Central31102040,"3,OO1,394",2000-04-01
+Eugene Island Area,CENTRAL32358029,"3,001,361",2000-05-01
+Eugene Island Area,Central32141802,"2,862,482",2000-06-01
+   Eugene  Island  Area,Central34528667,"2,898,433",2000-07-01
+   Eugene  Island  Area,central,,,2000-08-01
+Eugene Island Area,CENTRAL33414176,"2,656,563",2000-09-01
+Eugene Island Area,CENTRAL34465613,"2,739,255",2000-10-01
+Eugene Island Area,Central31962194,"2,521,31O",2000-11-01
+   Eugene  Island  Area,CENTRAL35264056,"2,622,872"
+   Eugene  Island  Area,central38556366,"2,964,605",2001-01-01
+   Eugene  Island  Area,central36301567,"2,923,354",2001-02-01
+   Eugene  Island  Area,CEntral
+   Eugene  Island  Area,central39835849,"3,313,272",2001-04-01
+Eugene Island Area,Central39574935,"3,292,710",2001-05-01
+   Eugene  Island  Area,CEntral37575476,"3,063,887"
+Eugene Island Area,Central38001095,"3,O3O,217",2001-07-01
+   Eugene  Island  Area,central,,,2001-08-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,CENTRAL35574202,"2,927,452",2001-10-01
+   Eugene  Island  Area,central32952831,"2,696,092",2001-11-01
+   Eugene  Island  Area,CEntral
+   Eugene  Island  Area,CEntral
+   Eugene  Island  Area,central27233392,"2,501,145",2002-02-01
+Eugene Island Area,CENTRAL30700516,"2,793,470",2002-03-01
+Eugene Island Area,CENTRAL29576880,"2,745,365",2002-04-01
+   Eugene  Island  Area,central,,,2002-05-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,CENTRAL29034467,"2,708,459",2002-07-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,CENTRAL26139391,"2,440,483",2002-09-01
+   Eugene  Island  Area,central,,,2002-10-01
+   Eugene  Island  Area,CEntral21015302,"1,757,695"
+Eugene Island Area,Central25538923,"2,383,546",2002-12-01
+   Eugene  Island  Area,central26413122,"2,506,625",2003-01-01
+Eugene Island Area,Central25180318,"2,333,752",2003-02-01
+   Eugene  Island  Area,central28413252,"2,506,538",2003-03-01
+   Eugene  Island  Area,CEntral28513024,"2,621,035"
+   Eugene  Island  Area,CEntral
+Eugene Island Area,CENTRAL28784207,"2,480,652",2003-06-01
+   Eugene  Island  Area,CEntral
+   Eugene  Island  Area,central,,,2003-08-01
+Eugene Island Area,CENTRAL28694745,"2,559,768",2003-09-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,CENTRAL26543438,"2,255,596",2003-11-01
+   Eugene  Island  Area,central26838957,"2,376,206",2003-12-01
+   Eugene  Island  Area,CENTRAL25064820,"2,255,702"
+   Eugene  Island  Area,central,,,2004-02-01
+Eugene Island Area,CENTRAL24780114,"2,294,042",2004-03-01
+   Eugene  Island  Area,CEntral
+   Eugene  Island  Area,central,,,2004-05-01
+   Eugene  Island  Area,central23624635,"2,016,661",2004-06-01
+   Eugene  Island  Area,CEntral23627160,"2,062,903"
+   Eugene  Island  Area,central23310714,"2,114,819",2004-08-01
+Eugene Island Area,Central19327958,"1,759,206",2004-09-01
+   Eugene  Island  Area,central21862732,"2,022,296",2004-10-01
+   Eugene  Island  Area,central19934421,"1,908,079",2004-11-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,Central20672496,"1,945,618",2005-01-01
+Eugene Island Area,Central18482241,"1,766,8O4",2005-02-01
+Eugene Island Area,Central22911817,"1,953,115",2005-03-01
+Eugene Island Area,CENTRAL22369375,"1,895,445",2005-04-01
+   Eugene  Island  Area,Central22712414,"2,027,517",2005-05-01
+Eugene Island Area,CENTRAL20634415,"1,911,571",2005-06-01
+Eugene Island Area,CENTRAL19275289,"1,844,635",2005-07-01
+Eugene Island Area,CENTRAL19148477,"1,706,712",2005-08-01
+   Eugene  Island  Area,central13232143,"1,205,242",2005-09-01
+Eugene Island Area,CENTRAL8150953,"433,808",2005-10-01
+Eugene Island Area,Central11367908,"64O,78O",2005-11-01
+Eugene Island Area,Central14220963,"9O9,731",2005-12-01
+Eugene Island Area,Central13015732,"995,929",2006-01-01
+   Eugene  Island  Area,CEntral
+Eugene Island Area,CENTRAL10665016,"968,794",2006-03-01
+   Ewing  Bank,central,,,1996-01-01
+   Ewing  Bank,CEntral
+   Ewing  Bank,central3245131,"1,829,242",1996-03-01
+Ewing Bank,CENTRAL3136059,"1,685,271",1996-04-01
+Ewing Bank,CENTRAL3099996,"1,733,791",1996-05-01
+Ewing Bank,CENTRAL3151336,"1,686,749",1996-06-01
+   Ewing  Bank,CEntral3157646,"1,613,510"
+   Ewing  Bank,central,,,1996-08-01
+   Ewing  Bank,central,,,1996-09-01
+   Ewing  Bank,CEntral
+   Ewing  Bank,central,,,1996-11-01
+Ewing Bank,CENTRAL3110212,"1,369,634",1996-12-01
+   Ewing  Bank,central3944381,"1,401,386",1997-01-01
+   Ewing  Bank,central3942117,"1,484,260",1997-02-01
+Ewing Bank,Central4288704,"1,798,118",1997-03-01
+Ewing Bank,Central4035842,"1,716,789",1997-04-01
+   Ewing  Bank,Central3551499,"1,530,405",1997-05-01
+Ewing Bank,Central3389384,"1,666,163",1997-06-01
+Ewing Bank,CENTRAL3369729,"1,724,900",1997-07-01
+   Ewing  Bank,central3821409,"1,730,795",1997-08-01
+Ewing Bank,Central4087430,"2,O11,O62",1997-09-01
+   Ewing  Bank,central4105234,"2,115,400",1997-10-01
+Ewing Bank,CENTRAL3885920,"1,925,299",1997-11-01
+   Ewing  Bank,central3392515,"1,585,179",1997-12-01
+Ewing Bank,Central3597667,"2,O24,877",1998-01-01
+   Ewing  Bank,central3012968,"1,609,225",1998-02-01
+Ewing Bank,Central3267939,"1,770,248",1998-03-01
+   Ewing  Bank,CEntral3591378,"2,311,525"
+Ewing Bank,Central3823309,"2,5O6,934",1998-05-01
+Ewing Bank,Central3603345,"2,442,161",1998-06-01
+Ewing Bank,CENTRAL4069695,"3,016,576",1998-07-01
+   Ewing  Bank,central3940412,"2,744,081",1998-08-01
+Ewing Bank,Central2985436,"1,613,128",1998-09-01
+   Ewing  Bank,central,,,1998-10-01
+   Ewing  Bank,CEntral
+   Ewing  Bank,Central4348471,"3,061,703",1998-12-01
+   Ewing  Bank,central4735855,"3,411,322",1999-01-01
+   Ewing  Bank,CENTRAL4351706,"3,087,632"
+Ewing Bank,Central4469242,"3,077,530",1999-03-01
+Ewing Bank,Central4719572,"3,4O5,118",1999-04-01
+   Ewing  Bank,CEntral5051381,"3,738,210"
+   Ewing  Bank,CEntral
+   Ewing  Bank,CEntral
+Ewing Bank,Central5761067,"2,852,296",1999-08-01
+Ewing Bank,Central6612205,"3,462,824",1999-09-01
+   Ewing  Bank,central7588524,"3,618,461",1999-10-01
+   Ewing  Bank,CEntral6554877,"3,386,218"
+   Ewing  Bank,central,,,1999-12-01
+Ewing Bank,Central4617027,"2,49O,228",2000-01-01
+   Ewing  Bank,central3849373,"1,961,219",2000-02-01
+Ewing Bank,Central4356364,"2,688,88O",2000-03-01
+   Ewing  Bank,central5089658,"2,818,219",2000-04-01
+Ewing Bank,CENTRAL4990532,"2,798,944",2000-05-01
+   Ewing  Bank,CEntral4898707,"2,633,786"
+Ewing Bank,Central5300009,"2,656,488",2000-07-01
+   Ewing  Bank,central4556981,"2,470,652",2000-08-01
+Ewing Bank,Central4319011,"2,12O,586",2000-09-01
+   Ewing  Bank,central,,,2000-10-01
+   Ewing  Bank,Central3353108,"2,222,995",2000-11-01
+Ewing Bank,Central3401700,"2,253,619",2000-12-01
+Ewing Bank,CENTRAL3465101,"2,141,873",2001-01-01
+   Ewing  Bank,central,,,2001-02-01
+   Ewing  Bank,central,,,2001-03-01
+Ewing Bank,Central3016892,"2,OO3,682",2001-04-01
+Ewing Bank,Central3010124,"2,O71,872",2001-05-01
+Ewing Bank,CENTRAL2847984,"1,918,844",2001-06-01
+Ewing Bank,Central2852055,"1,953,218",2001-07-01
+Ewing Bank,CENTRAL2815720,"1,679,550",2001-08-01
+   Ewing  Bank,central,,,2001-09-01
+   Ewing  Bank,central3645333,"2,031,195",2001-10-01
+Ewing Bank,Central3600987,"1,9O5,771",2001-11-01
+   Ewing  Bank,Central3732368,"1,972,842",2001-12-01
+   Ewing  Bank,central3031423,"1,845,749",2002-01-01
+   Ewing  Bank,central,,,2002-02-01
+   Ewing  Bank,central2953645,"1,994,705",2002-03-01
+Ewing Bank,Central2934313,"1,878,843",2002-04-01
+   Ewing  Bank,central,,,2002-05-01
+Ewing Bank,CENTRAL2705229,"1,758,431",2002-06-01
+   Ewing  Bank,CEntral
+Ewing Bank,Central2733199,"1,752,727",2002-08-01
+   Ewing  Bank,CEntral
+   Ewing  Bank,Central1934021,"1,502,712",2002-10-01
+Ewing Bank,Central2430606,"1,7O5,363",2002-11-01
+   Ewing  Bank,central2244234,"1,631,266",2002-12-01
+   Ewing  Bank,central2335321,"1,621,682",2003-01-01
+Ewing Bank,CENTRAL2077070,"1,425,601",2003-02-01
+   Ewing  Bank,CENTRAL2247944,"1,557,467"
+   Ewing  Bank,CEntral
+Ewing Bank,Central1935275,"1,422,O74",2003-05-01
+   Ewing  Bank,central1657695,"1,391,389",2003-06-01
+   Ewing  Bank,central,,,2003-07-01
+Ewing Bank,CENTRAL1665644,"1,446,582",2003-08-01
+   Ewing  Bank,CEntral
+Ewing Bank,Central1757482,"1,321,146",2003-10-01
+Ewing Bank,Central2060021,"1,337,559",2003-11-01
+Ewing Bank,Central2020509,"1,333,37O",2003-12-01
+   Ewing  Bank,central1913883,"1,317,460",2004-01-01
+   Ewing  Bank,CENTRAL1789703,"1,219,633"
+Ewing Bank,Central2054724,"1,252,853",2004-03-01
+Ewing Bank,Central1776595,"1,173,799",2004-04-01
+Ewing Bank,Central1770916,"1,200,536",2004-05-01
+   Ewing  Bank,central,,,2004-06-01
+Ewing Bank,CENTRAL1594379,"1,172,704",2004-07-01
+   Ewing  Bank,central,,,2004-08-01
+Ewing Bank,Central1194997,"989,977",2004-09-01
+Ewing Bank,CENTRAL1388704,"1,121,588",2004-10-01
+   Ewing  Bank,Central1613517,"1,024,809",2004-11-01
+Ewing Bank,Central2108477,"1,1OO,422",2004-12-01
+   Ewing  Bank,CEntral
+Ewing Bank,Central2189257,"928,432",2005-02-01
+   Ewing  Bank,central2510072,"997,846",2005-03-01
+   Ewing  Bank,central2252270,"974,036",2005-04-01
+   Ewing  Bank,CENTRAL2073704,"1,004,990"
+   Ewing  Bank,CEntral
+Ewing Bank,CENTRAL1845299,"883,183",2005-07-01
+Ewing Bank,CENTRAL1744860,"814,746",2005-08-01
+Ewing Bank,CENTRAL737991,"450,488",2005-09-01
+Ewing Bank,Central1573282,"854,517",2005-10-01
+Ewing Bank,CENTRAL1797798,"898,246",2005-11-01
+   Ewing  Bank,central1899741,"899,476",2005-12-01
+Ewing Bank,CENTRAL1569383,"783,264",2006-01-01
+Ewing Bank,CENTRAL1384130,"712,854",2006-02-01
+Ewing Bank,CENTRAL1404764,"778,221",2006-03-01
+   Grand  Isle  Area,Central7732231,"1,070,099",1996-01-01
+   Grand  Isle  Area,central6878428,"894,566",1996-02-01
+Grand Isle Area,Central7054815,"9O5,721",1996-03-01
+   Grand  Isle  Area,CENTRAL6790005,"921,846"
+   Grand  Isle  Area,central,,,1996-05-01
+Grand Isle Area,Central6025336,"791,752",1996-06-01
+   Grand  Isle  Area,central,,,1996-07-01
+Grand Isle Area,CENTRAL6459889,"873,360",1996-08-01
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,central8854216,"1,055,758",1996-11-01
+   Grand  Isle  Area,central9065058,"1,065,790",1996-12-01
+Grand Isle Area,CENTRAL9206106,"1,084,152",1997-01-01
+   Grand  Isle  Area,central8723606,"990,923",1997-02-01
+   Grand  Isle  Area,Central8736345,"1,077,062",1997-03-01
+   Grand  Isle  Area,central8617988,"1,029,109",1997-04-01
+Grand Isle Area,CENTRAL8014650,"1,050,654",1997-05-01
+   Grand  Isle  Area,central,,,1997-06-01
+   Grand  Isle  Area,central7229386,"955,038",1997-07-01
+   Grand  Isle  Area,central6725321,"869,096",1997-08-01
+   Grand  Isle  Area,central7361906,"920,541",1997-09-01
+   Grand  Isle  Area,central7981286,"982,168",1997-10-01
+Grand Isle Area,Central8337478,"1,006,171",1997-11-01
+Grand Isle Area,Central8411462,"982,030",1997-12-01
+Grand Isle Area,CENTRAL7680903,"881,602",1998-01-01
+   Grand  Isle  Area,central6682256,"725,827",1998-02-01
+   Grand  Isle  Area,Central8100957,"850,953",1998-03-01
+   Grand  Isle  Area,Central8406449,"843,218",1998-04-01
+Grand Isle Area,Central8276616,"858,523",1998-05-01
+   Grand  Isle  Area,CEntral7360714,"739,578"
+Grand Isle Area,CENTRAL7743139,"747,966",1998-07-01
+Grand Isle Area,Central7246221,"794,188",1998-08-01
+Grand Isle Area,Central6318774,"649,57O",1998-09-01
+Grand Isle Area,CENTRAL7489600,"816,424",1998-10-01
+Grand Isle Area,Central6546020,"726,633",1998-11-01
+Grand Isle Area,Central6910473,"667,721",1998-12-01
+Grand Isle Area,Central7142488,"728,4O9",1999-01-01
+Grand Isle Area,CENTRAL7077181,"721,395",1999-02-01
+   Grand  Isle  Area,CEntral7673410,"760,897"
+   Grand  Isle  Area,CENTRAL7712949,"714,211"
+   Grand  Isle  Area,CEntral
+Grand Isle Area,CENTRAL7307625,"680,214",1999-06-01
+Grand Isle Area,Central6998298,"685,242",1999-07-01
+   Grand  Isle  Area,CENTRAL6487438,"673,707"
+   Grand  Isle  Area,central5553616,"603,233",1999-09-01
+   Grand  Isle  Area,CEntral
+Grand Isle Area,CENTRAL5933599,"611,111",1999-11-01
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,central,,,2000-01-01
+   Grand  Isle  Area,CENTRAL7057252,"613,414"
+Grand Isle Area,Central7150592,"628,768",2000-03-01
+Grand Isle Area,CENTRAL6891812,"550,450",2000-04-01
+   Grand  Isle  Area,CENTRAL6882357,"558,045"
+   Grand  Isle  Area,central5767037,"547,216",2000-06-01
+Grand Isle Area,Central5662121,"558,543",2000-07-01
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,Central6289922,"560,539",2000-09-01
+   Grand  Isle  Area,central6717005,"551,253",2000-10-01
+   Grand  Isle  Area,central6099765,"421,258",2000-11-01
+Grand Isle Area,Central7280633,"55O,493",2000-12-01
+   Grand  Isle  Area,central7154314,"599,998",2001-01-01
+   Grand  Isle  Area,CENTRAL6968685,"604,868"
+   Grand  Isle  Area,central,,,2001-03-01
+Grand Isle Area,CENTRAL9580970,"798,033",2001-04-01
+   Grand  Isle  Area,Central11852624,"919,415",2001-05-01
+Grand Isle Area,Central12971542,"974,771",2001-06-01
+Grand Isle Area,CENTRAL13060598,"950,088",2001-07-01
+   Grand  Isle  Area,central13315834,"1,038,221",2001-08-01
+   Grand  Isle  Area,central12687435,"1,045,895",2001-09-01
+   Grand  Isle  Area,CENTRAL12640887,"1,077,107"
+Grand Isle Area,Central10509080,"97O,548",2001-11-01
+Grand Isle Area,Central11360284,"96O,O53",2001-12-01
+Grand Isle Area,Central10769694,"9OO,267",2002-01-01
+Grand Isle Area,Central9141202,"797,351",2002-02-01
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,central10492424,"925,946",2002-04-01
+Grand Isle Area,Central9695182,"889,194",2002-05-01
+Grand Isle Area,CENTRAL10143959,"867,435",2002-06-01
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,central,,,2002-08-01
+   Grand  Isle  Area,central6275607,"674,549",2002-09-01
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,central6160949,"621,454",2002-11-01
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,CEntral
+Grand Isle Area,CENTRAL6890131,"745,756",2003-04-01
+   Grand  Isle  Area,CEntral
+Grand Isle Area,CENTRAL8003076,"747,667",2003-06-01
+Grand Isle Area,CENTRAL8657916,"765,691",2003-07-01
+Grand Isle Area,CENTRAL7922219,"734,205",2003-08-01
+   Grand  Isle  Area,central,,,2003-09-01
+   Grand  Isle  Area,CENTRAL6679877,"670,769"
+Grand Isle Area,CENTRAL5846200,"622,052",2003-11-01
+Grand Isle Area,CENTRAL5293090,"581,974",2003-12-01
+Grand Isle Area,Central4943505,"548,437",2004-01-01
+Grand Isle Area,Central4300304,"492,OO4",2004-02-01
+   Grand  Isle  Area,CEntral4707131,"552,047"
+Grand Isle Area,Central4858457,"594,256",2004-04-01
+Grand Isle Area,CENTRAL4802138,"622,393",2004-05-01
+Grand Isle Area,CENTRAL4301460,"604,633",2004-06-01
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,CEntral3755790,"520,484"
+   Grand  Isle  Area,Central2397304,"341,898",2004-09-01
+   Grand  Isle  Area,central2827623,"432,231",2004-10-01
+   Grand  Isle  Area,central2937417,"477,408",2004-11-01
+   Grand  Isle  Area,central2974147,"469,608",2004-12-01
+Grand Isle Area,CENTRAL3134984,"478,966",2005-01-01
+Grand Isle Area,CENTRAL3124232,"454,682",2005-02-01
+   Grand  Isle  Area,central,,,2005-03-01
+Grand Isle Area,Central3439727,"488,695",2005-04-01
+Grand Isle Area,Central3063495,"5O8,392",2005-05-01
+Grand Isle Area,Central2702276,"391,366",2005-06-01
+   Grand  Isle  Area,central2756932,"448,061",2005-07-01
+   Grand  Isle  Area,central3050514,"446,009",2005-08-01
+   Grand  Isle  Area,central459015,"16,311",2005-09-01
+   Grand  Isle  Area,CEntral
+   Grand  Isle  Area,central1366925,"141,278",2005-11-01
+Grand Isle Area,Central1243837,"165,261",2005-12-01
+Grand Isle Area,Central1387623,"196,009",2006-01-01
+   Grand  Isle  Area,central,,,2006-02-01
+   Grand  Isle  Area,central,,,2006-03-01
+   Green  Canyon,central7428087,"1,633,872",1996-01-01
+   Green  Canyon,CEntral
+   Green  Canyon,CEntral10218280,"1,756,744"
+   Green  Canyon,central,,,1996-04-01
+   Green  Canyon,Central9282612,"1,778,797",1996-05-01
+   Green  Canyon,central,,,1996-06-01
+Green Canyon,Central10250014,"1,866,39O",1996-07-01
+   Green  Canyon,Central9891950,"1,832,313",1996-08-01
+Green Canyon,CENTRAL10038637,"1,762,893",1996-09-01
+Green Canyon,Central9948574,"1,678,671",1996-10-01
+   Green  Canyon,central9706983,"1,658,950",1996-11-01
+Green Canyon,Central8785945,"1,27O,43O",1996-12-01
+Green Canyon,CENTRAL8622476,"1,144,602",1997-01-01
+Green Canyon,CENTRAL8327514,"1,342,020",1997-02-01
+   Green  Canyon,CEntral9220832,"1,470,957"
+Green Canyon,CENTRAL8864344,"1,407,361",1997-04-01
+Green Canyon,Central8240069,"1,264,326",1997-05-01
+   Green  Canyon,central8840500,"1,413,260",1997-06-01
+   Green  Canyon,Central8326959,"1,098,211",1997-07-01
+   Green  Canyon,CEntral7785206,"1,049,321"
+Green Canyon,Central7851991,"992,353",1997-09-01
+   Green  Canyon,CEntral7537910,"1,154,833"
+Green Canyon,Central7916323,"1,564,454",1997-11-01
+   Green  Canyon,CENTRAL8684736,"1,948,682"
+   Green  Canyon,central9717495,"2,357,793",1998-01-01
+Green Canyon,Central9657980,"2,086,364",1998-02-01
+Green Canyon,Central11036198,"2,088,539",1998-03-01
+Green Canyon,Central11396198,"2,547,7O9",1998-04-01
+Green Canyon,Central12408587,"2,773,399",1998-05-01
+Green Canyon,Central11626077,"2,431,1OO",1998-06-01
+   Green  Canyon,CENTRAL11591051,"2,363,824"
+Green Canyon,CENTRAL13675464,"3,487,456",1998-08-01
+   Green  Canyon,central,,,1998-09-01
+   Green  Canyon,central,,,1998-10-01
+Green Canyon,Central12052285,"2,57O,918",1998-11-01
+Green Canyon,CENTRAL14304575,"3,656,121",1998-12-01
+Green Canyon,Central13625216,"3,574,332",1999-01-01
+Green Canyon,Central11606929,"3,OO7,2O1",1999-02-01
+   Green  Canyon,Central13416601,"3,910,892",1999-03-01
+Green Canyon,Central15019614,"4,882,649",1999-04-01
+   Green  Canyon,central16364260,"5,373,067",1999-05-01
+   Green  Canyon,Central15116934,"5,298,020",1999-06-01
+   Green  Canyon,central15705988,"5,988,940",1999-07-01
+Green Canyon,Central14881599,"5,562,O89",1999-08-01
+Green Canyon,CENTRAL15318195,"5,456,268",1999-09-01
+Green Canyon,Central17579981,"7,OO5,567",1999-10-01
+Green Canyon,CENTRAL17010052,"7,048,570",1999-11-01
+   Green  Canyon,central17508972,"7,036,041",1999-12-01
+   Green  Canyon,central,,,2000-01-01
+   Green  Canyon,central14995353,"5,860,005",2000-02-01
+Green Canyon,Central16657313,"6,579,775",2000-03-01
+   Green  Canyon,central,,,2000-04-01
+Green Canyon,CENTRAL17511433,"6,727,386",2000-05-01
+   Green  Canyon,central14929508,"5,774,525",2000-06-01
+Green Canyon,Central15348295,"5,778,891",2000-07-01
+Green Canyon,Central15283928,"5,921,131",2000-08-01
+   Green  Canyon,central15273666,"6,313,535",2000-09-01
+Green Canyon,CENTRAL15739926,"6,344,945",2000-10-01
+Green Canyon,Central14360822,"5,742,991",2000-11-01
+Green Canyon,Central14892611,"6,004,041",2000-12-01
+   Green  Canyon,central,,,2001-01-01
+Green Canyon,CENTRAL13783845,"5,391,177",2001-02-01
+Green Canyon,Central14875093,"5,84O,956",2001-03-01
+Green Canyon,Central14326906,"5,586,814",2001-04-01
+   Green  Canyon,central13599548,"5,537,163",2001-05-01
+Green Canyon,Central13187400,"5,425,246",2001-06-01
+Green Canyon,Central14918888,"5,584,663",2001-07-01
+   Green  Canyon,central14945064,"5,971,372",2001-08-01
+   Green  Canyon,CEntral16592886,"7,114,954"
+   Green  Canyon,CEntral
+Green Canyon,Central16063590,"7,132,378",2001-11-01
+   Green  Canyon,CEntral16879240,"7,456,633"
+   Green  Canyon,CEntral
+   Green  Canyon,CEntral
+   Green  Canyon,central,,,2002-03-01
+Green Canyon,CENTRAL17698425,"5,934,228",2002-04-01
+   Green  Canyon,central22286847,"7,980,824",2002-05-01
+Green Canyon,Central21378127,"8,829,106",2002-06-01
+Green Canyon,Central23813890,"8,852,673",2002-07-01
+Green Canyon,Central23180387,"8,647,070",2002-08-01
+Green Canyon,Central18155349,"6,7OO,586",2002-09-01
+Green Canyon,CENTRAL16150895,"6,321,116",2002-10-01
+   Green  Canyon,CEntral
+Green Canyon,CENTRAL20209265,"7,562,218",2002-12-01
+   Green  Canyon,CENTRAL20614822,"7,740,337"
+   Green  Canyon,central,,,2003-02-01
+Green Canyon,Central20884660,"7,968,354",2003-03-01
+Green Canyon,Central19146164,"7,275,185",2003-04-01
+   Green  Canyon,central,,,2003-05-01
+   Green  Canyon,central17510192,"6,791,076",2003-06-01
+   Green  Canyon,CEntral
+   Green  Canyon,CEntral
+   Green  Canyon,Central14519494,"5,816,824",2003-09-01
+   Green  Canyon,CEntral14729814,"5,920,135"
+Green Canyon,Central12707549,"5,130,703",2003-11-01
+   Green  Canyon,CENTRAL11951007,"5,008,170"
+Green Canyon,CENTRAL12276145,"4,856,527",2004-01-01
+Green Canyon,Central12359863,"4,314,411",2004-02-01
+   Green  Canyon,central13160330,"4,525,641",2004-03-01
+Green Canyon,Central12063128,"4,432,191",2004-04-01
+Green Canyon,CENTRAL12847671,"4,788,426",2004-05-01
+Green Canyon,CENTRAL12084626,"4,417,579",2004-06-01
+   Green  Canyon,central10713292,"5,112,503",2004-07-01
+Green Canyon,Central12784544,"5,453,448",2004-08-01
+   Green  Canyon,central11523111,"5,262,282",2004-09-01
+Green Canyon,Central13811965,"6,O5O,812",2004-10-01
+   Green  Canyon,CEntral13193792,"5,423,808"
+   Green  Canyon,CEntral
+   Green  Canyon,central14209852,"5,846,539",2005-01-01
+   Green  Canyon,CEntral
+   Green  Canyon,Central14518965,"6,691,650",2005-03-01
+   Green  Canyon,CEntral12708686,"6,655,825"
+   Green  Canyon,CEntral
+Green Canyon,Central13093970,"7,8O7,514",2005-06-01
+Green Canyon,Central11403252,"6,672,119",2005-07-01
+Green Canyon,CENTRAL10404710,"6,430,192",2005-08-01
+   Green  Canyon,CEntral6487299,"3,587,892"
+Green Canyon,CENTRAL9718591,"6,209,107",2005-10-01
+   Green  Canyon,central9828729,"6,279,986",2005-11-01
+Green Canyon,Central8857852,"5,548,672",2005-12-01
+   Green  Canyon,CEntral8669198,"4,552,079"
+   Green  Canyon,CEntral
+Green Canyon,Central8130574,"3,754,210",2006-03-01
+   Main  Pass  Area,central,,,1996-01-01
+   Main  Pass  Area,CEntral
+   Main  Pass  Area,CEntral
+   Main  Pass  Area,central18626796,"2,233,817",1996-04-01
+Main Pass Area,Central19931067,"2,289,407",1996-05-01
+   Main  Pass  Area,central19141879,"2,268,851",1996-06-01
+   Main  Pass  Area,CEntral16741465,"2,226,916"
+   Main  Pass  Area,CEntral19850633,"2,328,655"
+Main Pass Area,Central18634830,"2,241,655",1996-09-01
+Main Pass Area,CENTRAL18108436,"2,087,002",1996-10-01
+   Main  Pass  Area,Central17982854,"2,232,313",1996-11-01
+   Main  Pass  Area,CEntral
+Main Pass Area,Central18926129,"2,38O,661",1997-01-01
+   Main  Pass  Area,central17586692,"2,111,755",1997-02-01
+Main Pass Area,Central18996569,"2,378,395",1997-03-01
+   Main  Pass  Area,central16683408,"2,197,159",1997-04-01
+Main Pass Area,CENTRAL16824088,"2,331,247",1997-05-01
+Main Pass Area,Central17303159,"2,39O,427",1997-06-01
+   Main  Pass  Area,CEntral16917575,"2,279,717"
+   Main  Pass  Area,CEntral
+Main Pass Area,Central17936036,"2,233,O81",1997-09-01
+   Main  Pass  Area,CEntral
+Main Pass Area,Central17783958,"2,143,35O",1997-11-01
+   Main  Pass  Area,central17494300,"2,102,728",1997-12-01
+Main Pass Area,Central18298180,"2,111,656",1998-01-01
+Main Pass Area,CENTRAL16347997,"1,756,233",1998-02-01
+   Main  Pass  Area,central,,,1998-03-01
+Main Pass Area,Central18065818,"2,O56,321",1998-04-01
+   Main  Pass  Area,CENTRAL19333922,"2,192,657"
+   Main  Pass  Area,Central20327785,"2,133,284",1998-06-01
+Main Pass Area,CENTRAL21270897,"2,135,250",1998-07-01
+Main Pass Area,CENTRAL23784863,"2,163,036",1998-08-01
+Main Pass Area,Central15033033,"1,416,O81",1998-09-01
+   Main  Pass  Area,CEntral20435823,"1,653,071"
+   Main  Pass  Area,CEntral
+Main Pass Area,CENTRAL22767521,"2,025,215",1998-12-01
+Main Pass Area,Central22875393,"1,961,OO2",1999-01-01
+Main Pass Area,CENTRAL20453641,"1,664,693",1999-02-01
+Main Pass Area,CENTRAL22804120,"2,019,272",1999-03-01
+   Main  Pass  Area,CENTRAL23093411,"2,081,569"
+Main Pass Area,Central23728486,"2,170,893",1999-05-01
+Main Pass Area,Central26109214,"2,144,784",1999-06-01
+   Main  Pass  Area,CEntral
+   Main  Pass  Area,CEntral
+   Main  Pass  Area,central22973245,"2,115,080",1999-09-01
+Main Pass Area,CENTRAL22897769,"2,113,103",1999-10-01
+   Main  Pass  Area,central,,,1999-11-01
+   Main  Pass  Area,CENTRAL23005081,"2,076,379"
+Main Pass Area,CENTRAL23640910,"2,107,555",2000-01-01
+Main Pass Area,CENTRAL20968462,"1,958,882",2000-02-01
+   Main  Pass  Area,CEntral21851687,"2,048,053"
+   Main  Pass  Area,central20731106,"1,881,694",2000-04-01
+Main Pass Area,Central21088339,"2,122,O14",2000-05-01
+Main Pass Area,CENTRAL20814681,"2,066,459",2000-06-01
+   Main  Pass  Area,central,,,2000-07-01
+Main Pass Area,Central21131249,"2,137,299",2000-08-01
+   Main  Pass  Area,Central18323772,"2,002,977",2000-09-01
+Main Pass Area,Central20137244,"2,030,787",2000-10-01
+Main Pass Area,CENTRAL20012839,"1,943,707",2000-11-01
+Main Pass Area,Central19472767,"1,777,711",2000-12-01
+Main Pass Area,CENTRAL19290323,"1,892,149",2001-01-01
+   Main  Pass  Area,Central16642912,"1,320,529",2001-02-01
+   Main  Pass  Area,central16546359,"1,775,775",2001-03-01
+Main Pass Area,Central16768631,"1,892,783",2001-04-01
+   Main  Pass  Area,CEntral
+Main Pass Area,Central16247525,"1,9O9,744",2001-06-01
+   Main  Pass  Area,Central17109864,"2,047,512",2001-07-01
+   Main  Pass  Area,central17197281,"2,143,575",2001-08-01
+   Main  Pass  Area,Central17276586,"1,999,681",2001-09-01
+   Main  Pass  Area,central,,,2001-10-01
+   Main  Pass  Area,CENTRAL15950395,"1,968,485"
+   Main  Pass  Area,central,,,2001-12-01
+Main Pass Area,CENTRAL15323912,"2,198,164",2002-01-01
+Main Pass Area,Central14113365,"2,141,470",2002-02-01
+Main Pass Area,CENTRAL14995372,"2,348,836",2002-03-01
+Main Pass Area,Central13945415,"2,153,692",2002-04-01
+Main Pass Area,Central12875430,"2,178,125",2002-05-01
+Main Pass Area,Central12935651,"2,168,254",2002-06-01
+   Main  Pass  Area,CENTRAL12611338,"2,259,496"
+Main Pass Area,Central12256679,"2,268,645",2002-08-01
+Main Pass Area,Central10033389,"1,998,6O2",2002-09-01
+   Main  Pass  Area,central,,,2002-10-01
+Main Pass Area,CENTRAL11482547,"2,372,222",2002-11-01
+   Main  Pass  Area,central,,,2002-12-01
+   Main  Pass  Area,CEntral
+Main Pass Area,CENTRAL10973489,"2,325,416",2003-02-01
+Main Pass Area,CENTRAL11962440,"2,661,520",2003-03-01
+   Main  Pass  Area,central,,,2003-04-01
+   Main  Pass  Area,central12116090,"2,695,620",2003-05-01
+Main Pass Area,Central11441153,"2,6O2,O24",2003-06-01
+   Main  Pass  Area,Central10864315,"2,586,335",2003-07-01
+Main Pass Area,Central11089716,"2,477,O55",2003-08-01
+   Main  Pass  Area,CENTRAL10133694,"2,248,400"
+Main Pass Area,CENTRAL10878050,"2,386,797",2003-10-01
+Main Pass Area,Central10094224,"2,18O,943",2003-11-01
+   Main  Pass  Area,Central10257604,"2,318,291",2003-12-01
+   Main  Pass  Area,CENTRAL10554064,"2,249,988"
+Main Pass Area,Central10218402,"2,157,418",2004-02-01
+Main Pass Area,Central11054135,"2,386,645",2004-03-01
+   Main  Pass  Area,central10878317,"2,250,204",2004-04-01
+   Main  Pass  Area,central,,,2004-05-01
+   Main  Pass  Area,CEntral
+Main Pass Area,Central11087908,"2,371,669",2004-07-01
+Main Pass Area,Central11082614,"2,273,028",2004-08-01
+Main Pass Area,CENTRAL4842374,"918,522",2004-09-01
+Main Pass Area,CENTRAL4103400,"223,370",2004-10-01
+   Main  Pass  Area,CEntral5121596,"789,229"
+   Main  Pass  Area,central,,,2004-12-01
+Main Pass Area,CENTRAL7153262,"1,407,675",2005-01-01
+   Main  Pass  Area,CENTRAL6115011,"1,514,370"
+   Main  Pass  Area,central,,,2005-03-01
+Main Pass Area,Central9549767,"1,713,826",2005-04-01
+Main Pass Area,CENTRAL9780103,"1,769,351",2005-05-01
+Main Pass Area,CENTRAL8736362,"1,773,995",2005-06-01
+Main Pass Area,CENTRAL9002261,"1,716,209",2005-07-01
+Main Pass Area,Central9529026,"1,665,59O",2005-08-01
+   Main  Pass  Area,central1231112,"17,261",2005-09-01
+   Main  Pass  Area,central,,,2005-10-01
+Main Pass Area,Central6909602,"1,O11,4O1",2005-11-01
+Main Pass Area,Central8462299,"1,403,931",2005-12-01
+   Main  Pass  Area,central9065334,"1,409,334",2006-01-01
+   Main  Pass  Area,central6830023,"1,072,633",2006-02-01
+   Main  Pass  Area,CEntral
+Mississippi Canyon,Central14670988,"1,847,257",1996-01-01
+Mississippi Canyon,Central14240996,"1,757,498",1996-02-01
+Mississippi Canyon,Central14837782,"1,850,430",1996-03-01
+   Mississippi  Canyon,CEntral
+Mississippi Canyon,Central14101952,"1,973,629",1996-05-01
+   Mississippi  Canyon,central,,,1996-06-01
+   Mississippi  Canyon,Central15309215,"2,628,687",1996-07-01
+   Mississippi  Canyon,central14966119,"3,220,346",1996-08-01
+Mississippi Canyon,Central14032303,"3,296,985",1996-09-01
+Mississippi Canyon,CENTRAL16172860,"3,325,616",1996-10-01
+   Mississippi  Canyon,central16883484,"3,708,631",1996-11-01
+   Mississippi  Canyon,CEntral
+Mississippi Canyon,Central17174922,"4,255,955",1997-01-01
+Mississippi Canyon,Central16564970,"4,204,370",1997-02-01
+Mississippi Canyon,Central17126405,"4,755,777",1997-03-01
+Mississippi Canyon,Central16262002,"4,453,773",1997-04-01
+Mississippi Canyon,Central17498628,"5,039,558",1997-05-01
+   Mississippi  Canyon,central17361802,"4,907,407",1997-06-01
+Mississippi Canyon,Central18213107,"4,849,24O",1997-07-01
+Mississippi Canyon,Central20474927,"4,830,908",1997-08-01
+   Mississippi  Canyon,central19872937,"5,277,676",1997-09-01
+Mississippi Canyon,CENTRAL19827908,"5,612,786",1997-10-01
+   Mississippi  Canyon,Central18677530,"5,581,300",1997-11-01
+   Mississippi  Canyon,central24657376,"6,017,545",1997-12-01
+Mississippi Canyon,Central21146509,"5,963,368",1998-01-01
+Mississippi Canyon,CENTRAL17694530,"5,369,524",1998-02-01
+   Mississippi  Canyon,Central18126963,"5,771,214",1998-03-01
+   Mississippi  Canyon,CEntral
+   Mississippi  Canyon,CEntral
+Mississippi Canyon,CENTRAL22423939,"5,582,119",1998-06-01
+Mississippi Canyon,CENTRAL19696717,"5,954,666",1998-07-01
+Mississippi Canyon,Central20616934,"6,328,O75",1998-08-01
+Mississippi Canyon,CENTRAL19239362,"4,693,331",1998-09-01
+Mississippi Canyon,CENTRAL26386920,"5,970,406",1998-10-01
+Mississippi Canyon,Central26245191,"6,213,676",1998-11-01
+   Mississippi  Canyon,CENTRAL30910955,"6,653,026"
+   Mississippi  Canyon,CEntral
+Mississippi Canyon,CENTRAL27962143,"5,922,043",1999-02-01
+Mississippi Canyon,CENTRAL30466799,"6,559,984",1999-03-01
+Mississippi Canyon,Central28660111,"6,492,2OO",1999-04-01
+Mississippi Canyon,CENTRAL28777752,"6,289,091",1999-05-01
+   Mississippi  Canyon,CEntral
+   Mississippi  Canyon,central31727335,"7,535,960",1999-07-01
+Mississippi Canyon,CENTRAL32050317,"7,786,310",1999-08-01
+Mississippi Canyon,Central33740190,"7,7O2,168",1999-09-01
+   Mississippi  Canyon,CEntral
+   Mississippi  Canyon,CEntral
+   Mississippi  Canyon,CEntral33852177,"7,039,859"
+Mississippi Canyon,Central33644663,"6,946,235",2000-01-01
+   Mississippi  Canyon,Central32630436,"7,970,782",2000-02-01
+Mississippi Canyon,Central37146833,"9,759,9O8",2000-03-01
+   Mississippi  Canyon,CEntral
+Mississippi Canyon,Central37494318,"10,817,925",2000-05-01
+   Mississippi  Canyon,central,,,2000-06-01
+Mississippi Canyon,Central37746437,"1O,953,752",2000-07-01
+   Mississippi  Canyon,Central36773311,"10,881,239",2000-08-01
+   Mississippi  Canyon,CEntral
+   Mississippi  Canyon,central35571484,"9,440,483",2000-10-01
+   Mississippi  Canyon,CEntral
+Mississippi Canyon,CENTRAL39962333,"11,209,532",2000-12-01
+   Mississippi  Canyon,Central39740147,"11,182,897",2001-01-01
+Mississippi Canyon,CENTRAL34506553,"8,925,546",2001-02-01
+   Mississippi  Canyon,central,,,2001-03-01
+   Mississippi  Canyon,CENTRAL38197169,"11,218,919"
+Mississippi Canyon,CENTRAL38233094,"11,156,101",2001-05-01
+   Mississippi  Canyon,CEntral36540259,"10,726,765"
+Mississippi Canyon,CENTRAL37013022,"11,200,450",2001-07-01
+   Mississippi  Canyon,CENTRAL33415809,"9,668,182"
+   Mississippi  Canyon,central38200013,"10,255,410",2001-09-01
+Mississippi Canyon,Central37699165,"11,179,568",2001-10-01
+Mississippi Canyon,CENTRAL39770832,"11,053,919",2001-11-01
+Mississippi Canyon,Central40371871,"10,742,489",2001-12-01
+   Mississippi  Canyon,CENTRAL39903549,"11,336,848"
+Mississippi Canyon,CENTRAL35994892,"10,254,686",2002-02-01
+   Mississippi  Canyon,CEntral
+Mississippi Canyon,Central41220776,"12,O29,283",2002-04-01
+   Mississippi  Canyon,CEntral43603419,"13,153,132"
+   Mississippi  Canyon,Central40339938,"12,564,057",2002-06-01
+   Mississippi  Canyon,central41284733,"12,749,278",2002-07-01
+Mississippi Canyon,CENTRAL40058479,"12,835,562",2002-08-01
+Mississippi Canyon,CENTRAL33012517,"10,087,708",2002-09-01
+Mississippi Canyon,CENTRAL33469645,"9,406,805",2002-10-01
+Mississippi Canyon,CENTRAL42648098,"11,305,808",2002-11-01
+Mississippi Canyon,CENTRAL46852615,"12,921,101",2002-12-01
+Mississippi Canyon,Central49978720,"13,818,821",2003-01-01
+Mississippi Canyon,Central46269166,"12,519,265",2003-02-01
+Mississippi Canyon,Central52303260,"13,979,720",2003-03-01
+Mississippi Canyon,Central52576199,"13,352,359",2003-04-01
+   Mississippi  Canyon,central52885896,"13,271,159",2003-05-01
+Mississippi Canyon,Central49226474,"13,422,995",2003-06-01
+Mississippi Canyon,Central50398004,"12,898,342",2003-07-01
+Mississippi Canyon,CENTRAL50466757,"13,272,203",2003-08-01
+Mississippi Canyon,Central48565351,"13,749,911",2003-09-01
+   Mississippi  Canyon,CEntral
+Mississippi Canyon,Central48855463,"14,O99,161",2003-11-01
+Mississippi Canyon,Central53774634,"14,772,238",2003-12-01
+   Mississippi  Canyon,central55379795,"15,788,249",2004-01-01
+   Mississippi  Canyon,CENTRAL53536451,"15,649,810"
+Mississippi Canyon,Central56630559,"16,195,1O7",2004-03-01
+Mississippi Canyon,CENTRAL56320453,"15,950,899",2004-04-01
+Mississippi Canyon,Central56528072,"16,335,864",2004-05-01
+   Mississippi  Canyon,CEntral
+   Mississippi  Canyon,Central60868843,"19,931,486",2004-07-01
+   Mississippi  Canyon,CENTRAL54755448,"18,099,915"
+   Mississippi  Canyon,central32098552,"10,974,746",2004-09-01
+   Mississippi  Canyon,central40785632,"11,185,792",2004-10-01
+Mississippi Canyon,Central52906885,"16,472,845",2004-11-01
+   Mississippi  Canyon,central43342961,"17,725,287",2004-12-01
+   Mississippi  Canyon,central46704428,"17,613,078",2005-01-01
+Mississippi Canyon,CENTRAL46996425,"15,732,210",2005-02-01
+   Mississippi  Canyon,central53106874,"17,496,519",2005-03-01
+   Mississippi  Canyon,CEntral49206462,"16,413,878"
+   Mississippi  Canyon,Central53391966,"17,458,874",2005-05-01
+   Mississippi  Canyon,CEntral48519002,"15,494,485"
+   Mississippi  Canyon,CEntral
+   Mississippi  Canyon,central38416712,"13,687,727",2005-08-01
+Mississippi Canyon,Central3492373,"1,641",2005-09-01
+   Mississippi  Canyon,central18773592,"3,760,153",2005-10-01
+Mississippi Canyon,CENTRAL23509656,"7,237,762",2005-11-01
+Mississippi Canyon,CENTRAL30635083,"10,982,928",2005-12-01
+Mississippi Canyon,CENTRAL32978554,"12,222,577",2006-01-01
+Mississippi Canyon,Central28178992,"1O,295,763",2006-02-01
+Mississippi Canyon,CENTRAL32685140,"10,540,870",2006-03-01
+Mobile,Central12619411,"1,297",1996-01-01
+   Mobile,central12133648,"1,689",1996-02-01
+   Mobile,central,,,1996-03-01
+   Mobile,CEntral
+Mobile,Central12279786,"1,732",1996-05-01
+Mobile,Central11958290,"1,960",1996-06-01
+   Mobile,central,,,1996-07-01
+Mobile,Central12471285,"1,O42",1996-08-01
+   Mobile,central,,,1996-09-01
+Mobile,CENTRAL11956614,"1,142",1996-10-01
+Mobile,Central13399803,"2,018",1996-11-01
+   Mobile,CEntral13420516,"1,941"
+Mobile,Central14941861,"3,482",1997-01-01
+   Mobile,CEntral
+Mobile,Central18356821,"2,O87",1997-03-01
+Mobile,Central18266839,"2,656",1997-04-01
+Mobile,Central16727676,"1,892",1997-05-01
+   Mobile,CEntral
+Mobile,Central14738662,"1,178",1997-07-01
+   Mobile,Central15097434,"2,971",1997-08-01
+   Mobile,Central15119897,"2,190",1997-09-01
+Mobile,CENTRAL15634211,"1,546",1997-10-01
+Mobile,Central15574204,"2,78O",1997-11-01
+Mobile,CENTRAL14687809,"1,468",1997-12-01
+Mobile,Central14316757,"1,32O",1998-01-01
+Mobile,CENTRAL13683250,"1,373",1998-02-01
+Mobile,CENTRAL15241560,"2,165",1998-03-01
+Mobile,Central13864260,"1,663",1998-04-01
+Mobile,CENTRAL15280065,"2,049",1998-05-01
+   Mobile,CEntral
+Mobile,Central16689600,"1,4O8",1998-07-01
+   Mobile,central15493547,702,1998-08-01
+Mobile,CENTRAL11607070,968,1998-09-01
+Mobile,Central13882064,"2,97O",1998-10-01
+   Mobile,CEntral
+Mobile,CENTRAL15236780,"1,741",1998-12-01
+   Mobile,central,,,1999-01-01
+Mobile,Central13094155,"1,773",1999-02-01
+Mobile,CENTRAL14833814,"2,234",1999-03-01
+   Mobile,central14138927,"2,206",1999-04-01
+   Mobile,central13705340,"2,482",1999-05-01
+Mobile,Central13852598,"2,561",1999-06-01
+Mobile,Central13883525,"3,580",1999-07-01
+Mobile,Central13433019,"1,369",1999-08-01
+   Mobile,CEntral
+   Mobile,CENTRAL12622860,"2,437"
+   Mobile,CEntral12510378,"1,996"
+   Mobile,central,,,1999-12-01
+Mobile,Central12235560,"2,212",2000-01-01
+Mobile,Central11005784,"1,198",2000-02-01
+Mobile,Central11506429,"1,426",2000-03-01
+Mobile,Central11963164,"1,455",2000-04-01
+Mobile,CENTRAL12150494,"2,455",2000-05-01
+   Mobile,central11293514,937,2000-06-01
+   Mobile,central12432187,"1,043",2000-07-01
+Mobile,Central12569569,"1,892",2000-08-01
+   Mobile,central11547369,982,2000-09-01
+Mobile,CENTRAL11557729,"1,644",2000-10-01
+Mobile,Central11222358,"1,393",2000-11-01
+Mobile,CENTRAL11671103,707,2000-12-01
+   Mobile,Central12805411,"1,545",2001-01-01
+   Mobile,central,,,2001-02-01
+Mobile,CENTRAL12214047,"1,305",2001-03-01
+Mobile,CENTRAL11692351,"2,058",2001-04-01
+   Mobile,central11375350,"2,877",2001-05-01
+   Mobile,CEntral
+   Mobile,central10146830,819,2001-07-01
+   Mobile,central10218528,"1,250",2001-08-01
+   Mobile,central,,,2001-09-01
+   Mobile,central,,,2001-10-01
+   Mobile,central,,,2001-11-01
+Mobile,CENTRAL9621800,"2,148",2001-12-01
+Mobile,CENTRAL9113586,"2,486",2002-01-01
+Mobile,Central8816800,"1,873",2002-02-01
+   Mobile,central,,,2002-03-01
+Mobile,Central10444899,"2,158",2002-04-01
+Mobile,Central10451092,"2,O7O",2002-05-01
+Mobile,CENTRAL10036636,"1,540",2002-06-01
+Mobile,Central10212748,"2,221",2002-07-01
+Mobile,Central10360641,"1,596",2002-08-01
+   Mobile,Central9195112,"1,736",2002-09-01
+   Mobile,Central9986763,792,2002-10-01
+Mobile,Central9495443,"2,697",2002-11-01
+Mobile,CENTRAL9803959,"1,393",2002-12-01
+Mobile,Central9436627,683,2003-01-01
+Mobile,Central8716700,326,2003-02-01
+   Mobile,central9515657,748,2003-03-01
+Mobile,CENTRAL8962358,410,2003-04-01
+   Mobile,CEntral
+   Mobile,CEntral
+   Mobile,central8391304,873,2003-07-01
+   Mobile,Central8356267,"1,831",2003-08-01
+   Mobile,central,,,2003-09-01
+Mobile,Central8902278,"1,446",2003-10-01
+Mobile,CENTRAL8287191,473,2003-11-01
+Mobile,CENTRAL8429918,349,2003-12-01
+   Mobile,CEntral7143900,368
+Mobile,CENTRAL6334552,273,2004-02-01
+Mobile,Central8607785,899,2004-03-01
+Mobile,CENTRAL7787682,"1,904",2004-04-01
+Mobile,CENTRAL8181652,"1,123",2004-05-01
+Mobile,CENTRAL8198319,"1,357",2004-06-01
+   Mobile,central,,,2004-07-01
+   Mobile,CEntral
+   Mobile,CEntral5546736,"1,610"
+Mobile,Central7477965,658,2004-10-01
+Mobile,CENTRAL7110845,713,2004-11-01
+   Mobile,CEntral
+Mobile,CENTRAL7814131,"1,081",2005-01-01
+Mobile,Central6948533,"1,O88",2005-02-01
+Mobile,Central7545351,"1,O39",2005-03-01
+Mobile,CENTRAL6770918,912,2005-04-01
+Mobile,Central7218422,625,2005-05-01
+   Mobile,CEntral
+   Mobile,central,,,2005-07-01
+   Mobile,CENTRAL6144838,852
+Mobile,CENTRAL4276964,"1,215",2005-09-01
+Mobile,Central5583589,189,2005-10-01
+   Mobile,CEntral
+   Mobile,CEntral
+   Mobile,Central4398325,295,2006-01-01
+Mobile,Central5891682,327,2006-02-01
+Mobile,Central4217671,213,2006-03-01
+   Sabine  Pass  Area,central391415,"18,877",1996-01-01
+   Sabine  Pass  Area,CEntral
+   Sabine  Pass  Area,central,,,1996-03-01
+Sabine Pass Area,CENTRAL355328,"18,242",1996-04-01
+   Sabine  Pass  Area,CEntral
+   Sabine  Pass  Area,central325102,"16,191",1996-06-01
+   Sabine  Pass  Area,CEntral326790,"16,216"
+   Sabine  Pass  Area,CENTRAL327768,"15,836"
+   Sabine  Pass  Area,Central321217,"15,260",1996-09-01
+Sabine Pass Area,CENTRAL308852,"15,405",1996-10-01
+   Sabine  Pass  Area,central,,,1996-11-01
+   Sabine  Pass  Area,CEntral
+Sabine Pass Area,Central289146,"15,746",1997-01-01
+   Sabine  Pass  Area,central,,,1997-02-01
+   Sabine  Pass  Area,Central316628,"15,160",1997-03-01
+   Sabine  Pass  Area,CEntral
+   Sabine  Pass  Area,central337513,"34,366",1997-05-01
+   Sabine  Pass  Area,CEntral390087,"35,608"
+   Sabine  Pass  Area,Central569493,"24,066",1997-07-01
+   Sabine  Pass  Area,CENTRAL549092,"27,098"
+Sabine Pass Area,Central469367,"22,612",1997-09-01
+Sabine Pass Area,Central349774,"2O,O82",1997-10-01
+   Sabine  Pass  Area,central330620,"20,966",1997-11-01
+Sabine Pass Area,CENTRAL497724,"19,777",1997-12-01
+   Sabine  Pass  Area,CEntral
+Sabine Pass Area,CENTRAL493166,"17,601",1998-02-01
+Sabine Pass Area,Central561249,"2O,953",1998-03-01
+Sabine Pass Area,Central522897,"2O,563",1998-04-01
+   Sabine  Pass  Area,central556605,"20,759",1998-05-01
+Sabine Pass Area,CENTRAL544643,"17,317",1998-06-01
+   Sabine  Pass  Area,CENTRAL538536,"18,795"
+   Sabine  Pass  Area,CEntral
+Sabine Pass Area,CENTRAL423970,"17,578",1998-09-01
+   Sabine  Pass  Area,central,,,1998-10-01
+   Sabine  Pass  Area,Central497137,"15,644",1998-11-01
+   Sabine  Pass  Area,central,,,1998-12-01
+Sabine Pass Area,Central506515,"2O,191",1999-01-01
+   Sabine  Pass  Area,CEntral419666,"12,794"
+   Sabine  Pass  Area,central,,,1999-03-01
+Sabine Pass Area,Central446256,"13,446",1999-04-01
+Sabine Pass Area,Central437787,"22,162",1999-05-01
+Sabine Pass Area,Central415245,"12,765",1999-06-01
+   Sabine  Pass  Area,CEntral
+   Sabine  Pass  Area,CENTRAL450413,"13,436"
+   Sabine  Pass  Area,central,,,1999-09-01
+Sabine Pass Area,CENTRAL405998,"14,626",1999-10-01
+   Sabine  Pass  Area,CENTRAL377201,"22,159"
+   Sabine  Pass  Area,central,,,1999-12-01
+Sabine Pass Area,CENTRAL361213,"17,850",2000-01-01
+Sabine Pass Area,CENTRAL327481,"22,349",2000-02-01
+Sabine Pass Area,Central361780,"13,8O9",2000-03-01
+Sabine Pass Area,Central340361,"17,454",2000-04-01
+   Sabine  Pass  Area,Central352691,"21,119",2000-05-01
+Sabine Pass Area,CENTRAL333876,"11,955",2000-06-01
+Sabine Pass Area,Central332388,"13,074",2000-07-01
+Sabine Pass Area,CENTRAL332037,"21,973",2000-08-01
+   Sabine  Pass  Area,CEntral
+   Sabine  Pass  Area,central,,,2000-10-01
+Sabine Pass Area,CENTRAL260970,"11,513",2000-11-01
+Sabine Pass Area,CENTRAL261005,"13,862",2000-12-01
+   Sabine  Pass  Area,CEntral
+   Sabine  Pass  Area,Central291982,"15,781",2001-02-01
+Sabine Pass Area,Central287592,"20,229",2001-03-01
+   Sabine  Pass  Area,central223830,"21,331",2001-04-01
+   Sabine  Pass  Area,central,,,2001-05-01
+Sabine Pass Area,Central215226,"18,148",2001-06-01
+Sabine Pass Area,Central231362,"25,114",2001-07-01
+   Sabine  Pass  Area,CENTRAL228279,"20,192"
+Sabine Pass Area,CENTRAL222285,"23,629",2001-09-01
+   Sabine  Pass  Area,CENTRAL203902,"18,813"
+Sabine Pass Area,Central226370,"26,657",2001-11-01
+Sabine Pass Area,Central208304,"23,746",2001-12-01
+   Sabine  Pass  Area,central208251,"23,205",2002-01-01
+Sabine Pass Area,Central198530,"25,516",2002-02-01
+Sabine Pass Area,CENTRAL214745,"21,182",2002-03-01
+   Sabine  Pass  Area,central254199,"18,575",2002-04-01
+   Sabine  Pass  Area,central320404,"25,200",2002-05-01
+Sabine Pass Area,Central286485,"17,72O",2002-06-01
+   Sabine  Pass  Area,CEntral
+   Sabine  Pass  Area,central,,,2002-08-01
+Sabine Pass Area,Central203557,"12,889",2002-09-01
+   Sabine  Pass  Area,CEntral
+Sabine Pass Area,Central217600,"19,925",2002-11-01
+Sabine Pass Area,Central128707,"18,298",2002-12-01
+   Sabine  Pass  Area,central,,,2003-01-01
+   Sabine  Pass  Area,central,,,2003-02-01
+Sabine Pass Area,Central366541,"19,974",2003-03-01
+Sabine Pass Area,Central363920,"18,O85",2003-04-01
+   Sabine  Pass  Area,CEntral449854,"17,799"
+   Sabine  Pass  Area,CEntral467595,"22,108"
+Sabine Pass Area,Central651227,"18,430",2003-07-01
+Sabine Pass Area,CENTRAL560489,"23,424",2003-08-01
+   Sabine  Pass  Area,Central532660,"22,248",2003-09-01
+   Sabine  Pass  Area,central556363,"22,084",2003-10-01
+Sabine Pass Area,CENTRAL514572,"20,864",2003-11-01
+Sabine Pass Area,CENTRAL473328,"19,059",2003-12-01
+   Sabine  Pass  Area,central,,,2004-01-01
+   Sabine  Pass  Area,central,,,2004-02-01
+   Sabine  Pass  Area,CEntral
+   Sabine  Pass  Area,central,,,2004-04-01
+Sabine Pass Area,Central461736,"18,281",2004-05-01
+   Sabine  Pass  Area,central378328,"17,530",2004-06-01
+Sabine Pass Area,Central410174,"16,851",2004-07-01
+   Sabine  Pass  Area,Central386814,"16,860",2004-08-01
+   Sabine  Pass  Area,central,,,2004-09-01
+   Sabine  Pass  Area,central231324,"18,343",2004-10-01
+   Sabine  Pass  Area,CEntral
+Sabine Pass Area,Central202503,"12,619",2004-12-01
+   Sabine  Pass  Area,central280707,"17,773",2005-01-01
+   Sabine  Pass  Area,central334700,"16,472",2005-02-01
+Sabine Pass Area,CENTRAL435566,"16,571",2005-03-01
+   Sabine  Pass  Area,central436339,"16,430",2005-04-01
+Sabine Pass Area,CENTRAL397829,"17,110",2005-05-01
+Sabine Pass Area,Central389780,"12,066",2005-06-01
+   Sabine  Pass  Area,Central432718,"11,118",2005-07-01
+Sabine Pass Area,Central393988,"7,863",2005-08-01
+Sabine Pass Area,CENTRAL256877,"10,053",2005-09-01
+Sabine Pass Area,Central252799,928,2005-10-01
+   Sabine  Pass  Area,central362520,"12,675",2005-11-01
+   Sabine  Pass  Area,central378120,"16,249",2005-12-01
+   Sabine  Pass  Area,CEntral346166,"14,336"
+   Sabine  Pass  Area,central,,,2006-02-01
+   Sabine  Pass  Area,central,,,2006-03-01
+Ship Shoal Area,CENTRAL28283972,"2,508,508",1996-01-01
+   Ship  Shoal  Area,CENTRAL26607545,"2,366,051"
+   Ship  Shoal  Area,CEntral28306866,"2,624,139"
+   Ship  Shoal  Area,central,,,1996-04-01
+   Ship  Shoal  Area,CEntral
+Ship Shoal Area,CENTRAL29044267,"2,784,450",1996-06-01
+Ship Shoal Area,Central28816518,"2,817,156",1996-07-01
+   Ship  Shoal  Area,central29613497,"2,787,716",1996-08-01
+   Ship  Shoal  Area,CEntral
+Ship Shoal Area,CENTRAL26409621,"2,638,031",1996-10-01
+Ship Shoal Area,Central25790878,"2,547,539",1996-11-01
+Ship Shoal Area,Central26661530,"2,653,7OO",1996-12-01
+Ship Shoal Area,Central25783878,"2,755,472",1997-01-01
+Ship Shoal Area,Central22722533,"2,581,681",1997-02-01
+   Ship  Shoal  Area,CENTRAL25234345,"3,013,210"
+Ship Shoal Area,Central24325937,"3,028,537",1997-04-01
+Ship Shoal Area,CENTRAL25219334,"3,075,001",1997-05-01
+Ship Shoal Area,Central25109988,"3,O28,231",1997-06-01
+   Ship  Shoal  Area,CEntral
+Ship Shoal Area,Central25698525,"3,162,475",1997-08-01
+   Ship  Shoal  Area,Central25268698,"2,955,046",1997-09-01
+   Ship  Shoal  Area,Central25297620,"2,979,666",1997-10-01
+Ship Shoal Area,Central24047643,"2,755,354",1997-11-01
+Ship Shoal Area,CENTRAL21098950,"2,725,586",1997-12-01
+   Ship  Shoal  Area,CENTRAL21935414,"2,696,911"
+   Ship  Shoal  Area,CEntral20954043,"2,510,262"
+   Ship  Shoal  Area,CEntral23410000,"2,732,966"
+Ship Shoal Area,Central23205784,"2,687,566",1998-04-01
+   Ship  Shoal  Area,central23009693,"2,841,235",1998-05-01
+Ship Shoal Area,Central21722891,"2,674,839",1998-06-01
+Ship Shoal Area,Central22078983,"2,706,194",1998-07-01
+Ship Shoal Area,Central21153269,"2,774,008",1998-08-01
+Ship Shoal Area,Central13426116,"1,739,798",1998-09-01
+   Ship  Shoal  Area,central,,,1998-10-01
+   Ship  Shoal  Area,CEntral
+Ship Shoal Area,Central20592424,"2,640,893",1998-12-01
+   Ship  Shoal  Area,CEntral
+Ship Shoal Area,Central18881871,"2,239,793",1999-02-01
+Ship Shoal Area,CENTRAL20545407,"2,382,319",1999-03-01
+   Ship  Shoal  Area,central19444440,"2,293,872",1999-04-01
+   Ship  Shoal  Area,CEntral
+Ship Shoal Area,Central17826757,"2,2O8,537",1999-06-01
+Ship Shoal Area,CENTRAL18541813,"2,233,399",1999-07-01
+Ship Shoal Area,Central18165046,"2,377,819",1999-08-01
+   Ship  Shoal  Area,central,,,1999-09-01
+Ship Shoal Area,CENTRAL17587779,"2,294,927",1999-10-01
+Ship Shoal Area,Central16413586,"2,179,956",1999-11-01
+   Ship  Shoal  Area,central15939769,"2,153,748",1999-12-01
+Ship Shoal Area,Central15874159,"2,156,398",2000-01-01
+   Ship  Shoal  Area,central,,,2000-02-01
+   Ship  Shoal  Area,central16191014,"2,322,808",2000-03-01
+   Ship  Shoal  Area,central16729066,"2,249,449",2000-04-01
+   Ship  Shoal  Area,central,,,2000-05-01
+   Ship  Shoal  Area,central15629095,"2,169,219",2000-06-01
+   Ship  Shoal  Area,central16934425,"2,257,923",2000-07-01
+Ship Shoal Area,Central17670265,"2,273,123",2000-08-01
+   Ship  Shoal  Area,central,,,2000-09-01
+   Ship  Shoal  Area,CEntral
+   Ship  Shoal  Area,CEntral
+   Ship  Shoal  Area,CEntral
+Ship Shoal Area,CENTRAL19711969,"2,205,498",2001-01-01
+   Ship  Shoal  Area,central17863523,"2,047,643",2001-02-01
+Ship Shoal Area,Central20703053,"2,323,229",2001-03-01
+   Ship  Shoal  Area,CEntral20604247,"2,285,433"
+Ship Shoal Area,CENTRAL22062482,"2,310,789",2001-05-01
+Ship Shoal Area,CENTRAL22365817,"2,183,620",2001-06-01
+Ship Shoal Area,Central22174679,"2,255,O17",2001-07-01
+Ship Shoal Area,CENTRAL21453948,"2,228,524",2001-08-01
+Ship Shoal Area,CENTRAL20495146,"2,175,041",2001-09-01
+Ship Shoal Area,CENTRAL19730076,"2,106,607",2001-10-01
+   Ship  Shoal  Area,Central17211028,"2,012,563",2001-11-01
+   Ship  Shoal  Area,central,,,2001-12-01
+Ship Shoal Area,CENTRAL15231507,"1,989,902",2002-01-01
+Ship Shoal Area,CENTRAL13256480,"1,741,585",2002-02-01
+   Ship  Shoal  Area,central14230934,"1,829,386",2002-03-01
+Ship Shoal Area,Central13455949,"1,736,19O",2002-04-01
+   Ship  Shoal  Area,central,,,2002-05-01
+Ship Shoal Area,Central13733953,"1,69O,417",2002-06-01
+Ship Shoal Area,Central13907369,"1,745,59O",2002-07-01
+   Ship  Shoal  Area,central14131197,"1,766,022",2002-08-01
+Ship Shoal Area,Central11549771,"1,449,408",2002-09-01
+   Ship  Shoal  Area,CEntral
+   Ship  Shoal  Area,central10681865,"1,386,972",2002-11-01
+   Ship  Shoal  Area,central12119667,"1,479,227",2002-12-01
+Ship Shoal Area,Central12105481,"1,514,570",2003-01-01
+   Ship  Shoal  Area,central10978177,"1,395,700",2003-02-01
+Ship Shoal Area,CENTRAL12421529,"1,546,179",2003-03-01
+   Ship  Shoal  Area,CEntral
+Ship Shoal Area,CENTRAL12860737,"1,566,702",2003-05-01
+Ship Shoal Area,Central11641758,"1,388,984",2003-06-01
+Ship Shoal Area,CENTRAL11055659,"1,369,251",2003-07-01
+   Ship  Shoal  Area,central,,,2003-08-01
+Ship Shoal Area,Central11091009,"1,48O,954",2003-09-01
+   Ship  Shoal  Area,CEntral
+   Ship  Shoal  Area,central,,,2003-11-01
+   Ship  Shoal  Area,central,,,2003-12-01
+Ship Shoal Area,Central11597163,"1,375,113",2004-01-01
+Ship Shoal Area,CENTRAL10712089,"1,302,836",2004-02-01
+Ship Shoal Area,Central12959797,"1,469,222",2004-03-01
+   Ship  Shoal  Area,central,,,2004-04-01
+Ship Shoal Area,Central12897169,"1,526,455",2004-05-01
+   Ship  Shoal  Area,Central12820488,"1,490,752",2004-06-01
+Ship Shoal Area,Central12566506,"1,385,121",2004-07-01
+Ship Shoal Area,Central14098911,"1,451,O31",2004-08-01
+Ship Shoal Area,CENTRAL9209755,"1,016,902",2004-09-01
+   Ship  Shoal  Area,CEntral12535776,"1,301,931"
+Ship Shoal Area,CENTRAL10811148,"1,194,879",2004-11-01
+Ship Shoal Area,CENTRAL11768725,"1,337,360",2004-12-01
+Ship Shoal Area,CENTRAL11863509,"1,344,224",2005-01-01
+Ship Shoal Area,Central11010954,"1,236,637",2005-02-01
+   Ship  Shoal  Area,central11342746,"1,352,208",2005-03-01
+Ship Shoal Area,Central12345393,"1,447,525",2005-04-01
+Ship Shoal Area,Central12534022,"1,496,594",2005-05-01
+Ship Shoal Area,Central12043533,"1,513,255",2005-06-01
+Ship Shoal Area,CENTRAL11117619,"1,317,002",2005-07-01
+Ship Shoal Area,Central10682533,"1,2O6,886",2005-08-01
+   Ship  Shoal  Area,CEntral
+Ship Shoal Area,Central5098145,"629,661",2005-10-01
+Ship Shoal Area,CENTRAL7861390,"891,607",2005-11-01
+Ship Shoal Area,CENTRAL8989605,"1,009,825",2005-12-01
+   Ship  Shoal  Area,CEntral
+Ship Shoal Area,CENTRAL7751517,"756,911",2006-02-01
+Ship Shoal Area,Central7993787,"828,992",2006-03-01
+   South  Marsh  Island  Area,central34859206,"2,052,976",1996-01-01
+South Marsh Island Area,CENTRAL32820526,"1,839,455",1996-02-01
+South Marsh Island Area,Central34597163,"1,88O,O61",1996-03-01
+South Marsh Island Area,Central33715888,"1,908,333",1996-04-01
+   South  Marsh  Island  Area,Central36491865,"1,990,090",1996-05-01
+   South  Marsh  Island  Area,central35725323,"1,918,963",1996-06-01
+South Marsh Island Area,CENTRAL37565311,"1,899,158",1996-07-01
+   South  Marsh  Island  Area,central37041083,"1,762,581",1996-08-01
+South Marsh Island Area,Central35285302,"1,683,78O",1996-09-01
+South Marsh Island Area,Central34539147,"1,674,119",1996-10-01
+   South  Marsh  Island  Area,central,,,1996-11-01
+South Marsh Island Area,Central34786361,"1,695,636",1996-12-01
+   South  Marsh  Island  Area,central33501597,"1,624,898",1997-01-01
+South Marsh Island Area,Central29845840,"1,55O,532",1997-02-01
+South Marsh Island Area,CENTRAL32061825,"1,654,290",1997-03-01
+   South  Marsh  Island  Area,Central30017495,"1,534,355",1997-04-01
+South Marsh Island Area,Central31929675,"1,618,597",1997-05-01
+   South  Marsh  Island  Area,Central32551604,"1,659,361",1997-06-01
+South Marsh Island Area,Central33508443,"1,663,243",1997-07-01
+   South  Marsh  Island  Area,central32344839,"1,658,358",1997-08-01
+   South  Marsh  Island  Area,Central30854845,"1,596,847",1997-09-01
+   South  Marsh  Island  Area,central29859334,"1,616,933",1997-10-01
+   South  Marsh  Island  Area,CEntral
+   South  Marsh  Island  Area,central,,,1997-12-01
+South Marsh Island Area,CENTRAL29297313,"1,506,206",1998-01-01
+South Marsh Island Area,Central26327093,"1,315,116",1998-02-01
+South Marsh Island Area,Central29672461,"1,431,796",1998-03-01
+   South  Marsh  Island  Area,Central28771126,"1,430,919",1998-04-01
+South Marsh Island Area,CENTRAL28920246,"1,445,253",1998-05-01
+South Marsh Island Area,Central28034395,"1,411,939",1998-06-01
+South Marsh Island Area,Central29154939,"1,379,666",1998-07-01
+South Marsh Island Area,Central28070745,"1,454,597",1998-08-01
+   South  Marsh  Island  Area,Central21052307,"1,118,430",1998-09-01
+South Marsh Island Area,Central23842797,"1,368,810",1998-10-01
+South Marsh Island Area,Central23314090,"1,340,415",1998-11-01
+   South  Marsh  Island  Area,CEntral
+   South  Marsh  Island  Area,CEntral
+South Marsh Island Area,CENTRAL20548483,"1,108,466",1999-02-01
+   South  Marsh  Island  Area,CEntral
+South Marsh Island Area,Central21637351,"1,268,844",1999-04-01
+   South  Marsh  Island  Area,CEntral
+South Marsh Island Area,Central18750761,"1,188,5O4",1999-06-01
+   South  Marsh  Island  Area,central,,,1999-07-01
+South Marsh Island Area,Central18206090,"1,2O5,989",1999-08-01
+   South  Marsh  Island  Area,CEntral
+South Marsh Island Area,Central17099935,"1,197,779",1999-10-01
+South Marsh Island Area,Central16048683,"1,172,819",1999-11-01
+South Marsh Island Area,Central15975492,"1,162,488",1999-12-01
+   South  Marsh  Island  Area,CEntral
+South Marsh Island Area,CENTRAL14738195,"1,161,809",2000-02-01
+   South  Marsh  Island  Area,CEntral
+   South  Marsh  Island  Area,CENTRAL15539716,"1,227,484"
+   South  Marsh  Island  Area,central,,,2000-05-01
+South Marsh Island Area,Central16573468,"1,29O,657",2000-06-01
+South Marsh Island Area,Central16206816,"1,295,542",2000-07-01
+   South  Marsh  Island  Area,central,,,2000-08-01
+South Marsh Island Area,CENTRAL16273535,"1,266,783",2000-09-01
+   South  Marsh  Island  Area,CENTRAL15015055,"1,335,321"
+South Marsh Island Area,Central14978067,"1,278,625",2000-11-01
+South Marsh Island Area,CENTRAL12739927,"1,234,078",2000-12-01
+   South  Marsh  Island  Area,central11828970,"1,172,397",2001-01-01
+   South  Marsh  Island  Area,CENTRAL12175620,"1,191,688"
+South Marsh Island Area,CENTRAL13188339,"1,322,777",2001-03-01
+   South  Marsh  Island  Area,central,,,2001-04-01
+South Marsh Island Area,CENTRAL12658884,"1,522,902",2001-05-01
+   South  Marsh  Island  Area,CENTRAL11614057,"1,285,850"
+   South  Marsh  Island  Area,central11736320,"1,341,310",2001-07-01
+   South  Marsh  Island  Area,Central12699905,"1,411,720",2001-08-01
+South Marsh Island Area,Central12427859,"1,347,171",2001-09-01
+South Marsh Island Area,CENTRAL12920148,"1,307,565",2001-10-01
+South Marsh Island Area,Central12910390,"1,2O5,399",2001-11-01
+   South  Marsh  Island  Area,central12287872,"1,166,867",2001-12-01
+South Marsh Island Area,Central11211911,"1,118,356",2002-01-01
+South Marsh Island Area,Central10308267,"1,O47,45O",2002-02-01
+South Marsh Island Area,CENTRAL11016045,"1,148,233",2002-03-01
+South Marsh Island Area,CENTRAL13999986,"1,238,326",2002-04-01
+   South  Marsh  Island  Area,CEntral
+   South  Marsh  Island  Area,central14995292,"1,124,758",2002-06-01
+   South  Marsh  Island  Area,CEntral
+   South  Marsh  Island  Area,CENTRAL16213172,"1,300,675"
+South Marsh Island Area,Central13279048,"1,139,299",2002-09-01
+   South  Marsh  Island  Area,central11427261,"1,036,027",2002-10-01
+South Marsh Island Area,CENTRAL13269141,"1,300,163",2002-11-01
+   South  Marsh  Island  Area,CEntral
+South Marsh Island Area,Central12265893,"1,341,431",2003-01-01
+   South  Marsh  Island  Area,central10756915,"1,170,141",2003-02-01
+South Marsh Island Area,Central11192869,"1,184,792",2003-03-01
+   South  Marsh  Island  Area,CENTRAL11364560,"1,100,850"
+   South  Marsh  Island  Area,CEntral
+   South  Marsh  Island  Area,CEntral
+South Marsh Island Area,Central10857704,"1,42O,639",2003-07-01
+South Marsh Island Area,CENTRAL10968500,"1,450,619",2003-08-01
+South Marsh Island Area,Central10409783,"1,391,252",2003-09-01
+South Marsh Island Area,Central10534851,"1,387,166",2003-10-01
+   South  Marsh  Island  Area,central9562380,"1,211,588",2003-11-01
+South Marsh Island Area,CENTRAL10697094,"1,334,649",2003-12-01
+South Marsh Island Area,CENTRAL10940958,"1,351,766",2004-01-01
+   South  Marsh  Island  Area,CEntral
+   South  Marsh  Island  Area,Central10701180,"1,220,864",2004-03-01
+South Marsh Island Area,CENTRAL9949828,"1,206,281",2004-04-01
+   South  Marsh  Island  Area,CEntral
+   South  Marsh  Island  Area,Central9706507,"1,248,240",2004-06-01
+   South  Marsh  Island  Area,central11842351,"1,410,138",2004-07-01
+South Marsh Island Area,Central11643787,"1,337,598",2004-08-01
+   South  Marsh  Island  Area,CENTRAL10806164,"1,209,571"
+   South  Marsh  Island  Area,central11494781,"1,271,781",2004-10-01
+South Marsh Island Area,Central10638795,"1,156,8O1",2004-11-01
+   South  Marsh  Island  Area,CEntral
+South Marsh Island Area,Central11457013,"1,292,758",2005-01-01
+   South  Marsh  Island  Area,CEntral
+South Marsh Island Area,Central11189837,"1,329,844",2005-03-01
+   South  Marsh  Island  Area,central11887360,"1,415,504",2005-04-01
+South Marsh Island Area,Central11973600,"1,241,362",2005-05-01
+   South  Marsh  Island  Area,CEntral11165075,"1,209,095"
+   South  Marsh  Island  Area,central,,,2005-07-01
+South Marsh Island Area,CENTRAL9256833,"1,052,385",2005-08-01
+   South  Marsh  Island  Area,central,,,2005-09-01
+South Marsh Island Area,CENTRAL1846496,"222,742",2005-10-01
+   South  Marsh  Island  Area,CENTRAL4802364,"337,383"
+South Marsh Island Area,Central5734419,"557,227",2005-12-01
+South Marsh Island Area,CENTRAL5594581,"673,364",2006-01-01
+   South  Marsh  Island  Area,central4951593,"608,444",2006-02-01
+South Marsh Island Area,CENTRAL4171503,"696,132",2006-03-01
+   South  Pass  Area,central,,,1996-01-01
+South Pass Area,Central12434343,"2,244,494",1996-02-01
+   South  Pass  Area,CEntral13813315,"2,405,436"
+South Pass Area,Central14218177,"2,177,738",1996-04-01
+   South  Pass  Area,CENTRAL14995722,"2,203,326"
+   South  Pass  Area,CEntral14294174,"2,018,096"
+   South  Pass  Area,central,,,1996-07-01
+South Pass Area,CENTRAL15002081,"2,060,827",1996-08-01
+South Pass Area,CENTRAL14947805,"1,990,427",1996-09-01
+   South  Pass  Area,CEntral
+South Pass Area,CENTRAL13476417,"2,016,295",1996-11-01
+South Pass Area,Central13811689,"2,135,812",1996-12-01
+   South  Pass  Area,Central14143147,"2,060,891",1997-01-01
+   South  Pass  Area,CEntral
+   South  Pass  Area,CEntral
+South Pass Area,Central13538868,"1,933,558",1997-04-01
+   South  Pass  Area,central,,,1997-05-01
+   South  Pass  Area,central,,,1997-06-01
+South Pass Area,Central13503945,"1,93O,894",1997-07-01
+   South  Pass  Area,central,,,1997-08-01
+   South  Pass  Area,CEntral
+   South  Pass  Area,central,,,1997-10-01
+   South  Pass  Area,CEntral12009417,"1,994,377"
+   South  Pass  Area,Central12033810,"2,130,559",1997-12-01
+   South  Pass  Area,central11088765,"2,118,864",1998-01-01
+South Pass Area,Central10474421,"1,849,84O",1998-02-01
+   South  Pass  Area,central11557902,"2,027,432",1998-03-01
+South Pass Area,Central11342565,"1,911,145",1998-04-01
+   South  Pass  Area,Central11856793,"2,125,252",1998-05-01
+   South  Pass  Area,central11224840,"1,999,465",1998-06-01
+South Pass Area,Central10502565,"1,91O,235",1998-07-01
+South Pass Area,CENTRAL11424443,"1,892,319",1998-08-01
+South Pass Area,CENTRAL7750466,"1,276,773",1998-09-01
+South Pass Area,Central6660459,"1,3O9,437",1998-10-01
+   South  Pass  Area,central8384236,"1,529,409",1998-11-01
+   South  Pass  Area,central,,,1998-12-01
+South Pass Area,Central10974088,"1,816,O34",1999-01-01
+   South  Pass  Area,CEntral
+   South  Pass  Area,central10662236,"1,800,209",1999-03-01
+South Pass Area,Central9713246,"1,719,463",1999-04-01
+   South  Pass  Area,CEntral
+South Pass Area,Central10010213,"1,577,467",1999-06-01
+   South  Pass  Area,CEntral
+South Pass Area,CENTRAL12154466,"1,711,803",1999-08-01
+South Pass Area,CENTRAL11877879,"1,581,565",1999-09-01
+South Pass Area,CENTRAL11871161,"1,548,322",1999-10-01
+South Pass Area,CENTRAL11300195,"1,528,123",1999-11-01
+South Pass Area,CENTRAL11731732,"1,590,830",1999-12-01
+South Pass Area,Central11492396,"1,551,83O",2000-01-01
+South Pass Area,Central10651539,"1,335,941",2000-02-01
+South Pass Area,CENTRAL11389558,"1,498,801",2000-03-01
+   South  Pass  Area,CEntral10730552,"1,415,308"
+South Pass Area,CENTRAL11054404,"1,456,861",2000-05-01
+   South  Pass  Area,CEntral
+South Pass Area,CENTRAL10784310,"1,485,699",2000-07-01
+   South  Pass  Area,CEntral
+   South  Pass  Area,CENTRAL10355975,"1,401,003"
+South Pass Area,Central11227271,"1,511,121",2000-10-01
+   South  Pass  Area,Central10783322,"1,439,929",2000-11-01
+   South  Pass  Area,CEntral
+South Pass Area,CENTRAL11259778,"1,444,040",2001-01-01
+   South  Pass  Area,central9640339,"1,242,256",2001-02-01
+South Pass Area,CENTRAL10536407,"1,311,151",2001-03-01
+South Pass Area,CENTRAL10012454,"1,204,627",2001-04-01
+South Pass Area,CENTRAL10745717,"1,258,986",2001-05-01
+South Pass Area,CENTRAL10479036,"1,160,924",2001-06-01
+South Pass Area,Central10011009,"1,11O,947",2001-07-01
+South Pass Area,Central10166420,"1,O87,2O3",2001-08-01
+   South  Pass  Area,central,,,2001-09-01
+   South  Pass  Area,central,,,2001-10-01
+   South  Pass  Area,CEntral
+   South  Pass  Area,central,,,2001-12-01
+   South  Pass  Area,central10604186,"1,111,484",2002-01-01
+South Pass Area,Central9141637,"1,007,487",2002-02-01
+South Pass Area,Central9037925,"8O7,249",2002-03-01
+South Pass Area,Central8358195,"741,689",2002-04-01
+South Pass Area,Central9583381,"1,O74,O97",2002-05-01
+South Pass Area,Central9021237,"1,O53,438",2002-06-01
+South Pass Area,Central8918202,"1,O81,75O",2002-07-01
+   South  Pass  Area,central8374799,"1,102,523",2002-08-01
+   South  Pass  Area,CEntral6539496,"679,422"
+South Pass Area,CENTRAL5964148,"766,153",2002-10-01
+South Pass Area,Central7351124,"979,957",2002-11-01
+   South  Pass  Area,CENTRAL7897503,"962,344"
+South Pass Area,Central7665430,"935,416",2003-01-01
+South Pass Area,Central6844005,"867,433",2003-02-01
+   South  Pass  Area,CEntral7746567,"932,032"
+   South  Pass  Area,central,,,2003-04-01
+South Pass Area,CENTRAL7003735,"881,561",2003-05-01
+South Pass Area,Central6482292,"822,664",2003-06-01
+   South  Pass  Area,CEntral5709582,"716,555"
+South Pass Area,CENTRAL6786338,"852,949",2003-08-01
+   South  Pass  Area,central,,,2003-09-01
+   South  Pass  Area,central,,,2003-10-01
+South Pass Area,Central6075150,"931,OOO",2003-11-01
+   South  Pass  Area,Central6030385,"962,026",2003-12-01
+South Pass Area,Central5652249,"899,558",2004-01-01
+South Pass Area,Central4916715,"835,776",2004-02-01
+South Pass Area,Central5028373,"874,29O",2004-03-01
+South Pass Area,Central4828268,"816,521",2004-04-01
+   South  Pass  Area,CENTRAL4779442,"839,781"
+South Pass Area,Central4562802,"799,416",2004-06-01
+South Pass Area,Central4247519,"797,316",2004-07-01
+   South  Pass  Area,central4131529,"758,790",2004-08-01
+South Pass Area,Central2274894,"376,203",2004-09-01
+   South  Pass  Area,central1638439,"211,803",2004-10-01
+South Pass Area,CENTRAL1486689,"222,759",2004-11-01
+South Pass Area,CENTRAL1627340,"322,587",2004-12-01
+   South  Pass  Area,central,,,2005-01-01
+South Pass Area,Central2289371,"319,764",2005-02-01
+   South  Pass  Area,central,,,2005-03-01
+South Pass Area,Central2412337,"189,5O2",2005-04-01
+South Pass Area,Central3373028,"4O6,9O1",2005-05-01
+South Pass Area,Central3126802,"300,003",2005-06-01
+South Pass Area,CENTRAL3299363,"416,790",2005-07-01
+South Pass Area,CENTRAL3397358,"450,284",2005-08-01
+South Pass Area,CENTRAL,.,2005-09-01
+South Pass Area,Central,.,2005-10-01
+   South  Pass  Area,central,,,2005-11-01
+South Pass Area,Central190407,"4,792",2005-12-01
+South Pass Area,Central216075,"28,752",2006-01-01
+South Pass Area,Central479428,"37,752",2006-02-01
+   South  Pass  Area,central1664014,"73,115",2006-03-01
+South Pelto Area,Central4402482,"327,567",1996-01-01
+South Pelto Area,CENTRAL4083124,"314,370",1996-02-01
+South Pelto Area,CENTRAL4457658,"327,936",1996-03-01
+   South  Pelto  Area,CEntral4390055,"310,632"
+   South  Pelto  Area,central4201021,"277,501",1996-05-01
+   South  Pelto  Area,central,,,1996-06-01
+   South  Pelto  Area,central3282947,"237,022",1996-07-01
+South Pelto Area,CENTRAL3161480,"250,587",1996-08-01
+South Pelto Area,CENTRAL2739375,"263,331",1996-09-01
+   South  Pelto  Area,central,,,1996-10-01
+   South  Pelto  Area,central2397493,"237,486",1996-11-01
+South Pelto Area,CENTRAL2364244,"230,288",1996-12-01
+   South  Pelto  Area,central2217117,"211,183",1997-01-01
+   South  Pelto  Area,Central1952160,"196,228",1997-02-01
+South Pelto Area,Central2148707,"234,93O",1997-03-01
+   South  Pelto  Area,CEntral2128954,"233,067"
+   South  Pelto  Area,CEntral
+   South  Pelto  Area,CEntral1857756,"209,311"
+South Pelto Area,Central2132227,"231,272",1997-07-01
+South Pelto Area,Central2637817,"231,313",1997-08-01
+South Pelto Area,Central2524960,"235,985",1997-09-01
+   South  Pelto  Area,central,,,1997-10-01
+South Pelto Area,Central3036387,"262,889",1997-11-01
+   South  Pelto  Area,central3678116,"309,552",1997-12-01
+South Pelto Area,Central4365699,"372,673",1998-01-01
+   South  Pelto  Area,central3989884,"332,213",1998-02-01
+South Pelto Area,CENTRAL4273611,"359,738",1998-03-01
+   South  Pelto  Area,CEntral
+   South  Pelto  Area,central,,,1998-05-01
+South Pelto Area,CENTRAL3453075,"293,817",1998-06-01
+South Pelto Area,Central4061800,"332,925",1998-07-01
+   South  Pelto  Area,CEntral
+South Pelto Area,CENTRAL2617718,"197,050",1998-09-01
+South Pelto Area,CENTRAL3971277,"354,170",1998-10-01
+   South  Pelto  Area,central4414425,"341,104",1998-11-01
+   South  Pelto  Area,Central3703565,"269,408",1998-12-01
+   South  Pelto  Area,CEntral3682039,"281,991"
+South Pelto Area,CENTRAL3516141,"263,599",1999-02-01
+   South  Pelto  Area,CENTRAL4527306,"322,252"
+South Pelto Area,CENTRAL4281957,"289,989",1999-04-01
+   South  Pelto  Area,central4153887,"289,601",1999-05-01
+   South  Pelto  Area,central,,,1999-06-01
+   South  Pelto  Area,central3927335,"249,732",1999-07-01
+   South  Pelto  Area,CEntral4071046,"260,017"
+South Pelto Area,Central3959181,"245,425",1999-09-01
+   South  Pelto  Area,central4095905,"246,545",1999-10-01
+   South  Pelto  Area,CEntral
+South Pelto Area,CENTRAL3455338,"244,138",1999-12-01
+   South  Pelto  Area,central3545070,"248,040",2000-01-01
+South Pelto Area,Central3239732,"2O1,935",2000-02-01
+South Pelto Area,CENTRAL3285777,"208,435",2000-03-01
+   South  Pelto  Area,central,,,2000-04-01
+South Pelto Area,Central2917153,"192,508",2000-05-01
+South Pelto Area,Central2785097,"199,628",2000-06-01
+   South  Pelto  Area,CENTRAL3112803,"213,090"
+   South  Pelto  Area,central3571603,"232,331",2000-08-01
+   South  Pelto  Area,central3259073,"221,394",2000-09-01
+   South  Pelto  Area,central3221987,"232,470",2000-10-01
+South Pelto Area,Central3392314,"183,883",2000-11-01
+South Pelto Area,CENTRAL3109604,"230,176",2000-12-01
+   South  Pelto  Area,CENTRAL4610586,"261,910"
+   South  Pelto  Area,central3904510,"235,504",2001-02-01
+South Pelto Area,Central4602118,"256,630",2001-03-01
+   South  Pelto  Area,central,,,2001-04-01
+South Pelto Area,Central5074114,"279,852",2001-05-01
+South Pelto Area,Central4021779,"27O,493",2001-06-01
+South Pelto Area,Central4048234,"262,214",2001-07-01
+South Pelto Area,Central3744357,"246,357",2001-08-01
+   South  Pelto  Area,central3530903,"246,310",2001-09-01
+South Pelto Area,Central3419332,"226,806",2001-10-01
+South Pelto Area,Central3403149,"216,165",2001-11-01
+South Pelto Area,Central3789025,"22O,32O",2001-12-01
+   South  Pelto  Area,CEntral
+   South  Pelto  Area,CEntral
+South Pelto Area,Central3636382,"225,315",2002-03-01
+South Pelto Area,CENTRAL3661817,"215,302",2002-04-01
+South Pelto Area,CENTRAL3831499,"210,434",2002-05-01
+   South  Pelto  Area,central,,,2002-06-01
+South Pelto Area,Central4057616,"203,245",2002-07-01
+   South  Pelto  Area,central,,,2002-08-01
+   South  Pelto  Area,central,,,2002-09-01
+South Pelto Area,CENTRAL2632008,"115,432",2002-10-01
+   South  Pelto  Area,central3126149,"167,261",2002-11-01
+South Pelto Area,Central3548182,"193,992",2002-12-01
+   South  Pelto  Area,CENTRAL3298254,"174,714"
+South Pelto Area,Central2911859,"15O,274",2003-02-01
+   South  Pelto  Area,CENTRAL3293784,"160,406"
+South Pelto Area,Central3098344,"145,151",2003-04-01
+South Pelto Area,Central3194481,"138,166",2003-05-01
+South Pelto Area,CENTRAL2829575,"131,021",2003-06-01
+South Pelto Area,Central3007699,"149,426",2003-07-01
+   South  Pelto  Area,CEntral2832473,"151,017"
+South Pelto Area,CENTRAL2505255,"138,074",2003-09-01
+   South  Pelto  Area,Central2487718,"161,402",2003-10-01
+South Pelto Area,CENTRAL2282380,"146,214",2003-11-01
+   South  Pelto  Area,central,,,2003-12-01
+   South  Pelto  Area,CEntral2394650,"160,221"
+   South  Pelto  Area,central2216435,"152,901",2004-02-01
+South Pelto Area,Central2752352,"183,664",2004-03-01
+South Pelto Area,Central2965891,"231,84O",2004-04-01
+   South  Pelto  Area,CEntral
+South Pelto Area,CENTRAL2635235,"238,040",2004-06-01
+South Pelto Area,CENTRAL2543536,"237,269",2004-07-01
+South Pelto Area,CENTRAL2298113,"217,803",2004-08-01
+South Pelto Area,Central1926387,"168,491",2004-09-01
+   South  Pelto  Area,central2134854,"179,047",2004-10-01
+South Pelto Area,Central1920875,"186,760",2004-11-01
+   South  Pelto  Area,central1841965,"165,229",2004-12-01
+South Pelto Area,CENTRAL1811136,"152,780",2005-01-01
+South Pelto Area,CENTRAL1672641,"127,055",2005-02-01
+   South  Pelto  Area,CEntral1904663,"172,368"
+   South  Pelto  Area,central1727962,"177,212",2005-04-01
+South Pelto Area,CENTRAL1688200,"178,837",2005-05-01
+South Pelto Area,Central1520720,"171,874",2005-06-01
+   South  Pelto  Area,CEntral
+South Pelto Area,CENTRAL1378326,"150,723",2005-08-01
+   South  Pelto  Area,CENTRAL543007,"33,833"
+South Pelto Area,Central993220,"101,643",2005-10-01
+South Pelto Area,Central1136197,"165,487",2005-11-01
+South Pelto Area,Central1091686,"158,926",2005-12-01
+South Pelto Area,Central932834,"137,649",2006-01-01
+South Pelto Area,Central823772,"141,106",2006-02-01
+   South  Pelto  Area,CEntral1058306,"155,751"
+   South  Timbalier  Area,central,,,1996-01-01
+   South  Timbalier  Area,CEntral19662401,"1,574,595"
+   South  Timbalier  Area,Central20611981,"1,653,221",1996-03-01
+South Timbalier Area,CENTRAL18785175,"1,600,188",1996-04-01
+   South  Timbalier  Area,Central18923619,"1,598,591",1996-05-01
+   South  Timbalier  Area,CEntral18794745,"1,562,190"
+South Timbalier Area,Central21725000,"1,769,714",1996-07-01
+South Timbalier Area,Central21855097,"1,8O3,O86",1996-08-01
+   South  Timbalier  Area,central24288449,"1,967,514",1996-09-01
+South Timbalier Area,CENTRAL24234920,"1,889,528",1996-10-01
+   South  Timbalier  Area,CEntral25926590,"1,900,502"
+South Timbalier Area,CENTRAL27716857,"1,989,656",1996-12-01
+South Timbalier Area,Central26580968,"2,OO4,436",1997-01-01
+South Timbalier Area,Central23837887,"1,816,933",1997-02-01
+   South  Timbalier  Area,CEntral26341842,"2,044,472"
+South Timbalier Area,Central25485134,"1,932,8O4",1997-04-01
+   South  Timbalier  Area,central24945450,"1,843,644",1997-05-01
+South Timbalier Area,CENTRAL25924349,"2,003,529",1997-06-01
+   South  Timbalier  Area,CEntral
+   South  Timbalier  Area,Central23423625,"1,992,265",1997-08-01
+   South  Timbalier  Area,central,,,1997-09-01
+South Timbalier Area,CENTRAL25042886,"2,370,615",1997-10-01
+   South  Timbalier  Area,central24407797,"2,281,984",1997-11-01
+South Timbalier Area,Central24375071,"2,367,512",1997-12-01
+South Timbalier Area,Central26479376,"2,235,270",1998-01-01
+South Timbalier Area,CENTRAL23815103,"2,041,828",1998-02-01
+   South  Timbalier  Area,central,,,1998-03-01
+   South  Timbalier  Area,CENTRAL27893207,"2,118,308"
+South Timbalier Area,CENTRAL30111674,"2,042,275",1998-05-01
+South Timbalier Area,CENTRAL30959860,"2,179,360",1998-06-01
+   South  Timbalier  Area,CEntral30530044,"2,119,844"
+South Timbalier Area,Central31088420,"2,249,149",1998-08-01
+South Timbalier Area,Central21627589,"1,5O3,911",1998-09-01
+   South  Timbalier  Area,central26514456,"1,940,775",1998-10-01
+South Timbalier Area,CENTRAL22747512,"1,652,143",1998-11-01
+   South  Timbalier  Area,central24787770,"1,840,865",1998-12-01
+   South  Timbalier  Area,CEntral24392294,"1,797,797"
+   South  Timbalier  Area,CEntral
+South Timbalier Area,Central25126216,"1,849,065",1999-03-01
+South Timbalier Area,CENTRAL24680252,"1,878,583",1999-04-01
+   South  Timbalier  Area,CEntral
+   South  Timbalier  Area,central,,,1999-06-01
+South Timbalier Area,CENTRAL26230475,"2,145,809",1999-07-01
+South Timbalier Area,Central25172915,"2,O58,617",1999-08-01
+   South  Timbalier  Area,CEntral24411425,"2,197,948"
+   South  Timbalier  Area,CEntral
+South Timbalier Area,Central22367149,"2,O81,O88",1999-11-01
+   South  Timbalier  Area,central,,,1999-12-01
+   South  Timbalier  Area,CEntral
+   South  Timbalier  Area,CEntral
+   South  Timbalier  Area,central23807758,"2,000,656",2000-03-01
+South Timbalier Area,Central22633809,"1,794,674",2000-04-01
+   South  Timbalier  Area,CEntral23583464,"1,985,538"
+   South  Timbalier  Area,central,,,2000-06-01
+South Timbalier Area,Central25790036,"2,341,492",2000-07-01
+South Timbalier Area,Central26202346,"2,484,67O",2000-08-01
+   South  Timbalier  Area,CEntral
+South Timbalier Area,CENTRAL28429005,"2,411,422",2000-10-01
+South Timbalier Area,Central27586433,"2,37O,52O",2000-11-01
+   South  Timbalier  Area,CENTRAL26669955,"2,399,719"
+South Timbalier Area,CENTRAL28391139,"2,369,612",2001-01-01
+South Timbalier Area,Central26680535,"2,256,884",2001-02-01
+South Timbalier Area,Central27869796,"2,4O5,872",2001-03-01
+South Timbalier Area,CENTRAL26701047,"2,355,806",2001-04-01
+   South  Timbalier  Area,Central26234166,"2,433,250",2001-05-01
+South Timbalier Area,Central25271743,"2,411,355",2001-06-01
+   South  Timbalier  Area,central26943062,"2,526,514",2001-07-01
+South Timbalier Area,Central24686464,"2,347,O16",2001-08-01
+South Timbalier Area,CENTRAL25400166,"2,358,089",2001-09-01
+   South  Timbalier  Area,CENTRAL27205899,"2,658,745"
+South Timbalier Area,CENTRAL27030723,"2,539,303",2001-11-01
+South Timbalier Area,CENTRAL29197592,"2,675,977",2001-12-01
+South Timbalier Area,Central29377690,"2,696,074",2002-01-01
+   South  Timbalier  Area,CENTRAL27587452,"2,485,252"
+South Timbalier Area,Central31794315,"2,850,577",2002-03-01
+South Timbalier Area,Central30412118,"2,761,5O8",2002-04-01
+South Timbalier Area,CENTRAL34321136,"2,770,381",2002-05-01
+South Timbalier Area,CENTRAL33427751,"2,503,229",2002-06-01
+   South  Timbalier  Area,CEntral34242580,"2,626,006"
+   South  Timbalier  Area,central32434202,"2,491,378",2002-08-01
+South Timbalier Area,Central26197937,"1,984,752",2002-09-01
+   South  Timbalier  Area,Central23514902,"1,841,528",2002-10-01
+South Timbalier Area,CENTRAL27702073,"1,940,598",2002-11-01
+   South  Timbalier  Area,CENTRAL27943781,"2,069,444"
+   South  Timbalier  Area,central25717263,"1,955,086",2003-01-01
+   South  Timbalier  Area,CEntral23769686,"1,735,930"
+South Timbalier Area,Central26078388,"1,985,653",2003-03-01
+   South  Timbalier  Area,CEntral24843063,"1,934,260"
+   South  Timbalier  Area,Central25087451,"2,164,781",2003-05-01
+South Timbalier Area,Central22824742,"1,969,224",2003-06-01
+South Timbalier Area,Central22199184,"2,017,751",2003-07-01
+South Timbalier Area,CENTRAL21990282,"2,054,083",2003-08-01
+South Timbalier Area,Central21569274,"2,O94,315",2003-09-01
+   South  Timbalier  Area,central,,,2003-10-01
+   South  Timbalier  Area,CENTRAL20685041,"2,219,916"
+South Timbalier Area,CENTRAL22048778,"2,362,815",2003-12-01
+South Timbalier Area,CENTRAL24753322,"2,447,676",2004-01-01
+South Timbalier Area,Central24421166,"2,548,5OO",2004-02-01
+   South  Timbalier  Area,Central27175939,"2,751,465",2004-03-01
+South Timbalier Area,Central25505521,"2,456,O63",2004-04-01
+   South  Timbalier  Area,central25774227,"2,656,958",2004-05-01
+South Timbalier Area,Central22125793,"2,508,636",2004-06-01
+South Timbalier Area,CENTRAL22117654,"2,578,307",2004-07-01
+South Timbalier Area,Central20745675,"2,531,831",2004-08-01
+South Timbalier Area,Central16765927,"2,O57,O78",2004-09-01
+South Timbalier Area,Central17902835,"2,382,887",2004-10-01
+   South  Timbalier  Area,central,,,2004-11-01
+   South  Timbalier  Area,CENTRAL17111920,"2,371,858"
+   South  Timbalier  Area,CEntral
+South Timbalier Area,Central16037105,"2,148,81O",2005-02-01
+   South  Timbalier  Area,central16563994,"2,437,364",2005-03-01
+   South  Timbalier  Area,CEntral
+South Timbalier Area,Central17459590,"2,471,838",2005-05-01
+South Timbalier Area,CENTRAL16781218,"2,308,481",2005-06-01
+South Timbalier Area,Central15619919,"2,1O6,293",2005-07-01
+   South  Timbalier  Area,CENTRAL14650149,"1,814,013"
+   South  Timbalier  Area,CENTRAL4700537,"532,602"
+South Timbalier Area,CENTRAL10357639,"1,522,849",2005-10-01
+South Timbalier Area,Central10706881,"1,548,417",2005-11-01
+   South  Timbalier  Area,central,,,2005-12-01
+South Timbalier Area,CENTRAL11181768,"1,381,313",2006-01-01
+South Timbalier Area,Central9892603,"1,217,8O6",2006-02-01
+   South  Timbalier  Area,Central8664942,"834,379",2006-03-01
+   Vermilion  Area,central,,,1996-01-01
+   Vermilion  Area,CEntral
+Vermilion Area,Central31826941,"1,395,134",1996-03-01
+Vermilion Area,CENTRAL28966921,"1,315,112",1996-04-01
+Vermilion Area,CENTRAL30825587,"1,352,884",1996-05-01
+Vermilion Area,Central28336658,"1,224,795",1996-06-01
+Vermilion Area,Central28148932,"1,3O3,574",1996-07-01
+   Vermilion  Area,central,,,1996-08-01
+   Vermilion  Area,central25414617,"1,228,018",1996-09-01
+   Vermilion  Area,central24905067,"1,274,895",1996-10-01
+   Vermilion  Area,CENTRAL23931172,"1,212,890"
+   Vermilion  Area,CEntral
+   Vermilion  Area,central,,,1997-01-01
+Vermilion Area,CENTRAL27283446,"1,246,862",1997-02-01
+   Vermilion  Area,CEntral
+Vermilion Area,Central28527540,"1,390,753",1997-04-01
+   Vermilion  Area,central30074130,"1,411,235",1997-05-01
+   Vermilion  Area,central29931386,"1,457,394",1997-06-01
+   Vermilion  Area,central,,,1997-07-01
+Vermilion Area,CENTRAL30004707,"1,585,534",1997-08-01
+Vermilion Area,CENTRAL27748344,"1,387,743",1997-09-01
+   Vermilion  Area,central27496713,"1,436,200",1997-10-01
+   Vermilion  Area,CEntral26165251,"1,416,091"
+Vermilion Area,Central27259397,"1,410,761",1997-12-01
+   Vermilion  Area,central,,,1998-01-01
+Vermilion Area,Central24760358,"1,2O3,927",1998-02-01
+Vermilion Area,Central28123102,"1,3O9,271",1998-03-01
+   Vermilion  Area,central,,,1998-04-01
+Vermilion Area,Central25681264,"1,35O,618",1998-05-01
+   Vermilion  Area,CEntral
+Vermilion Area,Central25393535,"1,270,789",1998-07-01
+Vermilion Area,CENTRAL25030230,"1,182,883",1998-08-01
+Vermilion Area,CENTRAL20235836,"808,763",1998-09-01
+   Vermilion  Area,central23779398,"1,190,745",1998-10-01
+   Vermilion  Area,CEntral22566283,"1,129,127"
+   Vermilion  Area,central22492287,"1,188,740",1998-12-01
+   Vermilion  Area,Central22117052,"1,177,657",1999-01-01
+Vermilion Area,Central20875964,"1,128,150",1999-02-01
+Vermilion Area,Central23819517,"1,195,644",1999-03-01
+   Vermilion  Area,CENTRAL22559768,"1,118,031"
+Vermilion Area,Central22364530,"1,O97,4O1",1999-05-01
+Vermilion Area,Central21260966,"1,O16,633",1999-06-01
+Vermilion Area,CENTRAL23434846,"1,071,426",1999-07-01
+   Vermilion  Area,CENTRAL24042661,"1,087,789"
+   Vermilion  Area,central23846919,"1,126,983",1999-09-01
+   Vermilion  Area,central25270108,"1,105,490",1999-10-01
+Vermilion Area,CENTRAL24838175,"1,082,504",1999-11-01
+   Vermilion  Area,CEntral25686396,"1,014,056"
+Vermilion Area,Central26224615,"1,076,917",2000-01-01
+Vermilion Area,CENTRAL23564916,"990,347",2000-02-01
+   Vermilion  Area,CEntral26108664,"1,049,130"
+Vermilion Area,Central25242972,"995,980",2000-04-01
+   Vermilion  Area,central26384954,"1,222,415",2000-05-01
+   Vermilion  Area,CEntral24382984,"1,166,109"
+   Vermilion  Area,Central25255577,"1,166,843",2000-07-01
+Vermilion Area,Central24851531,"1,223,422",2000-08-01
+   Vermilion  Area,CENTRAL23960368,"1,163,289"
+   Vermilion  Area,Central24381763,"1,140,870",2000-10-01
+   Vermilion  Area,CEntral
+Vermilion Area,Central23544135,"1,111,191",2000-12-01
+Vermilion Area,Central23954147,"1,116,276",2001-01-01
+Vermilion Area,Central21975486,"1,OO6,797",2001-02-01
+   Vermilion  Area,central22953222,"1,115,516",2001-03-01
+   Vermilion  Area,Central21870731,"1,125,590",2001-04-01
+Vermilion Area,Central20990034,"1,189,17O",2001-05-01
+   Vermilion  Area,Central18563392,"1,080,220",2001-06-01
+   Vermilion  Area,central,,,2001-07-01
+Vermilion Area,Central19217601,"1,2O3,OO1",2001-08-01
+   Vermilion  Area,CEntral
+Vermilion Area,Central18136153,"1,075,558",2001-10-01
+Vermilion Area,Central17581235,"1,O11,171",2001-11-01
+   Vermilion  Area,CEntral17170510,"962,376"
+   Vermilion  Area,central15853981,"931,984",2002-01-01
+   Vermilion  Area,central13673056,"903,803",2002-02-01
+   Vermilion  Area,CEntral
+   Vermilion  Area,Central14152722,"991,787",2002-04-01
+Vermilion Area,CENTRAL13681248,"1,087,090",2002-05-01
+Vermilion Area,Central12673540,"976,61O",2002-06-01
+Vermilion Area,Central13153345,"974,223",2002-07-01
+Vermilion Area,CENTRAL13629237,"969,199",2002-08-01
+   Vermilion  Area,CEntral11472498,"777,015"
+Vermilion Area,CENTRAL10373395,"682,867",2002-10-01
+Vermilion Area,Central11636398,"795,701",2002-11-01
+Vermilion Area,Central12363051,"815,277",2002-12-01
+   Vermilion  Area,CEntral
+Vermilion Area,Central12492930,"775,415",2003-02-01
+   Vermilion  Area,CEntral14304118,"833,993"
+   Vermilion  Area,central13112675,"888,922",2003-04-01
+   Vermilion  Area,central12907844,"817,636",2003-05-01
+Vermilion Area,Central12672128,"779,986",2003-06-01
+   Vermilion  Area,CEntral
+   Vermilion  Area,CEntral13886866,"1,020,123"
+   Vermilion  Area,Central12713482,"948,581",2003-09-01
+   Vermilion  Area,CENTRAL12780259,"1,063,172"
+Vermilion Area,Central12397948,"966,371",2003-11-01
+Vermilion Area,Central12800740,"1,052,085",2003-12-01
+Vermilion Area,CENTRAL13139102,"1,097,218",2004-01-01
+   Vermilion  Area,CEntral
+Vermilion Area,Central12043263,"951,72O",2004-03-01
+   Vermilion  Area,CEntral11479110,"866,873"
+   Vermilion  Area,CEntral
+Vermilion Area,CENTRAL11086710,"979,830",2004-06-01
+Vermilion Area,Central11836500,"995,593",2004-07-01
+Vermilion Area,Central12365635,"1,OO2,661",2004-08-01
+   Vermilion  Area,CEntral10514653,"842,736"
+Vermilion Area,Central11459654,"888,5O1",2004-10-01
+Vermilion Area,CENTRAL11348283,"950,532",2004-11-01
+Vermilion Area,Central11755191,"972,663",2004-12-01
+   Vermilion  Area,CENTRAL11970183,"925,477"
+Vermilion Area,Central11681949,"825,O92",2005-02-01
+   Vermilion  Area,CENTRAL12353303,"957,359"
+Vermilion Area,CENTRAL11741875,"905,884",2005-04-01
+   Vermilion  Area,central,,,2005-05-01
+Vermilion Area,Central12544005,"952,O18",2005-06-01
+Vermilion Area,Central12008317,"745,828",2005-07-01
+Vermilion Area,CENTRAL11472033,"838,116",2005-08-01
+Vermilion Area,Central8101967,"523,793",2005-09-01
+   Vermilion  Area,central3016909,"54,968",2005-10-01
+   Vermilion  Area,CENTRAL6190242,"223,062"
+Vermilion Area,CENTRAL7799810,"322,897",2005-12-01
+Vermilion Area,Central7920377,"345,293",2006-01-01
+   Vermilion  Area,central,,,2006-02-01
+Vermilion Area,CENTRAL7376356,"491,202",2006-03-01
+Viosca Knoll,Central4726490,"327,892",1996-01-01
+   Viosca  Knoll,central,,,1996-02-01
+   Viosca  Knoll,CEntral5105086,"278,247"
+Viosca Knoll,CENTRAL5064376,"277,445",1996-04-01
+Viosca Knoll,CENTRAL4925054,"299,104",1996-05-01
+Viosca Knoll,Central4876590,"286,627",1996-06-01
+Viosca Knoll,Central4356306,"260,620",1996-07-01
+   Viosca  Knoll,central,,,1996-08-01
+   Viosca  Knoll,CEntral
+   Viosca  Knoll,central6658193,"253,123",1996-10-01
+   Viosca  Knoll,central8205788,"264,609",1996-11-01
+Viosca Knoll,Central8900259,"334,126",1996-12-01
+   Viosca  Knoll,CEntral
+Viosca Knoll,CENTRAL6405072,"262,583",1997-02-01
+Viosca Knoll,CENTRAL7333699,"338,067",1997-03-01
+   Viosca  Knoll,central,,,1997-04-01
+Viosca Knoll,Central8308355,"659,984",1997-05-01
+Viosca Knoll,CENTRAL7717001,"797,803",1997-06-01
+Viosca Knoll,Central8762415,"887,726",1997-07-01
+   Viosca  Knoll,CENTRAL9606667,"1,037,803"
+Viosca Knoll,Central10666025,"1,2OO,123",1997-09-01
+   Viosca  Knoll,central,,,1997-10-01
+   Viosca  Knoll,CEntral
+   Viosca  Knoll,CEntral
+Viosca Knoll,Central14382329,"2,O62,168",1998-01-01
+Viosca Knoll,Central10654910,"1,814,864",1998-02-01
+Viosca Knoll,CENTRAL14897803,"2,574,382",1998-03-01
+Viosca Knoll,CENTRAL15185906,"2,864,658",1998-04-01
+Viosca Knoll,Central15875110,"2,539,137",1998-05-01
+Viosca Knoll,CENTRAL15101101,"2,568,489",1998-06-01
+   Viosca  Knoll,central15539726,"2,535,354",1998-07-01
+Viosca Knoll,CENTRAL15433269,"2,263,346",1998-08-01
+   Viosca  Knoll,central13699638,"1,817,603",1998-09-01
+   Viosca  Knoll,CEntral
+Viosca Knoll,Central20864290,"2,525,728",1998-11-01
+Viosca Knoll,Central22842208,"2,621,571",1998-12-01
+Viosca Knoll,Central23331163,"2,671,845",1999-01-01
+   Viosca  Knoll,CEntral
+   Viosca  Knoll,central,,,1999-03-01
+   Viosca  Knoll,central,,,1999-04-01
+Viosca Knoll,CENTRAL24454650,"2,781,047",1999-05-01
+   Viosca  Knoll,Central24374341,"2,646,492",1999-06-01
+Viosca Knoll,Central24900258,"2,531,233",1999-07-01
+Viosca Knoll,Central25476954,"2,796,467",1999-08-01
+   Viosca  Knoll,CEntral23069675,"2,527,807"
+   Viosca  Knoll,central22689455,"2,542,334",1999-10-01
+Viosca Knoll,Central23760805,"2,676,919",1999-11-01
+Viosca Knoll,Central24967189,"2,769,449",1999-12-01
+   Viosca  Knoll,CEntral
+   Viosca  Knoll,central24020992,"2,330,336",2000-02-01
+   Viosca  Knoll,central,,,2000-03-01
+   Viosca  Knoll,Central24658045,"2,198,645",2000-04-01
+   Viosca  Knoll,central25157294,"2,258,524",2000-05-01
+   Viosca  Knoll,central24292229,"2,108,284",2000-06-01
+   Viosca  Knoll,Central25070560,"2,191,542",2000-07-01
+   Viosca  Knoll,central,,,2000-08-01
+Viosca Knoll,Central24236317,"2,428,389",2000-09-01
+   Viosca  Knoll,central,,,2000-10-01
+   Viosca  Knoll,CENTRAL26289509,"2,705,138"
+   Viosca  Knoll,CEntral29837022,"3,016,286"
+   Viosca  Knoll,central,,,2001-01-01
+Viosca Knoll,Central24368851,"2,753,978",2001-02-01
+   Viosca  Knoll,Central29546488,"3,470,400",2001-03-01
+   Viosca  Knoll,central30708389,"3,461,829",2001-04-01
+Viosca Knoll,Central32929332,"3,6OO,6O2",2001-05-01
+Viosca Knoll,CENTRAL31278958,"3,863,121",2001-06-01
+   Viosca  Knoll,central,,,2001-07-01
+   Viosca  Knoll,central28308196,"3,722,009",2001-08-01
+   Viosca  Knoll,CEntral
+Viosca Knoll,CENTRAL31383331,"4,138,746",2001-10-01
+Viosca Knoll,Central28474805,"3,859,480",2001-11-01
+   Viosca  Knoll,CEntral
+   Viosca  Knoll,central28333111,"3,625,885",2002-01-01
+Viosca Knoll,CENTRAL29279266,"3,538,923",2002-02-01
+Viosca Knoll,Central36420692,"4,407,988",2002-03-01
+   Viosca  Knoll,central,,,2002-04-01
+   Viosca  Knoll,CEntral
+Viosca Knoll,CENTRAL34446362,"3,754,803",2002-06-01
+Viosca Knoll,Central36352754,"3,876,138",2002-07-01
+Viosca Knoll,CENTRAL35218630,"3,792,893",2002-08-01
+   Viosca  Knoll,CENTRAL29053637,"3,111,398"
+Viosca Knoll,Central30392032,"3,276,O99",2002-10-01
+Viosca Knoll,CENTRAL33465571,"3,672,350",2002-11-01
+   Viosca  Knoll,Central34020065,"3,634,574",2002-12-01
+   Viosca  Knoll,CEntral
+Viosca Knoll,Central27167038,"3,022,978",2003-02-01
+   Viosca  Knoll,Central30463553,"3,495,804",2003-03-01
+   Viosca  Knoll,central,,,2003-04-01
+   Viosca  Knoll,CEntral
+   Viosca  Knoll,central28778582,"3,456,466",2003-06-01
+Viosca Knoll,Central29599546,"3,677,5O2",2003-07-01
+   Viosca  Knoll,CEntral
+Viosca Knoll,CENTRAL26727782,"3,497,440",2003-09-01
+   Viosca  Knoll,central,,,2003-10-01
+Viosca Knoll,CENTRAL24547990,"3,217,197",2003-11-01
+Viosca Knoll,Central24572117,"3,299,361",2003-12-01
+   Viosca  Knoll,CEntral23364205,"3,432,605"
+   Viosca  Knoll,central22985606,"3,246,557",2004-02-01
+Viosca Knoll,Central23891482,"3,127,5O6",2004-03-01
+Viosca Knoll,Central22561030,"2,764,921",2004-04-01
+Viosca Knoll,Central23280645,"2,722,569",2004-05-01
+   Viosca  Knoll,central20925334,"2,663,813",2004-06-01
+Viosca Knoll,CENTRAL22763937,"2,864,940",2004-07-01
+   Viosca  Knoll,central21892702,"2,647,381",2004-08-01
+Viosca Knoll,Central9886212,"1,15O,589",2004-09-01
+   Viosca  Knoll,CEntral
+Viosca Knoll,CENTRAL15183998,"1,026,287",2004-11-01
+Viosca Knoll,CENTRAL16772548,"1,385,910",2004-12-01
+Viosca Knoll,Central16285707,"1,351,448",2005-01-01
+   Viosca  Knoll,central,,,2005-02-01
+Viosca Knoll,Central18927471,"2,O6O,895",2005-03-01
+   Viosca  Knoll,CEntral
+Viosca Knoll,Central23163502,"2,832,629",2005-05-01
+Viosca Knoll,CENTRAL21822452,"2,561,468",2005-06-01
+Viosca Knoll,CENTRAL19360650,"2,420,578",2005-07-01
+Viosca Knoll,CENTRAL17493776,"2,198,057",2005-08-01
+   Viosca  Knoll,central,,,2005-09-01
+Viosca Knoll,Central14587770,"1,691,475",2005-10-01
+Viosca Knoll,CENTRAL18466546,"2,338,408",2005-11-01
+Viosca Knoll,Central18196235,"2,6O4,83O",2005-12-01
+Viosca Knoll,Central17858095,"2,758,168",2006-01-01
+Viosca Knoll,Central15466538,"2,366,429",2006-02-01
+   Viosca  Knoll,Central17336450,"2,622,719",2006-03-01
+West Cameron Area,Central34719430,"342,268",1996-01-01
+   West  Cameron  Area,CEntral
+West Cameron Area,Central33523103,"324,178",1996-03-01
+   West  Cameron  Area,central32310592,"324,816",1996-04-01
+   West  Cameron  Area,central34361016,"389,117",1996-05-01
+West Cameron Area,CENTRAL33686669,"392,233",1996-06-01
+West Cameron Area,CENTRAL35636401,"444,909",1996-07-01
+   West  Cameron  Area,CEntral
+West Cameron Area,Central32648908,"412,039",1996-09-01
+   West  Cameron  Area,central33469604,"476,128",1996-10-01
+West Cameron Area,Central32033449,"450,370",1996-11-01
+West Cameron Area,Central32141868,"38O,251",1996-12-01
+   West  Cameron  Area,central31599654,"389,689",1997-01-01
+   West  Cameron  Area,central29123731,"401,621",1997-02-01
+   West  Cameron  Area,central33832016,"482,233",1997-03-01
+   West  Cameron  Area,Central37165458,"612,583",1997-04-01
+   West  Cameron  Area,CEntral39589188,"640,476"
+West Cameron Area,CENTRAL37949340,"596,616",1997-06-01
+   West  Cameron  Area,CEntral
+West Cameron Area,CENTRAL41390738,"639,186",1997-08-01
+   West  Cameron  Area,central,,,1997-09-01
+West Cameron Area,CENTRAL39333585,"611,050",1997-10-01
+   West  Cameron  Area,central,,,1997-11-01
+   West  Cameron  Area,central,,,1997-12-01
+West Cameron Area,Central36760182,"828,702",1998-01-01
+West Cameron Area,Central30272023,"695,532",1998-02-01
+West Cameron Area,Central36926159,"934,668",1998-03-01
+   West  Cameron  Area,CEntral
+West Cameron Area,Central39855201,"963,941",1998-05-01
+West Cameron Area,Central35698727,"78O,O12",1998-06-01
+West Cameron Area,CENTRAL34869998,"780,861",1998-07-01
+   West  Cameron  Area,central,,,1998-08-01
+West Cameron Area,Central28495467,"5OO,OO4",1998-09-01
+West Cameron Area,CENTRAL35249740,"631,758",1998-10-01
+West Cameron Area,CENTRAL36483774,"601,031",1998-11-01
+   West  Cameron  Area,central36478618,"581,473",1998-12-01
+   West  Cameron  Area,central35316599,"572,311",1999-01-01
+West Cameron Area,Central32964206,"469,1O5",1999-02-01
+   West  Cameron  Area,CENTRAL37350818,"507,107"
+   West  Cameron  Area,central36936247,"464,920",1999-04-01
+West Cameron Area,CENTRAL37868600,"493,586",1999-05-01
+West Cameron Area,CENTRAL35639670,"505,508",1999-06-01
+   West  Cameron  Area,central37671080,"514,073",1999-07-01
+   West  Cameron  Area,central37384984,"467,524",1999-08-01
+   West  Cameron  Area,CEntral
+West Cameron Area,CENTRAL36031517,"471,081",1999-10-01
+West Cameron Area,CENTRAL32500976,"548,134",1999-11-01
+West Cameron Area,Central34824336,"579,586",1999-12-01
+West Cameron Area,Central34714395,"604,031",2000-01-01
+West Cameron Area,Central32189596,"512,97O",2000-02-01
+West Cameron Area,Central34466747,"515,234",2000-03-01
+   West  Cameron  Area,CENTRAL33049736,"474,984"
+   West  Cameron  Area,central,,,2000-05-01
+West Cameron Area,Central33157995,"432,948",2000-06-01
+   West  Cameron  Area,central36924363,"433,768",2000-07-01
+   West  Cameron  Area,central,,,2000-08-01
+   West  Cameron  Area,CENTRAL38496154,"617,600"
+West Cameron Area,CENTRAL39018588,"624,968",2000-10-01
+   West  Cameron  Area,central,,,2000-11-01
+   West  Cameron  Area,CEntral
+West Cameron Area,Central38226106,"723,787",2001-01-01
+   West  Cameron  Area,CEntral36983051,"625,570"
+   West  Cameron  Area,CEntral
+   West  Cameron  Area,CEntral39975277,"577,597"
+West Cameron Area,Central41338879,"546,O93",2001-05-01
+   West  Cameron  Area,central41830639,"518,972",2001-06-01
+   West  Cameron  Area,central44914795,"562,529",2001-07-01
+   West  Cameron  Area,central,,,2001-08-01
+West Cameron Area,Central40958370,"5OO,762",2001-09-01
+West Cameron Area,Central38674585,"463,869",2001-10-01
+   West  Cameron  Area,central,,,2001-11-01
+West Cameron Area,Central36133087,"482,O35",2001-12-01
+West Cameron Area,Central33097225,"528,208",2002-01-01
+West Cameron Area,CENTRAL30584440,"495,010",2002-02-01
+   West  Cameron  Area,central33498873,"475,111",2002-03-01
+   West  Cameron  Area,CENTRAL35847188,"482,243"
+West Cameron Area,CENTRAL37719616,"566,704",2002-05-01
+West Cameron Area,Central36129086,"557,289",2002-06-01
+West Cameron Area,Central35607264,"513,7O8",2002-07-01
+   West  Cameron  Area,central,,,2002-08-01
+   West  Cameron  Area,CENTRAL31781571,"414,423"
+   West  Cameron  Area,CEntral
+   West  Cameron  Area,Central35076212,"468,845",2002-11-01
+   West  Cameron  Area,CENTRAL35319005,"458,219"
+West Cameron Area,CENTRAL34985599,"435,073",2003-01-01
+   West  Cameron  Area,CEntral32978555,"412,631"
+   West  Cameron  Area,CEntral
+West Cameron Area,Central36197559,"469,O44",2003-04-01
+   West  Cameron  Area,central35242970,"394,263",2003-05-01
+   West  Cameron  Area,CEntral33611714,"418,452"
+   West  Cameron  Area,CENTRAL31071005,"379,622"
+   West  Cameron  Area,central,,,2003-08-01
+   West  Cameron  Area,central,,,2003-09-01
+West Cameron Area,Central33254358,"399,728",2003-10-01
+   West  Cameron  Area,CEntral
+West Cameron Area,Central33432840,"474,113",2003-12-01
+West Cameron Area,Central33225762,"399,262",2004-01-01
+West Cameron Area,CENTRAL31300636,"364,882",2004-02-01
+   West  Cameron  Area,CEntral32152317,"367,433"
+   West  Cameron  Area,CEntral
+West Cameron Area,Central30850110,"349,693",2004-05-01
+West Cameron Area,Central29113809,"362,381",2004-06-01
+West Cameron Area,Central30796751,"346,612",2004-07-01
+West Cameron Area,Central30346165,"375,387",2004-08-01
+West Cameron Area,Central29630906,"402,749",2004-09-01
+   West  Cameron  Area,CEntral31167430,"421,186"
+West Cameron Area,CENTRAL29083402,"423,537",2004-11-01
+   West  Cameron  Area,central29048165,"375,784",2004-12-01
+West Cameron Area,Central29211029,"425,264",2005-01-01
+   West  Cameron  Area,CEntral26578671,"349,931"
+West Cameron Area,Central28866305,"369,763",2005-03-01
+   West  Cameron  Area,central27062853,"379,824",2005-04-01
+West Cameron Area,Central27911306,"397,114",2005-05-01
+West Cameron Area,Central27479978,"354,557",2005-06-01
+   West  Cameron  Area,central26088404,"330,189",2005-07-01
+West Cameron Area,CENTRAL22147724,"301,231",2005-08-01
+   West  Cameron  Area,CENTRAL14808452,"194,939"
+   West  Cameron  Area,central2796542,"91,591",2005-10-01
+West Cameron Area,Central11637951,"124,432",2005-11-01
+West Cameron Area,CENTRAL16431017,"157,401",2005-12-01
+   West  Cameron  Area,Central18729362,"272,949",2006-01-01
+   West  Cameron  Area,central,,,2006-02-01
+   West  Cameron  Area,central15829953,"160,016",2006-03-01
+   West  Delta  Area,Central12737299,"2,221,709",1996-01-01
+   West  Delta  Area,CEntral12532416,"2,238,670"
+   West  Delta  Area,central14065372,"2,307,075",1996-03-01
+   West  Delta  Area,CEntral13472691,"2,224,741"
+   West  Delta  Area,central13746981,"2,193,796",1996-05-01
+West Delta Area,Central13928913,"2,O92,225",1996-06-01
+West Delta Area,Central14537587,"2,O8O,146",1996-07-01
+West Delta Area,CENTRAL15311059,"2,282,755",1996-08-01
+   West  Delta  Area,CEntral
+West Delta Area,Central13254233,"2,039,282",1996-10-01
+   West  Delta  Area,central13463314,"2,089,092",1996-11-01
+West Delta Area,Central13583935,"2,182,126",1996-12-01
+   West  Delta  Area,central,,,1997-01-01
+   West  Delta  Area,CEntral
+West Delta Area,CENTRAL14787238,"2,149,996",1997-03-01
+West Delta Area,Central13673127,"2,O72,883",1997-04-01
+   West  Delta  Area,CEntral
+   West  Delta  Area,central11521833,"1,803,714",1997-06-01
+   West  Delta  Area,central,,,1997-07-01
+   West  Delta  Area,central,,,1997-08-01
+   West  Delta  Area,central,,,1997-09-01
+West Delta Area,Central13629401,"2,145,258",1997-10-01
+West Delta Area,Central14066525,"2,14O,451",1997-11-01
+West Delta Area,CENTRAL14641284,"2,217,744",1997-12-01
+West Delta Area,CENTRAL14479859,"2,238,491",1998-01-01
+   West  Delta  Area,central12727974,"1,764,656",1998-02-01
+   West  Delta  Area,central14993667,"1,868,781",1998-03-01
+West Delta Area,Central13983618,"1,795,493",1998-04-01
+   West  Delta  Area,CEntral14415690,"1,872,061"
+West Delta Area,Central12871899,"1,831,758",1998-06-01
+West Delta Area,Central13571984,"2,O23,613",1998-07-01
+   West  Delta  Area,CEntral
+West Delta Area,Central9355577,"1,412,2O4",1998-09-01
+   West  Delta  Area,CENTRAL12244325,"1,916,746"
+   West  Delta  Area,CENTRAL13102844,"1,855,182"
+West Delta Area,CENTRAL13765018,"1,905,164",1998-12-01
+   West  Delta  Area,Central13804847,"1,960,513",1999-01-01
+   West  Delta  Area,Central12076978,"1,788,588",1999-02-01
+   West  Delta  Area,central13241455,"1,940,315",1999-03-01
+West Delta Area,CENTRAL12737291,"1,891,146",1999-04-01
+West Delta Area,Central12590123,"1,910,075",1999-05-01
+West Delta Area,CENTRAL11773766,"1,890,419",1999-06-01
+West Delta Area,Central12392244,"2,136,185",1999-07-01
+West Delta Area,Central11704862,"2,OO1,463",1999-08-01
+West Delta Area,Central12285401,"2,O23,576",1999-09-01
+   West  Delta  Area,Central13486222,"2,160,839",1999-10-01
+West Delta Area,Central12985831,"1,973,982",1999-11-01
+   West  Delta  Area,Central12721408,"1,899,218",1999-12-01
+West Delta Area,Central12254547,"1,898,459",2000-01-01
+   West  Delta  Area,CEntral
+   West  Delta  Area,central11437781,"1,976,064",2000-03-01
+West Delta Area,Central10705950,"1,7O5,131",2000-04-01
+West Delta Area,CENTRAL11944151,"1,874,710",2000-05-01
+West Delta Area,Central11742175,"1,782,034",2000-06-01
+   West  Delta  Area,central11469681,"1,730,418",2000-07-01
+   West  Delta  Area,central11479006,"1,686,214",2000-08-01
+   West  Delta  Area,central12111372,"1,631,562",2000-09-01
+   West  Delta  Area,CEntral
+West Delta Area,CENTRAL12966201,"1,608,454",2000-11-01
+   West  Delta  Area,central,,,2000-12-01
+West Delta Area,Central14151316,"1,59O,336",2001-01-01
+   West  Delta  Area,central12392835,"1,456,339",2001-02-01
+West Delta Area,Central12337517,"1,557,574",2001-03-01
+   West  Delta  Area,CEntral
+West Delta Area,Central13261744,"1,586,222",2001-05-01
+   West  Delta  Area,CENTRAL11542881,"1,520,355"
+   West  Delta  Area,central11541494,"1,562,532",2001-07-01
+West Delta Area,CENTRAL10899607,"1,553,637",2001-08-01
+West Delta Area,Central10660991,"1,536,458",2001-09-01
+West Delta Area,Central11065063,"1,642,953",2001-10-01
+   West  Delta  Area,CEntral
+West Delta Area,CENTRAL10747455,"1,585,254",2001-12-01
+West Delta Area,CENTRAL10390427,"1,449,488",2002-01-01
+West Delta Area,CENTRAL8599363,"1,267,906",2002-02-01
+   West  Delta  Area,CEntral
+West Delta Area,Central10114238,"1,567,796",2002-04-01
+West Delta Area,Central9788701,"1,63O,89O",2002-05-01
+West Delta Area,Central8547199,"1,553,7O9",2002-06-01
+   West  Delta  Area,central8203346,"1,483,604",2002-07-01
+West Delta Area,Central8733434,"1,549,787",2002-08-01
+West Delta Area,Central6854151,"1,217,927",2002-09-01
+   West  Delta  Area,CENTRAL6715592,"1,079,021"
+West Delta Area,CENTRAL8498670,"1,480,215",2002-11-01
+   West  Delta  Area,central,,,2002-12-01
+West Delta Area,Central9836697,"1,379,7O7",2003-01-01
+West Delta Area,Central9251363,"1,246,113",2003-02-01
+   West  Delta  Area,Central10644022,"1,419,254",2003-03-01
+   West  Delta  Area,CENTRAL9446131,"1,386,647"
+West Delta Area,Central9255096,"1,397,950",2003-05-01
+   West  Delta  Area,CEntral
+West Delta Area,Central8664261,"1,293,622",2003-07-01
+   West  Delta  Area,central,,,2003-08-01
+West Delta Area,CENTRAL8161323,"1,342,145",2003-09-01
+   West  Delta  Area,central,,,2003-10-01
+   West  Delta  Area,central7446145,"1,261,869",2003-11-01
+West Delta Area,CENTRAL7620929,"1,319,651",2003-12-01
+West Delta Area,Central7051539,"1,154,857",2004-01-01
+West Delta Area,Central6482403,"1,O82,715",2004-02-01
+West Delta Area,CENTRAL6819593,"1,148,811",2004-03-01
+West Delta Area,CENTRAL6590330,"1,080,542",2004-04-01
+West Delta Area,Central6715837,"1,122,437",2004-05-01
+West Delta Area,Central6677604,"1,1OO,7O7",2004-06-01
+   West  Delta  Area,CEntral
+West Delta Area,Central6070587,"994,678",2004-08-01
+   West  Delta  Area,Central4696209,"725,375",2004-09-01
+   West  Delta  Area,Central5786768,"968,687",2004-10-01
+   West  Delta  Area,central5656338,"970,454",2004-11-01
+   West  Delta  Area,central,,,2004-12-01
+West Delta Area,CENTRAL5795575,"987,189",2005-01-01
+   West  Delta  Area,CEntral
+   West  Delta  Area,central,,,2005-03-01
+West Delta Area,CENTRAL5696477,"931,628",2005-04-01
+   West  Delta  Area,central6030614,"974,696",2005-05-01
+   West  Delta  Area,central,,,2005-06-01
+   West  Delta  Area,CENTRAL4725337,"773,584"
+West Delta Area,Central4508891,"764,532",2005-08-01
+   West  Delta  Area,central211,0,2005-09-01
+West Delta Area,Central1232063,"144,387",2005-10-01
+   West  Delta  Area,central1948645,"246,774",2005-11-01
+   West  Delta  Area,CEntral
+   West  Delta  Area,CEntral
+   West  Delta  Area,central2294722,"292,011",2006-02-01
+   West  Delta  Area,CENTRAL3129276,"315,661"
+   Alaminos  Canyon,western19684,"12,980",2000-09-01
+Alaminos Canyon,Western389970,"2OO,169",2000-10-01
+   Alaminos  Canyon,WEstern
+Alaminos Canyon,WESTERN503859,"496,495",2000-12-01
+Alaminos Canyon,Western774315,"664,832",2001-01-01
+Alaminos Canyon,Western723745,"624,294",2001-02-01
+   Alaminos  Canyon,western1038365,"837,902",2001-03-01
+   Alaminos  Canyon,western1215063,"938,272",2001-04-01
+Alaminos Canyon,WESTERN884417,"655,569",2001-05-01
+Alaminos Canyon,Western660480,"559,429",2001-06-01
+   Alaminos  Canyon,WEstern576067,"660,385"
+Alaminos Canyon,WESTERN950772,"977,469",2001-08-01
+Alaminos Canyon,WESTERN1139714,"1,069,330",2001-09-01
+Alaminos Canyon,Western1407158,"1,278,998",2001-10-01
+   Alaminos  Canyon,WEstern
+Alaminos Canyon,Western2474444,"1,571,517",2001-12-01
+   Alaminos  Canyon,WEstern
+   Alaminos  Canyon,WEstern2631603,"1,558,858"
+   Alaminos  Canyon,western2415443,"1,863,008",2002-03-01
+Alaminos Canyon,Western2052967,"1,727,753",2002-04-01
+Alaminos Canyon,Western1765469,"1,779,559",2002-05-01
+   Alaminos  Canyon,WEstern
+Alaminos Canyon,WESTERN1461537,"1,387,021",2002-07-01
+   Alaminos  Canyon,Western1374670,"1,355,748",2002-08-01
+   Alaminos  Canyon,WEstern
+   Alaminos  Canyon,western1297927,"1,172,315",2002-10-01
+   Alaminos  Canyon,western1209237,"1,105,991",2002-11-01
+   Alaminos  Canyon,western,,,2002-12-01
+Alaminos Canyon,Western1189657,"1,046,430",2003-01-01
+Alaminos Canyon,Western937818,"825,883",2003-02-01
+   Alaminos  Canyon,WEstern
+Alaminos Canyon,WESTERN1092548,"893,289",2003-04-01
+   Alaminos  Canyon,western1001758,"923,698",2003-05-01
+Alaminos Canyon,WESTERN893067,"917,951",2003-06-01
+   Alaminos  Canyon,WEstern
+   Alaminos  Canyon,western,,,2003-08-01
+Alaminos Canyon,Western821666,"799,248",2003-09-01
+   Alaminos  Canyon,WEstern
+Alaminos Canyon,WESTERN723397,"766,019",2003-11-01
+   Alaminos  Canyon,WEstern
+   Alaminos  Canyon,western,,,2004-01-01
+Alaminos Canyon,Western884505,"693,922",2004-02-01
+Alaminos Canyon,WESTERN1512532,"836,618",2004-03-01
+   Alaminos  Canyon,WESTERN2012449,"787,277"
+Alaminos Canyon,WESTERN1977250,"777,027",2004-05-01
+   Alaminos  Canyon,Western2068773,"739,622",2004-06-01
+   Alaminos  Canyon,WESTERN2077117,"761,696"
+Alaminos Canyon,WESTERN2206197,"778,465",2004-08-01
+   Alaminos  Canyon,western2243299,"783,710",2004-09-01
+Alaminos Canyon,Western2202639,"779,348",2004-10-01
+   Alaminos  Canyon,western2124660,"737,268",2004-11-01
+Alaminos Canyon,WESTERN2088289,"736,780",2004-12-01
+Alaminos Canyon,Western1868202,"707,597",2005-01-01
+Alaminos Canyon,WESTERN1744825,"619,771",2005-02-01
+Alaminos Canyon,WESTERN1855871,"669,353",2005-03-01
+Alaminos Canyon,WESTERN1665509,"627,787",2005-04-01
+Alaminos Canyon,WESTERN1579081,"642,949",2005-05-01
+   Alaminos  Canyon,western1377638,"585,637",2005-06-01
+Alaminos Canyon,Western1358478,"563,O2O",2005-07-01
+Alaminos Canyon,Western1373804,"590,325",2005-08-01
+   Alaminos  Canyon,WEstern
+   Alaminos  Canyon,WEstern
+   Alaminos  Canyon,western1129220,"562,258",2005-11-01
+Alaminos Canyon,Western1149107,"560,616",2005-12-01
+   Alaminos  Canyon,WEstern
+Alaminos Canyon,WESTERN1087419,"466,266",2006-02-01
+   Alaminos  Canyon,WEstern1075682,"507,490"
+Brazos Area,Western14892459,"39,917",1996-01-01
+Brazos Area,WESTERN13494674,"22,436",1996-02-01
+   Brazos  Area,WEstern
+   Brazos  Area,western14135121,"31,876",1996-04-01
+   Brazos  Area,Western14173448,"21,665",1996-05-01
+Brazos Area,WESTERN13073277,"24,813",1996-06-01
+   Brazos  Area,WEstern
+   Brazos  Area,western14321278,"28,657",1996-08-01
+   Brazos  Area,Western13456163,"29,033",1996-09-01
+Brazos Area,WESTERN13065973,"26,237",1996-10-01
+   Brazos  Area,WEstern
+Brazos Area,Western13084854,"27,661",1996-12-01
+Brazos Area,WESTERN12448309,"24,132",1997-01-01
+Brazos Area,Western10845547,"20,170",1997-02-01
+Brazos Area,Western12555721,"3O,87O",1997-03-01
+   Brazos  Area,Western12016485,"21,733",1997-04-01
+   Brazos  Area,WEstern
+   Brazos  Area,WEstern
+   Brazos  Area,western12955451,"20,773",1997-07-01
+   Brazos  Area,Western12623909,"28,615",1997-08-01
+   Brazos  Area,WEstern
+   Brazos  Area,western,,,1997-10-01
+Brazos Area,Western11841564,"18,130",1997-11-01
+   Brazos  Area,western12031212,"21,101",1997-12-01
+Brazos Area,WESTERN11362302,"28,871",1998-01-01
+   Brazos  Area,western,,,1998-02-01
+   Brazos  Area,western10763071,"32,918",1998-03-01
+   Brazos  Area,WEstern
+Brazos Area,Western10575635,"16,468",1998-05-01
+Brazos Area,Western10101253,"24,579",1998-06-01
+   Brazos  Area,western10501521,"17,829",1998-07-01
+Brazos Area,Western10178600,"17,445",1998-08-01
+   Brazos  Area,WESTERN8892132,"23,278"
+   Brazos  Area,WESTERN10138788,"15,736"
+   Brazos  Area,western,,,1998-11-01
+Brazos Area,Western9603714,"22,121",1998-12-01
+Brazos Area,Western9680181,"25,680",1999-01-01
+Brazos Area,Western8424493,"2O,O9O",1999-02-01
+Brazos Area,WESTERN10311908,"25,418",1999-03-01
+Brazos Area,Western10081685,"21,O93",1999-04-01
+Brazos Area,Western10480631,"24,489",1999-05-01
+Brazos Area,Western9719302,"22,643",1999-06-01
+   Brazos  Area,western,,,1999-07-01
+Brazos Area,WESTERN9312104,"18,876",1999-08-01
+Brazos Area,WESTERN8743377,"16,814",1999-09-01
+   Brazos  Area,WEstern
+Brazos Area,WESTERN10406650,"19,724",1999-11-01
+   Brazos  Area,WEstern
+Brazos Area,WESTERN8421661,"16,597",2000-01-01
+   Brazos  Area,WESTERN8050952,"29,181"
+Brazos Area,WESTERN8676270,"22,085",2000-03-01
+   Brazos  Area,WEstern8555347,"16,211"
+   Brazos  Area,western8561919,"15,493",2000-05-01
+Brazos Area,Western8793672,"22,586",2000-06-01
+Brazos Area,Western8887502,"23,8O8",2000-07-01
+   Brazos  Area,Western8818150,"25,973",2000-08-01
+   Brazos  Area,western,,,2000-09-01
+Brazos Area,WESTERN8409544,"20,741",2000-10-01
+   Brazos  Area,western7954045,"16,968",2000-11-01
+   Brazos  Area,WESTERN7761409,"13,977"
+   Brazos  Area,western7761668,"16,514",2001-01-01
+   Brazos  Area,WEstern
+   Brazos  Area,WESTERN7530906,"24,263"
+   Brazos  Area,western7051328,"22,693",2001-04-01
+Brazos Area,Western7666170,"16,773",2001-05-01
+   Brazos  Area,WEstern
+Brazos Area,Western7514622,"17,745",2001-07-01
+   Brazos  Area,WESTERN7471704,"12,456"
+Brazos Area,WESTERN7265800,"28,766",2001-09-01
+   Brazos  Area,WESTERN7545832,"16,102"
+   Brazos  Area,WESTERN6750297,"12,164"
+   Brazos  Area,western7123882,"26,031",2001-12-01
+Brazos Area,Western7156146,"18,246",2002-01-01
+   Brazos  Area,western6567591,"16,032",2002-02-01
+Brazos Area,Western7516273,"24,806",2002-03-01
+   Brazos  Area,western,,,2002-04-01
+   Brazos  Area,western8060438,"19,514",2002-05-01
+   Brazos  Area,western8379532,"5,007",2002-06-01
+   Brazos  Area,Western8232271,"14,659",2002-07-01
+   Brazos  Area,western,,,2002-08-01
+Brazos Area,Western8775438,"15,52O",2002-09-01
+Brazos Area,WESTERN8445383,"15,254",2002-10-01
+Brazos Area,WESTERN8436320,"18,152",2002-11-01
+   Brazos  Area,western,,,2002-12-01
+   Brazos  Area,WEstern8859158,"19,261"
+Brazos Area,WESTERN8261295,"25,346",2003-02-01
+Brazos Area,WESTERN9366893,"14,220",2003-03-01
+Brazos Area,Western10005401,"13,655",2003-04-01
+   Brazos  Area,WEstern10045073,"15,175"
+   Brazos  Area,western9999608,"13,059",2003-06-01
+Brazos Area,WESTERN9510460,"15,340",2003-07-01
+Brazos Area,Western10098178,"14,OO6",2003-08-01
+Brazos Area,WESTERN9943403,"17,141",2003-09-01
+   Brazos  Area,Western10214559,"12,991",2003-10-01
+   Brazos  Area,western9784970,"14,602",2003-11-01
+   Brazos  Area,WEstern
+   Brazos  Area,WEstern10123267,"14,568"
+Brazos Area,Western6552609,"8,O12",2004-02-01
+   Brazos  Area,WEstern
+   Brazos  Area,WEstern
+   Brazos  Area,western8877553,"10,620",2004-05-01
+   Brazos  Area,WEstern
+   Brazos  Area,western8335653,"9,744",2004-07-01
+Brazos Area,Western7764033,"9,255",2004-08-01
+   Brazos  Area,WESTERN7444182,"7,494"
+Brazos Area,WESTERN7414984,"9,253",2004-10-01
+Brazos Area,Western7029913,"6,614",2004-11-01
+Brazos Area,WESTERN7089189,"7,992",2004-12-01
+   Brazos  Area,Western7137842,"8,683",2005-01-01
+   Brazos  Area,WEstern
+Brazos Area,Western7168058,"9,821",2005-03-01
+Brazos Area,Western6895321,"8,8O4",2005-04-01
+Brazos Area,Western6761824,"7,155",2005-05-01
+   Brazos  Area,western,,,2005-06-01
+Brazos Area,WESTERN4563602,"6,246",2005-07-01
+Brazos Area,WESTERN4434231,"7,720",2005-08-01
+Brazos Area,WESTERN3784259,"4,998",2005-09-01
+   Brazos  Area,Western4593936,"8,720",2005-10-01
+   Brazos  Area,WEstern
+Brazos Area,Western4256367,"5,21O",2005-12-01
+Brazos Area,Western3873076,"4,399",2006-01-01
+Brazos Area,WESTERN3626149,"6,244",2006-02-01
+   Brazos  Area,WEstern3989818,"5,981"
+East Breaks,WESTERN1065196,"160,177",1996-01-01
+   East  Breaks,WESTERN1036158,"151,416"
+East Breaks,Western931398,"149,7OO",1996-03-01
+   East  Breaks,western799395,"142,769",1996-04-01
+   East  Breaks,western,,,1996-05-01
+   East  Breaks,WEstern
+   East  Breaks,WEstern1688968,"154,025"
+East Breaks,Western1481569,"175,459",1996-08-01
+   East  Breaks,WESTERN1147355,"129,404"
+   East  Breaks,western1347828,"153,836",1996-10-01
+   East  Breaks,western1347390,"179,718",1996-11-01
+East Breaks,WESTERN1394323,"194,086",1996-12-01
+East Breaks,Western1363961,"199,99O",1997-01-01
+East Breaks,Western1095146,"191,621",1997-02-01
+East Breaks,Western1233083,"214,528",1997-03-01
+East Breaks,Western1249015,"197,603",1997-04-01
+   East  Breaks,Western1902225,"206,446",1997-05-01
+East Breaks,Western1861875,"204,863",1997-06-01
+East Breaks,WESTERN1860497,"204,277",1997-07-01
+East Breaks,WESTERN1726969,"196,729",1997-08-01
+East Breaks,Western1482871,"175,795",1997-09-01
+East Breaks,WESTERN1683292,"186,475",1997-10-01
+   East  Breaks,WEstern
+   East  Breaks,western1895920,"209,160",1997-12-01
+   East  Breaks,western,,,1998-01-01
+East Breaks,Western1684795,"184,276",1998-02-01
+   East  Breaks,western2305714,"225,032",1998-03-01
+East Breaks,Western1985428,"2O7,188",1998-04-01
+East Breaks,WESTERN2289682,"209,087",1998-05-01
+East Breaks,WESTERN2077025,"188,147",1998-06-01
+East Breaks,WESTERN2119727,"193,291",1998-07-01
+   East  Breaks,western,,,1998-08-01
+East Breaks,Western2023490,"143,642",1998-09-01
+East Breaks,Western2502807,"187,297",1998-10-01
+East Breaks,Western2871115,"191,44O",1998-11-01
+   East  Breaks,WEstern
+   East  Breaks,WEstern3171753,"201,997"
+East Breaks,Western2893420,"174,3O9",1999-02-01
+   East  Breaks,western,,,1999-03-01
+East Breaks,WESTERN2985861,"186,301",1999-04-01
+East Breaks,Western3057849,"184,76O",1999-05-01
+East Breaks,WESTERN2920134,"184,610",1999-06-01
+   East  Breaks,WEstern
+   East  Breaks,WEstern2430345,"188,413"
+   East  Breaks,WESTERN2574815,"198,578"
+East Breaks,WESTERN2798983,"209,048",1999-10-01
+East Breaks,WESTERN2725964,"212,605",1999-11-01
+   East  Breaks,western3167131,"243,956",1999-12-01
+   East  Breaks,western,,,2000-01-01
+East Breaks,WESTERN2911370,"226,045",2000-02-01
+   East  Breaks,WEstern
+East Breaks,Western3324068,"255,540",2000-04-01
+East Breaks,WESTERN3281327,"247,450",2000-05-01
+   East  Breaks,western,,,2000-06-01
+   East  Breaks,western9375433,"745,351",2000-07-01
+East Breaks,WESTERN7580799,"542,205",2000-08-01
+   East  Breaks,WESTERN7673831,"548,678"
+   East  Breaks,western9157541,"636,779",2000-10-01
+   East  Breaks,western,,,2000-11-01
+   East  Breaks,western8497034,"557,736",2000-12-01
+East Breaks,Western8706677,"555,658",2001-01-01
+   East  Breaks,western8166173,"563,330",2001-02-01
+East Breaks,WESTERN9367816,"660,148",2001-03-01
+East Breaks,Western10138764,"7O2,431",2001-04-01
+   East  Breaks,WEstern
+   East  Breaks,Western8557344,"647,205",2001-06-01
+East Breaks,WESTERN8177321,"631,371",2001-07-01
+   East  Breaks,WEstern7460601,"588,351"
+   East  Breaks,WEstern
+   East  Breaks,WESTERN6684637,"547,189"
+East Breaks,Western6373425,"769,688",2001-11-01
+   East  Breaks,western6915014,"907,611",2001-12-01
+   East  Breaks,western6229640,"852,972",2002-01-01
+   East  Breaks,WEstern
+   East  Breaks,western,,,2002-03-01
+East Breaks,Western6148334,"1,243,986",2002-04-01
+   East  Breaks,western,,,2002-05-01
+East Breaks,Western10783859,"1,168,699",2002-06-01
+   East  Breaks,Western17694930,"1,229,355",2002-07-01
+East Breaks,Western18478580,"1,348,6O4",2002-08-01
+   East  Breaks,western,,,2002-09-01
+East Breaks,WESTERN17325251,"1,678,752",2002-10-01
+East Breaks,WESTERN17945049,"1,814,866",2002-11-01
+   East  Breaks,western18171039,"2,069,600",2002-12-01
+East Breaks,Western17888743,"2,246,447",2003-01-01
+East Breaks,Western16142361,"2,217,5O4",2003-02-01
+East Breaks,WESTERN20854455,"2,414,285",2003-03-01
+   East  Breaks,western22982971,"2,253,131",2003-04-01
+East Breaks,Western24235710,"2,363,733",2003-05-01
+East Breaks,WESTERN23661460,"2,443,242",2003-06-01
+East Breaks,Western22358086,"2,266,381",2003-07-01
+East Breaks,Western22598341,"2,358,112",2003-08-01
+   East  Breaks,western,,,2003-09-01
+   East  Breaks,WEstern
+   East  Breaks,WEstern
+East Breaks,Western24737118,"2,444,525",2003-12-01
+East Breaks,WESTERN26806879,"2,425,257",2004-01-01
+East Breaks,Western25357080,"2,296,832",2004-02-01
+East Breaks,WESTERN28064737,"2,504,406",2004-03-01
+   East  Breaks,western,,,2004-04-01
+East Breaks,Western25011585,"2,262,196",2004-05-01
+East Breaks,Western23835593,"2,163,O41",2004-06-01
+East Breaks,Western25915470,"2,215,O9O",2004-07-01
+   East  Breaks,western,,,2004-08-01
+   East  Breaks,western21107872,"1,999,665",2004-09-01
+East Breaks,Western21677434,"2,193,259",2004-10-01
+   East  Breaks,western,,,2004-11-01
+East Breaks,WESTERN20103915,"2,253,230",2004-12-01
+   East  Breaks,WESTERN20080463,"2,181,834"
+East Breaks,WESTERN17108805,"1,904,319",2005-02-01
+   East  Breaks,western20342895,"2,076,655",2005-03-01
+East Breaks,Western21038347,"1,878,647",2005-04-01
+East Breaks,WESTERN23345588,"1,968,474",2005-05-01
+East Breaks,WESTERN22845620,"2,043,181",2005-06-01
+   East  Breaks,western,,,2005-07-01
+   East  Breaks,western,,,2005-08-01
+East Breaks,WESTERN15853166,"1,560,855",2005-09-01
+East Breaks,Western16903150,"1,933,639",2005-10-01
+East Breaks,Western17898053,"1,931,908",2005-11-01
+   East  Breaks,western,,,2005-12-01
+East Breaks,Western17780994,"1,836,366",2006-01-01
+East Breaks,Western14943502,"1,556,794",2006-02-01
+East Breaks,WESTERN15873534,"1,593,550",2006-03-01
+Galveston Area,Western7034716,"163,781",1996-01-01
+   Galveston  Area,WEstern
+Galveston Area,Western7026489,"149,056",1996-03-01
+   Galveston  Area,WEstern
+Galveston Area,Western7229219,"158,O32",1996-05-01
+Galveston Area,WESTERN6767135,"160,696",1996-06-01
+Galveston Area,Western7219458,"142,533",1996-07-01
+   Galveston  Area,western7476545,"185,730",1996-08-01
+   Galveston  Area,western6855313,"170,862",1996-09-01
+   Galveston  Area,western7926168,"160,065",1996-10-01
+Galveston Area,Western7336346,"185,O93",1996-11-01
+   Galveston  Area,western7295777,"139,344",1996-12-01
+   Galveston  Area,western6977110,"159,395",1997-01-01
+   Galveston  Area,western,,,1997-02-01
+Galveston Area,Western7508319,"158,051",1997-03-01
+Galveston Area,WESTERN7475099,"146,641",1997-04-01
+Galveston Area,Western7757420,"170,358",1997-05-01
+Galveston Area,Western7402552,"279,556",1997-06-01
+   Galveston  Area,WESTERN7593782,"304,664"
+Galveston Area,Western7160280,"29O,2O2",1997-08-01
+Galveston Area,Western7097767,"326,735",1997-09-01
+Galveston Area,Western7238429,"368,961",1997-10-01
+   Galveston  Area,western7192383,"356,523",1997-11-01
+Galveston Area,Western7307284,"377,658",1997-12-01
+   Galveston  Area,WEstern7077461,"299,570"
+Galveston Area,WESTERN5989529,"345,926",1998-02-01
+   Galveston  Area,WEstern
+Galveston Area,WESTERN6055151,"353,830",1998-04-01
+   Galveston  Area,WEstern6085154,"367,264"
+   Galveston  Area,western6057584,"351,164",1998-06-01
+Galveston Area,Western6052023,"338,468",1998-07-01
+Galveston Area,Western6099870,"335,975",1998-08-01
+Galveston Area,WESTERN5856675,"308,645",1998-09-01
+Galveston Area,Western5873610,"304,668",1998-10-01
+Galveston Area,WESTERN5552327,"298,897",1998-11-01
+Galveston Area,WESTERN5802674,"328,375",1998-12-01
+Galveston Area,Western5864075,"323,838",1999-01-01
+   Galveston  Area,Western5347974,"267,850",1999-02-01
+   Galveston  Area,western,,,1999-03-01
+Galveston Area,Western5404222,"293,453",1999-04-01
+Galveston Area,Western5307865,"28O,355",1999-05-01
+Galveston Area,WESTERN5031844,"254,762",1999-06-01
+Galveston Area,WESTERN5078852,"247,850",1999-07-01
+Galveston Area,Western6123375,"263,O64",1999-08-01
+Galveston Area,Western5725104,"254,693",1999-09-01
+Galveston Area,WESTERN5781388,"263,625",1999-10-01
+Galveston Area,Western5610761,"254,8O7",1999-11-01
+   Galveston  Area,western,,,1999-12-01
+Galveston Area,Western5873752,"235,897",2000-01-01
+   Galveston  Area,western5301253,"222,625",2000-02-01
+Galveston Area,Western6152270,"231,164",2000-03-01
+Galveston Area,Western6249906,"208,755",2000-04-01
+Galveston Area,WESTERN6313513,"204,154",2000-05-01
+Galveston Area,WESTERN6023722,"192,670",2000-06-01
+   Galveston  Area,WEstern6002596,"178,982"
+Galveston Area,Western5274035,"16O,122",2000-08-01
+   Galveston  Area,western4946692,"154,670",2000-09-01
+   Galveston  Area,western4879036,"166,234",2000-10-01
+   Galveston  Area,western4480011,"152,324",2000-11-01
+   Galveston  Area,WESTERN4924428,"154,740"
+Galveston Area,Western4508605,"134,523",2001-01-01
+   Galveston  Area,WESTERN4257257,"120,957"
+Galveston Area,Western4612819,"15O,543",2001-03-01
+   Galveston  Area,western4403964,"168,958",2001-04-01
+   Galveston  Area,WEstern
+   Galveston  Area,western,,,2001-06-01
+Galveston Area,Western5576634,"195,918",2001-07-01
+   Galveston  Area,Western5324564,"190,842",2001-08-01
+Galveston Area,Western4643005,"173,764",2001-09-01
+Galveston Area,Western3784881,"154,7O4",2001-10-01
+   Galveston  Area,western2670077,"92,296",2001-11-01
+Galveston Area,Western4202861,"174,353",2001-12-01
+   Galveston  Area,western4023546,"165,471",2002-01-01
+Galveston Area,Western3622679,"148,O12",2002-02-01
+   Galveston  Area,Western4090623,"160,599",2002-03-01
+Galveston Area,Western4113170,"156,302",2002-04-01
+Galveston Area,WESTERN3897971,"145,731",2002-05-01
+   Galveston  Area,WESTERN3910931,"136,486"
+   Galveston  Area,western3901081,"141,415",2002-07-01
+Galveston Area,WESTERN3860198,"142,068",2002-08-01
+   Galveston  Area,WEstern
+   Galveston  Area,WEstern3320324,"145,068"
+Galveston Area,WESTERN3440594,"156,517",2002-11-01
+Galveston Area,WESTERN3342177,"155,603",2002-12-01
+   Galveston  Area,WEstern3268995,"139,310"
+Galveston Area,Western3250089,"144,956",2003-02-01
+Galveston Area,Western3862631,"162,516",2003-03-01
+   Galveston  Area,western,,,2003-04-01
+Galveston Area,WESTERN3724634,"152,861",2003-05-01
+   Galveston  Area,western3657515,"153,300",2003-06-01
+   Galveston  Area,WEstern
+Galveston Area,Western3575397,"152,847",2003-08-01
+Galveston Area,WESTERN3567643,"147,311",2003-09-01
+Galveston Area,WESTERN3597280,"151,436",2003-10-01
+   Galveston  Area,western3382753,"141,575",2003-11-01
+   Galveston  Area,Western3610812,"162,383",2003-12-01
+   Galveston  Area,Western3520165,"204,170",2004-01-01
+   Galveston  Area,western3927465,"192,430",2004-02-01
+   Galveston  Area,WEstern
+Galveston Area,Western4588847,"2O2,9O7",2004-04-01
+   Galveston  Area,WEstern
+   Galveston  Area,western,,,2004-06-01
+   Galveston  Area,western,,,2004-07-01
+Galveston Area,Western3925767,"188,931",2004-08-01
+Galveston Area,Western4281845,"188,895",2004-09-01
+   Galveston  Area,western4178842,"198,528",2004-10-01
+   Galveston  Area,WEstern
+   Galveston  Area,WEstern3670531,"175,823"
+Galveston Area,Western3464863,"174,O11",2005-01-01
+   Galveston  Area,western2932292,"151,289",2005-02-01
+   Galveston  Area,WEstern3224345,"164,585"
+   Galveston  Area,western3004525,"150,435",2005-04-01
+Galveston Area,Western3194192,"156,142",2005-05-01
+Galveston Area,WESTERN3313519,"145,105",2005-06-01
+   Galveston  Area,western3328494,"146,037",2005-07-01
+   Galveston  Area,western,,,2005-08-01
+Galveston Area,Western2357791,"94,313",2005-09-01
+   Galveston  Area,WEstern1397796,"85,098"
+   Galveston  Area,WESTERN2811212,"130,460"
+Galveston Area,WESTERN3620806,"155,879",2005-12-01
+   Galveston  Area,WEstern
+   Galveston  Area,WEstern2868804,"122,682"
+Galveston Area,Western2460001,"122,218",2006-03-01
+   Garden  Banks,western15766921,"2,456,216",1996-01-01
+   Garden  Banks,WEstern
+Garden Banks,WESTERN16208061,"2,442,181",1996-03-01
+Garden Banks,Western13528535,"1,667,055",1996-04-01
+   Garden  Banks,WEstern
+   Garden  Banks,western14768010,"2,621,572",1996-06-01
+   Garden  Banks,western15185937,"2,705,318",1996-07-01
+   Garden  Banks,western14044920,"2,504,091",1996-08-01
+Garden Banks,Western14265132,"2,699,843",1996-09-01
+Garden Banks,Western13827551,"2,577,979",1996-10-01
+Garden Banks,Western14184466,"2,583,895",1996-11-01
+Garden Banks,Western14753587,"2,686,615",1996-12-01
+Garden Banks,WESTERN14846407,"2,851,527",1997-01-01
+   Garden  Banks,western12976291,"2,507,945",1997-02-01
+   Garden  Banks,WEstern12884873,"2,277,424"
+   Garden  Banks,western12027830,"2,310,760",1997-04-01
+Garden Banks,WESTERN13410161,"3,231,782",1997-05-01
+   Garden  Banks,western14467694,"3,244,013",1997-06-01
+   Garden  Banks,WEstern
+Garden Banks,Western16304512,"3,643,895",1997-08-01
+Garden Banks,Western16486197,"3,370,421",1997-09-01
+   Garden  Banks,western15700507,"3,412,214",1997-10-01
+   Garden  Banks,western,,,1997-11-01
+   Garden  Banks,western16959474,"3,381,526",1997-12-01
+Garden Banks,WESTERN16412468,"3,357,721",1998-01-01
+   Garden  Banks,WEstern
+Garden Banks,WESTERN17288180,"3,624,120",1998-03-01
+Garden Banks,Western16432045,"3,387,8O7",1998-04-01
+   Garden  Banks,WEstern
+   Garden  Banks,western15136567,"3,010,582",1998-06-01
+Garden Banks,Western14235083,"2,668,850",1998-07-01
+Garden Banks,WESTERN16168025,"2,997,190",1998-08-01
+   Garden  Banks,Western12753322,"2,212,745",1998-09-01
+Garden Banks,Western14329925,"2,O43,739",1998-10-01
+Garden Banks,Western14896879,"2,123,773",1998-11-01
+   Garden  Banks,WEstern
+   Garden  Banks,WEstern20172858,"3,048,793"
+   Garden  Banks,western,,,1999-02-01
+   Garden  Banks,WEstern
+   Garden  Banks,western21927960,"3,274,920",1999-04-01
+Garden Banks,Western23450486,"3,756,436",1999-05-01
+Garden Banks,WESTERN22823633,"3,901,287",1999-06-01
+Garden Banks,Western24201275,"4,13O,1O6",1999-07-01
+   Garden  Banks,western25402129,"3,936,645",1999-08-01
+Garden Banks,WESTERN24992210,"4,084,951",1999-09-01
+   Garden  Banks,western24382222,"4,065,370",1999-10-01
+   Garden  Banks,WEstern25722531,"4,333,798"
+   Garden  Banks,WEstern
+Garden Banks,WESTERN23429006,"3,852,304",2000-01-01
+Garden Banks,Western22184983,"3,728,626",2000-02-01
+   Garden  Banks,western,,,2000-03-01
+   Garden  Banks,WEstern
+Garden Banks,Western23943469,"3,899,994",2000-05-01
+   Garden  Banks,western24452249,"4,062,195",2000-06-01
+   Garden  Banks,WEstern
+Garden Banks,WESTERN26461559,"4,561,153",2000-08-01
+Garden Banks,Western24316744,"4,242,010",2000-09-01
+   Garden  Banks,WEstern
+Garden Banks,Western23550693,"4,O34,7O8",2000-11-01
+   Garden  Banks,WEstern26406560,"4,394,964"
+Garden Banks,WESTERN27417449,"4,510,448",2001-01-01
+Garden Banks,WESTERN25313801,"3,980,203",2001-02-01
+Garden Banks,Western29771794,"4,671,432",2001-03-01
+Garden Banks,WESTERN28420281,"4,498,881",2001-04-01
+   Garden  Banks,western30356964,"4,747,930",2001-05-01
+Garden Banks,WESTERN23858369,"3,681,750",2001-06-01
+Garden Banks,WESTERN28996476,"4,564,302",2001-07-01
+Garden Banks,Western27726920,"4,470,086",2001-08-01
+   Garden  Banks,WEstern
+Garden Banks,Western26925317,"4,756,529",2001-10-01
+   Garden  Banks,western21206538,"3,660,385",2001-11-01
+Garden Banks,WESTERN25380447,"4,518,243",2001-12-01
+Garden Banks,WESTERN25424921,"4,669,220",2002-01-01
+Garden Banks,Western22355918,"3,988,622",2002-02-01
+   Garden  Banks,western,,,2002-03-01
+   Garden  Banks,western18625581,"3,381,274",2002-04-01
+Garden Banks,Western20784085,"3,779,314",2002-05-01
+   Garden  Banks,western18113078,"2,876,732",2002-06-01
+   Garden  Banks,western,,,2002-07-01
+Garden Banks,Western22132774,"4,122,253",2002-08-01
+   Garden  Banks,Western14723577,"2,585,085",2002-09-01
+Garden Banks,Western17088869,"3,155,227",2002-10-01
+   Garden  Banks,WEstern
+Garden Banks,WESTERN18630404,"3,394,448",2002-12-01
+Garden Banks,Western17628394,"3,361,158",2003-01-01
+Garden Banks,WESTERN15168962,"2,930,997",2003-02-01
+   Garden  Banks,western16227154,"3,107,042",2003-03-01
+Garden Banks,Western14867476,"2,7O2,378",2003-04-01
+   Garden  Banks,WEstern
+Garden Banks,Western12921850,"2,455,7O4",2003-06-01
+Garden Banks,WESTERN11790909,"2,321,844",2003-07-01
+   Garden  Banks,Western14112000,"2,726,834",2003-08-01
+Garden Banks,Western14087859,"2,565,269",2003-09-01
+   Garden  Banks,WEstern14343389,"2,566,410"
+   Garden  Banks,western14013852,"2,469,695",2003-11-01
+   Garden  Banks,Western16952611,"3,120,912",2003-12-01
+Garden Banks,WESTERN19008992,"3,235,311",2004-01-01
+   Garden  Banks,western18395638,"3,061,587",2004-02-01
+Garden Banks,Western19597713,"3,175,641",2004-03-01
+Garden Banks,Western18031105,"3,020,742",2004-04-01
+   Garden  Banks,western,,,2004-05-01
+   Garden  Banks,WEstern
+   Garden  Banks,western16023879,"3,078,759",2004-07-01
+   Garden  Banks,western,,,2004-08-01
+Garden Banks,WESTERN18021982,"2,907,629",2004-09-01
+Garden Banks,Western20673789,"3,645,679",2004-10-01
+   Garden  Banks,WEstern
+Garden Banks,WESTERN21067347,"3,920,714",2004-12-01
+   Garden  Banks,WESTERN20901402,"4,188,440"
+   Garden  Banks,western,,,2005-02-01
+Garden Banks,WESTERN21396174,"4,642,280",2005-03-01
+   Garden  Banks,WEstern
+   Garden  Banks,western21468048,"4,785,296",2005-05-01
+   Garden  Banks,WEstern
+Garden Banks,WESTERN21296716,"4,670,873",2005-07-01
+   Garden  Banks,western19850995,"4,215,966",2005-08-01
+Garden Banks,Western13667592,"3,O42,131",2005-09-01
+Garden Banks,WESTERN8479689,"2,194,587",2005-10-01
+   Garden  Banks,western11757362,"2,645,239",2005-11-01
+Garden Banks,WESTERN17147910,"4,607,875",2005-12-01
+Garden Banks,WESTERN13229419,"3,821,235",2006-01-01
+Garden Banks,Western11647337,"3,381,2O6",2006-02-01
+Garden Banks,Western9327175,"3,O3O,328",2006-03-01
+High Island Area,Western36824398,"1,459,263",1996-01-01
+   High  Island  Area,western35214663,"1,348,370",1996-02-01
+High Island Area,Western35813434,"1,346,O24",1996-03-01
+   High  Island  Area,WESTERN35421424,"1,278,263"
+High Island Area,Western38706926,"1,358,O24",1996-05-01
+High Island Area,Western38512076,"1,321,85O",1996-06-01
+   High  Island  Area,Western42207112,"1,292,034",1996-07-01
+   High  Island  Area,Western44401355,"1,354,551",1996-08-01
+High Island Area,WESTERN42001107,"1,299,434",1996-09-01
+High Island Area,Western44075687,"1,328,894",1996-10-01
+   High  Island  Area,WEstern
+   High  Island  Area,western,,,1996-12-01
+High Island Area,Western44209127,"1,359,992",1997-01-01
+   High  Island  Area,western,,,1997-02-01
+High Island Area,WESTERN43074080,"1,217,876",1997-03-01
+High Island Area,WESTERN40944954,"1,100,384",1997-04-01
+   High  Island  Area,WEstern
+   High  Island  Area,western39911854,"1,054,425",1997-06-01
+High Island Area,WESTERN39644131,"1,055,813",1997-07-01
+   High  Island  Area,western41172788,"1,181,547",1997-08-01
+High Island Area,Western35228992,"1,134,724",1997-09-01
+High Island Area,Western38244710,"1,198,818",1997-10-01
+High Island Area,Western34353837,"1,105,869",1997-11-01
+High Island Area,Western38473356,"1,161,962",1997-12-01
+   High  Island  Area,western37723204,"879,225",1998-01-01
+   High  Island  Area,western,,,1998-02-01
+High Island Area,WESTERN37579498,"1,141,672",1998-03-01
+   High  Island  Area,western36380343,"1,096,555",1998-04-01
+   High  Island  Area,western39295392,"1,130,912",1998-05-01
+   High  Island  Area,western37245617,"1,096,903",1998-06-01
+   High  Island  Area,western,,,1998-07-01
+High Island Area,Western37581322,"1,192,236",1998-08-01
+   High  Island  Area,western29777770,"881,904",1998-09-01
+   High  Island  Area,WESTERN37455682,"1,189,381"
+High Island Area,Western34834914,"1,1O8,195",1998-11-01
+High Island Area,WESTERN33848178,"1,086,088",1998-12-01
+High Island Area,Western35350418,"1,154,716",1999-01-01
+   High  Island  Area,western30955463,"1,049,392",1999-02-01
+   High  Island  Area,western33141855,"1,126,804",1999-03-01
+High Island Area,Western31290814,"1,O34,146",1999-04-01
+High Island Area,WESTERN32552964,"1,044,321",1999-05-01
+   High  Island  Area,WESTERN30637602,"1,029,081"
+   High  Island  Area,Western31402094,"1,039,480",1999-07-01
+   High  Island  Area,WEstern
+High Island Area,WESTERN26963844,"843,129",1999-09-01
+High Island Area,WESTERN29298752,"813,314",1999-10-01
+   High  Island  Area,WESTERN29853841,"815,818"
+   High  Island  Area,WEstern31583569,"803,516"
+   High  Island  Area,western,,,2000-01-01
+   High  Island  Area,western,,,2000-02-01
+   High  Island  Area,western30340735,"851,439",2000-03-01
+High Island Area,Western29652555,"924,565",2000-04-01
+   High  Island  Area,WESTERN28537955,"865,014"
+   High  Island  Area,WEstern28341383,"840,114"
+   High  Island  Area,WEstern27405481,"810,940"
+   High  Island  Area,WEstern26627255,"774,947"
+   High  Island  Area,WEstern
+High Island Area,Western31517527,"844,971",2000-10-01
+High Island Area,Western29906664,"79O,O15",2000-11-01
+   High  Island  Area,western,,,2000-12-01
+High Island Area,WESTERN30593464,"825,506",2001-01-01
+   High  Island  Area,western,,,2001-02-01
+High Island Area,WESTERN33949131,"787,776",2001-03-01
+   High  Island  Area,WEstern
+High Island Area,WESTERN34009509,"867,782",2001-05-01
+High Island Area,Western32982028,"844,829",2001-06-01
+   High  Island  Area,WESTERN34973923,"825,822"
+   High  Island  Area,western35716734,"817,310",2001-08-01
+   High  Island  Area,WEstern
+High Island Area,Western32256409,"765,643",2001-10-01
+High Island Area,WESTERN29078556,"768,255",2001-11-01
+High Island Area,WESTERN30041359,"748,923",2001-12-01
+   High  Island  Area,western28652810,"707,149",2002-01-01
+High Island Area,WESTERN23498147,"628,418",2002-02-01
+High Island Area,Western26050265,"683,117",2002-03-01
+High Island Area,WESTERN23558159,"619,977",2002-04-01
+   High  Island  Area,WESTERN23552123,"664,411"
+   High  Island  Area,western23609141,"627,173",2002-06-01
+   High  Island  Area,western24367816,"643,908",2002-07-01
+   High  Island  Area,WEstern
+   High  Island  Area,WEstern
+High Island Area,WESTERN22264636,"701,140",2002-10-01
+High Island Area,WESTERN24931205,"841,614",2002-11-01
+   High  Island  Area,western26035135,"883,124",2002-12-01
+   High  Island  Area,WEstern
+   High  Island  Area,western,,,2003-02-01
+High Island Area,Western27746723,"924,504",2003-03-01
+High Island Area,WESTERN26219065,"824,530",2003-04-01
+High Island Area,Western27130173,"844,346",2003-05-01
+High Island Area,Western25020990,"8O5,496",2003-06-01
+High Island Area,WESTERN23559621,"710,922",2003-07-01
+   High  Island  Area,Western25951296,"780,922",2003-08-01
+High Island Area,Western25197317,"756,O24",2003-09-01
+High Island Area,Western26602986,"767,361",2003-10-01
+High Island Area,Western25817978,"739,370",2003-11-01
+   High  Island  Area,western25910234,"743,662",2003-12-01
+   High  Island  Area,western25293446,"725,768",2004-01-01
+   High  Island  Area,western24250090,"704,879",2004-02-01
+High Island Area,WESTERN26982795,"755,571",2004-03-01
+High Island Area,Western25300112,"737,966",2004-04-01
+High Island Area,Western26839894,"735,272",2004-05-01
+   High  Island  Area,western26535649,"752,092",2004-06-01
+High Island Area,Western27882463,"803,563",2004-07-01
+   High  Island  Area,western26552693,"770,286",2004-08-01
+   High  Island  Area,WEstern25502014,"725,710"
+   High  Island  Area,western25923906,"751,528",2004-10-01
+   High  Island  Area,western,,,2004-11-01
+High Island Area,WESTERN25030919,"701,137",2004-12-01
+   High  Island  Area,WEstern23942505,"684,624"
+High Island Area,Western22710636,"6O2,265",2005-02-01
+High Island Area,Western24354994,"726,140",2005-03-01
+High Island Area,Western22063368,"689,26O",2005-04-01
+   High  Island  Area,western21617313,"825,392",2005-05-01
+High Island Area,Western22518500,"829,253",2005-06-01
+   High  Island  Area,western,,,2005-07-01
+   High  Island  Area,WEstern21156432,"834,355"
+   High  Island  Area,WEstern14898558,"591,477"
+High Island Area,Western5621780,"469,94O",2005-10-01
+High Island Area,Western18316925,"783,147",2005-11-01
+   High  Island  Area,Western20023687,"862,624",2005-12-01
+   High  Island  Area,WEstern
+High Island Area,Western16023996,"673,O22",2006-02-01
+   High  Island  Area,WEstern
+   Matagorda  Island  Area,western,,,1996-01-01
+   Matagorda  Island  Area,western,,,1996-02-01
+   Matagorda  Island  Area,Western22675274,"107,313",1996-03-01
+Matagorda Island Area,WESTERN22266805,"106,188",1996-04-01
+Matagorda Island Area,Western22477235,"101,709",1996-05-01
+Matagorda Island Area,Western19812294,"83,435",1996-06-01
+Matagorda Island Area,Western20443088,"90,347",1996-07-01
+   Matagorda  Island  Area,western,,,1996-08-01
+Matagorda Island Area,Western18961960,"84,952",1996-09-01
+Matagorda Island Area,Western18766150,"87,7O3",1996-10-01
+   Matagorda  Island  Area,western18807156,"91,182",1996-11-01
+Matagorda Island Area,Western19380062,"88,861",1996-12-01
+   Matagorda  Island  Area,WEstern
+Matagorda Island Area,Western17404384,"82,O82",1997-02-01
+Matagorda Island Area,Western19478982,"88,817",1997-03-01
+Matagorda Island Area,Western17128051,"75,136",1997-04-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,WEstern
+Matagorda Island Area,WESTERN19650549,"88,794",1997-07-01
+   Matagorda  Island  Area,western,,,1997-08-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,WEstern21264888,"111,432"
+Matagorda Island Area,Western20121328,"1O8,O71",1997-11-01
+   Matagorda  Island  Area,western,,,1997-12-01
+Matagorda Island Area,Western20280215,"112,238",1998-01-01
+   Matagorda  Island  Area,western18721911,"104,882",1998-02-01
+   Matagorda  Island  Area,western19960135,"113,319",1998-03-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,WEstern18268060,"97,477"
+   Matagorda  Island  Area,WESTERN14948839,"76,103"
+   Matagorda  Island  Area,WEstern15833447,"81,033"
+Matagorda Island Area,WESTERN15873711,"88,563",1998-08-01
+   Matagorda  Island  Area,western,,,1998-09-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,WEstern
+Matagorda Island Area,WESTERN19631624,"120,743",1998-12-01
+Matagorda Island Area,Western19376173,"121,O56",1999-01-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,western,,,1999-03-01
+Matagorda Island Area,Western18426787,"111,858",1999-04-01
+   Matagorda  Island  Area,western18703528,"107,871",1999-05-01
+   Matagorda  Island  Area,western18168541,"100,665",1999-06-01
+   Matagorda  Island  Area,WESTERN17667816,"91,625"
+   Matagorda  Island  Area,WESTERN16708117,"88,779"
+Matagorda Island Area,Western14606568,"94,785",1999-09-01
+   Matagorda  Island  Area,western14135385,"51,564",1999-10-01
+Matagorda Island Area,Western15514559,"71,7O3",1999-11-01
+   Matagorda  Island  Area,western,,,1999-12-01
+Matagorda Island Area,Western15870995,"76,63O",2000-01-01
+Matagorda Island Area,Western15338581,"75,829",2000-02-01
+Matagorda Island Area,WESTERN15710770,"78,978",2000-03-01
+   Matagorda  Island  Area,WEstern
+Matagorda Island Area,Western15257471,"72,645",2000-05-01
+   Matagorda  Island  Area,Western14235711,"69,056",2000-06-01
+Matagorda Island Area,WESTERN13697626,"61,035",2000-07-01
+Matagorda Island Area,Western14521294,"85,257",2000-08-01
+Matagorda Island Area,Western13255492,"67,531",2000-09-01
+Matagorda Island Area,Western14526429,"76,838",2000-10-01
+   Matagorda  Island  Area,WESTERN14539653,"91,420"
+Matagorda Island Area,WESTERN14872009,"88,551",2000-12-01
+Matagorda Island Area,Western15115285,"99,733",2001-01-01
+   Matagorda  Island  Area,western,,,2001-02-01
+   Matagorda  Island  Area,WEstern
+Matagorda Island Area,WESTERN13646300,"70,676",2001-04-01
+   Matagorda  Island  Area,western12321837,"56,563",2001-05-01
+Matagorda Island Area,Western11578130,"58,386",2001-06-01
+   Matagorda  Island  Area,western,,,2001-07-01
+   Matagorda  Island  Area,WESTERN12006221,"57,738"
+Matagorda Island Area,Western11643662,"63,402",2001-09-01
+Matagorda Island Area,Western10367823,"43,3O6",2001-10-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,western,,,2001-12-01
+   Matagorda  Island  Area,western,,,2002-01-01
+   Matagorda  Island  Area,WESTERN7569829,"39,962"
+   Matagorda  Island  Area,WEstern9322897,"57,056"
+Matagorda Island Area,Western9248230,"41,371",2002-04-01
+   Matagorda  Island  Area,western9115205,"48,944",2002-05-01
+   Matagorda  Island  Area,western,,,2002-06-01
+   Matagorda  Island  Area,western8704915,"30,224",2002-07-01
+Matagorda Island Area,Western9119973,"52,394",2002-08-01
+   Matagorda  Island  Area,Western8441156,"40,963",2002-09-01
+   Matagorda  Island  Area,WESTERN8711704,"46,227"
+   Matagorda  Island  Area,WEstern
+Matagorda Island Area,WESTERN9381364,"58,938",2002-12-01
+Matagorda Island Area,WESTERN9568374,"47,656",2003-01-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,western10013674,"46,830",2003-03-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,western9869750,"42,498",2003-05-01
+   Matagorda  Island  Area,WEstern8729386,"34,864"
+   Matagorda  Island  Area,Western8604269,"37,812",2003-07-01
+   Matagorda  Island  Area,western8748882,"40,053",2003-08-01
+Matagorda Island Area,WESTERN8147146,"30,862",2003-09-01
+Matagorda Island Area,WESTERN7953770,"24,585",2003-10-01
+   Matagorda  Island  Area,western,,,2003-11-01
+Matagorda Island Area,WESTERN8148642,"30,061",2003-12-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,Western6120999,"25,273",2004-02-01
+   Matagorda  Island  Area,WEstern6376868,"23,980"
+   Matagorda  Island  Area,WESTERN5607405,"27,715"
+   Matagorda  Island  Area,WEstern
+Matagorda Island Area,Western5895533,"22,O12",2004-06-01
+   Matagorda  Island  Area,western5961812,"29,505",2004-07-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,WEstern
+Matagorda Island Area,Western6527977,"24,O23",2004-10-01
+   Matagorda  Island  Area,western5931735,"34,353",2004-11-01
+   Matagorda  Island  Area,WESTERN6395937,"21,509"
+   Matagorda  Island  Area,western6123223,"22,226",2005-01-01
+Matagorda Island Area,Western4960396,"35,758",2005-02-01
+Matagorda Island Area,WESTERN5596396,"21,948",2005-03-01
+Matagorda Island Area,Western5392078,"19,172",2005-04-01
+Matagorda Island Area,Western5068216,"36,37O",2005-05-01
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,WEstern
+   Matagorda  Island  Area,WEstern
+Matagorda Island Area,WESTERN5092843,"14,767",2005-10-01
+Matagorda Island Area,Western4715364,"33,399",2005-11-01
+Matagorda Island Area,WESTERN4676916,"15,728",2005-12-01
+   Matagorda  Island  Area,WEstern
+Matagorda Island Area,Western3698974,"15,436",2006-02-01
+Matagorda Island Area,WESTERN3877852,"15,309",2006-03-01
+Mustang Island Area,WESTERN11745637,"31,316",1996-01-01
+Mustang Island Area,WESTERN10666896,"27,587",1996-02-01
+   Mustang  Island  Area,WEstern
+   Mustang  Island  Area,WEstern10490105,"26,946"
+Mustang Island Area,WESTERN10074125,"22,079",1996-05-01
+Mustang Island Area,Western9149728,"21,219",1996-06-01
+   Mustang  Island  Area,western,,,1996-07-01
+   Mustang  Island  Area,WEstern
+   Mustang  Island  Area,western8975023,"28,211",1996-09-01
+Mustang Island Area,WESTERN8800661,"27,007",1996-10-01
+Mustang Island Area,Western8240423,"2O,174",1996-11-01
+   Mustang  Island  Area,western8404166,"25,586",1996-12-01
+Mustang Island Area,Western7211121,"21,196",1997-01-01
+Mustang Island Area,WESTERN7238427,"19,923",1997-02-01
+   Mustang  Island  Area,WEstern
+Mustang Island Area,Western8984691,"23,2O8",1997-04-01
+Mustang Island Area,Western9204445,"27,154",1997-05-01
+Mustang Island Area,WESTERN9007455,"27,172",1997-06-01
+   Mustang  Island  Area,WEstern
+   Mustang  Island  Area,western8744181,"20,056",1997-08-01
+Mustang Island Area,WESTERN8994638,"20,909",1997-09-01
+   Mustang  Island  Area,western8886948,"22,385",1997-10-01
+   Mustang  Island  Area,western8487166,"18,669",1997-11-01
+Mustang Island Area,WESTERN8884975,"23,114",1997-12-01
+Mustang Island Area,WESTERN8585567,"27,456",1998-01-01
+   Mustang  Island  Area,WESTERN7515216,"18,192"
+Mustang Island Area,Western8124421,"28,O77",1998-03-01
+Mustang Island Area,Western7595044,"19,671",1998-04-01
+   Mustang  Island  Area,western7646524,"20,838",1998-05-01
+Mustang Island Area,Western7025868,"21,383",1998-06-01
+Mustang Island Area,WESTERN6957440,"16,558",1998-07-01
+Mustang Island Area,Western6777047,"16,728",1998-08-01
+Mustang Island Area,Western6307432,"19,597",1998-09-01
+   Mustang  Island  Area,WEstern7235576,"17,081"
+Mustang Island Area,WESTERN6876405,"17,277",1998-11-01
+Mustang Island Area,Western6474678,"15,925",1998-12-01
+   Mustang  Island  Area,western6350409,"19,441",1999-01-01
+Mustang Island Area,WESTERN5555580,"15,175",1999-02-01
+Mustang Island Area,Western5807006,"23,033",1999-03-01
+Mustang Island Area,WESTERN5771392,"16,670",1999-04-01
+   Mustang  Island  Area,western6001806,"12,636",1999-05-01
+Mustang Island Area,WESTERN5651266,"19,054",1999-06-01
+   Mustang  Island  Area,western5774632,"16,441",1999-07-01
+Mustang Island Area,WESTERN5038252,"10,543",1999-08-01
+   Mustang  Island  Area,western5001588,"12,405",1999-09-01
+   Mustang  Island  Area,western5377473,"15,931",1999-10-01
+Mustang Island Area,Western5500047,"13,276",1999-11-01
+   Mustang  Island  Area,WEstern
+   Mustang  Island  Area,western,,,2000-01-01
+   Mustang  Island  Area,western4779503,"13,509",2000-02-01
+Mustang Island Area,Western5217140,"14,45O",2000-03-01
+   Mustang  Island  Area,western4736944,"11,947",2000-04-01
+   Mustang  Island  Area,WESTERN5223653,"13,459"
+   Mustang  Island  Area,WESTERN4977234,"15,733"
+   Mustang  Island  Area,WEstern
+   Mustang  Island  Area,Western4715796,"17,468",2000-08-01
+Mustang Island Area,WESTERN4586124,"11,072",2000-09-01
+Mustang Island Area,WESTERN4750674,"9,751",2000-10-01
+Mustang Island Area,Western4502754,"14,658",2000-11-01
+Mustang Island Area,Western4460341,"9,812",2000-12-01
+   Mustang  Island  Area,western,,,2001-01-01
+Mustang Island Area,WESTERN3879452,"10,626",2001-02-01
+   Mustang  Island  Area,western4139436,"15,349",2001-03-01
+Mustang Island Area,Western3958609,"12,405",2001-04-01
+Mustang Island Area,Western4010119,"11,261",2001-05-01
+Mustang Island Area,WESTERN3486784,"13,344",2001-06-01
+   Mustang  Island  Area,WEstern3948847,"11,402"
+Mustang Island Area,WESTERN3511685,"8,088",2001-08-01
+Mustang Island Area,Western3360602,"11,378",2001-09-01
+Mustang Island Area,Western3822408,"11,438",2001-10-01
+Mustang Island Area,Western3470852,"7,046",2001-11-01
+   Mustang  Island  Area,western4299654,"10,229",2001-12-01
+   Mustang  Island  Area,WEstern
+   Mustang  Island  Area,western,,,2002-02-01
+   Mustang  Island  Area,western,,,2002-03-01
+Mustang Island Area,Western3903774,"9,811",2002-04-01
+   Mustang  Island  Area,WEstern
+Mustang Island Area,WESTERN3481383,"6,031",2002-06-01
+Mustang Island Area,WESTERN3462375,"9,068",2002-07-01
+Mustang Island Area,Western3373346,"7,697",2002-08-01
+   Mustang  Island  Area,western,,,2002-09-01
+   Mustang  Island  Area,WEstern
+Mustang Island Area,WESTERN2299578,"5,129",2002-11-01
+Mustang Island Area,Western2656038,"7,440",2002-12-01
+Mustang Island Area,WESTERN2586795,"15,011",2003-01-01
+Mustang Island Area,Western2671520,"1O,152",2003-02-01
+   Mustang  Island  Area,WESTERN3084220,"7,760"
+   Mustang  Island  Area,western2723923,"7,304",2003-04-01
+Mustang Island Area,WESTERN2715428,"6,847",2003-05-01
+Mustang Island Area,WESTERN2283491,"7,980",2003-06-01
+   Mustang  Island  Area,western,,,2003-07-01
+   Mustang  Island  Area,western2301355,"4,327",2003-08-01
+Mustang Island Area,WESTERN1990934,"4,609",2003-09-01
+   Mustang  Island  Area,WEstern1858510,"1,711"
+Mustang Island Area,Western1445580,"5,4O1",2003-11-01
+   Mustang  Island  Area,WESTERN1523316,"3,271"
+Mustang Island Area,Western1499084,"1,68O",2004-01-01
+Mustang Island Area,Western1400836,"2,336",2004-02-01
+   Mustang  Island  Area,WESTERN1607034,"2,343"
+   Mustang  Island  Area,WEstern
+   Mustang  Island  Area,WEstern
+Mustang Island Area,Western1621702,"3,863",2004-06-01
+   Mustang  Island  Area,western,,,2004-07-01
+   Mustang  Island  Area,WEstern
+Mustang Island Area,WESTERN1196190,"1,336",2004-09-01
+Mustang Island Area,WESTERN1267650,"5,787",2004-10-01
+   Mustang  Island  Area,western1160834,"9,239",2004-11-01
+   Mustang  Island  Area,western1316772,"8,845",2004-12-01
+Mustang Island Area,WESTERN1563042,"2,883",2005-01-01
+Mustang Island Area,Western1665794,"12,826",2005-02-01
+   Mustang  Island  Area,western1945743,"12,952",2005-03-01
+   Mustang  Island  Area,WEstern
+   Mustang  Island  Area,WEstern
+Mustang Island Area,Western1922011,"8,917",2005-06-01
+   Mustang  Island  Area,western1788639,"7,139",2005-07-01
+Mustang Island Area,Western1736436,"7,124",2005-08-01
+   Mustang  Island  Area,WEstern1608190,"18,979"
+   Mustang  Island  Area,WESTERN1727241,"44,950"
+   Mustang  Island  Area,WEstern1686198,"42,108"
+Mustang Island Area,Western1843622,"68,871",2005-12-01
+   Mustang  Island  Area,western1774535,"67,918",2006-01-01
+Mustang Island Area,WESTERN1426475,"51,347",2006-02-01
+   Mustang  Island  Area,western875905,"52,477",2006-03-01
+North Padre Island Area,Western1838579,338,1996-01-01
+North Padre Island Area,WESTERN1569516,499,1996-02-01
+North Padre Island Area,WESTERN1684233,325,1996-03-01
+   North  Padre  Island  Area,WEstern
+   North  Padre  Island  Area,western,,,1996-05-01
+   North  Padre  Island  Area,western,,,1996-06-01
+   North  Padre  Island  Area,western,,,1996-07-01
+North Padre Island Area,WESTERN1746694,299,1996-08-01
+   North  Padre  Island  Area,western,,,1996-09-01
+   North  Padre  Island  Area,WEstern
+   North  Padre  Island  Area,Western1536920,232,1996-11-01
+   North  Padre  Island  Area,western1568146,427,1996-12-01
+   North  Padre  Island  Area,western1452099,412,1997-01-01
+   North  Padre  Island  Area,Western1355896,369,1997-02-01
+North Padre Island Area,Western1469134,539,1997-03-01
+North Padre Island Area,Western1358219,351,1997-04-01
+North Padre Island Area,Western1288551,129,1997-05-01
+North Padre Island Area,Western1395994,645,1997-06-01
+North Padre Island Area,Western1575476,67O,1997-07-01
+   North  Padre  Island  Area,WESTERN1579035,574
+   North  Padre  Island  Area,western1617091,762,1997-09-01
+North Padre Island Area,WESTERN1752756,509,1997-10-01
+   North  Padre  Island  Area,western,,,1997-11-01
+   North  Padre  Island  Area,western1594682,327,1997-12-01
+   North  Padre  Island  Area,WEstern
+North Padre Island Area,Western1300173,157,1998-02-01
+North Padre Island Area,Western1378019,469,1998-03-01
+North Padre Island Area,Western1344064,293,1998-04-01
+North Padre Island Area,WESTERN1449210,605,1998-05-01
+North Padre Island Area,Western1294414,569,1998-06-01
+North Padre Island Area,Western1379488,363,1998-07-01
+   North  Padre  Island  Area,western,,,1998-08-01
+North Padre Island Area,Western1005485,287,1998-09-01
+   North  Padre  Island  Area,western1082788,13,1998-10-01
+   North  Padre  Island  Area,western,,,1998-11-01
+   North  Padre  Island  Area,western873212,86,1998-12-01
+North Padre Island Area,WESTERN1045069,69,1999-01-01
+North Padre Island Area,Western1044872,15,1999-02-01
+North Padre Island Area,WESTERN1186218,569,1999-03-01
+   North  Padre  Island  Area,WEstern
+   North  Padre  Island  Area,western,,,1999-05-01
+   North  Padre  Island  Area,Western1048627,163,1999-06-01
+North Padre Island Area,Western1074400,229,1999-07-01
+North Padre Island Area,WESTERN942297,53,1999-08-01
+North Padre Island Area,Western904748,141,1999-09-01
+   North  Padre  Island  Area,WESTERN904791,89
+North Padre Island Area,WESTERN1027069,138,1999-11-01
+   North  Padre  Island  Area,western,,,1999-12-01
+   North  Padre  Island  Area,western1106666,495,2000-01-01
+North Padre Island Area,WESTERN1188452,15,2000-02-01
+   North  Padre  Island  Area,western,,,2000-03-01
+   North  Padre  Island  Area,western,,,2000-04-01
+North Padre Island Area,Western1522105,221,2000-05-01
+North Padre Island Area,Western1572799,397,2000-06-01
+North Padre Island Area,Western1524980,245,2000-07-01
+North Padre Island Area,WESTERN1545603,281,2000-08-01
+   North  Padre  Island  Area,western1506142,267,2000-09-01
+   North  Padre  Island  Area,western1550967,119,2000-10-01
+North Padre Island Area,WESTERN1468942,325,2000-11-01
+   North  Padre  Island  Area,western,,,2000-12-01
+North Padre Island Area,WESTERN1526703,498,2001-01-01
+   North  Padre  Island  Area,western,,,2001-02-01
+North Padre Island Area,WESTERN1730395,437,2001-03-01
+   North  Padre  Island  Area,western,,,2001-04-01
+   North  Padre  Island  Area,WEstern
+   North  Padre  Island  Area,western,,,2001-06-01
+   North  Padre  Island  Area,WEstern
+North Padre Island Area,Western1426437,76,2001-08-01
+North Padre Island Area,Western1270019,228,2001-09-01
+North Padre Island Area,WESTERN1382562,306,2001-10-01
+North Padre Island Area,WESTERN1257819,106,2001-11-01
+   North  Padre  Island  Area,WEstern
+North Padre Island Area,WESTERN1096124,62,2002-01-01
+North Padre Island Area,WESTERN954951,91,2002-02-01
+North Padre Island Area,WESTERN1063398,60,2002-03-01
+   North  Padre  Island  Area,WESTERN1081433,101
+North Padre Island Area,Western1053218,119,2002-05-01
+North Padre Island Area,WESTERN1088378,88,2002-06-01
+   North  Padre  Island  Area,western1233766,118,2002-07-01
+North Padre Island Area,Western1302776,87,2002-08-01
+North Padre Island Area,Western1066500,87,2002-09-01
+   North  Padre  Island  Area,WEstern1114408,107
+North Padre Island Area,Western886603,69,2002-11-01
+North Padre Island Area,Western1046469,2,2002-12-01
+   North  Padre  Island  Area,western,,,2003-01-01
+North Padre Island Area,Western857178,1,2003-02-01
+North Padre Island Area,Western937214,61,2003-03-01
+   North  Padre  Island  Area,WEstern839191,67
+North Padre Island Area,Western788200,81,2003-05-01
+North Padre Island Area,WESTERN712770,57,2003-06-01
+North Padre Island Area,Western631281,25,2003-07-01
+North Padre Island Area,Western651794,32,2003-08-01
+   North  Padre  Island  Area,WEstern
+   North  Padre  Island  Area,WEstern
+   North  Padre  Island  Area,WESTERN600265,68
+   North  Padre  Island  Area,western678653,66,2003-12-01
+   North  Padre  Island  Area,western726298,0,2004-01-01
+   North  Padre  Island  Area,WESTERN876688,613
+   North  Padre  Island  Area,WESTERN1428403,1
+North Padre Island Area,Western1506278,773,2004-04-01
+   North  Padre  Island  Area,Western1598660,0,2004-05-01
+   North  Padre  Island  Area,western1474206,854,2004-06-01
+North Padre Island Area,Western1522579,412,2004-07-01
+   North  Padre  Island  Area,western,,,2004-08-01
+   North  Padre  Island  Area,WEstern
+   North  Padre  Island  Area,western1469301,678,2004-10-01
+North Padre Island Area,Western1447668,835,2004-11-01
+North Padre Island Area,WESTERN1432730,897,2004-12-01
+   North  Padre  Island  Area,western1490041,640,2005-01-01
+   North  Padre  Island  Area,western1360858,219,2005-02-01
+North Padre Island Area,Western1514241,"1,371",2005-03-01
+North Padre Island Area,WESTERN1410425,367,2005-04-01
+North Padre Island Area,Western1101189,493,2005-05-01
+   North  Padre  Island  Area,western,,,2005-06-01
+   North  Padre  Island  Area,WEstern
+   North  Padre  Island  Area,Western1000944,289,2005-08-01
+North Padre Island Area,Western677053,257,2005-09-01
+   North  Padre  Island  Area,WESTERN797383,0
+North Padre Island Area,WESTERN493586,175,2005-11-01
+   North  Padre  Island  Area,WEstern
+North Padre Island Area,WESTERN506195,223,2006-01-01
+North Padre Island Area,WESTERN437685,1,2006-02-01
+   North  Padre  Island  Area,WEstern
+Sabine Pass Area,WESTERN144927,"1,902",1996-01-01
+   Sabine  Pass  Area,WEstern134623,"1,789"
+   Sabine  Pass  Area,western,,,1996-03-01
+   Sabine  Pass  Area,western138454,"1,974",1996-04-01
+Sabine Pass Area,Western129205,"1,431",1996-05-01
+Sabine Pass Area,Western119618,"1,187",1996-06-01
+   Sabine  Pass  Area,Western132344,"1,097",1996-07-01
+Sabine Pass Area,WESTERN174750,"1,784",1996-08-01
+   Sabine  Pass  Area,western146804,"1,140",1996-09-01
+   Sabine  Pass  Area,WEstern124724,"1,385"
+   Sabine  Pass  Area,western118210,"1,437",1996-11-01
+   Sabine  Pass  Area,WEstern108786,"1,343"
+   Sabine  Pass  Area,western,,,1997-01-01
+   Sabine  Pass  Area,WEstern181808,"1,042"
+   Sabine  Pass  Area,WEstern209946,"1,483"
+   Sabine  Pass  Area,Western184920,"1,169",1997-04-01
+Sabine Pass Area,WESTERN192419,"1,836",1997-05-01
+   Sabine  Pass  Area,WEstern204948,"1,911"
+   Sabine  Pass  Area,WEstern
+   Sabine  Pass  Area,WEstern
+   Sabine  Pass  Area,WESTERN158571,660
+Sabine Pass Area,WESTERN123511,133,1997-10-01
+Sabine Pass Area,WESTERN276067,839,1997-11-01
+Sabine Pass Area,WESTERN285116,772,1997-12-01
+   Sabine  Pass  Area,western,,,1998-01-01
+Sabine Pass Area,Western207669,366,1998-02-01
+Sabine Pass Area,WESTERN254363,760,1998-03-01
+   Sabine  Pass  Area,WEstern
+Sabine Pass Area,Western256556,456,1998-05-01
+   Sabine  Pass  Area,western214749,295,1998-06-01
+   Sabine  Pass  Area,WEstern
+Sabine Pass Area,WESTERN204698,376,1998-08-01
+   Sabine  Pass  Area,western259611,"2,850",1998-09-01
+Sabine Pass Area,Western310356,963,1998-10-01
+Sabine Pass Area,WESTERN293007,"1,635",1998-11-01
+Sabine Pass Area,WESTERN282243,"2,342",1998-12-01
+Sabine Pass Area,Western285098,"1,725",1999-01-01
+   Sabine  Pass  Area,WESTERN242497,214
+   Sabine  Pass  Area,western288557,607,1999-03-01
+   Sabine  Pass  Area,western285723,4,1999-04-01
+Sabine Pass Area,WESTERN275656,468,1999-05-01
+Sabine Pass Area,Western270906,1,1999-06-01
+Sabine Pass Area,WESTERN276511,337,1999-07-01
+Sabine Pass Area,Western273736,O,1999-08-01
+Sabine Pass Area,Western263571,329,1999-09-01
+   Sabine  Pass  Area,western245472,0,1999-10-01
+Sabine Pass Area,WESTERN250254,419,1999-11-01
+Sabine Pass Area,WESTERN240879,0,1999-12-01
+   Sabine  Pass  Area,WESTERN242495,179
+   Sabine  Pass  Area,western,,,2000-02-01
+Sabine Pass Area,Western235851,3,2000-03-01
+Sabine Pass Area,Western223216,138,2000-04-01
+   Sabine  Pass  Area,WEstern231291,336
+Sabine Pass Area,Western222738,1,2000-06-01
+Sabine Pass Area,Western154402,1,2000-07-01
+   Sabine  Pass  Area,WEstern203828,975
+Sabine Pass Area,Western403056,125,2000-09-01
+Sabine Pass Area,Western731081,"5,61O",2000-10-01
+Sabine Pass Area,Western481107,7,2000-11-01
+Sabine Pass Area,Western305082,53,2000-12-01
+Sabine Pass Area,Western257878,"4,655",2001-01-01
+Sabine Pass Area,WESTERN308751,0,2001-02-01
+   Sabine  Pass  Area,Western257354,11,2001-03-01
+Sabine Pass Area,WESTERN211238,"1,203",2001-04-01
+Sabine Pass Area,Western196931,"2,000",2001-05-01
+Sabine Pass Area,Western137654,56,2001-06-01
+Sabine Pass Area,WESTERN142766,"1,114",2001-07-01
+   Sabine  Pass  Area,Western147718,14,2001-08-01
+   Sabine  Pass  Area,western119576,500,2001-09-01
+Sabine Pass Area,WESTERN147776,175,2001-10-01
+Sabine Pass Area,Western185518,"2,O59",2001-11-01
+   Sabine  Pass  Area,WEstern
+   Sabine  Pass  Area,western181877,508,2002-01-01
+   Sabine  Pass  Area,western143586,"1,096",2002-02-01
+Sabine Pass Area,Western162570,117,2002-03-01
+Sabine Pass Area,WESTERN159650,137,2002-04-01
+   Sabine  Pass  Area,Western172777,802,2002-05-01
+   Sabine  Pass  Area,western,,,2002-06-01
+   Sabine  Pass  Area,western167720,66,2002-07-01
+   Sabine  Pass  Area,western162986,"1,183",2002-08-01
+Sabine Pass Area,Western138274,66,2002-09-01
+Sabine Pass Area,Western117687,5O1,2002-10-01
+Sabine Pass Area,Western113783,"1,154",2002-11-01
+   Sabine  Pass  Area,WEstern
+Sabine Pass Area,WESTERN107513,77,2003-01-01
+   Sabine  Pass  Area,WESTERN94869,10
+   Sabine  Pass  Area,Western104306,589,2003-03-01
+   Sabine  Pass  Area,Western168710,304,2003-04-01
+   Sabine  Pass  Area,western99630,140,2003-05-01
+   Sabine  Pass  Area,WEstern81154,112
+Sabine Pass Area,Western47685,4O,2003-07-01
+   Sabine  Pass  Area,western,,,2003-08-01
+Sabine Pass Area,WESTERN29866,53,2003-09-01
+   Sabine  Pass  Area,WEstern
+Sabine Pass Area,Western27582,4,2003-11-01
+   Sabine  Pass  Area,western,,,2003-12-01
+Sabine Pass Area,Western79701,479,2004-01-01
+Sabine Pass Area,Western46291,15O,2004-02-01
+Sabine Pass Area,Western49453,23O,2004-03-01
+Sabine Pass Area,WESTERN35780,115,2004-04-01
+   Sabine  Pass  Area,western30669,225,2004-05-01
+   Sabine  Pass  Area,Western22518,78,2004-06-01
+Sabine Pass Area,Western16332,5O,2004-07-01
+   Sabine  Pass  Area,western,,,2004-08-01
+   Sabine  Pass  Area,western40363,106,2004-09-01
+   Sabine  Pass  Area,WEstern38422,101
+Sabine Pass Area,Western29154,1,2004-11-01
+Sabine Pass Area,WESTERN34852,6,2004-12-01
+   Sabine  Pass  Area,western38358,184,2005-01-01
+Sabine Pass Area,Western20739,1O2,2005-02-01
+Sabine Pass Area,Western25188,91,2005-03-01
+Sabine Pass Area,Western6211,45,2005-04-01
+Sabine Pass Area,Western19289,225,2005-05-01
+Sabine Pass Area,WESTERN52973,94,2005-06-01
+   Sabine  Pass  Area,western58296,467,2005-07-01
+Sabine Pass Area,WESTERN13984,147,2005-08-01
+Sabine Pass Area,Western1257,77,2005-09-01
+   Sabine  Pass  Area,Western705,4,2005-10-01
+Sabine Pass Area,Western4204,58,2005-11-01
+   Sabine  Pass  Area,western2892,55,2005-12-01
+Sabine Pass Area,Western2620,12,2006-01-01
+Sabine Pass Area,WESTERN33115,251,2006-02-01
+   Sabine  Pass  Area,western,,,2006-03-01
+   South  Padre  Island  Area,western484309,0,2005-12-01
+South Padre Island Area,WESTERN676744,0,2006-01-01
+   South  Padre  Island  Area,WESTERN648893,0
+South Padre Island Area,Western749040,0,2006-03-01

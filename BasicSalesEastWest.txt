@@ -1,0 +1,207 @@
+This data set contains basic billing information for a fictitious consulting company.
+The first fields is the customer's name
+Then comes the Employee ID, Customer Region, Billed Hours, Bill Date,
+Bill Rate, Total Amount Due
+
+The date is already stored as a SAS date and TotalDue is simply
+Hours Billed multiplied by Bill Rate
+
+Delimiters are only used when they were deemed necessary. Note that Region
+has a reduced field width (now 4 characters) due to the shorter values.
+
+BBQ Hut                                      2877West0.00,22473,150,0.00
+Professor Phizzy Soda                        2877East5.75,22411,50,287.50
+Professor Phizzy Soda                        9456West1.25,22322,75,93.75
+The Company, LLC                             2877West7.75,22517,50,387.50
+Professor Phizzy Soda                        6508East0.00,22487,150,0.00
+Solar Molars: Your Friendly Outdoor Dentists!2877West7.00,22487,75,525.00
+The Company, LLC                             2877East4.50,22573,75,337.50
+IMDB                                         6508West0.00,22402,75,0.00
+The Company, LLC                             6508West6.50,22315,150,975.00
+Karen's Keepsake Kiosk                       0002East1.75,22367,75,131.25
+Reddit Recommends                            9456West3.75,22516,50,187.50
+Karen's Keepsake Kiosk                       9456West6.25,22494,75,468.75
+IMDB                                         9456East5.50,22583,150,825.00
+Frank's Franks                               6508East2.00,22405,75,150.00
+Frank's Franks                               0002West0.25,22398,150,37.50
+Brenda's Bangin Bagels                       2877West0.25,22406,75,18.75
+Reddit Recommends                            2877West0.75,22532,75,56.25
+Frank's Franks                               2009West0.00,22474,150,0.00
+Tamah's TastyKakes                           2009West3.50,22557,150,525.00
+Karen's Keepsake Kiosk                       0002West0.75,22640,150,112.50
+Brenda's Bangin Bagels                       0002West5.00,22340,150,750.00
+Brenda's Bangin Bagels                       2877East4.25,22611,75,318.75
+Solar Molars: Your Friendly Outdoor Dentists!9456West6.75,22630,75,506.25
+IMDB                                         9456East4.75,22569,50,237.50
+The Company, LLC                             2877West2.50,22423,75,187.50
+Karen's Keepsake Kiosk                       6508East6.75,22308,150,1012.50
+Karen's Keepsake Kiosk                       2877West0.00,22629,75,0.00
+IMDB                                         0002East7.75,22639,50,387.50
+IMDB                                         6508East5.50,22403,75,412.50
+Frank's Franks                               2009West3.75,22353,150,562.50
+BBQ Hut                                      2877West3.50,22503,50,175.00
+Reddit Recommends                            2009East5.75,22450,150,862.50
+Tamah's TastyKakes                           2009West5.00,22288,75,375.00
+Brenda's Bangin Bagels                       2877West3.75,22308,150,562.50
+Solar Molars: Your Friendly Outdoor Dentists!6508West7.00,22634,50,350.00
+BBQ Hut                                      0002West2.25,22474,75,168.75
+Frank's Franks                               9456East1.75,22379,150,262.50
+Solar Molars: Your Friendly Outdoor Dentists!0002East7.50,22445,50,375.00
+Solar Molars: Your Friendly Outdoor Dentists!2009West4.75,22580,150,712.50
+Brenda's Bangin Bagels                       9456East7.75,22596,150,1162.50
+Frank's Franks                               2877West3.00,22475,50,150.00
+The Company, LLC                             0002West5.75,22568,75,431.25
+Frank's Franks                               2009West6.50,22633,150,975.00
+Professor Phizzy Soda                        0002East2.50,22593,50,125.00
+Solar Molars: Your Friendly Outdoor Dentists!6508West7.25,22339,50,362.50
+Tamah's TastyKakes                           9456East4.00,22506,50,200.00
+Professor Phizzy Soda                        2877West4.25,22441,50,212.50
+Frank's Franks                               9456West0.25,22450,150,37.50
+Reddit Recommends                            2877East3.50,22478,150,525.00
+Brenda's Bangin Bagels                       6508West2.50,22632,50,125.00
+Reddit Recommends                            6508East4.75,22486,50,237.50
+Brenda's Bangin Bagels                       0002West4.75,22368,150,712.50
+Professor Phizzy Soda                        2877East7.00,22503,150,1050.00
+IMDB                                         9456East5.75,22466,150,862.50
+IMDB                                         2009East8.00,22384,75,600.00
+IMDB                                         0002East0.50,22310,50,25.00
+IMDB                                         0002West6.00,22296,150,900.00
+BBQ Hut                                      9456West1.75,22468,150,262.50
+Brenda's Bangin Bagels                       9456West7.75,22565,75,581.25
+Professor Phizzy Soda                        0002East6.50,22557,50,325.00
+The Company, LLC                             0002West1.50,22516,75,112.50
+Frank's Franks                               2009West1.00,22605,75,75.00
+Tamah's TastyKakes                           2877East0.25,22595,50,12.50
+Reddit Recommends                            0002East1.00,22519,50,50.00
+Professor Phizzy Soda                        2877East7.25,22614,50,362.50
+IMDB                                         6508East3.25,22445,50,162.50
+Karen's Keepsake Kiosk                       0002East6.75,22337,150,1012.50
+Reddit Recommends                            6508East2.00,22295,50,100.00
+Professor Phizzy Soda                        9456West1.75,22555,150,262.50
+The Company, LLC                             0002East4.75,22499,75,356.25
+The Company, LLC                             2009East1.50,22591,50,75.00
+Professor Phizzy Soda                        2009West0.50,22376,150,75.00
+Professor Phizzy Soda                        9456East2.75,22607,50,137.50
+Karen's Keepsake Kiosk                       2009East5.00,22316,75,375.00
+Karen's Keepsake Kiosk                       2009West5.50,22601,150,825.00
+Tamah's TastyKakes                           0002West7.25,22560,75,543.75
+Reddit Recommends                            2877East4.00,22383,75,300.00
+BBQ Hut                                      9456West2.50,22501,150,375.00
+Reddit Recommends                            0002East6.75,22583,75,506.25
+Tamah's TastyKakes                           0002East1.75,22445,50,87.50
+Reddit Recommends                            6508West2.00,22511,150,300.00
+Frank's Franks                               2877East5.00,22404,150,750.00
+Solar Molars: Your Friendly Outdoor Dentists!6508East6.75,22302,150,1012.50
+Karen's Keepsake Kiosk                       2877West4.50,22335,150,675.00
+Professor Phizzy Soda                        2877West7.50,22310,75,562.50
+Frank's Franks                               2009East6.00,22476,75,450.00
+Reddit Recommends                            6508West8.00,22338,75,600.00
+IMDB                                         9456East3.75,22421,150,562.50
+Karen's Keepsake Kiosk                       0002East5.00,22470,50,250.00
+The Company, LLC                             2877West3.00,22545,50,150.00
+BBQ Hut                                      9456East1.00,22526,75,75.00
+Solar Molars: Your Friendly Outdoor Dentists!0002East6.75,22300,75,506.25
+Karen's Keepsake Kiosk                       2877West2.00,22297,150,300.00
+IMDB                                         9456West0.75,22606,75,56.25
+BBQ Hut                                      6508West6.75,22423,150,1012.50
+The Company, LLC                             2009West7.50,22587,150,1125.00
+Professor Phizzy Soda                        2009West5.50,22572,50,275.00
+BBQ Hut                                      2877East7.75,22492,50,387.50
+Tamah's TastyKakes                           6508East5.00,22354,75,375.00
+Reddit Recommends                            0002East7.00,22597,50,350.00
+Karen's Keepsake Kiosk                       6508East6.25,22321,150,937.50
+BBQ Hut                                      2877West5.25,22580,150,787.50
+Frank's Franks                               2009West5.25,22425,50,262.50
+Brenda's Bangin Bagels                       2877West4.50,22580,75,337.50
+Solar Molars: Your Friendly Outdoor Dentists!2009West7.25,22321,150,1087.50
+Reddit Recommends                            6508West5.75,22329,50,287.50
+BBQ Hut                                      6508West2.25,22372,150,337.50
+Brenda's Bangin Bagels                       6508East7.50,22571,50,375.00
+Frank's Franks                               9456East8.00,22332,50,400.00
+Karen's Keepsake Kiosk                       6508East5.25,22391,75,393.75
+Reddit Recommends                            2877West2.50,22474,50,125.00
+Brenda's Bangin Bagels                       0002East3.25,22547,75,243.75
+Solar Molars: Your Friendly Outdoor Dentists!2009West5.50,22572,75,412.50
+Tamah's TastyKakes                           0002East0.75,22342,50,37.50
+Reddit Recommends                            9456West4.25,22597,50,212.50
+Brenda's Bangin Bagels                       9456West4.00,22528,150,600.00
+Frank's Franks                               2009East3.00,22388,150,450.00
+Frank's Franks                               9456West5.50,22540,75,412.50
+Reddit Recommends                            6508West5.50,22480,150,825.00
+The Company, LLC                             0002West4.25,22339,75,318.75
+Brenda's Bangin Bagels                       9456East2.75,22511,75,206.25
+Frank's Franks                               2009East7.00,22532,150,1050.00
+IMDB                                         2877East5.50,22475,150,825.00
+Karen's Keepsake Kiosk                       9456East0.50,22374,150,75.00
+BBQ Hut                                      0002West7.25,22434,150,1087.50
+IMDB                                         9456West4.75,22312,75,356.25
+Professor Phizzy Soda                        2877East2.50,22462,75,187.50
+Brenda's Bangin Bagels                       2009East2.00,22583,75,150.00
+Frank's Franks                               9456East1.75,22562,150,262.50
+BBQ Hut                                      6508West0.25,22521,50,12.50
+Professor Phizzy Soda                        9456West4.00,22415,75,300.00
+Karen's Keepsake Kiosk                       0002East3.50,22330,150,525.00
+Karen's Keepsake Kiosk                       2009West7.75,22512,75,581.25
+Reddit Recommends                            0002West5.50,22454,50,275.00
+IMDB                                         2877East6.00,22631,150,900.00
+BBQ Hut                                      9456East3.75,22641,150,562.50
+Reddit Recommends                            2877West0.50,22430,50,25.00
+Karen's Keepsake Kiosk                       2009West6.00,22638,150,900.00
+Karen's Keepsake Kiosk                       0002East7.50,22487,75,562.50
+Professor Phizzy Soda                        0002West4.75,22419,75,356.25
+Karen's Keepsake Kiosk                       9456East0.75,22487,50,37.50
+BBQ Hut                                      9456West2.75,22472,75,206.25
+Tamah's TastyKakes                           0002West3.50,22333,50,175.00
+Karen's Keepsake Kiosk                       9456West2.00,22294,75,150.00
+Tamah's TastyKakes                           6508West2.25,22585,50,112.50
+Professor Phizzy Soda                        6508East6.25,22520,150,937.50
+IMDB                                         2009East0.50,22623,75,37.50
+Solar Molars: Your Friendly Outdoor Dentists!0002West3.25,22478,50,162.50
+Tamah's TastyKakes                           0002East6.75,22630,50,337.50
+Frank's Franks                               2009East2.00,22484,75,150.00
+Professor Phizzy Soda                        9456West4.00,22332,75,300.00
+The Company, LLC                             0002West3.75,22582,150,562.50
+BBQ Hut                                      9456East0.50,22377,150,75.00
+IMDB                                         2877East4.50,22305,50,225.00
+The Company, LLC                             2009West2.25,22343,150,337.50
+Brenda's Bangin Bagels                       2877East7.25,22579,50,362.50
+BBQ Hut                                      2009West1.50,22460,150,225.00
+Karen's Keepsake Kiosk                       2877West1.50,22387,150,225.00
+Brenda's Bangin Bagels                       2009East1.50,22346,75,112.50
+Brenda's Bangin Bagels                       2877West3.75,22328,75,281.25
+Solar Molars: Your Friendly Outdoor Dentists!2877West6.75,22466,75,506.25
+Professor Phizzy Soda                        9456East4.75,22398,150,712.50
+Frank's Franks                               0002West7.25,22541,75,543.75
+Tamah's TastyKakes                           6508East6.75,22492,75,506.25
+Solar Molars: Your Friendly Outdoor Dentists!9456East5.75,22507,75,431.25
+Reddit Recommends                            2877East1.25,22482,75,93.75
+IMDB                                         6508West3.75,22642,150,562.50
+Frank's Franks                               0002East2.75,22527,50,137.50
+The Company, LLC                             2877East4.25,22508,150,637.50
+BBQ Hut                                      2877West3.00,22584,75,225.00
+The Company, LLC                             2009West1.00,22480,75,75.00
+Brenda's Bangin Bagels                       0002East6.75,22451,75,506.25
+Solar Molars: Your Friendly Outdoor Dentists!2877East5.50,22537,50,275.00
+Tamah's TastyKakes                           2009West2.75,22337,75,206.25
+Professor Phizzy Soda                        9456West5.75,22628,75,431.25
+BBQ Hut                                      0002East4.75,22498,50,237.50
+Professor Phizzy Soda                        6508West3.75,22527,75,281.25
+BBQ Hut                                      6508East4.00,22426,150,600.00
+Brenda's Bangin Bagels                       2877East4.75,22522,50,237.50
+Tamah's TastyKakes                           2009West1.50,22609,150,225.00
+Frank's Franks                               9456East8.00,22510,75,600.00
+Karen's Keepsake Kiosk                       0002East4.00,22500,50,200.00
+Brenda's Bangin Bagels                       2877East5.25,22435,75,393.75
+BBQ Hut                                      9456East7.75,22587,50,387.50
+Reddit Recommends                            2877West1.25,22529,50,62.50
+Brenda's Bangin Bagels                       9456East4.25,22559,75,318.75
+Brenda's Bangin Bagels                       0002West7.75,22608,75,581.25
+BBQ Hut                                      9456East7.75,22459,50,387.50
+Tamah's TastyKakes                           2009East6.75,22504,75,506.25
+IMDB                                         2009West5.00,22610,50,250.00
+Reddit Recommends                            6508West2.25,22299,50,112.50
+BBQ Hut                                      2009East6.50,22338,50,325.00
+The Company, LLC                             0002West5.25,22281,150,787.50
+IMDB                                         6508East6.75,22438,75,506.25
+The Company, LLC                             2877East3.25,22309,50,162.50
+Solar Molars: Your Friendly Outdoor Dentists!6508East5.50,22461,75,412.50

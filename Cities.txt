@@ -1,0 +1,182 @@
+City	CityPop
+New York, NY	79,561
+Los Angeles, CA	37,314
+Chicago, IL	27,019
+Houston, TX	19,414
+Philadelphia, PA	14,064
+Phoenix, AZ	13,780
+San Antonio, TX	12,022
+Detroit, MI	8,361
+Indianapolis, IN	7,653
+San Francisco, CA	7,191
+Austin, TX	6,785
+Memphis, TN	6,423
+Baltimore, MD	6,085
+Charlotte, NC	6,016
+Milwaukee, WI	5,569
+Denver, CO	5,452
+Las Vegas, NV	5,387
+Seattle, WA	5,369
+Nashville/Davidson, TN	5,227
+Boston, MA	5,207
+Oklahoma City, OK	5,158
+Washington, DC	5,151
+Portland, OR	5,136
+Fresno, CA	4,773
+Long Beach, CA	4,640
+Sacramento, CA	4,453
+Mesa, AZ	4,424
+Kansas City, MO	4,409
+Virginia Beach, VA	4,309
+Cleveland, OH	4,145
+Oakland, CA	3,739
+Tulsa, OK	3,704
+Miami, FL	3,617
+Wichita, KS	3,546
+Minneapolis, MN	3,503
+Arlington, TX	3,490
+Saint Louis, MO	3,337
+Anaheim, CA	3,295
+Raleigh, NC	3,152
+Santa Ana, CA	3,023
+Riverside, CA	2,941
+Cincinnati, OH	2,875
+Bakersfield, CA	2,863
+Toledo, OH	2,859
+Pittsburgh, PA	2,844
+Corpus Christi, TX	2,800
+Stockton, CA	2,785
+Anchorage, AK	2,663
+Saint Paul, MN	2,616
+Buffalo, NY	2,565
+Lexington/Fayette, KY	2,554
+Newark, NJ	2,542
+Plano, TX	2,516
+Jersey City, NJ	2,463
+Garland, TX	2,358
+Lincoln, NE	2,261
+Chandler, AZ	2,257
+Henderson, NV	2,238
+Fort Wayne, IN	2,193
+Chesapeake, VA	2,148
+Chula Vista, CA	2,130
+Irving, TX	2,123
+Greensboro, NC	2,086
+Laredo, TX	2,078
+Norfolk, VA	2,062
+Baton Rouge, LA	2,054
+San Bernardino, CA	2,046
+Reno, NV	2,045
+Madison, WI	2,037
+Modesto, CA	2,030
+Akron, OH	2,002
+Des Moines, IA	1,969
+Glendale, CA	1,946
+Grand Rapids, MI	1,936
+Mobile, AL	1,933
+Yonkers, NY	1,933
+Montgomery, AL	1,930
+Spokane, WA	1,928
+Garden Grove, CA	1,923
+Arlington, VA	1,919
+Tacoma, WA	1,919
+Boise, ID	1,917
+Huntington Beach, CA	1,895
+Rochester, NY	1,893
+Winston/Salem, NC	1,835
+Salt Lake City, UT	1,827
+Augusta/Richmond County, GA	1,810
+Richmond, VA	1,808
+Oxnard, CA	1,789
+Little Rock, AR	1,769
+Newport News, VA	1,766
+Columbus, GA	1,759
+Irvine, CA	1,722
+Brownsville, TX	1,715
+Knoxville, TN	1,687
+Santa Clarita, CA	1,670
+Tempe, AZ	1,662
+North Las Vegas, NV	1,651
+Jackson, MS	1,639
+Moreno Valley, CA	1,630
+Corona, CA	1,624
+Pomona, CA	1,613
+Providence, RI	1,603
+Pembroke Pines, FL	1,594
+Huntsville, AL	1,586
+Fontana, CA	1,582
+Salinas, CA	1,570
+Ontario, CA	1,567
+Vancouver, WA	1,555
+Worcester, MA	1,544
+Pasadena, TX	1,502
+Paterson, NJ	1,484
+Springfield, MA	1,469
+Palmdale, CA	1,458
+Rancho Cucamonga, CA	1,450
+Kansas City, KS	1,423
+Fullerton, CA	1,421
+Peoria, AZ	1,419
+Spring Valley, NV	1,407
+Springfield, MO	1,396
+Chattanooga, TN	1,392
+Rockford, IL	1,392
+Torrance, CA	1,386
+Orange, CA	1,380
+Lancaster, CA	1,352
+Warren, MI	1,349
+Cape Coral, FL	1,344
+Hampton, VA	1,336
+Alexandria, VA	1,335
+Metairie, LA	1,329
+Dayton, OH	1,327
+Sunnyvale, CA	1,327
+Syracuse, NY	1,325
+Sioux Falls, SD	1,324
+Bridgeport, CT	1,320
+East Los Angeles, CA	1,308
+Pasadena, CA	1,294
+Fayetteville, NC	1,288
+Thousand Oaks, CA	1,279
+Mesquite, TX	1,269
+Sterling Heights, MI	1,234
+Fort Collins, CO	1,223
+Elizabeth, NJ	1,211
+Inglewood, CA	1,202
+Lansing, MI	1,197
+Stamford, CT	1,186
+Savannah, GA	1,175
+Simi Valley, CA	1,167
+McAllen, TX	1,164
+West Covina, CA	1,164
+Bellevue, WA	1,147
+Flint, MI	1,119
+Independence, MO	1,118
+Downey, CA	1,114
+Hartford, CT	1,111
+Evansville, IN	1,107
+Springfield, IL	1,103
+Manchester, NH	1,093
+El Monte, CA	1,089
+New Haven, CT	1,084
+Lafayette, LA	1,082
+Beaumont, TX	1,079
+Costa Mesa, CA	1,053
+Allentown, PA	1,052
+Waterbury, CT	1,045
+Norwalk, CA	1,038
+Livonia, MI	1,035
+Peoria, IL	1,021
+Provo, UT	1,012
+San Buenaventura (Ventura), CA	1,002
+Burbank, CA	1,001
+Ann Arbor, MI	987
+Gary, IN	971
+South Bend, IN	971
+Lowell, MA	969
+Green Bay, WI	942
+Erie, PA	914
+Columbia, SC	885
+Cambridge, MA	813
+Albany, NY	784
+Not in identifiable city (or size group)	0

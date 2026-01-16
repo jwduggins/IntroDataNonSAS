@@ -1,0 +1,436 @@
+This data set is derived from the Sashelp.Cars data set
+Fields are not provided in the order or style of the original data set
+Records are not provided in the order of the original data set
+
+Variables: Make, Model, Invoice Price, MSRP, Type, Origin, Drive Train,
+           City Mileage, Highway Mileage, Weight, Engine Size, Cylinders,
+           Horsepower, Wheelbase, Length
+
+Porsche	 911 GT2 2dr                                $173,560$192,465"Sports"  Europe"Rear"         17	24	3,131	3.6	6	477	93	175
+Mercedes-Benz	 CL600 2dr                                  $119,600$128,420"Sedan"   Europe"Rear"   13	19	4,473	5.5	12	493	114	196
+Mercedes-Benz	 SL600 convertible 2dr                      $117,854$126,670"Sports"  Europe"Rear"   13	19	4,429	5.5	12	493	101	179
+Mercedes-Benz	 SL55 AMG 2dr                               $113,388$121,770"Sports"  Europe"Rear"   14	21	4,235	5.5	8	493	101	179
+Mercedes-Benz	 CL500 2dr                                   $88,324 $94,820"Sedan"   Europe"Rear"   16	24	4,085	5.0	8	302	114	196
+Mercedes-Benz	 SL500 convertible 2dr                       $84,325 $90,520"Sports"  Europe"Rear"   16	23	4,065	5.0	8	302	101	179
+Acura	 NSX coupe 2dr manual S                      $79,978 $89,765"Sports"  Asia  "Rear"           17	24	3,153	3.2	6	290	100	174
+Jaguar	 XKR convertible 2dr                         $79,226 $86,995"Sports"  Europe"Rear"          16	23	4,042	4.2	8	390	102	187
+Mercedes-Benz	 S500 4dr                                    $80,939 $86,970"Sedan"   Europe"All"    16	24	4,390	5.0	8	302	122	203
+Audi	 RS 6 4dr                                    $76,417 $84,600"Sports"  Europe"Front"           15	22	4,024	4.2	8	450	109	191
+Porsche	 911 Carrera 4S coupe 2dr (convert)          $72,206 $84,165"Sports"  Europe"All"          17	24	3,240	3.6	6	315	93	175
+Jaguar	 XKR coupe 2dr                               $74,676 $81,995"Sports"  Europe"Rear"          16	23	3,865	4.2	8	390	102	187
+Dodge	 Viper SRT-10 convertible 2dr                $74,451 $81,795"Sports"  USA   "Rear"           12	20	3,410	8.3	10	500	99	176
+Porsche	 911 Carrera convertible 2dr (coupe)         $69,229 $79,165"Sports"  Europe"Rear"         18	26	3,135	3.6	6	315	93	175
+Mercedes-Benz	 G500                                        $71,540 $76,870"SUV"     Europe"All"    13	14	5,423	5.0	8	292	112	186
+Porsche	 911 Targa coupe 2dr                         $67,128 $76,765"Sports"  Europe"Rear"         18	26	3,119	3.6	6	315	93	175
+Cadillac	 XLR convertible 2dr                         $70,546 $76,200"Sports"  USA   "Rear"        17	25	3,647	4.6	8	320	106	178
+Volkswagen	 Phaeton W12 4dr                             $69,130 $75,000"Sedan"   Europe"Front"     12	19	5,399	6.0	12	420	118	204
+Jaguar	 XJR 4dr                                     $68,306 $74,995"Sedan"   Europe"Rear"          17	24	3,948	4.2	8	390	119	200
+Jaguar	 XK8 convertible 2dr                         $68,306 $74,995"Sports"  Europe"Rear"          18	26	3,980	4.2	8	294	102	187
+Mercedes-Benz	 S430 4dr                                    $69,168 $74,320"Sedan"   Europe"Rear"   18	26	4,160	4.3	8	275	122	203
+BMW	 745Li 4dr                                   $66,830 $73,195"Sedan"   Europe"Rear"             18	26	4,464	4.4	8	325	123	204
+Land Rover	 Range Rover HSE                             $65,807 $72,250"SUV"     Europe"All"       12	16	5,379	4.4	8	282	113	195
+Jaguar	 XK8 coupe 2dr                               $63,756 $69,995"Sports"  Europe"Rear"          18	26	3,779	4.2	8	294	102	187
+BMW	 745i 4dr                                    $63,190 $69,195"Sedan"   Europe"Rear"             18	26	4,376	4.4	8	325	118	198
+Audi	 A8 L Quattro 4dr                            $64,740 $69,190"Sedan"   Europe"All"             17	24	4,399	4.2	8	330	121	204
+Jaguar	 Vanden Plas 4dr                             $62,846 $68,995"Sedan"   Europe"Rear"          18	28	3,803	4.2	8	294	119	200
+Volkswagen	 Phaeton 4dr                                 $59,912 $65,000"Sedan"   Europe"Front"     16	22	5,194	4.2	8	335	118	204
+Lexus	 LX 470                                      $56,455 $64,800"SUV"     Asia  "All"            13	17	5,590	4.7	8	235	112	193
+Lexus	 SC 430 convertible 2dr                      $55,063 $63,200"Sports"  Asia  "Rear"           18	23	3,840	4.3	8	300	103	178
+Jaguar	 S-Type R 4dr                                $57,499 $63,120"Sedan"   Europe"Rear"          17	24	4,046	4.2	8	390	115	192
+Mercedes-Benz	 E500                                        $56,474 $60,670"Wagon"   Europe"All"    16	24	4,230	5.0	8	302	112	190
+Jaguar	 XJ8 4dr                                     $54,656 $59,995"Sedan"   Europe"Rear"          18	28	3,803	4.2	8	294	119	200
+Mercedes-Benz	 E500 4dr                                    $53,382 $57,270"Sedan"   Europe"Rear"   16	20	3,815	5.0	8	302	112	190
+Porsche	 Cayenne S                                   $49,865 $56,665"SUV"     Europe"All"          14	18	4,950	4.5	8	340	112	188
+BMW	 M3 convertible 2dr                          $51,815 $56,595"Sports"  Europe"Rear"             16	23	3,781	3.2	6	333	108	177
+Mercedes-Benz	 SLK32 AMG 2dr                               $52,289 $56,170"Sports"  Europe"Rear"   17	22	3,220	3.2	6	349	95	158
+Lexus	 LS 430 4dr                                  $48,583 $55,750"Sedan"   Asia  "Rear"           18	25	3,990	4.3	8	290	115	197
+BMW	 545iA 4dr                                   $50,270 $54,995"Sedan"   Europe"Rear"             18	26	3,814	4.4	8	325	114	191
+Toyota	 Land Cruiser                                $47,986 $54,765"SUV"     Asia  "All"           13	17	5,390	4.7	8	325	112	193
+Cadillac	 Escalade EXT                                $48,541 $52,975"Truck"   USA   "All"         13	17	5,879	6.0	8	345	130	221
+Mercedes-Benz	 CLK500 coupe 2dr (convertible)              $49,104 $52,800"Sedan"   Europe"Rear"   17	22	3,585	5.0	8	302	107	183
+Cadillac	 Escalade                                    $48,377 $52,795"SUV"     USA   "Front"       14	18	5,367	5.3	8	295	116	199
+Lincoln	 Navigator Luxury                            $46,360 $52,775"SUV"     USA   "All"          13	18	5,969	5.4	8	300	119	206
+Infiniti	 Q45 Luxury 4dr                              $47,575 $52,545"Sedan"   Asia  "Rear"        17	23	3,977	4.5	8	340	113	200
+Porsche	 Boxster S convertible 2dr                   $45,766 $52,365"Sports"  Europe"Rear"         18	26	2,911	3.2	6	258	95	170
+BMW	 X5 4.4i                                     $47,720 $52,195"SUV"     Europe"All"              16	22	4,824	4.4	8	325	111	184
+Mercedes-Benz	 C32 AMG 4dr                                 $48,522 $52,120"Sedan"   Europe"Rear"   16	21	3,540	3.2	6	349	107	178
+Chevrolet	 Corvette convertible 2dr                    $45,193 $51,535"Sports"  USA   "Rear"       18	25	3,248	5.7	8	350	105	180
+Mercedes-Benz	 E320                                        $47,174 $50,670"Wagon"   Europe"Rear"   19	27	3,966	3.2	6	221	112	190
+Cadillac	 Deville DTS 4dr                             $46,362 $50,595"Sedan"   USA   "Front"       18	26	4,044	4.6	8	300	115	207
+Lincoln	 Town Car Ultimate L 4dr                     $46,208 $50,470"Sedan"   USA   "Rear"         17	25	4,474	4.6	8	239	124	221
+Hummer	 H2                                          $45,815 $49,995"SUV"     USA   "All"           10	12	6,400	6.0	8	316	123	190
+Jaguar	 S-Type 4.2 4dr                              $45,556 $49,995"Sedan"   Europe"Rear"          18	28	3,874	4.2	8	294	115	192
+Audi	 A6 4.2 Quattro 4dr                          $44,936 $49,690"Sedan"   Europe"All"             17	24	4,024	4.2	8	300	109	193
+Audi	 S4 Avant Quattro                            $44,446 $49,090"Wagon"   Europe"All"             15	21	3,936	4.2	8	340	104	179
+Lexus	 GS 430 4dr                                  $42,232 $48,450"Sedan"   Asia  "Rear"           18	23	3,715	4.3	8	300	110	189
+BMW	 M3 coupe 2dr                                $44,170 $48,195"Sports"  Europe"Rear"             16	24	3,415	3.2	6	333	108	177
+Mercedes-Benz	 E320 4dr                                    $44,849 $48,170"Sedan"   Europe"Rear"   19	27	3,635	3.2	6	221	112	190
+Audi	 S4 Quattro 4dr                              $43,556 $48,040"Sedan"   Europe"All"             14	20	3,825	4.2	8	340	104	179
+Cadillac	 Seville SLS 4dr                             $43,841 $47,955"Sedan"   USA   "Front"       18	26	3,992	4.6	8	275	112	201
+Cadillac	 SRX V8                                      $43,523 $46,995"SUV"     USA   "Front"       16	21	4,302	4.6	8	320	116	195
+Mercedes-Benz	 ML500                                       $43,268 $46,470"SUV"     Europe"All"    14	17	4,874	5.0	8	288	111	183
+GMC	 Yukon XL 2500 SLT                           $40,534 $46,265"SUV"     USA   "All"              13	17	6,133	6.0	8	325	130	219
+Acura	 3.5 RL w/Navigation 4dr                     $41,100 $46,100"Sedan"   Asia  "Front"          18	24	3,893	3.5	6	225	115	197
+Mercedes-Benz	 CLK320 coupe 2dr (convertible)              $41,966 $45,707"Sedan"   Europe"Rear"   20	26	3,770	3.2	6	215	107	183
+Lexus	 GX 470                                      $39,838 $45,700"SUV"     Asia  "All"            15	19	4,740	4.7	8	235	110	188
+Cadillac	 Deville 4dr                                 $41,650 $45,445"Sedan"   USA   "Front"       18	26	3,984	4.6	8	275	115	207
+Volvo	 S80 T6 4dr                                  $42,573 $45,210"Sedan"   Europe"Front"          19	26	3,653	2.9	6	268	110	190
+BMW	 530i 4dr                                    $41,170 $44,995"Sedan"   Europe"Rear"             20	30	3,472	3.0	6	225	114	191
+Lincoln	 Town Car Ultimate 4dr                       $41,217 $44,925"Sedan"   USA   "Rear"         17	25	4,369	4.6	8	239	118	215
+Chevrolet	 Corvette 2dr                                $39,068 $44,535"Sports"  USA   "Rear"       18	25	3,246	5.7	8	350	105	180
+BMW	 330Ci convertible 2dr                       $40,530 $44,295"Sedan"   Europe"Rear"             19	28	3,616	3.0	6	225	107	177
+Audi	 A4 3.0 Quattro convertible 2dr              $40,075 $44,240"Sedan"   Europe"All"             18	25	4,013	3.0	6	220	105	180
+Jaguar	 S-Type 3.0 4dr                              $40,004 $43,895"Sedan"   Europe"Rear"          18	26	3,777	3.0	6	235	115	192
+Acura	 3.5 RL 4dr                                  $39,014 $43,755"Sedan"   Asia  "Front"          18	24	3,880	3.5	6	225	115	197
+Lincoln	 LS V8 Ultimate 4dr                          $39,869 $43,495"Sedan"   USA   "Rear"         17	24	3,768	3.9	8	280	115	194
+Porsche	 Boxster convertible 2dr                     $37,886 $43,365"Sports"  Europe"Rear"         20	29	2,811	2.7	6	228	95	170
+Saab	 9-3 Aero convertible 2dr                    $40,883 $43,175"Sedan"   Europe"Front"           21	30	3,700	2.0	4	210	105	182
+Lincoln	 Aviator Ultimate                            $39,443 $42,915"SUV"     USA   "Front"        13	18	4,834	4.6	8	302	114	193
+Infiniti	 M45 4dr                                     $38,792 $42,845"Sedan"   Asia  "Rear"        17	23	3,851	4.5	8	340	110	197
+Audi	 A6 2.7 Turbo Quattro 4dr                    $38,840 $42,840"Sedan"   Europe"All"             18	25	3,836	2.7	6	250	109	192
+Chevrolet	 Suburban 1500 LT                            $37,422 $42,735"SUV"     USA   "Front"      14	18	4,947	5.3	8	295	130	219
+Volvo	 C70 HPT convertible 2dr                     $40,083 $42,565"Sedan"   Europe"Front"          20	26	3,450	2.3	5	242	105	186
+Audi	 A4 3.0 convertible 2dr                      $38,325 $42,490"Sedan"   Europe"Front"           20	27	3,814	3.0	6	220	105	180
+Chevrolet	 SSR                                         $39,306 $41,995"Truck"   USA   "Rear"       16	19	4,760	5.3	8	300	116	191
+Lincoln	 Town Car Signature 4dr                      $38,418 $41,815"Sedan"   USA   "Rear"         17	25	4,369	4.6	8	239	118	215
+Ford	 Excursion 6.8 XLT                           $36,494 $41,475"SUV"     USA   "All"             10	13	7,190	6.8	10	310	137	227
+Chevrolet	 Tahoe LT                                    $36,287 $41,465"SUV"     USA   "All"        14	18	5,050	5.3	8	295	116	197
+Volvo	 XC90 T6                                     $38,851 $41,250"SUV"     Europe"All"            15	20	4,638	2.9	6	268	113	189
+BMW	 Z4 convertible 3.0i 2dr                     $37,575 $41,045"Sports"  Europe"Rear"             21	29	2,998	3.0	6	225	98	161
+Lexus	 GS 300 4dr                                  $36,196 $41,010"Sedan"   Asia  "Rear"           18	25	3,649	3.0	6	220	110	189
+Saab	 9-5 Aero                                    $38,376 $40,845"Wagon"   Europe"Front"           19	29	3,620	2.3	4	250	106	190
+Audi	 A6 3.0 Avant Quattro                        $37,060 $40,840"Wagon"   Europe"All"             18	25	4,035	3.0	6	220	109	192
+Buick	 Park Avenue Ultra 4dr                       $36,927 $40,720"Sedan"   USA   "Front"          18	28	3,909	3.8	6	240	114	207
+Saab	 9-3 Arc convertible 2dr                     $38,520 $40,670"Sedan"   Europe"Front"           21	29	3,480	2.0	4	210	105	182
+Audi	 TT 3.2 coupe 2dr (convertible)              $36,739 $40,590"Sports"  Europe"All"             21	29	3,351	3.2	6	250	96	159
+Volvo	 C70 LPT convertible 2dr                     $38,203 $40,565"Sedan"   Europe"Front"          21	28	3,450	2.4	5	197	105	186
+Chevrolet	 Silverado SS                                $35,399 $40,340"Truck"   USA   "All"        13	17	4,804	6.0	8	300	144	238
+Mercedes-Benz	 SLK230 convertible 2dr                      $37,548 $40,320"Sports"  Europe"Rear"   21	29	3,055	2.3	4	192	95	158
+Volkswagen	 Passat W8                                   $36,956 $40,235"Wagon"   Europe"Front"     18	25	4,067	4.0	8	270	106	184
+Lincoln	 LS V8 Sport 4dr                             $36,809 $40,095"Sedan"   USA   "Rear"         17	24	3,768	3.9	8	280	115	194
+BMW	 525i 4dr                                    $36,620 $39,995"Sedan"   Europe"Rear"             19	28	3,428	2.5	6	184	114	191
+Audi	 A6 3.0 Quattro 4dr                          $35,992 $39,640"Sedan"   Europe"All"             18	25	3,880	3.0	6	220	109	192
+Saab	 9-5 Aero 4dr                                $37,721 $39,465"Sedan"   Europe"Front"           21	29	3,470	2.3	4	250	106	190
+Land Rover	 Discovery SE                                $35,777 $39,250"SUV"     Europe"All"       12	16	4,576	4.6	8	217	100	185
+Volkswagen	 Passat W8 4MOTION 4dr                       $36,052 $39,235"Sedan"   Europe"Front"     18	25	3,953	4.0	8	270	106	185
+Lexus	 RX 330                                      $34,576 $39,195"SUV"     Asia  "All"            18	24	4,065	3.3	6	230	107	186
+Mercedes-Benz	 C320 4dr                                    $36,162 $38,830"Sedan"   Europe"All"    19	27	3,450	3.2	6	215	107	178
+Chrysler	 Town and Country Limited                    $35,063 $38,380"Sedan"   USA   "Front"       18	25	4,331	3.8	6	215	119	201
+BMW	 325Ci convertible 2dr                       $34,800 $37,995"Sedan"   Europe"Rear"             19	27	3,560	2.5	6	184	107	177
+Buick	 Rainier                                     $34,357 $37,895"SUV"     USA   "All"            15	21	4,600	4.2	6	275	113	193
+Volvo	 S80 2.5T 4dr                                $35,688 $37,885"Sedan"   Europe"All"            20	27	3,691	2.5	5	194	110	190
+Volvo	 S80 2.9 4dr                                 $35,542 $37,730"Sedan"   Europe"Front"          20	28	3,576	2.9	6	208	110	190
+Mercedes-Benz	 C320 4dr                                    $35,046 $37,630"Sedan"   Europe"Rear"   20	26	3,450	3.2	6	215	107	178
+Volvo	 S60 R 4dr                                   $35,382 $37,560"Sedan"   Europe"All"            18	25	3,571	2.5	5	300	107	181
+Ford	 Thunderbird Deluxe convert w/hardtop 2d     $34,483 $37,530"Sports"  USA   "Front"           17	24	3,780	3.9	8	280	107	186
+Audi	 TT 1.8 Quattro 2dr (convertible)            $33,891 $37,390"Sports"  Europe"All"             20	28	2,921	1.8	4	225	96	159
+BMW	 330xi 4dr                                   $34,115 $37,245"Sedan"   Europe"All"              20	29	3,483	3.0	6	225	107	176
+BMW	 X3 3.0i                                     $33,873 $37,000"SUV"     Europe"All"              16	23	4,023	3.0	6	225	110	180
+BMW	 330Ci 2dr                                   $33,890 $36,995"Sedan"   Europe"Rear"             20	30	3,285	3.0	6	225	107	176
+Acura	 MDX                                         $33,337 $36,945"SUV"     Asia  "All"            17	23	4,451	3.5	6	265	106	189
+Lincoln	 LS V6 Premium 4dr                           $33,929 $36,895"Sedan"   USA   "Rear"         20	26	3,681	3.0	6	232	115	194
+Audi	 A6 3.0 4dr                                  $33,129 $36,640"Sedan"   Europe"Front"           20	27	3,561	3.0	6	220	109	192
+Infiniti	 FX45                                        $33,121 $36,395"Wagon"   Asia  "All"         15	19	4,309	4.5	8	315	112	189
+Chevrolet	 Avalanche 1500                              $31,689 $36,100"Truck"   USA   "All"        14	18	5,678	5.3	8	295	130	222
+Pontiac	 Bonneville GXP 4dr                          $32,997 $35,995"Sedan"   USA   "Front"        17	20	3,790	4.6	8	275	112	203
+Audi	 A41.8T convertible 2dr                      $32,506 $35,940"Sedan"   Europe"Front"           23	30	3,638	1.8	4	170	105	180
+Audi	 TT 1.8 convertible 2dr (coupe)              $32,512 $35,940"Sports"  Europe"Front"           20	28	3,131	1.8	4	180	95	159
+Mercedes-Benz	 C320 Sport 4dr                              $33,456 $35,920"Sedan"   Europe"Rear"   19	26	3,430	3.2	6	215	107	178
+GMC	 Yukon 1500 SLE                              $31,361 $35,725"SUV"     USA   "Front"            16	19	5,042	4.8	8	285	116	199
+Toyota	 Sequoia SR5                                 $31,827 $35,695"SUV"     Asia  "All"           14	17	5,270	4.7	8	240	118	204
+Buick	 Park Avenue 4dr                             $32,244 $35,545"Sedan"   USA   "Front"          20	29	3,778	3.8	6	205	114	207
+Volkswagen	 Touareg V6                                  $32,243 $35,515"SUV"     Europe"All"       15	20	5,086	3.2	6	220	112	187
+BMW	 330i 4dr                                    $32,525 $35,495"Sedan"   Europe"Rear"             20	30	3,285	3.0	6	225	107	176
+Volvo	 XC70                                        $33,112 $35,145"Wagon"   Europe"All"            20	27	3,823	2.5	5	208	109	186
+Saab	 9-5 Arc 4dr                                 $33,011 $35,105"Sedan"   Europe"Front"           21	29	3,470	2.3	4	220	106	190
+Infiniti	 FX35                                        $31,756 $34,895"Wagon"   Asia  "Rear"        16	22	4,056	3.5	6	280	112	189
+Volvo	 S60 T5 4dr                                  $32,902 $34,845"Sedan"   Europe"Front"          20	28	3,766	2.3	5	247	107	180
+Ford	 Expedition 4.6 XLT                          $30,468 $34,560"SUV"     USA   "Front"           15	19	5,000	4.6	8	232	119	206
+Chrysler	 Crossfire 2dr                               $32,033 $34,495"Sports"  USA   "Rear"        17	25	3,060	3.2	6	215	95	160
+Mercury	 Marauder 4dr                                $31,558 $34,495"Sedan"   USA   "Rear"         17	23	4,195	4.6	8	302	115	212
+Audi	 A4 3.0 Quattro 4dr auto                     $31,388 $34,480"Sedan"   Europe"All"             18	25	3,627	3.0	6	220	104	179
+Nissan	 350Z Enthusiast convertible 2dr             $31,845 $34,390"Sports"  Asia  "Rear"          20	26	3,428	3.5	6	287	104	169
+Jaguar	 X-Type 3.0 4dr                              $30,995 $33,995"Sedan"   Europe"All"           18	25	3,516	3.0	6	227	107	184
+Mercury	 Monterey Luxury                             $30,846 $33,995"Sedan"   USA   "Front"        16	23	4,340	4.2	6	201	121	202
+BMW	 Z4 convertible 2.5i 2dr                     $31,065 $33,895"Sports"  Europe"Rear"             20	28	2,932	2.5	6	184	98	161
+Nissan	 Pathfinder Armada SE                        $30,815 $33,840"SUV"     Asia  "Front"         13	19	5,013	5.6	8	305	123	207
+Mercedes-Benz	 C240                                        $31,466 $33,780"Wagon"   Europe"Rear"   19	25	3,470	2.6	6	168	107	179
+Ford	 F-150 Supercab Lariat                       $29,405 $33,540"Truck"   USA   "All"             14	18	5,464	5.4	8	300	133	218
+Pontiac	 GTO 2dr                                     $30,710 $33,500"Sports"  USA   "Rear"         16	20	3,725	5.7	8	340	110	190
+Mercedes-Benz	 C240 4dr                                    $31,187 $33,480"Sedan"   Europe"All"    19	25	3,360	2.6	6	168	107	178
+Audi	 A4 3.0 Quattro 4dr manual                   $30,366 $33,430"Sedan"   Europe"All"             17	26	3,583	3.0	6	220	104	179
+Saab	 9-3 Aero 4dr                                $31,562 $33,360"Sedan"   Europe"Front"           20	28	3,175	2.0	4	210	105	183
+Chrysler	 300M Special Edition 4dr                    $30,884 $33,295"Sedan"   USA   "Front"       18	27	3,650	3.5	6	255	113	198
+Honda	 S2000 convertible 2dr                       $29,965 $33,260"Sports"  Asia  "Rear"           20	25	2,835	2.2	4	240	95	162
+Acura	 TL 4dr                                      $30,299 $33,195"Sedan"   Asia  "Front"          20	28	3,575	3.2	6	270	108	186
+Volkswagen	 Passat GLX V6 4MOTION 4dr                   $30,583 $33,180"Sedan"   Europe"Front"     19	26	3,721	2.8	6	190	106	185
+Mitsubishi	 Montero XLS                                 $30,763 $33,112"SUV"     Asia  "All"       15	19	4,718	3.8	6	215	110	190
+BMW	 325xi Sport                                 $30,110 $32,845"Wagon"   Europe"All"              19	26	3,594	2.5	6	184	107	176
+Nissan	 Quest SE                                    $30,019 $32,780"Sedan"   Asia  "Front"         18	25	4,175	3.5	6	240	124	204
+Dodge	 Grand Caravan SXT                           $29,812 $32,660"Sedan"   USA   "All"            18	25	4,440	3.8	6	215	119	201
+Lincoln	 LS V6 Luxury 4dr                            $29,969 $32,495"Sedan"   USA   "Rear"         20	26	3,681	3.0	6	232	115	194
+Lexus	 IS 300 SportCross                           $28,647 $32,455"Wagon"   Asia  "Rear"           18	24	3,410	3.0	6	215	105	177
+Infiniti	 G35 4dr                                     $29,783 $32,445"Sedan"   Asia  "All"         18	26	3,677	3.5	6	260	112	187
+Lexus	 IS 300 4dr auto                             $28,611 $32,415"Sedan"   Asia  "Rear"           18	24	3,285	3.0	6	215	105	177
+Lexus	 ES 330 4dr                                  $28,755 $32,350"Sedan"   Asia  "Front"          20	29	3,460	3.3	6	225	107	191
+Mercedes-Benz	 C240 4dr                                    $30,071 $32,280"Sedan"   Europe"Rear"   20	25	3,360	2.6	6	168	107	178
+Buick	 LeSabre Limited 4dr                         $29,566 $32,245"Sedan"   USA   "Front"          20	29	3,591	3.8	6	205	112	200
+Dodge	 Durango SLT                                 $29,472 $32,235"SUV"     USA   "All"            15	21	4,987	4.7	8	230	119	201
+GMC	 Envoy XUV SLE                               $28,922 $31,890"SUV"     USA   "Front"            15	19	4,945	4.2	6	275	129	208
+Isuzu	 Ascender S                                  $29,977 $31,849"SUV"     Asia  "All"            15	20	4,967	4.2	6	275	129	208
+Audi	 A4 3.0 4dr                                  $28,846 $31,840"Sedan"   Europe"Front"           20	28	3,462	3.0	6	220	104	179
+Volvo	 S60 2.5 4dr                                 $29,916 $31,745"Sedan"   Europe"All"            20	27	3,903	2.5	5	208	107	180
+Subaru	 Outback H-6 VDC 4dr                         $28,603 $31,545"Sedan"   Asia  "All"           19	26	3,630	3.0	6	212	104	184
+Subaru	 Impreza WRX STi 4dr                         $29,130 $31,545"Sports"  Asia  "All"           18	24	3,263	2.5	4	300	100	174
+Pontiac	 Montana EWB                                 $28,454 $31,370"Sedan"   USA   "All"          18	24	4,431	3.4	6	185	121	201
+Chrysler	 Pacifica                                    $28,725 $31,230"Wagon"   USA   "Rear"        17	23	4,675	3.5	6	250	116	199
+Infiniti	 I35 4dr                                     $28,320 $31,145"Sedan"   Asia  "Front"       19	26	3,306	3.5	6	255	108	194
+Lexus	 IS 300 4dr manual                           $27,404 $31,045"Sedan"   Asia  "Rear"           18	25	3,255	3.0	6	215	105	177
+Chrysler	 Sebring Limited convertible 2dr             $28,613 $30,950"Sedan"   USA   "Front"       21	28	3,448	2.7	6	200	106	194
+Toyota	 Avalon XLS 4dr                              $27,271 $30,920"Sedan"   Asia  "Front"         21	29	3,439	3.0	6	210	107	192
+Mercury	 Grand Marquis LS Ultimate 4dr               $28,318 $30,895"Sedan"   USA   "Rear"         17	25	4,052	4.6	8	224	115	212
+Saab	 9-3 Arc Sport 4dr                           $29,269 $30,860"Sedan"   Europe"Front"           20	28	3,175	2.0	4	210	105	183
+Cadillac	 CTS VVT 4dr                                 $28,575 $30,835"Sedan"   USA   "Rear"        18	25	3,694	3.6	6	255	113	190
+BMW	 325Ci 2dr                                   $28,245 $30,795"Sedan"   Europe"Rear"             20	29	3,197	2.5	6	184	107	177
+Mitsubishi	 Endeavor XLS                                $28,330 $30,492"SUV"     Asia  "All"       17	21	4,134	3.8	6	215	109	190
+Ford	 Crown Victoria LX Sport 4dr                 $27,756 $30,315"Sedan"   USA   "Rear"            17	25	4,057	4.6	8	239	115	212
+Chevrolet	 TrailBlazer LT                              $27,479 $30,295"SUV"     USA   "Front"      16	21	4,425	4.2	6	275	113	192
+BMW	 325xi 4dr                                   $27,745 $30,245"Sedan"   Europe"All"              19	27	3,461	2.5	6	184	107	176
+Jaguar	 X-Type 2.5 4dr                              $27,355 $29,995"Sedan"   Europe"All"           18	26	3,428	2.5	6	192	107	184
+Mercury	 Mountaineer                                 $27,317 $29,995"SUV"     USA   "Front"        16	21	4,374	4.0	6	210	114	190
+Chrysler	 300M 4dr                                    $27,797 $29,865"Sedan"   USA   "Front"       18	27	3,581	3.5	6	250	113	198
+Infiniti	 G35 Sport Coupe 2dr                         $27,536 $29,795"Sedan"   Asia  "Rear"        18	26	3,416	3.5	6	280	112	182
+Ford	 Explorer XLT V6                             $26,983 $29,670"SUV"     USA   "All"             15	20	4,463	4.0	6	210	114	190
+Mercury	 Grand Marquis LS Premium 4dr                $27,148 $29,595"Sedan"   USA   "Rear"         17	25	4,052	4.6	8	224	115	212
+Mitsubishi	 Lancer Evolution 4dr                        $27,466 $29,562"Sports"  Asia  "Front"     18	26	3,263	2.0	4	271	103	179
+Nissan	 Maxima SL 4dr                               $26,966 $29,440"Sedan"   Asia  "Front"         20	28	3,476	3.5	6	265	111	194
+Ford	 Mustang GT Premium convertible 2dr          $26,875 $29,380"Sports"  USA   "Rear"            17	25	3,347	4.6	8	260	101	183
+Subaru	 Outback H6 4dr                              $26,660 $29,345"Sedan"   Asia  "All"           19	26	3,610	3.0	6	212	104	184
+GMC	 Sierra HD 2500                              $25,759 $29,322"Truck"   USA   "All"              13	18	5,440	6.0	8	300	133	222
+Mitsubishi	 Diamante LS 4dr                             $27,250 $29,282"Sedan"   Asia  "Front"     18	25	3,549	3.5	6	205	107	194
+Toyota	 Sienna XLE Limited                          $25,690 $28,800"Sedan"   Asia  "Front"         19	27	4,165	3.3	6	230	119	200
+Oldsmobile	 Silhouette GL                               $26,120 $28,790"Sedan"   USA   "Front"     19	26	3,948	3.4	6	185	120	201
+Mazda	 MPV ES                                      $26,600 $28,750"Sedan"   Asia  "Front"          18	25	3,812	3.0	6	200	112	188
+Nissan	 Murano SL                                   $27,300 $28,739"Wagon"   Asia  "Rear"          20	25	3,801	3.5	6	245	111	188
+BMW	 325i 4dr                                    $26,155 $28,495"Sedan"   Europe"Rear"             20	29	3,219	2.5	6	184	107	176
+Infiniti	 G35 4dr                                     $26,157 $28,495"Sedan"   Asia  "Rear"        18	26	3,336	3.5	6	260	112	187
+Mercedes-Benz	 C320 Sport 2dr                              $26,435 $28,370"Sedan"   Europe"Rear"   19	26	3,430	3.2	6	215	107	178
+Buick	 Regal GS 4dr                                $26,047 $28,345"Sedan"   USA   "Front"          18	28	3,536	3.8	6	240	109	196
+Chevrolet	 Impala SS 4dr                               $25,672 $27,995"Sedan"   USA   "Front"      18	28	3,606	3.8	6	240	111	200
+Toyota	 Highlander V6                               $24,915 $27,930"SUV"     Asia  "All"           18	24	3,935	3.3	6	230	107	185
+Jeep	 Grand Cherokee Laredo                       $25,686 $27,905"SUV"     USA   "Front"           16	21	3,790	4.0	6	195	106	181
+Toyota	 4Runner SR5 V6                              $24,801 $27,710"SUV"     Asia  "Front"         18	21	4,035	4.0	6	245	110	189
+Honda	 Pilot LX                                    $24,843 $27,560"SUV"     Asia  "All"            17	22	4,387	3.5	6	240	106	188
+Chrysler	 Town and Country LX                         $25,371 $27,490"Sedan"   USA   "Front"       19	26	4,068	3.3	6	180	119	201
+Nissan	 Maxima SE 4dr                               $25,182 $27,490"Sedan"   Asia  "Front"         20	28	3,473	3.5	6	265	111	194
+Honda	 Odyssey EX                                  $24,744 $27,450"Sedan"   Asia  "Front"          18	25	4,365	3.5	6	240	118	201
+Ford	 Crown Victoria LX 4dr                       $25,105 $27,370"Sedan"   USA   "Rear"            17	25	4,057	4.6	8	224	115	212
+Nissan	 Pathfinder SE                               $25,972 $27,339"SUV"     Asia  "Front"         16	21	3,871	3.5	6	240	106	183
+Mazda	 RX-8 4dr manual                             $25,179 $27,200"Sports"  Asia  "Rear"           18	24	3,029	1.3	.	238	106	174
+Subaru	 Outback Limited Sedan 4dr                   $24,687 $27,145"Sedan"   Asia  "All"           20	27	3,495	2.5	4	165	104	184
+Chevrolet	 Venture LS                                  $24,518 $27,020"Sedan"   USA   "Front"      19	26	3,699	3.4	6	185	112	187
+Mitsubishi	 Eclipse Spyder GT convertible 2dr           $25,218 $26,992"Sports"  Asia  "Front"     21	28	3,296	3.0	6	210	101	177
+Acura	 TSX 4dr                                     $24,647 $26,990"Sedan"   Asia  "Front"          22	29	3,230	2.4	4	200	105	183
+Honda	 Accord EX V6 2dr                            $24,304 $26,960"Sedan"   Asia  "Front"          21	30	3,294	3.0	6	240	105	188
+Ford	 Freestar SE                                 $24,498 $26,930"Sedan"   USA   "Front"           17	23	4,275	3.9	6	193	121	201
+Nissan	 350Z coupe 2dr                              $25,203 $26,910"Sports"  Asia  "Rear"          20	26	3,188	3.5	6	287	104	169
+Chrysler	 Concorde LXi 4dr                            $24,909 $26,860"Sedan"   USA   "Front"       19	27	3,548	3.5	6	232	113	208
+Nissan	 Titan King Cab XE                           $24,926 $26,650"Truck"   Asia  "All"           14	18	5,287	5.6	8	305	140	224
+Toyota	 Avalon XL 4dr                               $23,693 $26,560"Sedan"   Asia  "Front"         21	29	3,417	3.0	6	210	107	192
+Buick	 Rendezvous CX                               $24,085 $26,545"SUV"     USA   "Front"          19	26	4,024	3.4	6	185	112	187
+Toyota	 Camry Solara SLE V6 2dr                     $23,908 $26,510"Sedan"   Asia  "Front"         20	29	3,439	3.3	6	225	107	193
+Buick	 LeSabre Custom 4dr                          $24,282 $26,470"Sedan"   USA   "Front"          20	29	3,567	3.8	6	205	112	200
+Chevrolet	 Astro                                       $23,954 $26,395"Sedan"   USA   "All"        14	17	4,605	4.3	6	190	111	190
+Hyundai	 XG350 L 4dr                                 $23,486 $26,189"Sedan"   Asia  "Front"        17	26	3,651	3.5	6	194	108	192
+Volvo	 V40                                         $24,641 $26,135"Wagon"   Europe"Front"          22	29	2,822	1.9	4	170	101	180
+Mercedes-Benz	 C230 Sport 2dr                              $24,249 $26,060"Sedan"   Europe"Rear"   22	30	3,250	1.8	4	189	107	178
+Kia	 Amanti 4dr                                  $23,764 $26,000"Sedan"   Asia  "Front"            17	25	4,021	3.5	6	195	110	196
+Land Rover	 Freelander SE                               $23,969 $25,995"SUV"     Europe"All"       18	21	3,577	2.5	6	174	101	175
+Chrysler	 PT Cruiser GT 4dr                           $24,172 $25,955"Sedan"   USA   "Front"       21	27	3,217	2.4	4	220	103	169
+Audi	 A4 1.8T 4dr                                 $23,508 $25,940"Sedan"   Europe"Front"           22	31	3,252	1.8	4	170	104	179
+Toyota	 Tundra Access Cab V6 SR5                    $23,520 $25,935"Truck"   Asia  "All"           14	17	4,435	3.4	6	190	128	218
+Toyota	 Camry XLE V6 4dr                            $23,125 $25,920"Sedan"   Asia  "Front"         21	29	3,362	3.0	6	210	107	189
+GMC	 Sierra Extended Cab 1500                    $22,604 $25,717"Truck"   USA   "Rear"             17	20	4,548	4.8	8	285	144	230
+Mazda	 RX-8 4dr automatic                          $23,794 $25,700"Sports"  Asia  "Rear"           18	25	3,053	1.3	.	197	106	174
+Mitsubishi	 Galant GTS 4dr                              $23,883 $25,700"Sedan"   Asia  "Front"     18	26	3,649	3.8	6	230	108	191
+Subaru	 Legacy GT 4dr                               $23,336 $25,645"Sedan"   Asia  "All"           21	28	3,395	2.5	4	165	104	184
+GMC	 Safari SLE                                  $23,215 $25,640"Sedan"   USA   "Rear"             16	20	4,309	4.3	6	190	111	190
+Jeep	 Wrangler Sahara convertible 2dr             $23,275 $25,520"SUV"     USA   "All"             16	19	3,575	4.0	6	190	93	150
+GMC	 Sonoma Crew Cab                             $23,043 $25,395"Truck"   USA   "All"              15	19	4,083	4.3	6	190	123	208
+Chrysler	 Sebring convertible 2dr                     $23,451 $25,215"Sedan"   USA   "Front"       22	30	3,357	2.4	4	150	106	194
+Mazda	 MX-5 Miata LS convertible 2dr               $23,285 $25,193"Sports"  Asia  "Rear"           23	28	2,387	1.8	4	142	89	156
+Volvo	 S40 4dr                                     $23,701 $25,135"Sedan"   Europe"Front"          22	29	2,767	1.9	4	170	101	178
+Toyota	 MR2 Spyder convertible 2dr                  $22,787 $25,130"Sports"  Asia  "Rear"          26	32	2,195	1.8	4	138	97	153
+Mitsubishi	 Eclipse GTS 2dr                             $23,456 $25,092"Sports"  Asia  "Front"     21	28	3,241	3.0	6	210	101	177
+Subaru	 Impreza WRX 4dr                             $23,022 $25,045"Sports"  Asia  "All"           20	27	3,085	2.0	4	227	99	174
+Chevrolet	 Impala LS 4dr                               $22,931 $25,000"Sedan"   USA   "Front"      20	30	3,476	3.8	6	200	111	200
+Volkswagen	 Passat GLS 1.8T                             $22,801 $24,955"Wagon"   Europe"Front"     22	31	3,338	1.8	4	170	106	184
+Honda	 Odyssey LX                                  $22,498 $24,950"Sedan"   Asia  "Front"          18	25	4,310	3.5	6	240	118	201
+Buick	 Regal LS 4dr                                $22,835 $24,895"Sedan"   USA   "Front"          20	30	3,461	3.8	6	200	109	196
+Dodge	 Intrepid ES 4dr                             $23,058 $24,885"Sedan"   USA   "Front"          18	27	3,487	3.5	6	232	113	204
+Nissan	 Quest S                                     $22,958 $24,780"Sedan"   Asia  "Front"         19	26	4,012	3.5	6	240	124	204
+Mercury	 Grand Marquis GS 4dr                        $23,217 $24,695"Sedan"   USA   "Rear"         17	25	4,052	4.6	8	224	115	212
+Hyundai	 XG350 4dr                                   $22,055 $24,589"Sedan"   Asia  "Front"        17	26	3,651	3.5	6	194	108	192
+Subaru	 Baja                                        $22,304 $24,520"Truck"   Asia  "All"           21	28	3,485	2.5	4	165	104	193
+Ford	 Crown Victoria 4dr                          $22,856 $24,345"Sedan"   USA   "Rear"            17	25	4,057	4.6	8	224	115	212
+Pontiac	 Grand Prix GT2 4dr                          $22,284 $24,295"Sedan"   USA   "Front"        20	30	3,484	3.8	6	200	111	198
+Chevrolet	 Monte Carlo SS 2dr                          $22,222 $24,225"Sedan"   USA   "Front"      18	28	3,434	3.8	6	200	111	198
+Chrysler	 Concorde LX 4dr                             $22,452 $24,130"Sedan"   USA   "Front"       21	29	3,479	2.7	6	200	113	208
+Volkswagen	 Passat GLS 4dr                              $21,898 $23,955"Sedan"   Europe"Front"     22	31	3,241	1.8	4	170	106	185
+Mercury	 Sable LS Premium 4dr                        $21,918 $23,895"Sedan"   USA   "Front"        19	26	3,315	3.0	6	201	109	200
+Subaru	 Outback                                     $21,773 $23,895"Wagon"   Asia  "All"           21	28	3,430	2.5	4	165	104	187
+Pontiac	 Montana                                     $21,644 $23,845"Sedan"   USA   "Front"        19	26	3,803	3.4	6	185	112	187
+Acura	 RSX Type S 2dr                              $21,761 $23,820"Sedan"   Asia  "Front"          24	31	2,778	2.0	4	200	101	172
+Volkswagen	 Jetta GLI VR6 4dr                           $21,686 $23,785"Sedan"   Europe"Front"     21	30	3,179	2.8	6	200	99	172
+Honda	 Accord LX V6 4dr                            $21,428 $23,760"Sedan"   Asia  "Front"          21	30	3,349	3.0	6	240	108	190
+Suzuki	 XL-7 EX                                     $22,307 $23,699"SUV"     Asia  "Front"         18	22	3,682	2.7	6	185	110	187
+Oldsmobile	 Alero GLS 2dr                               $21,485 $23,675"Sedan"   USA   "Front"     20	29	3,085	3.4	6	170	107	187
+Saturn	 L300 2                                      $21,779 $23,560"Wagon"   USA   "Front"         24	34	3,109	2.2	4	140	107	190
+Chevrolet	 Malibu LT 4dr                               $21,551 $23,495"Sedan"   USA   "Front"      23	32	3,315	3.5	6	200	106	188
+Toyota	 Sienna CE                                   $21,198 $23,495"Sedan"   Asia  "Front"         19	27	4,120	3.3	6	230	119	200
+Nissan	 Altima SE 4dr                               $21,580 $23,290"Sedan"   Asia  "Front"         21	26	3,197	3.5	6	245	110	192
+Volkswagen	 New Beetle GLS convertible 2dr              $21,689 $23,215"Sedan"   Europe"Front"     24	30	3,082	2.0	4	115	99	161
+Toyota	 Camry LE V6 4dr                             $20,325 $22,775"Sedan"   Asia  "Front"         21	29	3,296	3.0	6	210	107	189
+Ford	 Taurus SES Duratec 4dr                      $20,857 $22,735"Sedan"   USA   "Front"           19	26	3,313	3.0	6	201	109	198
+Mercury	 Sable GS                                    $20,748 $22,595"Wagon"   USA   "Front"        19	26	3,488	3.0	6	155	109	198
+Toyota	 Celica GT-S 2dr                             $20,363 $22,570"Sports"  Asia  "Front"         24	33	2,500	1.8	4	180	102	171
+Ford	 Escape XLS                                  $20,907 $22,515"SUV"     USA   "All"             18	23	3,346	3.0	6	201	103	173
+Pontiac	 Grand Am GT 2dr                             $20,595 $22,450"Sedan"   USA   "Front"        20	29	3,118	3.4	6	175	107	186
+Pontiac	 Grand Prix GT1 4dr                          $20,545 $22,395"Sedan"   USA   "Front"        20	30	3,477	3.8	6	200	111	198
+Mazda	 MX-5 Miata convertible 2dr                  $20,701 $22,388"Sports"  Asia  "Rear"           23	28	2,387	1.8	4	142	89	156
+Mazda	 B4000 SE Cab Plus                           $20,482 $22,350"Truck"   Asia  "All"            15	19	3,571	4.0	6	207	126	203
+Ford	 Taurus SE                                   $20,457 $22,290"Wagon"   USA   "Front"           19	26	3,497	3.0	6	155	109	198
+Honda	 Accord EX 2dr                               $20,080 $22,260"Sedan"   Asia  "Front"          26	34	3,047	2.4	4	160	105	188
+Chevrolet	 Malibu Maxx LS                              $20,394 $22,225"Wagon"   USA   "Front"      22	30	3,458	3.5	6	200	112	188
+Buick	 Century Custom 4dr                          $20,351 $22,180"Sedan"   USA   "Front"          20	30	3,353	3.1	6	175	109	195
+Dodge	 Intrepid SE 4dr                             $20,502 $22,035"Sedan"   USA   "Front"          21	29	3,469	2.7	6	200	113	204
+Ford	 F-150 Regular Cab XL                        $19,490 $22,010"Truck"   USA   "Rear"            15	19	4,788	4.6	8	231	126	211
+Chrysler	 PT Cruiser Limited 4dr                      $20,573 $22,000"Sedan"   USA   "Front"       22	29	3,105	2.4	4	150	103	169
+Toyota	 Camry Solara SE V6 2dr                      $19,819 $21,965"Sedan"   Asia  "Front"         20	29	3,417	3.3	6	225	107	193
+Chevrolet	 Impala 4dr                                  $20,095 $21,900"Sedan"   USA   "Front"      21	32	3,465	3.4	6	180	111	200
+Chrysler	 Sebring Touring 4dr                         $20,284 $21,840"Sedan"   USA   "Front"       21	28	3,222	2.7	6	200	108	191
+Chevrolet	 Monte Carlo LS 2dr                          $20,026 $21,825"Sedan"   USA   "Front"      21	32	3,340	3.4	6	180	111	198
+Dodge	 Caravan SE                                  $20,508 $21,795"Sedan"   USA   "Front"          20	26	3,862	2.4	4	150	113	189
+Mercury	 Sable GS 4dr                                $19,848 $21,595"Sedan"   USA   "Front"        20	27	3,308	3.0	6	155	109	200
+Pontiac	 Aztekt                                      $19,810 $21,595"SUV"     USA   "Front"        19	26	3,779	3.4	6	185	108	182
+Hyundai	 Santa Fe GLS                                $20,201 $21,589"SUV"     Asia  "Front"        20	26	3,549	2.7	6	173	103	177
+Subaru	 Forester X                                  $19,646 $21,445"Wagon"   Asia  "All"           21	28	3,090	2.5	4	165	99	175
+Saturn	 L300-2 4dr                                  $19,801 $21,410"Sedan"   USA   "Front"         20	28	3,197	3.0	6	182	107	190
+Mazda	 Tribute DX 2.0                              $19,742 $21,087"SUV"     Asia  "All"            22	25	3,091	2.0	4	130	103	173
+Volkswagen	 Jetta GLS TDI 4dr                           $19,638 $21,055"Sedan"   Europe"Front"     38	46	3,003	1.9	4	100	99	172
+Volkswagen	 New Beetle GLS 1.8T 2dr                     $19,638 $21,055"Sedan"   Europe"Front"     24	31	2,820	1.8	4	150	99	161
+Nissan	 Xterra XE V6                                $19,512 $20,939"SUV"     Asia  "Front"         17	20	3,760	3.3	6	180	104	178
+Kia	 Sedona LX                                   $19,400 $20,615"Sedan"   Asia  "Front"            16	22	4,802	3.5	6	195	115	194
+Saturn	 VUE                                         $19,238 $20,585"SUV"     USA   "All"           21	26	3,381	2.2	4	143	107	181
+Toyota	 Prius 4dr (gas/electric)                    $18,926 $20,510"Hybrid"  Asia  "Front"         59	51	2,890	1.5	4	110	106	175
+Isuzu	 Rodeo S                                     $19,261 $20,449"SUV"     Asia  "Front"          17	21	3,836	3.2	6	193	106	178
+Subaru	 Legacy L 4dr                                $18,713 $20,445"Sedan"   Asia  "All"           21	28	3,285	2.5	4	165	104	184
+Chevrolet	 Malibu LS 4dr                               $18,639 $20,370"Sedan"   USA   "Front"      22	30	3,297	3.5	6	200	106	188
+Hyundai	 Sonata LX 4dr                               $18,380 $20,339"Sedan"   Asia  "Front"        19	27	3,217	2.7	6	170	106	187
+Ford	 Taurus LX 4dr                               $18,881 $20,320"Sedan"   USA   "Front"           20	27	3,306	3.0	6	155	109	198
+Chevrolet	 Silverado 1500 Regular Cab                  $18,480 $20,310"Truck"   USA   "Rear"       15	21	4,142	4.3	6	200	119	206
+Dodge	 Dakota Club Cab                             $18,670 $20,300"Truck"   USA   "Rear"           16	22	3,829	3.7	6	210	131	219
+Toyota	 RAV4                                        $18,553 $20,290"SUV"     Asia  "All"           22	27	3,119	2.4	4	161	98	167
+Chevrolet	 Tracker                                     $19,108 $20,255"SUV"     USA   "Front"      19	22	2,866	2.5	6	165	98	163
+Dodge	 Stratus SE 4dr                              $18,821 $20,220"Sedan"   USA   "Front"          21	28	3,175	2.4	4	150	108	191
+Dodge	 Ram 1500 Regular Cab ST                     $18,076 $20,215"Truck"   USA   "Rear"           16	21	4,542	3.7	6	215	121	208
+Honda	 Civic Hybrid 4dr manual (gas/electric)      $18,451 $20,140"Hybrid"  Asia  "Front"          46	51	2,732	1.4	4	93	103	175
+Jeep	 Liberty Sport                               $18,973 $20,130"SUV"     USA   "All"             20	24	3,826	2.4	4	150	104	174
+MINI	 Cooper S                                    $18,137 $19,999"Sedan"   Europe"Front"           25	34	2,678	1.6	4	163	97	144
+Subaru	 Impreza 2.5 RS 4dr                          $18,399 $19,945"Sedan"   Asia  "All"           22	28	2,965	2.5	4	165	99	174
+Honda	 CR-V LX                                     $18,419 $19,860"SUV"     Asia  "All"            21	25	3,258	2.4	4	160	103	179
+Honda	 Accord LX 2dr                               $17,924 $19,860"Sedan"   Asia  "Front"          26	34	2,994	2.4	4	160	105	188
+Volkswagen	 GTI 1.8T 2dr hatch                          $18,109 $19,825"Sedan"   Europe"Front"     24	31	2,934	1.8	4	180	99	168
+Kia	 Sorento LX                                  $18,630 $19,635"SUV"     Asia  "Front"            16	19	4,112	3.5	6	192	107	180
+Toyota	 Camry Solara SE 2dr                         $17,722 $19,635"Sedan"   Asia  "Front"         24	33	3,175	2.4	4	157	107	193
+Toyota	 Camry LE 4dr                                $17,558 $19,560"Sedan"   Asia  "Front"         24	33	3,086	2.4	4	157	107	189
+Honda	 Civic Si 2dr hatch                          $17,849 $19,490"Sedan"   Asia  "Front"          26	30	2,782	2.0	4	160	101	166
+Nissan	 Frontier King Cab XE V6                     $18,253 $19,479"Truck"   Asia  "All"           17	20	3,932	3.3	6	180	116	191
+Hyundai	 Sonata GLS 4dr                              $17,574 $19,339"Sedan"   Asia  "Front"        19	27	3,217	2.7	6	170	106	187
+Mitsubishi	 Galant ES 2.4L 4dr                          $17,957 $19,312"Sedan"   Asia  "Front"     23	30	3,351	2.4	4	160	108	191
+Mazda	 Mazda6 i 4dr                                $17,817 $19,270"Sedan"   Asia  "Front"          24	32	3,042	2.3	4	160	105	187
+Nissan	 Altima S 4dr                                $18,030 $19,240"Sedan"   Asia  "Front"         21	26	3,039	2.5	4	175	110	192
+Ford	 Focus SVT 2dr                               $17,878 $19,135"Sedan"   USA   "Front"           21	28	2,750	2.0	4	170	103	168
+Honda	 Insight 2dr (gas/electric)                  $17,911 $19,110"Hybrid"  Asia  "Front"          60	66	1,850	2.0	3	73	95	155
+Chrysler	 Sebring 4dr                                 $17,805 $19,090"Sedan"   USA   "Front"       22	30	3,173	2.4	4	150	108	191
+Volkswagen	 Jetta GL                                    $17,427 $19,005"Wagon"   Europe"Front"     24	30	3,034	2.0	4	115	99	174
+Chevrolet	 Malibu 4dr                                  $17,434 $18,995"Sedan"   USA   "Front"      24	34	3,174	2.2	4	145	106	188
+Mitsubishi	 Outlander LS                                $17,569 $18,892"SUV"     Asia  "Front"     21	27	3,240	2.4	4	160	103	179
+Oldsmobile	 Alero GX 2dr                                $17,642 $18,825"Sedan"   USA   "Front"     24	32	2,946	2.2	4	140	107	187
+Dodge	 Stratus SXT 4dr                             $17,512 $18,820"Sedan"   USA   "Front"          21	28	3,182	2.4	4	150	108	191
+Chevrolet	 Colorado Z85                                $17,070 $18,760"Truck"   USA   "All"        18	23	3,623	2.8	4	175	111	192
+Hyundai	 Tiburon GT V6 2dr                           $17,101 $18,739"Sports"  Asia  "Front"        19	26	3,023	2.7	6	172	100	173
+Volkswagen	 Golf GLS 4dr                                $17,478 $18,715"Sedan"   Europe"Front"     24	31	2,897	2.0	4	115	99	165
+Honda	 Element LX                                  $17,334 $18,690"SUV"     Asia  "All"            21	24	3,468	2.4	4	160	101	167
+Kia	 Optima LX V6 4dr                            $16,850 $18,435"Sedan"   Asia  "Front"            20	27	3,279	2.7	6	170	106	186
+Ford	 Mustang 2dr (convertible)                   $16,943 $18,345"Sports"  USA   "Rear"            20	29	3,290	3.8	6	193	101	183
+Chrysler	 PT Cruiser 4dr                              $16,919 $17,985"Sedan"   USA   "Front"       22	29	3,101	2.4	4	150	103	169
+Honda	 Civic EX 4dr                                $16,265 $17,750"Sedan"   Asia  "Front"          32	37	2,601	1.7	4	127	103	175
+Pontiac	 Sunfire 1SC 2dr                             $16,369 $17,735"Sedan"   USA   "Front"        24	33	2,771	2.2	4	140	104	182
+Nissan	 Sentra SE-R 4dr                             $16,444 $17,640"Sedan"   Asia  "Front"         23	28	2,761	2.5	4	165	100	178
+Dodge	 Dakota Regular Cab                          $16,264 $17,630"Truck"   USA   "Rear"           16	22	3,714	3.7	6	210	112	193
+Mitsubishi	 Lancer Sportback LS                         $16,295 $17,495"Wagon"   Asia  "Front"     25	31	3,020	2.4	4	160	102	181
+Ford	 Focus ZTW                                   $16,375 $17,475"Wagon"   USA   "Front"           26	33	2,702	2.0	4	130	103	178
+Suzuki	 Verona LX 4dr                               $17,053 $17,262"Sedan"   Asia  "Front"         20	27	3,380	2.5	6	155	106	188
+Mitsubishi	 Lancer OZ Rally 4dr auto                    $16,196 $17,232"Sedan"   Asia  "Front"     25	31	2,744	2.0	4	120	102	181
+Mazda	 Mazda3 s 4dr                                $15,922 $17,200"Sedan"   Asia  "Front"          25	31	2,762	2.3	4	160	104	179
+Suzuki	 Vitara LX                                   $16,949 $17,163"SUV"     Asia  "All"           19	22	3,020	2.5	6	165	98	163
+Pontiac	 Vibe                                        $15,973 $17,045"Wagon"   USA   "Rear"         29	36	2,701	1.8	4	130	102	172
+MINI	 Cooper                                      $15,437 $16,999"Sedan"   Europe"Front"           28	37	2,524	1.6	4	115	97	143
+Mitsubishi	 Lancer LS 4dr                               $15,718 $16,722"Sedan"   Asia  "Front"     25	31	2,795	2.0	4	120	102	181
+Toyota	 Matrix XR                                   $15,156 $16,695"Wagon"   Asia  "Front"         29	36	2,679	1.8	4	130	102	171
+GMC	 Canyon Z85 SL Regular Cab                   $14,877 $16,530"Truck"   USA   "Rear"             18	25	3,351	2.8	4	175	111	192
+Suzuki	 Aerio SX                                    $16,291 $16,497"Wagon"   Asia  "All"           24	29	2,932	2.3	4	155	98	167
+Toyota	 Tundra Regular Cab V6                       $14,978 $16,495"Truck"   Asia  "Rear"          16	18	3,925	3.4	6	190	128	218
+Chevrolet	 Cavalier LS 2dr                             $15,357 $16,385"Sedan"   USA   "Front"      26	37	2,617	2.2	4	140	104	183
+Saturn	 lon3 quad coupe 2dr                         $15,299 $16,350"Sedan"   USA   "Front"         26	35	2,751	2.2	4	140	103	185
+Kia	 Optima LX 4dr                               $14,910 $16,040"Sedan"   Asia  "Front"            23	30	3,281	2.4	4	138	106	186
+Honda	 Civic LX 4dr                                $14,531 $15,850"Sedan"   Asia  "Front"          32	38	2,513	1.7	4	115	103	175
+Saturn	 lon3 4dr                                    $14,811 $15,825"Sedan"   USA   "Front"         26	35	2,692	2.2	4	140	103	185
+Ford	 Focus ZX5 5dr                               $14,607 $15,580"Sedan"   USA   "Front"           26	33	2,691	2.0	4	130	103	168
+Suzuki	 Forenza EX 4dr                              $15,378 $15,568"Sedan"   Asia  "Front"         22	30	2,756	2.0	4	119	102	177
+Mazda	 Mazda3 i 4dr                                $14,525 $15,500"Sedan"   Asia  "Front"          26	34	2,696	2.0	4	148	104	178
+Pontiac	 Sunfire 1SA 2dr                             $14,375 $15,495"Sedan"   USA   "Front"        24	33	2,771	2.2	4	140	104	182
+Ford	 Focus SE 4dr                                $14,496 $15,460"Sedan"   USA   "Front"           26	33	2,606	2.0	4	130	103	168
+Hyundai	 Elantra GT 4dr                              $14,207 $15,389"Sedan"   Asia  "Front"        26	34	2,635	2.0	4	138	103	178
+Hyundai	 Elantra GT 4dr hatch                        $14,207 $15,389"Sedan"   Asia  "Front"        26	34	2,698	2.0	4	138	103	178
+Toyota	 Corolla LE 4dr                              $13,889 $15,295"Sedan"   Asia  "Front"         32	40	2,524	1.8	4	130	102	178
+Dodge	 Neon SXT 4dr                                $14,086 $15,040"Sedan"   USA   "Front"          29	36	2,626	2.0	4	132	105	174
+Toyota	 Corolla S 4dr                               $13,650 $15,030"Sedan"   Asia  "Front"         32	40	2,524	1.8	4	130	102	178
+Saturn	 lon2 quad coupe 2dr                         $13,904 $14,850"Sedan"   USA   "Front"         26	35	2,751	2.2	4	140	103	185
+Mazda	 B2300 SX Regular Cab                        $14,070 $14,840"Truck"   Asia  "Rear"           24	29	2,960	2.3	4	143	112	188
+Chevrolet	 Cavalier 4dr                                $13,884 $14,810"Sedan"   USA   "Front"      26	37	2,676	2.2	4	140	104	183
+Nissan	 Sentra 1.8 S 4dr                            $13,747 $14,740"Sedan"   Asia  "Front"         28	35	2,581	1.8	4	126	100	178
+Kia	 Spectra GSX 4dr hatch                       $13,790 $14,630"Sedan"   Asia  "Front"            24	32	2,697	1.8	4	124	101	178
+Mitsubishi	 Lancer ES 4dr                               $13,751 $14,622"Sedan"   Asia  "Front"     25	31	2,656	2.0	4	120	102	181
+Chevrolet	 Cavalier 2dr                                $13,697 $14,610"Sedan"   USA   "Front"      26	37	2,617	2.2	4	140	104	183
+Suzuki	 Aerio LX 4dr                                $14,317 $14,500"Sedan"   Asia  "Front"         25	31	2,676	2.3	4	155	98	171
+Ford	 Ranger 2.3 XL Regular Cab                   $13,717 $14,385"Truck"   USA   "Rear"            24	29	3,028	2.3	4	143	111	188
+Saturn	 lon2 4dr                                    $13,393 $14,300"Sedan"   USA   "Front"         26	35	2,692	2.2	4	140	103	185
+Honda	 Civic HX 2dr                                $12,996 $14,170"Sedan"   Asia  "Front"          36	44	2,500	1.7	4	117	103	175
+Scion	 xB                                          $13,480 $14,165"Wagon"   Asia  "Front"          31	35	2,425	1.5	4	108	98	155
+Toyota	 Corolla CE 4dr                              $13,065 $14,085"Sedan"   Asia  "Front"         32	40	2,502	1.8	4	130	102	178
+Hyundai	 Elantra GLS 4dr                             $12,781 $13,839"Sedan"   Asia  "Front"        26	34	2,635	2.0	4	138	103	178
+Ford	 Focus LX 4dr                                $12,906 $13,730"Sedan"   USA   "Front"           27	36	2,606	2.0	4	110	103	168
+Dodge	 Neon SE 4dr                                 $12,849 $13,670"Sedan"   USA   "Front"          29	36	2,581	2.0	4	132	105	174
+Kia	 Spectra GS 4dr hatch                        $12,830 $13,580"Sedan"   Asia  "Front"            24	32	2,686	1.8	4	124	101	178
+Ford	 Focus ZX3 2dr hatch                         $12,482 $13,270"Sedan"   USA   "Front"           26	33	2,612	2.0	4	130	103	168
+Honda	 Civic DX 2dr                                $12,175 $13,270"Sedan"   Asia  "Front"          32	38	2,432	1.7	4	115	103	175
+Scion	 xA 4dr hatch                                $12,340 $12,965"Sedan"   Asia  "Front"          32	38	2,340	1.5	4	108	93	154
+Suzuki	 Aeno S 4dr                                  $12,719 $12,884"Sedan"   Asia  "Front"         25	31	2,676	2.3	4	155	98	171
+Toyota	 Tacoma                                      $11,879 $12,800"Truck"   Asia  "Rear"          22	27	2,750	2.4	4	142	103	191
+Nissan	 Sentra 1.8 4dr                              $12,205 $12,740"Sedan"   Asia  "Front"         28	35	2,513	1.8	4	126	100	178
+Chevrolet	 Aveo LS 4dr hatch                           $11,802 $12,585"Sedan"   USA   "Front"      28	34	2,348	1.6	4	103	98	153
+Kia	 Spectra 4dr                                 $11,630 $12,360"Sedan"   Asia  "Front"            24	32	2,661	1.8	4	124	101	178
+Suzuki	 Forenza S 4dr                               $12,116 $12,269"Sedan"   Asia  "Front"         24	31	2,701	2.0	4	119	102	177
+Hyundai	 Accent GT 2dr hatch                         $11,209 $11,939"Sedan"   Asia  "Front"        29	33	2,339	1.6	4	103	96	167
+Kia	 Rio Cinco                                   $11,410 $11,905"Wagon"   Asia  "Front"            26	33	2,447	1.6	4	104	95	167
+Hyundai	 Accent GL 4dr                               $11,116 $11,839"Sedan"   Asia  "Front"        29	33	2,290	1.6	4	103	96	167
+Chevrolet	 Aveo 4dr                                    $10,965 $11,690"Sedan"   USA   "Front"      28	34	2,370	1.6	4	103	98	167
+Toyota	 Echo 2dr auto                               $10,896 $11,560"Sedan"   Asia  "Front"         33	39	2,085	1.5	4	108	93	163
+Toyota	 Echo 4dr                                    $10,642 $11,290"Sedan"   Asia  "Front"         35	43	2,055	1.5	4	108	93	163
+Kia	 Rio 4dr auto                                $10,705 $11,155"Sedan"   Asia  "Front"            25	32	2,458	1.6	4	104	95	167
+Saturn	 Ion1 4dr                                    $10,319 $10,995"Sedan"   USA   "Front"         26	35	2,692	2.2	4	140	103	185
+Toyota	 Echo 2dr manual                             $10,144 $10,760"Sedan"   Asia  "Front"         35	43	2,035	1.5	4	108	93	163
+Hyundai	 Accent 2dr hatch                            $10,107 $10,539"Sedan"   Asia  "Front"        29	33	2,255	1.6	4	103	96	167
+Kia	 Rio 4dr manual                               $9,875 $10,280"Sedan"   Asia  "Front"            26	33	2,403	1.6	4	104	95	167

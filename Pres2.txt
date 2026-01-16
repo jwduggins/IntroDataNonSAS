@@ -1,0 +1,44 @@
+George Washington       Pope's Creek            Virginia                57      2/22/1732       1789
+John Adams              Braintree               Massachusetts           61      10/30/1735      1796
+Thomas Jefferson        Goochland County        Virginia                57      4/13/1742       1800
+James Madison           Port Conway             Virginia                        3/16/1751       1808
+James Monroe            Monroe Hall             Virginia                58      4/28/1758       1816
+John Quincy Adams       Braintree               Massachusetts           57      7/11/1767       1824    113,142         30.92%
+Andrew Jackson          Waxhaws Region          South/North Carolina    61      3/15/1767       1828    642,806         55.93%
+Martin Van Buren        Kinderhook              New York                54      12/5/1782       1836    763,291         50.79%
+William Henry Harrison  Charles City County     Virginia                68      2/9/1773        1840    1,275,583       52.87%
+John Tyler              Charles City County     Virginia                51      3/29/1790       1841
+James K. Polk           Pineville               North Carolina          49      11/2/1795       1844    1,339,570       49.54%
+Zachary Taylor          Barboursville           Virginia                64      11/24/1784      1848    1,360,235       47.28%
+Millard Fillmore        Moravia                 New York                50      1/7/1800        1850
+Franklin Pierce         Hillsborough            New Hampshire           48      11/23/1804      1852    1,605,943       50.83%
+James Buchanan          Cove Gap                Pennsylvania            65      4/23/1791       1856    1,835,140       45.29%
+Abraham Lincoln         Hardin County           Kentucky                52      2/12/1809       1860    1,855,993       39.65%
+Andrew Johnson          Raleigh                 North Carolina          56      12/29/1808      1865
+Ulysses S. Grant        Point Pleasant          Ohio                    46      4/27/1822       1868    3,013,790       52.66%
+Rutherford B. Hayes                             Delaware                54      10/4/1822       1876    4,034,142       47.92%
+James A. Garfield       Moreland Hills          Ohio                    49      11/19/1831      1880    4,453,337       48.31%
+Chester A. Arthur       Fairfield               Vermont                 51      10/5/1829       1881
+Grover Cleveland        Caldwell                New Jersey              47      3/18/1837       1884    4,914,482       48.85%
+Benjamin Harrison       North Bend              Ohio                    55      8/20/1833       1888    5,443,633       47.80%
+Grover Cleveland        Caldwell                New Jersey              55      3/18/1837       1892    5,553,898       46.02%
+William McKinley        Niles                   Ohio                    54      1/29/1843       1896    7,112,138       51.02%
+Theodore Roosevelt      New York City           New York                42      10/27/1858      1904    7,630,557       56.42%
+William Howard Taft     Cincinnati              Ohio                    51      9/15/1857       1908    7,678,335       51.57%
+Woodrow Wilson          Staunton                Virginia                56      12/28/1856      1912    6,296,284       41.84%
+Warren G. Harding       Blooming Grove          Ohio                    55      11/2/1865       1920    16,144,093      60.32%
+Calvin Coolidge         Plymouth                Vermont                 51      7/4/1872        1924    15,723,789      54.04%
+Herbert Hoover          West Branch             Iowa                    54      8/10/1874       1928    21,427,123      58.21%
+Franklin D. Roosevelt   Hyde Park               New York                51      1/30/1882       1932    22,821,277      57.41%
+Harry S. Truman         Lamar                   Missouri                60      5/8/1884        1948    24,179,347      49.55%
+Dwight D. Eisenhower    Denison                 Texas                   62      10/14/1890      1952    34,075,529      55.18%
+John F. Kennedy         Brookline               Massachusetts           43      5/29/1917       1960    34,220,984      49.72%
+Lyndon B. Johnson       Stonewall               Texas                   55      8/27/1927       1963    43,127,041      61.05%
+Richard Nixon           Yorba Linda             California              56      1/9/1913        1968    31,783,783      43.42%
+Gerald Ford             Omaha                   Nebraska                61      7/13/1913       1972
+Jimmy Carter            Plains                  Georgia                 52      10/1/1924       1976    40,831,881      50.08%
+Ronald Reagan           Tampico                 Illinois                69      2/6/1911        1980    43,903,230      50.75%
+George H. W. Bush       Milton                  Massachusetts           64      6/12/1924       1988    48,886,597      53.37%
+Bill Clinton            Hope                    Arkansas                46      8/19/1946       1992    44,909,806      43.01%
+George W. Bush          New Haven               Connecticut             54      7/6/1946        2004    50,460,110      47.87%
+Barack Obama            Honolulu                Hawaii                  47      8/4/1961        2012    69,498,516      52.93%

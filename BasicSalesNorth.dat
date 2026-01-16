@@ -1,0 +1,107 @@
+This data set contains basic billing information for a fictitious consulting company.
+The first fields is the customer's name
+Then comes the Employee ID, Customer Region, Billed Hours, Bill Date,
+Bill Rate, Total Amount Due
+
+The date is already stored as a SAS date and TotalDue is simply
+Hours Billed multiplied by Bill Rate
+
+All fields are delimited with a single delimiter.
+
+Tamah's TastyKakes	6508	North	4.75	22616	150	712.5
+Reddit Recommends	2877	North	5	22531	75	375
+BBQ Hut	6508	North	7.75	22609	75	581.25
+Frank's Franks	9456	North	3.25	22541	150	487.5
+Solar Molars: Your Friendly Outdoor Dentists!	2009	North	4	22492	75	300
+IMDB	2009	North	7.75	22627	75	581.25
+The Company, LLC	2877	North	7.5	22291	150	1125
+Reddit Recommends	0002	North	6	22387	50	300
+IMDB	2877	North	7.75	22326	150	1162.5
+The Company, LLC	6508	North	2.25	22544	50	112.5
+Frank's Franks	9456	North	5.75	22504	75	431.25
+Karen's Keepsake Kiosk	2009	North	2	22388	50	100
+Professor Phizzy Soda	2009	North	8	22328	150	1200
+The Company, LLC	6508	North	6.25	22298	75	468.75
+Reddit Recommends	6508	North	1	22503	150	150
+Karen's Keepsake Kiosk	2009	North	1.25	22397	150	187.5
+Karen's Keepsake Kiosk	2009	North	2.5	22537	150	375
+Solar Molars: Your Friendly Outdoor Dentists!	2877	North	8	22326	150	1200
+Solar Molars: Your Friendly Outdoor Dentists!	2877	North	7.5	22285	75	562.5
+Frank's Franks	6508	North	6.75	22293	150	1012.5
+Professor Phizzy Soda	6508	North	6	22301	75	450
+Professor Phizzy Soda	2877	North	7	22318	50	350
+Frank's Franks	0002	North	3	22398	150	450
+IMDB	9456	North	1.25	22371	75	93.75
+Frank's Franks	6508	North	1.25	22616	75	93.75
+Frank's Franks	2009	North	4.5	22572	50	225
+Brenda's Bangin Bagels	9456	North	7.25	22344	50	362.5
+IMDB	2877	North	2	22550	150	300
+Reddit Recommends	0002	North	5.25	22525	75	393.75
+The Company, LLC	9456	North	5.5	22481	50	275
+Karen's Keepsake Kiosk	2877	North	0.25	22560	75	18.75
+The Company, LLC	2009	North	7.5	22543	75	562.5
+Solar Molars: Your Friendly Outdoor Dentists!	2009	North	2.5	22564	75	187.5
+Tamah's TastyKakes	2009	North	7	22423	50	350
+Reddit Recommends	9456	North	2.75	22401	150	412.5
+Brenda's Bangin Bagels	2009	North	8	22362	150	1200
+IMDB	9456	North	1.5	22330	150	225
+Professor Phizzy Soda	6508	North	1.5	22425	75	112.5
+Professor Phizzy Soda	0002	North	7	22336	75	525
+Karen's Keepsake Kiosk	2009	North	0.75	22561	75	56.25
+Tamah's TastyKakes	2877	North	1	22461	50	50
+Frank's Franks	9456	North	3	22517	50	150
+BBQ Hut	0002	North	3.5	22473	75	262.5
+BBQ Hut	2009	North	7.5	22552	150	1125
+Reddit Recommends	0002	North	1	22374	150	150
+Brenda's Bangin Bagels	9456	North	4.25	22414	50	212.5
+Brenda's Bangin Bagels	2877	North	6.25	22507	50	312.5
+Tamah's TastyKakes	2009	North	5.25	22335	75	393.75
+Tamah's TastyKakes	9456	North	3.25	22547	50	162.5
+Tamah's TastyKakes	9456	North	3	22347	50	150
+Tamah's TastyKakes	2009	North	2.25	22436	50	112.5
+Solar Molars: Your Friendly Outdoor Dentists!	0002	North	1	22638	150	150
+Professor Phizzy Soda	2877	North	1.25	22488	50	62.5
+Frank's Franks	2009	North	1.75	22376	50	87.5
+BBQ Hut	6508	North	5.25	22390	75	393.75
+Reddit Recommends	2877	North	1.75	22409	50	87.5
+The Company, LLC	2877	North	3.5	22508	75	262.5
+The Company, LLC	6508	North	2.25	22529	50	112.5
+Tamah's TastyKakes	6508	North	2	22375	75	150
+The Company, LLC	9456	North	6.75	22606	75	506.25
+Professor Phizzy Soda	6508	North	3	22393	50	150
+Solar Molars: Your Friendly Outdoor Dentists!	2009	North	2.25	22318	50	112.5
+Brenda's Bangin Bagels	0002	North	4.75	22467	75	356.25
+Frank's Franks	9456	North	7.5	22582	50	375
+The Company, LLC	9456	North	5.25	22554	50	262.5
+Solar Molars: Your Friendly Outdoor Dentists!	9456	North	7	22627	75	525
+Professor Phizzy Soda	2877	North	1.5	22628	50	75
+Brenda's Bangin Bagels	6508	North	4	22559	75	300
+IMDB	2009	North	3	22499	50	150
+The Company, LLC	9456	North	2	22373	150	300
+Tamah's TastyKakes	0002	North	7.25	22334	75	543.75
+Frank's Franks	6508	North	5.5	22281	150	825
+Frank's Franks	2877	North	1	22625	75	75
+The Company, LLC	6508	North	1	22492	50	50
+IMDB	6508	North	0.25	22368	150	37.5
+Tamah's TastyKakes	2877	North	0	22300	50	0
+IMDB	0002	North	7.5	22621	150	1125
+The Company, LLC	2877	North	6	22528	150	900
+BBQ Hut	6508	North	0.5	22446	50	25
+Reddit Recommends	6508	North	6.75	22381	50	337.5
+Karen's Keepsake Kiosk	6508	North	0.25	22316	75	18.75
+The Company, LLC	2877	North	0.5	22368	150	75
+The Company, LLC	2009	North	1.25	22637	50	62.5
+Karen's Keepsake Kiosk	6508	North	5.75	22438	150	862.5
+The Company, LLC	2877	North	8	22612	150	1200
+BBQ Hut	2009	North	2.5	22306	75	187.5
+Tamah's TastyKakes	2009	North	0.25	22586	75	18.75
+Solar Molars: Your Friendly Outdoor Dentists!	2009	North	7.5	22567	75	562.5
+Brenda's Bangin Bagels	2877	North	7.75	22385	150	1162.5
+Reddit Recommends	0002	North	0.75	22377	75	56.25
+Karen's Keepsake Kiosk	9456	North	0.25	22457	150	37.5
+Frank's Franks	2009	North	6.25	22601	150	937.5
+Reddit Recommends	2877	North	5.25	22350	75	393.75
+The Company, LLC	2877	North	3.5	22398	75	262.5
+IMDB	2009	North	7.5	22615	150	1125
+Reddit Recommends	2877	North	5.75	22643	75	431.25
+Professor Phizzy Soda	2009	North	5	22526	50	250

@@ -1,0 +1,105 @@
+Desc	Class	C445	C446
+Accessing Data Using SQL (35%)	Unit		
+Generate detail reports by working with a single table, joining tables, or using set operators in SQL	Main	0.00	1.00
+Use PROC SQL to perform SQL queries.	Expanded	0.00	1.00
+Select columns in a table with a SELECT statement and FROM clause	Expanded	0.00	1.00
+Create a table from a query result set.	Expanded	0.00	1.00
+Create new calculated columns.	Expanded	0.00	1.00
+Assign an alias with the AS keyword.	Expanded	0.00	1.00
+Use case logic to select values for a column	Expanded	0.00	1.00
+Retrieve rows that satisfy a condition with a WHERE clause.	Expanded	0.00	1.00
+Subset data by calculated columns.	Expanded	0.00	1.00
+Join tables - inner joins, full joins (coalesce function), right joins, left joins.	Expanded	0.00	1.00
+Combine tables using set operators - union, outer union, except, intersect	Expanded	0.00	1.00
+Combine tables using set operators - union, outer union, except, intersect.	Expanded	0.00	1.00
+Assign labels and formats to columns.	Expanded	0.00	1.00
+Generate summary reports by working with a single table, joining tables, or using set operators in the SQL.	Main	0.00	1.00
+Summarize data across and down columns using summary functions (AVG, COUNT, MAX, MIN, SUM).	Expanded	0.00	1.00
+Group data using GROUP BY clause	Expanded	0.00	1.00
+Filter grouped data using HAVING clause.	Expanded	0.00	1.00
+Eliminate duplicate values with the DISTINCT keyword.	Expanded	0.00	1.00
+Construct sub-queries and in-line views within an SQL procedure step.	Main	0.00	1.00
+Subset data by using non-correlated subqueries.	Expanded	0.00	1.00
+Reference an in-line view with other views or tables (multiple tables).	Expanded	0.00	1.00
+Use SAS SQL procedure enhancements.	Main	0.00	0.80
+Use SAS data set options with PROC SQL (KEEP=, DROP=, RENAME=, OBS=).	Expanded	0.00	1.00
+Use PROC SQL invocation options (INOBS=, OUTOBS=. NOPRINT, NUMBER)	Expanded	0.00	1.00
+Use SAS functions (SCAN, SUBSTR, LENGTH).	Expanded	0.00	1.00
+Access SAS system information by using DICTIONARY tables (members, tables, columns)	Expanded	0.00	0.00
+Use the CALCULATED keyword.	Expanded	0.00	1.00
+Macro Processing (35%)	Unit		
+Create and use user-defined and automatic macro variables within the SAS Macro Language.	Main	0.00	1.00
+Define and use macro variables.	Expanded	0.00	1.00
+Use macro variable name delimiter. (.)	Expanded	0.00	1.00
+Use INTO clause of the SELECT statement in SQL to create a single variable or a list of variables.	Expanded	0.00	1.00
+Use the SYMPUTX routine in a DATA Step to create a single variable or a list of variables.	Expanded	0.00	1.00
+Control variable scope with:	Expanded	0.00	0.33
+%GLOBAL statement	Detail	0.00	0.00
+%LOCAL statement	Detail	0.00	1.00
+SYMPUTX scope parameter	Detail	0.00	0.00
+Automate programs by defining and calling macros using the SAS Macro Language.	Main	0.00	1.00
+Define a macro using the %MACRO and %MEND statements.	Expanded	0.00	1.00
+Calling a macro with and without parameters.	Expanded	0.00	1.00
+Document macro functionality with comments	Expanded	0.00	1.00
+Generate SAS Code conditionally by using the %IF-%THEN-%ELSE macro statements or iterative %DO statements.	Expanded	0.00	1.00
+Use the SAS AUTOCALL facility to permanently store and call macros.	Expanded	0.00	0.00
+Use macro functions	Main	0.00	1.00
+Use macro functions. (%SCAN, %SUBSTR, %UPCASE)	Expanded	0.00	1.00
+Use macro quoting functions. (%NRSTR, %STR)	Expanded	0.00	1.00
+Use macro evaluation functions. (%SYSEVALF)	Expanded	0.00	1.00
+Use %SYSFUNC to execute DATA step functions within the SAS Macro Language.	Expanded	0.00	1.00
+Debug macros.	Main	0.00	1.00
+Trace the flow of execution with the MLOGIC option.	Expanded	0.00	1.00
+Examine the generated SAS statements with the MPRINT option.	Expanded	0.00	1.00
+Examine macro variable resolution with the SYMBOLGEN option.	Expanded	0.00	1.00
+Use the %PUT statement to print information to the log.	Expanded	0.00	1.00
+Create data-driven programs using SAS Macro Language.	Main	0.00	1.00
+Create a series of macro variables	Expanded	0.00	1.00
+Use indirect reference to macro variables. (&&, etc.)	Expanded	0.00	1.00
+Incorporate DICTONARY tables in data driven macros.	Expanded	0.00	0.00
+Generate repetitive macro calls.	Expanded	0.00	1.00
+Advanced Techniques (30%)	Unit		
+Process data using 1 and 2 dimensional arrays.	Main	1.00	0.00
+Define and use character arrays.	Expanded	1.00	0.00
+Define and use numeric arrays.	Expanded	1.00	0.00
+Create variables with arrays.	Expanded	1.00	0.00
+Reference arrays within a DO loop.	Expanded	1.00	0.00
+Specify the array dimension with the DIM function.	Expanded	1.00	0.00
+Define arrays as temporary arrays.	Expanded	1.00	0.00
+Load initial values for an array from a SAS data set.	Expanded	1.00	0.00
+Process data using hash objects	Main	0.00	1.00
+Declare hash and hash iterator objects	Expanded	0.00	1.00
+Dataset argument	Detail	0.00	1.00
+Ordered argument	Detail	0.00	1.00
+Multidata argument	Detail	0.00	1.00
+Use hash object methods	Expanded	0.00	0.67
+definekey()	Detail	0.00	1.00
+definedata()	Detail	0.00	1.00
+definedone()	Detail	0.00	1.00
+find()	Detail	0.00	1.00
+add()	Detail	0.00	0.00
+output()	Detail	0.00	0.00
+Use hash iterator object methods	Expanded	0.00	0.00
+first()	Detail	0.00	0.00
+next()	Detail	0.00	0.00
+last()	Detail	0.00	0.00
+prev()	Detail	0.00	0.00
+Use hash objects as lookup tables	Expanded	0.00	1.00
+Use hash objects to create sorted data sets.	Expanded	0.00	1.00
+Use hash iterator objects to access data in forward or reverse key order.	Expanded	0.00	0.00
+Use SAS utility procedures.	Main	0.00	1.00
+Specify a template using the PICTURE statement within the FORMAT Procedure*	Expanded	0.00	1.00
+Specify templates for date, time, and datetime values using directives.	Detail	0.00	1.00
+Specify templates for numeric values using digit selectors	Detail	0.00	1.00
+PICTURE statement options: round, default, datatype, multiplier, prefix	Detail	0.00	1.00
+Create custom functions with the FCMP procedure	Expanded	0.00	1.00
+Create character and numeric custom functions with single or multiple arguments.	Detail	0.00	1.00
+Create custom functions based on conditional processing	Detail	0.00	1.00
+Use custom functions with the global option CMPLIB=	Detail	0.00	1.00
+Use advanced functions.	Main	0.00	0.50
+Finding strings or words with the FINDC/FINDW functions.	Expanded	0.00	0.00
+Counting strings or words with the COUNT/COUNTC/COUNTW functions.	Expanded	0.00	0.00
+Retrieve previous values with the LAG function.	Expanded	0.00	0.00
+Regular expression pattern matching with PRX functions*	Expanded	0.00	1.00
+Metacharacters: ()[]{}*+?.|^$\d\D\s\S\w\W	Detail	0.00	1.00
+Functions and call routines: PRXMATCH, PRXPARSE, PRXCHANGE	Detail	0.00	1.00

@@ -1,0 +1,118 @@
+This data set contains basic billing information for a fictitious consulting company.
+The first fields is the customer's name (45)
+Then comes the Employee ID (4), Customer Region (5), Billed Hours (5), Bill Date (5),
+Bill Rate(3), Total Amount Due (7)
+
+The date is already stored as a SAS date and TotalDue is simply
+Hours Billed multiplied by Bill Rate
+
+To conserve storage space, there are no delimiters. Field widths are given with variable
+descriptions above using the format `Variable Name (width)'
+
+Frank's Franks                               0002South 4.7522410150 712.50
+IMDB                                         0002South 0.2522411 75  18.75
+Frank's Franks                               6508South 5.7522448 75 431.25
+Karen's Keepsake Kiosk                       2877South 3.5022505 50 175.00
+Brenda's Bangin Bagels                       2877South 4.7522528 50 237.50
+IMDB                                         0002South 6.7522572 50 337.50
+The Company, LLC                             6508South 7.7522516 50 387.50
+The Company, LLC                             6508South 2.2522554150 337.50
+Karen's Keepsake Kiosk                       6508South 3.5022577 75 262.50
+Professor Phizzy Soda                        2877South 6.2522633 75 468.75
+Tamah's TastyKakes                           9456South 2.2522421 75 168.75
+IMDB                                         6508South 2.2522449 50 112.50
+Brenda's Bangin Bagels                       6508South 1.2522320150 187.50
+BBQ Hut                                      0002South 0.2522556150  37.50
+Reddit Recommends                            0002South 6.0022285150 900.00
+Professor Phizzy Soda                        6508South 6.7522407 50 337.50
+Professor Phizzy Soda                        2877South 2.5022573150 375.00
+Reddit Recommends                            0002South 2.7522335 75 206.25
+Solar Molars: Your Friendly Outdoor Dentists!2009South 3.0022351150 450.00
+Karen's Keepsake Kiosk                       2009South 4.7522640 50 237.50
+IMDB                                         6508South 0.2522480 75  18.75
+Frank's Franks                               2877South 4.2522416 50 212.50
+Tamah's TastyKakes                           9456South 1.5022306 50  75.00
+IMDB                                         2877South 5.2522602 50 262.50
+IMDB                                         2877South 1.7522332150 262.50
+Frank's Franks                               2009South 4.2522397150 637.50
+The Company, LLC                             9456South 1.5022608150 225.00
+The Company, LLC                             2877South 3.0022346 75 225.00
+Solar Molars: Your Friendly Outdoor Dentists!2877South 1.2522507 50  62.50
+IMDB                                         0002South 6.0022642 50 300.00
+IMDB                                         9456South 7.2522406 50 362.50
+Reddit Recommends                            6508South 4.0022634150 600.00
+IMDB                                         6508South 1.0022372150 150.00
+Reddit Recommends                            2009South 3.0022484 75 225.00
+Karen's Keepsake Kiosk                       6508South 6.0022336 75 450.00
+IMDB                                         2877South 1.0022477150 150.00
+Reddit Recommends                            2009South 0.5022626 50  25.00
+The Company, LLC                             9456South 7.7522589 50 387.50
+The Company, LLC                             9456South 6.75222961501012.50
+Professor Phizzy Soda                        6508South 7.2522388 50 362.50
+Reddit Recommends                            2877South 5.7522589 50 287.50
+Professor Phizzy Soda                        2877South 1.2522405150 187.50
+Brenda's Bangin Bagels                       6508South 1.0022533 75  75.00
+IMDB                                         2877South 1.7522441150 262.50
+Solar Molars: Your Friendly Outdoor Dentists!2877South 5.2522611 75 393.75
+Tamah's TastyKakes                           0002South 3.2522571 50 162.50
+Frank's Franks                               0002South 7.2522560 50 362.50
+Brenda's Bangin Bagels                       2877South 3.2522434150 487.50
+Karen's Keepsake Kiosk                       9456South 7.25224541501087.50
+Reddit Recommends                            2877South 6.5022330 50 325.00
+Tamah's TastyKakes                           6508South 4.0022568150 600.00
+Professor Phizzy Soda                        6508South 3.5022439 75 262.50
+IMDB                                         0002South 7.75223601501162.50
+Tamah's TastyKakes                           6508South 2.7522625150 412.50
+IMDB                                         6508South 0.2522528150  37.50
+Brenda's Bangin Bagels                       0002South 0.7522604150 112.50
+Reddit Recommends                            9456South 5.0022485 50 250.00
+The Company, LLC                             0002South 1.0022423150 150.00
+The Company, LLC                             0002South 6.2522295 75 468.75
+Brenda's Bangin Bagels                       2877South 6.5022622150 975.00
+Brenda's Bangin Bagels                       0002South 1.5022454 50  75.00
+Professor Phizzy Soda                        9456South 0.7522470 50  37.50
+BBQ Hut                                      0002South 4.7522306150 712.50
+Karen's Keepsake Kiosk                       9456South 7.0022290 50 350.00
+BBQ Hut                                      2009South 3.7522549 50 187.50
+Brenda's Bangin Bagels                       0002South 7.2522340 75 543.75
+Solar Molars: Your Friendly Outdoor Dentists!0002South 6.5022614 50 325.00
+The Company, LLC                             2877South 7.0022376 75 525.00
+Tamah's TastyKakes                           2009South 2.7522550 75 206.25
+The Company, LLC                             2877South 4.5022307150 675.00
+IMDB                                         2877South 4.5022295150 675.00
+The Company, LLC                             9456South 5.2522390150 787.50
+The Company, LLC                             2877South 4.2522498150 637.50
+IMDB                                         0002South 7.5022352 75 562.50
+Karen's Keepsake Kiosk                       0002South 4.5022435 50 225.00
+BBQ Hut                                      6508South 7.7522295 75 581.25
+Tamah's TastyKakes                           6508South 1.7522334 50  87.50
+IMDB                                         0002South 5.7522549 50 287.50
+Karen's Keepsake Kiosk                       2877South 0.2522495150  37.50
+The Company, LLC                             9456South 2.5022411 75 187.50
+Tamah's TastyKakes                           2009South 8.00225881501200.00
+Tamah's TastyKakes                           0002South 0.7522445 75  56.25
+The Company, LLC                             2877South 5.0022626150 750.00
+Tamah's TastyKakes                           2877South 2.0022296150 300.00
+Reddit Recommends                            9456South 6.5022282 50 325.00
+Karen's Keepsake Kiosk                       2009South 7.2522480 50 362.50
+Professor Phizzy Soda                        2877South 7.2522555 75 543.75
+Brenda's Bangin Bagels                       0002South 0.2522320 75  18.75
+The Company, LLC                             2877South 7.7522588 50 387.50
+Brenda's Bangin Bagels                       9456South 1.0022308150 150.00
+Karen's Keepsake Kiosk                       9456South 6.5022570150 975.00
+Karen's Keepsake Kiosk                       2877South 5.2522298 75 393.75
+Karen's Keepsake Kiosk                       6508South 2.2522300 75 168.75
+Reddit Recommends                            2877South 4.7522618 75 356.25
+Frank's Franks                               6508South 0.0022599150   0.00
+IMDB                                         2009South 1.5022518150 225.00
+Karen's Keepsake Kiosk                       2009South 7.2522379 50 362.50
+Frank's Franks                               2877South 7.2522534 75 543.75
+Professor Phizzy Soda                        6508South 0.5022612 75  37.50
+The Company, LLC                             9456South 0.7522471 75  56.25
+Solar Molars: Your Friendly Outdoor Dentists!9456South 6.0022461150 900.00
+Karen's Keepsake Kiosk                       9456South 6.7522449 75 506.25
+Reddit Recommends                            0002South 4.0022469150 600.00
+Solar Molars: Your Friendly Outdoor Dentists!9456South 5.5022282 75 412.50
+Frank's Franks                               0002South 3.5022571150 525.00
+Tamah's TastyKakes                           6508South 4.7522576 75 356.25
+IMDB                                         9456South 2.5022495150 375.00

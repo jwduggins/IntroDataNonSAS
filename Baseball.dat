@@ -1,0 +1,335 @@
+This data about player statistics from the 1986 MLB season
+The first two fields are the player's name: Last, First
+Then comes City in which the team played in 1986, 
+At Bats, Hits, Home Runs, Runs, RBIs, Walks,
+years in the Major Leagues, Career At Bats, Career Hits, Career
+Home Runs, Career Runs, Career RBIs, Career Walks, League, Division,
+Position(s), Put Outs, Assists, Errors, and 1987 Salary
+
+The character fields are variable length, but the numeric fields
+have fixed widths - each numeric field is placed in a field that
+is 4 columns wide except for career at bats which is 5 columns
+wide and salary which is 8 columns wide.
+
+Allanson, Andy	Cleveland	                         293  66   1  30  29  14   1  293  66   1  30  29  14American	East	C	               446  33  20    .   
+Ashby, Alan	Houston	                              315  81   7  24  38  39  14 3449 835  69 321 414 375National	West	C	               632  43  10 475.000
+Davis, Alan	Seattle	                              479 130  18  66  72  76   3 1624 457  63 224 266 263American	West	1B	              880  82  14 480.000
+Dawson, Andre	Montreal	                           496 141  20  65  78  37  11 56281575 225 828 838 354National	East	RF	              200  11   3 500.000
+Galarraga, Andres	Montreal	                       321  87  10  39  42  30   2  396 101  12  48  46  33National	East	1B	              805  40   4  91.500
+Griffin, Alfredo	Oakland	                         594 169   4  74  51  35  11 44081133  19 501 336 194American	West	SS	              282 421  25 750.000
+Newman, Al	Montreal	                              185  37   1  23   8  21   2  214  42   1  30   9  24National	East	2B	               76 127   7  70.000
+Salazar, Argenis	Kansas City	                     298  73   0  24  24   7   3  509 108   0  41  37  12American	West	SS	              121 283   9 100.000
+Thomas, Andres	Atlanta	                           323  81   6  26  32   8   2  341  86   6  32  34   8National	West	SS	              143 290  19  75.000
+Thornton, Andre	Cleveland	                        401  92  17  49  66  65  13 52061332 253 784 890 866American	East	DH	                0   0   01100.000
+Trammell, Alan	Detroit	                           574 159  21 107  75  59  10 46311300  90 702 504 488American	East	SS	              238 445  22 517.143
+Trevino, Alex	Los Angeles	                        202  53   4  31  26  27   9 1876 467  15 192 186 161National	West	C	               304  45  11 512.500
+Van Slyke, Andy	St Louis	                         418 113  13  48  61  47   4 1512 392  41 205 204 203National	East	RF	              211  11   7 550.000
+Wiggins, Alan	Baltimore	                          239  60   0  30  11  22   6 1941 510   4 309 103 207American	East	2B	              121 151   6 700.000
+Almon, Bill	Pittsburgh	                           196  43   7  29  27  30  13 3231 825  36 376 290 238National	East	UT	               80  45   8 240.000
+Beane, Billy	Minneapolis	                         183  39   3  20  15  11   3  201  42   3  20  16  11American	West	OF	              118   0   0    .   
+Bell, Buddy	Cincinnati	                           568 158  20  89  75  73  15 80682273 1771045 993 732National	West	3B	              105 290  10 775.000
+Biancalana, Buddy	Kansas City	                    190  46   2  24   8  15   5  479 102   5  65  23  39American	West	SS	              102 177  16 175.000
+Bochte, Bruce	Oakland	                            407 104   6  57  43  65  12 52331478 100 643 658 653American	West	1B	              912  88   9    .   
+Bochy, Bruce	San Diego	                           127  32   8  16  22  14   8  727 180  24  67  82  56National	West	C	               202  22   2 135.000
+Bonds, Barry	Pittsburgh	                          413  92  16  72  48  65   1  413  92  16  72  48  65National	East	CF	              280   9   5 100.000
+Bonilla, Bobby	Chicago	                           426 109   3  55  43  62   1  426 109   3  55  43  62American	West	O1	              361  22   2 115.000
+Boone, Bob	California	                            442  98   7  48  49  43  15 59821501  96 555 702 533American	West	C	               812  84  11    .   
+Brenly, Bob	San Francisco	                        472 116  16  60  62  74   6 1924 489  67 242 251 240National	West	C	               518  55   3 600.000
+Buckner, Bill	Boston	                             629 168  18  73 102  40  18 84242464 16410081072 402American	East	1B	             1067 157  14 776.667
+Butler, Brett	Cleveland	                          587 163   4  92  51  70   6 2695 747  17 442 198 317American	East	CF	              434   9   3 765.000
+Dernier, Bob	Chicago	                             324  73   4  32  18  22   7 1931 491  13 291 108 180National	East	CF	              222   3   3 708.333
+Diaz, Bo	Cincinnati	                              474 129  10  50  56  40  10 2331 604  61 246 327 166National	West	C	               732  83  13 750.000
+Doran, Bill	Houston	                              550 152   6  92  37  81   5 2308 633  32 349 182 308National	West	2B	              262 329  16 625.000
+Downing, Brian	California	                        513 137  20  90  95  90  14 52011382 166 763 734 784American	West	LF	              267   5   3 900.000
+Grich, Bobby	California	                          313  84   9  42  30  39  17 68901833 2241033 8641087American	West	2B	              127 221   7    .   
+Hatcher, Billy	Houston	                           419 108   6  55  36  22   3  591 149   8  80  46  31National	West	CF	              226   7   4 110.000
+Horner, Bob	Atlanta	                              517 141  27  70  87  52   9 3571 994 215 545 652 337National	West	1B	             1378 102   8    .   
+Jacoby, Brook	Cleveland	                          583 168  17  83  80  56   5 1646 452  44 219 208 136American	East	3B	              109 292  25 612.500
+Kearney, Bob	Seattle	                             204  49   6  23  25  12   7 1309 308  27 126 132  66American	West	C	               419  46   5 300.000
+Madlock, Bill	Los Angeles	                        379 106  10  38  60  30  14 62071906 146 859 803 571National	West	3B	               72 170  24 850.000
+Meacham, Bobby	New York	                          161  36   0  19  10  17   4 1053 244   3 156  86 107American	East	SS	               70 149  12    .   
+Melvin, Bob	San Francisco	                        268  60   5  24  25  15   2  350  78   5  34  29  18National	West	C	               442  59   6  90.000
+Oglivie, Ben	Milwaukee	                           346  98   5  31  53  30  16 59131615 235 784 901 560American	East	DH	                0   0   0    .   
+Roberts, Bip	San Diego	                           241  61   1  34  12  14   1  241  61   1  34  12  14National	West	2B	              166 172  10    .   
+Robidoux, Billy Jo	Milwaukee	                     181  41   1  15  21  33   2  232  50   4  20  29  45American	East	1B	              326  29   5  67.500
+Russell, Bill	Los Angeles	                        216  54   0  21  18  15  18 73181926  46 796 627 483National	West	UT	              103  84   5    .   
+Sample, Billy	Atlanta	                            200  57   6  23  14  14   9 2516 684  46 371 230 195National	West	OF	               69   1   1    .   
+Schroeder, Bill	Milwaukee	                        217  46   7  32  19   9   4  694 160  32  86  76  32American	East	UT	              307  25   1 180.000
+Wynegar, Butch	New York	                          194  40   7  19  29  30  11 41831069  64 486 493 608American	East	C	               325  22   2    .   
+Bando, Chris	Cleveland	                           254  68   2  28  26  22   6  999 236  21 108 117 118American	East	C	               359  30   4 305.000
+Brown, Chris	San Francisco	                       416 132   7  57  49  33   3  932 273  24 113 121  80National	West	3B	               73 177  18 215.000
+Castillo, Carmen	Cleveland	                       205  57   8  34  32   9   5  756 192  32 117 107  51American	East	OD	               58   4   4 247.500
+Cooper, Cecil	Milwaukee	                          542 140  12  46  75  41  16 70992130 235 9871089 431American	East	1B	              697  61   9    .   
+Davis, Chili	San Francisco	                       526 146  13  71  70  84   6 2648 715  77 352 342 289National	West	RF	              303   9   9 815.000
+Fisk, Carlton	Chicago	                            457 101  14  42  63  22  17 65211767 2811003 977 619American	West	C	               389  39   4 875.000
+Ford, Curt	St Louis	                              214  53   2  30  29  23   2  226  59   2  32  32  27National	East	OF	              109   7   3  70.000
+Johnson, Cliff	Toronto	                           336  84  15  48  55  52  15 39451016 196 539 699 568American	East	DH	                8   1   0    .   
+Lansford, Carney	Oakland	                         591 168  19  80  72  39   9 44781307 113 634 563 319American	West	3B	               67 147   41200.000
+Lemon, Chet	Detroit	                              403 101  12  45  53  39  12 51501429 166 747 666 526American	East	CF	              316   6   5 675.000
+Maldonado, Candy	San Francisco	                   405 102  18  49  85  20   6  950 231  29  99 138  64National	West	OF	              161  10   3 415.000
+Martinez, Carmelo	San Diego	                      244  58   9  28  25  35   4 1335 333  49 164 179 194National	West	O1	              142  14   2 340.000
+Moore, Charlie	Milwaukee	                         235  61   3  24  39  21  14 39261029  35 441 401 333American	East	C	               425  43   4    .   
+Reynolds, Craig	Houston	                          313  78   6  32  41  12  12 3742 968  35 409 321 170National	West	SS	              106 206   7 416.667
+Ripken, Cal	Baltimore	                            627 177  25  98  81  70   6 3210 927 133 529 472 313American	East	SS	              240 482  131350.000
+Snyder, Cory	Cleveland	                           416 113  24  58  69  16   1  416 113  24  58  69  16American	East	OS	              203  70  10  90.000
+Speier, Chris	Chicago	                            155  44   6  21  23  15  16 66311634  98 698 661 777National	East	3S	               53  88   3 275.000
+Wilkerson, Curt	Texas	                            236  56   0  27  15  11   4 1115 270   1 116  64  57American	West	2S	              125 199  13 230.000
+Anderson, Dave	Los Angeles	                       216  53   1  31  15  22   4  926 210   9 118  69 114National	West	3S	               73 152  11 225.000
+Baker, Dusty	Oakland	                             242  58   4  25  19  27  19 71171981 242 9641013 762American	West	OF	               90   4   0    .   
+Baylor, Don	Boston	                               585 139  31  93  94  62  17 75461982 31511411179 727American	East	DH	                0   0   0 950.000
+Bilardello, Dann	Montreal	                        191  37   4  12  17  14   4  773 163  16  61  74  52National	East	C	               391  38   8    .   
+Boston, Daryl	Chicago	                            199  53   5  29  22  21   3  514 120   8  57  40  39American	West	CF	              152   3   5  75.000
+Coles, Darnell	Detroit	                           521 142  20  67  86  45   4  815 205  22  99 103  78American	East	3B	              107 242  23 105.000
+Collins, Dave	Detroit	                            419 113   1  44  27  44  12 44841231  32 612 344 422American	East	LF	              211   2   1    .   
+Concepcion, Dave	Cincinnati	                      311  81   3  42  30  26  17 82472198 100 950 909 690National	West	UT	              153 223  10 320.000
+Daulton, Darren	Philadelphia	                     138  31   8  18  21  38   3  244  53  12  33  32  55National	East	C	               244  21   4    .   
+DeCinces, Doug	California	                        512 131  26  69  96  52  14 53471397 221 712 815 548American	West	3B	              119 216  12 850.000
+Evans, Darrell	Detroit	                           507 122  29  78  85  91  18 77611947 347117511521380American	East	1B	              808 108   2 535.000
+Evans, Dwight	Boston	                             529 137  26  86  97  97  15 66611785 2911082 949 989American	East	RF	              280  10   5 933.333
+Garcia, Damaso	Toronto	                           424 119   6  57  46  13   9 36511046  32 461 301 112American	East	2B	              224 286   8 850.000
+Gladden, Dan	San Francisco	                       351  97   4  55  29  39   4 1258 353  16 196 110 117National	West	CF	              226   7   3 210.000
+Heep, Danny	New York	                             195  55   5  24  33  30   8 1313 338  25 144 149 153National	East	OF	               83   2   1    .   
+Henderson, Dave	Seattle	                          388 103  15  59  47  39   6 2174 555  80 285 274 186American	West	OF	              182   9   4 325.000
+Hill, Donnie	Oakland	                             339  96   4  37  29  23   4 1064 290  11 123 108  55American	West	23	              104 213   9 275.000
+Kingman, Dave	Oakland	                            561 118  35  70  94  33  16 66771575 442 9011210 608American	West	DH	              463  32   8    .   
+Lopes, Davey	Chicago	                             255  70   7  49  35  43  15 63111661 1541019 608 820National	East	3O	               51  54   8 450.000
+Mattingly, Don	New York	                          677 238  31 117 113  53   5 2223 737  93 349 401 171American	East	1B	             1377 100   61975.000
+Motley, Darryl	Kansas City	                       227  46   7  23  20  12   5 1325 324  44 156 158  67American	West	RF	               92   2   2    .   
+Murphy, Dale	Atlanta	                             614 163  29  89  83  75  11 50171388 266 813 822 617National	West	CF	              303   6   61900.000
+Murphy, Dwayne	Oakland	                           329  83   9  50  39  56   9 3828 948 145 575 528 635American	West	CF	              276   6   2 600.000
+Parker, Dave	Cincinnati	                          637 174  31  89 116  56  14 67272024 247 9781093 495National	West	RF	              278   9   91041.667
+Pasqua, Dan	New York	                             280  82  16  44  45  47   2  428 113  25  61  70  63American	East	LF	              148   4   2 110.000
+Porter, Darrell	Texas	                            155  41  12  21  29  22  16 54091338 181 746 805 875American	West	CD	              165   9   1 260.000
+Schofield, Dick	California	                       458 114  13  67  57  48   4 1350 298  28 160 123 122American	West	SS	              246 389  18 475.000
+Slaught, Don	Texas	                               314  83  13  39  46  16   5 1457 405  28 156 159  76American	West	C	               533  40   4 431.500
+Strawberry, Darryl	New York	                      475 123  27  76  93  72   4 1810 471 108 292 343 267National	East	RF	              226  10   61220.000
+Sveum, Dale	Milwaukee	                            317  78   7  35  35  32   1  317  78   7  35  35  32American	East	3B	               45 122  26  70.000
+Tartabull, Danny	Seattle	                         511 138  25  76  96  61   3  592 164  28  87 110  71American	West	RF	              157   7   8 145.000
+Thon, Dickie	Houston	                             278  69   3  24  21  29   8 2079 565  32 258 192 162National	West	SS	              142 210  10    .   
+Walling, Denny	Houston	                           382 119  13  54  58  36  12 2133 594  41 287 294 227National	West	3B	               59 156   9 595.000
+Winfield, Dave	New York	                          565 148  24  90 104  77  14 72872083 30511351234 791American	East	RF	              292   9   51861.460
+Cabell, Enos	Los Angeles	                         277  71   2  27  29  14  15 59521647  60 753 596 259National	West	1B	              360  32   5    .   
+Davis, Eric	Cincinnati	                           415 115  27  97  71  68   3  711 184  45 156 119  99National	West	LF	              274   2   7 300.000
+Milner, Eddie	Cincinnati	                         424 110  15  70  47  36   7 2130 544  38 335 174 258National	West	CF	              292   6   3 490.000
+Murray, Eddie	Baltimore	                          495 151  17  61  84  78  10 56241679 275 8841015 709American	East	1B	             1045  88  132460.000
+Riles, Ernest	Milwaukee	                          524 132   9  69  47  54   2  972 260  14 123  92  90American	East	SS	              212 327  20    .   
+Romero, Ed	Boston	                                233  49   2  41  23  18   8 1350 336   7 166 122 106American	East	SS	              102 132  10 375.000
+Whitt, Ernie	Toronto	                             395 106  16  48  56  35  10 2303 571  86 266 323 248American	East	C	               709  41   7    .   
+Lynn, Fred	Baltimore	                             397 114  23  67  67  53  13 55891632 241 906 926 716American	East	CF	              244   2   4    .   
+Rayford, Floyd	Baltimore	                         210  37   8  15  19  15   6  994 244  36 107 114  53American	East	3B	               40 115  15    .   
+Stubbs, Franklin	Los Angeles	                     420  95  23  55  58  37   3  646 139  31  77  77  61National	West	LF	              206  10   7    .   
+White, Frank	Kansas City	                         566 154  22  76  84  43  14 61001583 131 743 693 300American	West	2B	              316 439  10 750.000
+Bell, George	Toronto	                             641 198  31 101 108  41   5 2129 610  92 297 319 117American	East	LF	              269  17  101175.000
+Braggs, Glenn	Milwaukee	                          215  51   4  19  18  11   1  215  51   4  19  18  11American	East	LF	              116   5  12  70.000
+Brett, George	Kansas City	                        441 128  16  70  73  80  14 66752095 20910721050 695American	West	3B	               97 218  161500.000
+Brock, Greg	Los Angeles	                          325  76  16  33  52  37   5 1506 351  71 195 219 214National	West	1B	              726  87   3 385.000
+Carter, Gary	New York	                            490 125  24  81 105  62  13 60631646 271 847 999 680National	East	C	               869  62   81925.571
+Davis, Glenn	Houston	                             574 152  31  91 101  64   3  985 260  53 148 173  95National	West	1B	             1253 111  11 215.000
+Foster, George	New York	                          284  64  14  30  42  24  18 70231925 348 9861239 666National	East	LF	               96   4   4    .   
+Gaetti, Gary	Minneapolis	                         596 171  34  91 108  52   6 2862 728 107 361 401 224American	West	3B	              118 334  21 900.000
+Gagne, Greg	Minneapolis	                          472 118  12  63  54  30   4  793 187  14 102  80  50American	West	SS	              228 377  26 155.000
+Hendrick, George	California	                      283  77  14  45  47  26  16 68401910 259 9151067 546American	West	OF	              144   6   5 700.000
+Hubbard, Glenn	Atlanta	                           408  94   4  42  36  66   9 3573 866  59 429 365 410National	West	2B	              282 487  19 535.000
+Iorg, Garth	Toronto	                              327  85   3  30  44  20   8 2140 568  16 216 208  93American	East	32	               91 185  12 362.500
+Matthews, Gary	Chicago	                           370  96  21  49  46  60  15 69861972 2311070 955 921National	East	LF	              137   5   9 733.333
+Nettles, Graig	San Diego	                         354  77  16  36  55  41  20 87162172 384117212671057National	West	3B	               83 174  16 200.000
+Pettis, Gary	California	                          539 139   5  93  58  69   5 1469 369  12 247 126 198American	West	CF	              462   9   7 400.000
+Redus, Gary	Philadelphia	                         340  84  11  62  33  47   5 1516 376  42 284 141 219National	East	LF	              185   8   4 400.000
+Templeton, Garry	San Diego	                       510 126   2  42  44  35  11 55621578  44 703 519 256National	West	SS	              207 358  20 737.500
+Thomas, Gorman	Seattle	                           315  59  16  45  36  58  13 46771051 268 681 782 697American	West	DH	                0   0   0    .   
+Walker, Greg	Chicago	                             282  78  13  37  51  29   5 1649 453  73 211 280 138American	West	1B	              670  57   5 500.000
+Ward, Gary	Texas	                                 380 120   5  54  51  31   8 3118 900  92 444 419 240American	West	LF	              237   8   1 600.000
+Wilson, Glenn	Philadelphia	                       584 158  15  70  84  42   5 2358 636  58 265 316 134National	East	RF	              331  20   4 662.500
+Baines, Harold	Chicago	                           570 169  21  72  88  38   7 37541077 140 492 589 263American	West	RF	              295  15   5 950.000
+Brooks, Hubie	Montreal	                           306 104  14  50  58  25   7 2954 822  55 313 377 187National	East	SS	              116 222  15 750.000
+Johnson, Howard	New York	                         220  54  10  30  39  31   5 1185 299  40 145 154 128National	East	3S	               50 136  20 297.500
+McRae, Hal	Kansas City	                           278  70   7  22  37  18  18 71862081 190 9351088 643American	West	DH	                0   0   0 325.000
+Reynolds, Harold	Seattle	                         445  99   1  46  24  29   4  618 129   1  72  31  48American	West	2B	              278 415  16  87.500
+Spilman, Harry	San Francisco	                     143  39   5  18  30  15   9  639 151  16  80  97  61National	West	1B	              138  15   1 175.000
+Winningham, Herm	Montreal	                        185  40   4  23  11  18   3  524 125   7  58  37  47National	East	OF	               97   2   2  90.000
+Barfield, Jesse	Toronto	                          589 170  40 107 108  69   6 2325 634 128 371 376 238American	East	RF	              368  20   31237.500
+Beniquez, Juan	Baltimore	                         343 103   6  48  36  40  15 43381193  70 581 421 325American	East	UT	              211  56  13 430.000
+Bonilla, Juan	Baltimore	                          284  69   1  33  18  25   5 1407 361   6 139  98 111American	East	2B	              122 140   5    .   
+Cangelosi, John	Chicago	                          438 103   2  65  32  71   2  440 103   2  67  32  71American	West	LF	              276   7   9 100.000
+Canseco, Jose	Oakland	                            600 144  33  85 117  65   2  696 173  38 101 130  69American	West	LF	              319   4  14 165.000
+Carter, Joe	Cleveland	                            663 200  29 108 121  32   4 1447 404  57 210 222  68American	East	RF	              241   8   6 250.000
+Clark, Jack	St Louis	                             232  55   9  34  23  45  12 44051213 194 702 705 625National	East	1B	              623  35   31300.000
+Cruz, Jose	Houston	                               479 133  10  48  72  55  17 74722147 153 9801032 854National	West	LF	              237   5   4 773.333
+Cruz, Julio	Chicago	                              209  45   0  38  19  42  10 3859 916  23 557 279 478American	West	2B	              132 205   5    .   
+Davis, Jody	Chicago	                              528 132  21  61  74  41   6 2641 671  97 273 383 226National	East	C	               885 105   81008.333
+Dwyer, Jim	Baltimore	                             160  39   8  18  31  22  14 2128 543  56 304 268 298American	East	DO	               33   3   0 275.000
+Franco, Julio	Cleveland	                          599 183  10  80  74  32   5 2482 715  27 330 326 158American	East	SS	              231 374  18 775.000
+Gantner, Jim	Milwaukee	                           497 136   7  58  38  26  11 38711066  40 450 367 241American	East	2B	              304 347  10 850.000
+Grubb, Johnny	Detroit	                            210  70  13  32  51  28  15 40401130  97 544 462 551American	East	DH	                0   0   0 365.000
+Hairston, Jerry	Chicago	                          225  61   5  32  26  26  11 1568 408  25 202 185 257American	West	UT	              132   9   0    .   
+Howell, Jack	California	                          151  41   4  26  21  19   2  288  68   9  45  39  35American	West	3B	               28  56   2  95.000
+Kruk, John	San Diego	                             278  86   4  33  38  45   1  278  86   4  33  38  45National	West	LF	              102   4   2 110.000
+Leonard, Jeffrey	San Francisco	                   341  95   6  48  42  20  10 2964 808  81 379 428 221National	West	LF	              158   4   5 100.000
+Morrison, Jim	Pittsburgh	                         537 147  23  58  88  47  10 2744 730  97 302 351 174National	East	3B	               92 257  20 277.500
+Moses, John	Seattle	                              399 102   3  56  34  34   5  670 167   4  89  48  54American	West	CF	              211   9   3  80.000
+Mumphrey, Jerry	Chicago	                          309  94   5  37  32  26  13 46181330  57 616 522 436National	East	OF	              161   3   3 600.000
+Orsulak, Joe	Pittsburgh	                          401 100   2  60  19  28   4  876 238   2 126  44  55National	East	RF	              193  11   4    .   
+Orta, Jorge	Kansas City	                          336  93   9  35  46  23  15 57791610 128 730 741 497American	West	DH	                0   0   0    .   
+Presley, Jim	Seattle	                             616 163  27  83 107  32   3 1437 377  65 181 227  82American	West	3B	              110 308  15 200.000
+Quirk, Jamie	Kansas City	                         219  47   8  24  26  17  12 1188 286  23 100 125  63American	West	CS	              260  58   4    .   
+Ray, Johnny	Pittsburgh	                           579 174   7  67  78  58   6 3053 880  32 366 337 218National	East	2B	              280 479   5 657.000
+Reed, Jeff	Minneapolis	                           165  39   2  13   9  16   3  196  44   2  18  10  18American	West	C	               332  19   2  75.000
+Rice, Jim	Boston	                                 618 200  20  98 110  62  13 71272163 35111041289 564American	East	LF	              330  16   82412.500
+Royster, Jerry	San Diego	                         257  66   5  31  26  32  14 3910 979  33 518 324 382National	West	UT	               87 166  14 250.000
+Russell, John	Philadelphia	                       315  76  13  35  60  25   3  630 151  24  68  94  55National	East	C	               498  39  13 155.000
+Samuel, Juan	Philadelphia	                        591 157  16  90  78  26   4 2020 541  52 310 226  91National	East	2B	              290 440  25 640.000
+Shelby, John	Baltimore	                           404  92  11  54  49  18   6 1354 325  30 188 135  63American	East	OF	              222   5   5 300.000
+Skinner, Joel	Chicago	                            315  73   5  23  37  16   4  450 108   6  38  46  28American	West	C	               227  15   3 110.000
+Stone, Jeff	Philadelphia	                         249  69   6  32  19  20   4  702 209  10  97  48  44National	East	OF	              103   8   2    .   
+Sundberg, Jim	Kansas City	                        429  91  12  41  42  57  13 55901397  83 578 579 644American	West	C	               686  46   4 825.000
+Traber, Jim	Baltimore	                            212  54  13  28  44  18   2  233  59  13  31  46  20American	East	UT	              243  23   5    .   
+Uribe, Jose	San Francisco	                        453 101   3  46  43  61   3  948 218   6  96  72  91National	West	SS	              249 444  16 195.000
+Willard, Jerry	Oakland	                           161  43   4  17  26  22   3  707 179  21  77  99  76American	West	C	               300  12   2    .   
+Youngblood, Joel	San Francisco	                   184  47   5  20  28  18  11 3327 890  74 419 382 304National	West	OF	               49   2   0 450.000
+Bass, Kevin	Houston	                              591 184  20  83  79  38   5 1689 462  40 219 195  82National	West	RF	              303  12   5 630.000
+Daniels, Kal	Cincinnati	                          181  58   6  34  23  22   1  181  58   6  34  23  22National	West	OF	               88   0   3  86.500
+Gibson, Kirk	Detroit	                             441 118  28  84  86  68   8 2723 750 126 433 420 309American	East	RF	              190   2   21300.000
+Griffey, Ken	New York	                            490 150  21  69  58  35  14 61261839 121 983 707 600American	East	OF	               96   5   31000.000
+Hernandez, Keith	New York	                        551 171  13  94  83  94  13 60901840 128 969 900 917National	East	1B	             1199 149   51800.000
+Hrbek, Kent	Minneapolis	                          550 147  29  85  91  71   6 2816 815 117 405 474 319American	West	1B	             1218 104  101310.000
+Landreaux, Ken	Los Angeles	                       283  74   4  34  29  22  10 39191062  85 505 456 283National	West	OF	              145   5   7 737.500
+McReynolds, Kevin	San Diego	                      560 161  26  89  96  66   4 1789 470  65 233 260 155National	West	CF	              332   9   8 625.000
+Mitchell, Kevin	New York	                         328  91  12  51  43  33   2  342  94  12  51  44  33National	East	OS	              145  59   8 125.000
+Moreland, Keith	Chicago	                          586 159  12  72  79  53   9 3082 880  83 363 477 295National	East	RF	              181  13   41043.333
+Oberkfell, Ken	Atlanta	                           503 136   5  62  48  83  10 3423 970  20 408 303 414National	West	3B	               65 258   8 725.000
+Phelps, Ken	Seattle	                              344  85  24  69  64  88   7  911 214  64 150 156 187American	West	DH	                0   0   0 300.000
+Puckett, Kirby	Minneapolis	                       680 223  31 119  96  34   3 1928 587  35 262 201  91American	West	CF	              429   8   6 365.000
+Stillwell, Kurt	Cincinnati	                       279  64   0  31  26  30   1  279  64   0  31  26  30National	West	SS	              107 205  16  75.000
+Durham, Leon	Chicago	                             484 127  20  66  65  67   7 3006 844 116 436 458 377National	East	1B	             1231  80   71183.333
+Dykstra, Len	New York	                            431 127   8  77  45  58   2  667 187   9 117  64  88National	East	CF	              283   8   3 202.500
+Herndon, Larry	Detroit	                           283  70   8  33  37  27  12 44791222  94 557 483 307American	East	OF	              156   2   2 225.000
+Lacy, Lee	Baltimore	                              491 141  11  77  47  37  15 42911240  84 615 430 340American	East	RF	              239   8   2 525.000
+Matuszek, Len	Los Angeles	                        199  52   9  26  28  21   6  805 191  30 113 119  87National	West	O1	              235  22   5 265.000
+Moseby, Lloyd	Toronto	                            589 149  21  89  86  64   7 3558 928 102 513 471 351American	East	CF	              371   6   6 787.500
+Parrish, Lance	Detroit	                           327  84  22  53  62  38  10 42731123 212 577 700 334American	East	C	               483  48   6 800.000
+Parrish, Larry	Texas	                             464 128  28  67  94  52  13 58291552 210 740 840 452American	West	DH	                0   0   0 587.500
+Rivera, Luis	Montreal	                            166  34   0  20  13  17   1  166  34   0  20  13  17National	East	SS	               64 119   9    .   
+Sheets, Larry	Baltimore	                          338  92  18  42  60  21   3  682 185  36  88 112  50American	East	DH	                0   0   0 145.000
+Smith, Lonnie	Kansas City	                        508 146   8  80  44  46   9 3148 915  41 571 289 326American	West	LF	              245   5   9    .   
+Whitaker, Lou	Detroit	                            584 157  20  95  73  63  10 47041320  93 724 522 576American	East	2B	              276 421  11 420.000
+Aldrete, Mike	San Francisco	                      216  54   2  27  25  33   1  216  54   2  27  25  33National	West	1O	              317  36   1  75.000
+Barrett, Marty	Boston	                            625 179   4  94  60  65   5 1696 476  12 216 163 166American	East	2B	              303 450  14 575.000
+Brown, Mike	Pittsburgh	                           243  53   4  18  26  27   4  853 228  23 101 110  76National	East	OF	              107   3   3    .   
+Davis, Mike	Oakland	                              489 131  19  77  55  34   7 2051 549  62 300 263 153American	West	RF	              310   9   9 780.000
+Diaz, Mike	Pittsburgh	                            209  56  12  22  36  19   2  216  58  12  24  37  19National	East	O1	              201   6   3  90.000
+Duncan, Mariano	Los Angeles	                      407  93   8  47  30  30   2  969 230  14 121  69  68National	West	SS	              172 317  25 150.000
+Easler, Mike	New York	                            490 148  14  64  78  49  13 34001000 113 445 491 301American	East	DH	                0   0   0 700.000
+Fitzgerald, Mike	Montreal	                        209  59   6  20  37  27   4  884 209  14  66 106  92National	East	C	               415  35   3    .   
+Hall, Mel	Cleveland	                              442 131  18  68  77  33   6 1416 398  47 210 203 136American	East	LF	              233   7   7 550.000
+Hatcher, Mickey	Minneapolis	                      317  88   3  40  32  19   8 2543 715  28 269 270 118American	West	UT	              220  16   4    .   
+Heath, Mike	St Louis	                             288  65   8  30  36  27   9 2815 698  55 315 325 189National	East	C	               259  30  10 650.000
+Kingery, Mike	Kansas City	                        209  54   3  25  14  12   1  209  54   3  25  14  12American	West	OF	              102   6   3  68.000
+LaValliere, Mike	St Louis	                        303  71   3  18  30  36   3  344  76   3  20  36  45National	East	C	               468  47   6 100.000
+Marshall, Mike	Los Angeles	                       330  77  19  47  53  27   6 1928 516  90 247 288 161National	West	RF	              149   8   6 670.000
+Pagliarulo, Mike	New York	                        504 120  28  71  71  54   3 1085 259  54 150 167 114American	East	3B	              103 283  19 175.000
+Salas, Mark	Minneapolis	                          258  60   8  28  33  18   3  638 170  17  80  75  36American	West	C	               358  32   8 137.000
+Schmidt, Mike	Philadelphia	                       552 160  37  97 119  89  15 72921954 495134713921354National	East	3B	               78 220   62127.333
+Scioscia, Mike	Los Angeles	                       374  94   5  36  26  62   7 1968 519  26 181 199 288National	West	C	               756  64  15 875.000
+Tettleton, Mickey	Oakland	                        211  43  10  26  35  39   3  498 116  14  59  55  78American	West	C	               463  32   8 120.000
+Thompson, Milt	Philadelphia	                      299  75   6  38  23  26   3  580 160   8  71  33  44National	East	CF	              212   1   2 140.000
+Webster, Mitch	Montreal	                          576 167   8  89  49  57   4  822 232  19 132  83  79National	East	CF	              325  12   8 210.000
+Wilson, Mookie	New York	                          381 110   9  61  45  32   7 3015 834  40 451 249 168National	East	OF	              228   7   5 800.000
+Wynne, Marvell	San Diego	                         288  76   7  34  37  15   4 1644 408  16 198 120 113National	West	OF	              203   3   3 240.000
+Young, Mike	Baltimore	                            369  93   9  43  42  49   5 1258 323  54 181 177 157American	East	LF	              149   1   6 350.000
+Esasky, Nick	Cincinnati	                          330  76  12  35  41  47   4 1367 326  55 167 198 167National	West	1B	              512  30   5    .   
+Guillen, Ozzie	Chicago	                           547 137   2  58  47  12   2 1038 271   3 129  80  24American	West	SS	              261 459  22 175.000
+McDowell, Oddibe	Texas	                           572 152  18 105  49  65   2  978 249  36 168  91 101American	West	CF	              325  13   3 200.000
+Moreno, Omar	Atlanta	                             359  84   4  46  27  21  12 49921257  37 699 386 387National	West	RF	              151   8   5    .   
+Smith, Ozzie	St Louis	                            514 144   0  67  54  79   9 47391169  13 583 374 528National	East	SS	              229 453  151940.000
+Virgil, Ozzie	Atlanta	                            359  80  15  45  48  63   7 1493 359  61 176 202 175National	West	C	               682  93  13 700.000
+Bradley, Phil	Seattle	                            526 163  12  88  50  77   4 1556 470  38 245 167 174American	West	LF	              250  11   1 750.000
+Garner, Phil	Houston	                             313  83   9  43  41  30  14 58851543 104 751 714 535National	West	3B	               58 141  23 450.000
+Incaviglia, Pete	Texas	                           540 135  30  82  88  55   1  540 135  30  82  88  55American	West	RF	              157   6  14 172.000
+Molitor, Paul	Milwaukee	                          437 123   9  62  55  40   9 41391203  79 676 390 364American	East	3B	               82 170  151260.000
+O'Brien, Pete	Texas	                              551 160  23  86  90  87   5 2235 602  75 278 328 273American	West	1B	             1224 115  11    .   
+Rose, Pete	Cincinnati	                            237  52   0  15  25  30  24140534256 160216513141566National	West	1B	              523  43   6 750.000
+Sheridan, Pat	Detroit	                            236  56   6  41  19  21   5 1257 329  24 166 125 105American	East	OF	              172   1   4 190.000
+Tabler, Pat	Cleveland	                            473 154   6  61  48  29   6 1966 566  29 250 252 178American	East	1B	              846  84   9 580.000
+Belliard, Rafael	Pittsburgh	                      309  72   0  33  31  26   5  354  82   0  41  32  26National	East	SS	              117 269  12 130.000
+Burleson, Rick	California	                        271  77   5  35  29  33  12 49331358  48 630 435 403American	West	UT	               62  90   3 450.000
+Bush, Randy	Minneapolis	                          357  96   7  50  45  39   5 1394 344  43 178 192 136American	West	LF	              167   2   4 300.000
+Cerone, Rick	Milwaukee	                           216  56   4  22  18  15  12 2796 665  43 266 304 198American	East	C	               391  44   4 250.000
+Cey, Ron	Chicago	                                 256  70  13  42  36  44  16 70581845 312 9651128 990National	East	3B	               41 118   81050.000
+Deer, Rob	Milwaukee	                              466 108  33  75  86  72   3  652 142  44 102 109 102American	East	RF	              286   8   8 215.000
+Dempsey, Rick	Baltimore	                          327  68  13  42  29  45  18 3949 939  78 438 380 466American	East	C	               659  53   7 400.000
+Gedman, Rich	Boston	                              462 119  16  49  65  37   7 2131 583  69 244 288 150American	East	C	               866  65   6    .   
+Hassey, Ron	New York	                             341 110   9  45  49  46   9 2331 658  50 249 322 274American	East	C	               251   9   4 560.000
+Henderson, Rickey	New York	                       608 160  28 130  74  89   8 40711182 103 862 417 708American	East	CF	              426   4   61670.000
+Jackson, Reggie	California	                       419 101  18  65  58  92  20 95282510 548150916591342American	West	DH	                0   0   0 487.500
+Jones, Ruppert	California	                        393  90  17  73  49  64  11 42231056 139 618 551 514American	West	RF	              205   5   4    .   
+Kittle, Ron	Chicago	                              376  82  21  42  60  35   5 1770 408 115 238 299 157American	West	DH	                0   0   0 425.000
+Knight, Ray	New York	                             486 145  11  51  76  40  11 39671102  67 410 497 284National	East	3B	               88 204  16 500.000
+Kutcher, Randy	San Francisco	                     186  44   7  28  16  11   1  186  44   7  28  16  11National	West	OF	               99   3   1    .   
+Law, Rudy	Kansas City	                            307  80   1  42  36  29   7 2421 656  18 379 198 184American	West	OF	              145   2   2    .   
+Leach, Rick	Toronto	                              246  76   5  35  39  13   6  912 234  12 102  96  80American	East	DO	               44   0   1 250.000
+Manning, Rick	Milwaukee	                          205  52   8  31  27  17  12 51341323  56 643 445 459American	East	OF	              155   3   2 400.000
+Mulliniks, Rance	Toronto	                         348  90  11  50  45  43  10 2288 614  43 295 273 269American	East	3B	               60 176   6 450.000
+Oester, Ron	Cincinnati	                           523 135   8  52  44  52   9 3368 895  39 377 284 296National	West	2B	              367 475  19 750.000
+Quinones, Rey	Boston	                             312  68   2  32  22  24   1  312  68   2  32  22  24American	East	SS	               86 150  15  70.000
+Ramirez, Rafael	Atlanta	                          496 119   8  57  33  21   7 3358 882  36 365 280 165National	West	S3	              155 371  29 875.000
+Reynolds, R.J.	Pittsburgh	                        402 108   9  63  48  40   4 1034 278  16 135 125  79National	East	LF	              190   2   9 190.000
+Roenicke, Ron	Philadelphia	                       275  68   5  42  42  61   6  961 238  16 128 104 172National	East	OF	              181   3   2 191.000
+Sandberg, Ryne	Chicago	                           627 178  14  68  76  46   6 3146 902  74 494 345 242National	East	2B	              309 492   5 740.000
+Santana, Rafael	New York	                         394  86   1  38  28  36   4 1089 267   3  94  71  76National	East	SS	              203 369  16 250.000
+Schu, Rick	Philadelphia	                          208  57   8  32  25  18   3  653 170  17  98  54  62National	East	3B	               42  94  13 140.000
+Sierra, Ruben	Texas	                              382 101  16  50  55  22   1  382 101  16  50  55  22American	West	OF	              200   7   6  97.500
+Smalley, Roy	Minneapolis	                         459 113  20  59  57  68  12 53481369 155 713 660 735American	West	DH	                0   0   0 740.000
+Thompson, Robby	San Francisco	                    549 149   7  73  47  42   1  549 149   7  73  47  42National	West	2B	              255 450  17 140.000
+Wilfong, Rob	California	                          288  63   3  25  33  16  10 2682 667  38 315 259 204American	West	2B	              135 257   7 341.667
+Williams, Reggie	Los Angeles	                     303  84   4  35  32  23   2  312  87   4  39  32  23National	West	CF	              179   5   3    .   
+Yount, Robin	Milwaukee	                           522 163   9  82  46  62  13 70372019 1531043 827 535American	East	CF	              352   9   11000.000
+Balboni, Steve	Kansas City	                       512 117  29  54  88  43   6 1750 412 100 204 276 155American	West	1B	             1236  98  18 100.000
+Bradley, Scott	Seattle	                           220  66   5  20  28  13   3  290  80   5  27  31  15American	West	C	               281  21   3  90.000
+Bream, Sid	Pittsburgh	                            522 140  16  73  77  60   4  730 185  22  93 106  86National	East	1B	             1320 166  17 200.000
+Buechele, Steve	Texas	                            461 112  18  54  54  35   2  680 160  24  76  75  49American	West	3B	              111 226  11 135.000
+Dunston, Shawon	Chicago	                          581 145  17  66  68  21   2  831 210  21 106  86  40National	East	SS	              320 465  32 155.000
+Fletcher, Scott	Texas	                            530 159   3  82  50  47   6 1619 426  11 218 149 163American	West	SS	              196 354  15 475.000
+Garvey, Steve	San Diego	                          557 142  21  58  81  23  18 87592583 27111381299 478National	West	1B	             1160  53   71450.000
+Jeltz, Steve	Philadelphia	                        439  96   0  44  36  65   4  711 148   1  68  56  99National	East	SS	              229 406  22 150.000
+Lombardozzi, Steve	Minneapolis	                   453 103   8  53  33  52   2  507 123   8  63  39  58American	West	2B	              289 407   6 105.000
+Owen, Spike	Seattle	                              528 122   1  67  45  51   4 1716 403  12 211 146 155American	West	SS	              209 372  17 350.000
+Sax, Steve	Los Angeles	                           633 210   6  91  56  59   6 3070 872  19 420 230 274National	West	2B	              367 432  16  90.000
+Armas, Tony	Boston	                               425 112  11  40  58  24  11 45131134 224 542 727 230American	East	CF	              247   4   8    .   
+Bernazard, Tony	Cleveland	                        562 169  17  88  73  53   8 3181 841  61 450 342 373American	East	2B	              351 442  17 530.000
+Brookens, Tom	Detroit	                            281  76   3  42  25  20   8 2658 657  48 324 300 179American	East	UT	              106 144   7 341.667
+Brunansky, Tom	Minneapolis	                       593 152  23  69  75  53   6 2765 686 133 369 384 321American	West	RF	              315  10   6 940.000
+Fernandez, Tony	Toronto	                          687 213  10  91  65  27   4 1518 448  15 196 137  89American	East	SS	              294 445  13 350.000
+Flannery, Tim	San Diego	                          368 103   3  48  28  54   8 1897 493   9 207 162 198National	West	2B	              209 246   3 326.667
+Foley, Tom	Montreal	                              263  70   1  26  23  30   4  888 220   9  83  82  86National	East	UT	               81 147   4 250.000
+Gwynn, Tony	San Diego	                            642 211  14 107  59  52   5 2364 770  27 352 230 193National	West	RF	              337  19   4 740.000
+Harper, Terry	Atlanta	                            265  68   8  26  30  29   7 1337 339  32 135 163 128National	West	OF	               92   5   3 425.000
+Harrah, Toby	Texas	                               289  63   7  36  41  44  17 74021954 1951115 9191153American	West	2B	              166 211   7    .   
+Herr, Tommy	St Louis	                             559 141   2  48  61  73   8 3162 874  16 421 349 359National	East	2B	              352 414   9 925.000
+Hulett, Tim	Chicago	                              520 120  17  53  44  21   4  927 227  22 106  80  52American	West	3B	               70 144  11 185.000
+Kennedy, Terry	San Diego	                         432 114  12  46  57  37   9 3373 916  82 347 477 238National	West	C	               692  70   8 920.000
+Landrum, Tito	St Louis	                           205  43   2  24  17  20   7  854 219  12 105  99  71National	East	OF	              131   6   1 286.667
+Laudner, Tim	Minneapolis	                         193  47  10  21  29  24   6 1136 256  42 129 139 106American	West	C	               299  13   5 245.000
+O'Malley, Tom	Baltimore	                          181  46   1  19  18  17   5  937 238   9  88  95 104American	East	3B	               37  98   9    .   
+Paciorek, Tom	Texas	                              213  61   4  17  22   3  17 40611145  83 488 491 244American	West	UT	              178  45   4 235.000
+Pena, Tony	Pittsburgh	                            510 147  10  56  52  53   7 2872 821  63 307 340 174National	East	C	               810  99  181150.000
+Pendleton, Terry	St Louis	                        578 138   1  56  59  34   3 1399 357   7 149 161  87National	East	3B	              133 371  20 160.000
+Perez, Tony	Cincinnati	                           200  51   2  14  29  25  23 97782732 37912721652 925National	West	1B	              398  29   7    .   
+Phillips, Tony	Oakland	                           441 113   5  76  52  76   5 1546 397  17 226 149 191American	West	2B	              160 290  11 425.000
+Puhl, Terry	Houston	                              172  42   3  17  14  15  10 40861150  57 579 363 406National	West	OF	               65   0   0 900.000
+Raines, Tim	Montreal	                             580 194   9  91  62  78   8 33721028  48 604 314 469National	East	LF	              270  13   6    .   
+Simmons, Ted	Atlanta	                             127  32   4  14  25  12  19 83962402 24210481348 819National	West	UT	              167  18   6 500.000
+Teufel, Tim	New York	                             279  69   4  35  31  32   4 1359 355  31 180 148 158National	East	2B	              133 173   9 277.500
+Wallach, Tim	Montreal	                            480 112  18  50  71  44   7 3031 771 110 338 406 239National	East	3B	               94 270  16 750.000
+Coleman, Vince	St Louis	                          600 139   0  94  29  60   2 1236 309   1 201  69 110National	East	LF	              300  12   9 160.000
+Hayes, Von	Philadelphia	                          610 186  19 107  98  74   6 2728 753  69 399 366 286National	East	1B	             1182  96  131300.000
+Law, Vance	Montreal	                              360  81   5  37  44  37   7 2268 566  41 279 257 246National	East	2B	              170 284   3 525.000
+Backman, Wally	New York	                          387 124   1  67  27  36   7 1775 506   6 272 125 194National	East	2B	              186 290  17 550.000
+Boggs, Wade	Boston	                               580 207   8 107  71 105   5 2778 978  32 474 322 417American	East	3B	              121 267  191600.000
+Clark, Will	San Francisco	                        408 117  11  66  41  34   1  408 117  11  66  41  34National	West	1B	              942  72  11 120.000
+Joyner, Wally	California	                         593 172  22  82 100  57   1  593 172  22  82 100  57American	West	1B	             1222 139  15 165.000
+Krenchicki, Wayne	Montreal	                       221  53   2  21  23  22   8 1063 283  15 107 124 106National	East	13	              325  58   6    .   
+McGee, Willie	St Louis	                           497 127   7  65  48  37   5 2703 806  32 379 311 138National	East	CF	              325   9   3 700.000
+Randolph, Willie	New York	                        492 136   5  76  50  94  12 55111511  39 897 451 875American	East	2B	              313 381  20 875.000
+Tolleson, Wayne	Chicago	                          475 126   3  61  43  52   6 1700 433   7 217  93 146American	West	3B	               37 113   7 385.000
+Upshaw, Willie	Toronto	                           573 144   9  85  60  78   8 3198 857  97 470 420 332American	East	1B	             1314 131  12 960.000
+Wilson, Willie	Kansas City	                       631 170   9  77  44  31  11 49081457  30 775 357 249American	West	CF	              408   4   31000.000

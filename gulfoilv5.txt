@@ -1,0 +1,3758 @@
+Region: 1-7
+Protraction: 8-30
+Oil: 31-38
+Gas: 39-47
+WesternNorth Padre Island Area     129 1288551
+CentralMobile                     297115097434
+CentralSouth Timbalier Area    236961228391139
+WesternNorth Padre Island Area     175  493586
+CentralBay Marchand Area         19594    7553
+CentralMississippi Canyon      577772425084173
+WesternNorth Padre Island Area     297 1521388
+WesternMustang Island Area       19597 6307432
+CentralBay Marchand Area         21934   17263
+WesternGarden Banks            221274512753322
+WesternMatagorda Island Area    10692418206829
+CentralGrand Isle Area          982168 7981286
+CentralViosca Knoll            262157122842208
+CentralEugene Island Area      250114527233392
+CentralMain Pass Area          216303623784863
+WesternEast Breaks              184276 1684795
+CentralVermilion Area          107691726224615
+CentralMississippi Canyon     1054087032685140
+WesternNorth Padre Island Area     640 1490041
+CentralGreen Canyon            704857017010052
+CentralWest Cameron Area        42118631167430
+CentralVermilion Area          105208512800740
+CentralSouth Pass Area         154832211871161
+WesternGarden Banks            315522717088869
+WesternBrazos Area               1813011841564
+CentralSouth Timbalier Area    224914931088420
+CentralShip Shoal Area         270619422078983
+WesternAlaminos Canyon          563020 1358478
+CentralVermilion Area          102572515169517
+CentralBreton Sound Area         66665  411809
+WesternSabine Pass Area           1096  143586
+CentralBay Marchand Area         15757   50385
+CentralBay Marchand Area         44732   71378
+WesternBrazos Area               25346 8261295
+CentralSouth Pelto Area         172368 1904663
+CentralEast Cameron Area        65145719112077
+WesternGarden Banks            336115817628394
+WesternMatagorda Island Area     4330610367823
+CentralChandeleur Area              65  457804
+WesternHigh Island Area         82582234973923
+WesternSabine Pass Area            622  172217
+CentralChandeleur Area              76  393366
+CentralSouth Marsh Island Area 199009036491865
+WesternBrazos Area               2166514173448
+CentralMississippi Canyon     1477223853774634
+CentralShip Shoal Area         311929424602238
+CentralShip Shoal Area         173619013455949
+CentralMississippi Canyon      649220028660111
+WesternMatagorda Island Area    12074319631624
+CentralSouth Pelto Area         260017 4071046
+CentralGreen Canyon            1749274 9397846
+CentralShip Shoal Area         144940811549771
+WesternMustang Island Area        6639 2696501
+WesternMustang Island Area        1469 1722129
+CentralShip Shoal Area         264089320592424
+CentralGrand Isle Area         1055758 8854216
+CentralSouth Pelto Area         235504 3904510
+CentralMain Pass Area          219816415323912
+CentralWest Cameron Area        62557036983051
+WesternGarden Banks            445904425845670
+CentralMain Pass Area          210272817494300
+CentralEwing Bank              3738210 5051381
+WesternHigh Island Area         77494726627255
+WesternEast Breaks             134860418478580
+CentralSabine Pass Area          22983  441536
+WesternGalveston Area           162383 3610812
+CentralEwing Bank              1961219 3849373
+CentralViosca Knoll            408599632199942
+CentralBreton Sound Area         79478  381570
+WesternHigh Island Area         74366225910234
+WesternMatagorda Island Area     6103513697626
+CentralSouth Timbalier Area    243736416563994
+CentralVermilion Area          106317212780259
+CentralMobile                     169610229171
+CentralEwing Bank              1612121 3411916
+CentralWest Delta Area         161747712512023
+CentralSouth Pass Area          799416 4562802
+CentralBreton Sound Area         97798  563242
+CentralEwing Bank              1875145 2700347
+WesternEast Breaks             216304123835593
+CentralSouth Timbalier Area    154841710706881
+CentralEwing Bank              3077530 4469242
+WesternAlaminos Canyon           12980   19684
+WesternSabine Pass Area            500  119576
+CentralMobile                      273 6334552
+WesternMustang Island Area       12952 1945743
+CentralMississippi Canyon      628909128777752
+CentralEast Cameron Area        79973523121170
+CentralMobile                     256113852598
+CentralWest Cameron Area        30123122147724
+WesternMatagorda Island Area     21509 6395937
+CentralSabine Pass Area          21119  352691
+CentralWest Delta Area          931628 5696477
+CentralWest Delta Area         1082715 6482403
+WesternMustang Island Area        5334 2366094
+CentralEugene Island Area       99592913015732
+CentralWest Cameron Area        43507334985599
+CentralEwing Bank              3462824 6612205
+CentralVermilion Area          124686227283446
+CentralBreton Sound Area         50836  418237
+WesternMustang Island Area       17081 7235576
+WesternSabine Pass Area            147   13984
+CentralSouth Timbalier Area    201775122199184
+CentralMain Pass Area          225020410878317
+CentralShip Shoal Area         220549819711969
+CentralViosca Knoll            260483018196235
+CentralVermilion Area          114200318426240
+CentralShip Shoal Area         1009825 8989605
+WesternBrazos Area               10620 8877553
+WesternHigh Island Area         78092225951296
+WesternMustang Island Area       21383 7025868
+CentralEast Cameron Area        80057523444058
+CentralChandeleur Area              21  599703
+CentralMississippi Canyon     1029576328178992
+CentralEwing Bank              1864680 3385590
+CentralWest Delta Area         179549313983618
+WesternMatagorda Island Area     9034720443088
+CentralShip Shoal Area         145103114098911
+CentralEwing Bank              2818219 5089658
+CentralSouth Timbalier Area    221991620685041
+CentralSouth Pass Area          807249 9037925
+CentralEast Cameron Area        40425011271527
+WesternBrazos Area               26031 7123882
+CentralEugene Island Area      353117241591661
+CentralSouth Pelto Area         341104 4414425
+WesternMatagorda Island Area     8855114872009
+WesternGarden Banks            266885014235083
+WesternGarden Banks            451824325380447
+WesternSabine Pass Area            101   38422
+CentralBreton Sound Area        106515 1396865
+CentralGrand Isle Area          941181 8209498
+CentralWest Delta Area         191007512590123
+WesternMustang Island Area        4609 1990934
+CentralEugene Island Area      304712536578822
+CentralEwing Bank              1337559 2060021
+CentralViosca Knoll            375480334446362
+CentralVermilion Area           97422313153345
+CentralEwing Bank              1994705 2953645
+WesternNorth Padre Island Area     318 1492925
+WesternMatagorda Island Area    10787118703528
+WesternAlaminos Canyon          466266 1087419
+CentralMississippi Canyon      561278619827908
+CentralBreton Sound Area         82355  544046
+WesternGalveston Area           122682 2868804
+CentralGrand Isle Area          599998 7154314
+CentralViosca Knoll             797803 7717001
+CentralVermilion Area          108022018563392
+CentralVermilion Area          111627623954147
+CentralMississippi Canyon     1025541038200013
+CentralChandeleur Area              34 1086606
+WesternMustang Island Area       68871 1843622
+WesternEast Breaks             226638122358086
+CentralBreton Sound Area         78635  928566
+CentralVermilion Area          120300119217601
+CentralEugene Island Area      126214115538094
+CentralGreen Canyon            1470957 9220832
+WesternMustang Island Area       2578810614602
+WesternAlaminos Canyon          507490 1075682
+CentralBreton Sound Area         90057  273331
+CentralBreton Sound Area         60793  311543
+CentralChandeleur Area              83 1220226
+WesternNorth Padre Island Area     762 1617091
+WesternNorth Padre Island Area     113 1114107
+CentralWest Delta Area          144387 1232063
+CentralSouth Pelto Area         221995 2245313
+CentralChandeleur Area              26 1026194
+CentralGrand Isle Area          558045 6882357
+CentralSouth Pass Area         171180312154466
+CentralMississippi Canyon     1595089956320453
+WesternGalveston Area           175823 3670531
+CentralSouth Pelto Area         183664 2752352
+CentralGreen Canyon            513070312707549
+CentralWest Cameron Area        32417833523103
+CentralMobile                     154615634211
+CentralGreen Canyon            757252620414455
+CentralSabine Pass Area          35608  390087
+CentralEugene Island Area      366824544557787
+CentralEast Cameron Area        43308910523916
+CentralSabine Pass Area          17909  319053
+CentralVermilion Area          158553430004707
+CentralBreton Sound Area         69478  742502
+CentralSouth Marsh Island Area 114821917271023
+WesternMatagorda Island Area    10807120121328
+CentralSouth Timbalier Area    228198424407797
+WesternHigh Island Area        109690337245617
+CentralMain Pass Area          214147014113365
+CentralMain Pass Area          247705511089716
+CentralSouth Pass Area          979957 7351124
+CentralSabine Pass Area          16430  436339
+WesternAlaminos Canyon         1633043 1686397
+WesternMatagorda Island Area    10506020729666
+WesternMustang Island Area       16558 6957440
+WesternMustang Island Area       52477  875905
+WesternSabine Pass Area            436  107931
+CentralShip Shoal Area          921717 9072756
+CentralSabine Pass Area          22084  556363
+CentralSouth Pelto Area         189441 3107391
+WesternNorth Padre Island Area     382 1853167
+CentralGrand Isle Area          622052 5846200
+WesternEast Breaks             221052424307591
+CentralSouth Timbalier Area    238288717902835
+CentralSouth Pelto Area         174714 3298254
+CentralMain Pass Area          204865710371249
+CentralViosca Knoll            321515229085838
+CentralSouth Marsh Island Area 150620629297313
+CentralEugene Island Area      268321428249707
+WesternGalveston Area           120957 4257257
+WesternEast Breaks             207665520342895
+CentralMain Pass Area          188169420731106
+CentralWest Cameron Area        45948535626939
+WesternSabine Pass Area             66  138274
+WesternAlaminos Canyon          923698 1001758
+WesternNorth Padre Island Area     427 1568146
+WesternHigh Island Area         79822524153350
+CentralMississippi Canyon     1115610138233094
+CentralShip Shoal Area          794410 7016954
+WesternAlaminos Canyon          783710 2243299
+CentralSouth Pass Area         1276773 7750466
+CentralMain Pass Area          212201421088339
+WesternBrazos Area               22883 9408110
+WesternMustang Island Area        9811 3903774
+CentralEast Cameron Area        73645520386643
+CentralMobile                     104212471285
+CentralGrand Isle Area          603233 5553616
+WesternBrazos Area               2656313738768
+CentralChandeleur Area              26  490757
+CentralEugene Island Area      371734344172617
+CentralSabine Pass Area          21182  214745
+WesternGalveston Area           151765 3626157
+WesternHigh Island Area         75447427122976
+CentralVermilion Area           345293 7920377
+CentralWest Delta Area         1148811 6819593
+CentralMississippi Canyon      558211922423939
+CentralWest Cameron Area        37578429048165
+CentralMain Pass Area          260202411441153
+CentralBay Marchand Area         38625   40561
+CentralSouth Pelto Area         167261 3126149
+CentralMobile                      444 9121365
+CentralMobile                      96811607070
+CentralSouth Pass Area         149880111389558
+WesternMustang Island Area       10626 3879452
+WesternGarden Banks            433379825722531
+CentralSouth Pass Area         1074097 9583381
+CentralMain Pass Area          216919725346883
+CentralWest Cameron Area        47511133498873
+CentralGrand Isle Area          853487 9939609
+WesternNorth Padre Island Area     157 1300173
+CentralEwing Bank              1357869 1634986
+CentralGrand Isle Area          421258 6099765
+CentralSouth Pass Area         198890613753483
+CentralEast Cameron Area        66520020056096
+CentralSouth Marsh Island Area 126678316273535
+CentralGreen Canyon            631353515273666
+CentralEugene Island Area      377410444067794
+WesternSouth Padre Island Area       0  676744
+WesternSabine Pass Area            175  147776
+CentralGreen Canyon            545344812784544
+CentralMississippi Canyon     1109565636947157
+WesternGarden Banks            256526914087859
+CentralEwing Bank              1842338 2801159
+CentralBay Marchand Area         67987   74693
+WesternMustang Island Area        8845 1316772
+WesternMatagorda Island Area     29505 5961812
+CentralGreen Canyon            3587892 6487299
+CentralSouth Pass Area         158156511877879
+CentralSouth Pass Area          797316 4247519
+CentralBreton Sound Area         51494  442555
+WesternHigh Island Area        116850837870173
+WesternMustang Island Area       11261 4010119
+CentralEwing Bank              2907854 4475622
+WesternBrazos Area               2623713065973
+CentralSouth Marsh Island Area 205297634859206
+WesternEast Breaks             236373324235710
+CentralEugene Island Area      258889230522011
+CentralBreton Sound Area        129672  547361
+WesternMustang Island Area        7697 3373346
+WesternHigh Island Area         68311726050265
+CentralSouth Pass Area         143992910783322
+CentralChandeleur Area              19  841727
+CentralBreton Sound Area        136049  876078
+CentralSouth Pass Area          450284 3397358
+CentralMobile                     248213705340
+CentralWest Delta Area         1386647 9446131
+WesternBrazos Area               1993312443602
+CentralBay Marchand Area         12133  104574
+CentralViosca Knoll            135144816285707
+CentralGrand Isle Area          668324 6991400
+WesternNorth Padre Island Area     141  904748
+CentralBay Marchand Area         23266   14850
+CentralShip Shoal Area         218362022365817
+CentralEast Cameron Area        129030 4449385
+WesternNorth Padre Island Area     363 1379488
+CentralBay Marchand Area          9287    4168
+CentralWest Delta Area         170513110705950
+CentralVermilion Area          120392724760358
+CentralGreen Canyon            670929316956361
+CentralWest Cameron Area        56670437719616
+CentralViosca Knoll            434820933144620
+CentralSouth Timbalier Area    237487626971178
+CentralSouth Pass Area         195754111873573
+CentralEast Cameron Area        62856817085067
+CentralShip Shoal Area         232322920703053
+CentralSouth Marsh Island Area 128273011415567
+CentralWest Delta Area         1342145 8161323
+CentralBreton Sound Area         68296  514615
+WesternMatagorda Island Area     40885 8900782
+CentralEwing Bank              1953218 2852055
+CentralBreton Sound Area        116764  478189
+CentralVermilion Area          101117117581235
+CentralSouth Timbalier Area    193426024843063
+CentralSouth Pelto Area         230176 3109604
+WesternBrazos Area                7494 7444182
+WesternBrazos Area               18876 9312104
+WesternMustang Island Area       19671 7595044
+CentralGrand Isle Area          765691 8657916
+CentralSouth Marsh Island Area 104745010308267
+CentralVermilion Area          119074523779398
+CentralWest Delta Area         208014614537587
+CentralEwing Bank              1686749 3151336
+CentralChandeleur Area               0  614375
+CentralBreton Sound Area        124732  759456
+CentralBay Marchand Area         17759   26026
+CentralBay Marchand Area         32468   37713
+WesternSabine Pass Area           1784  174750
+CentralBreton Sound Area         55414  807644
+CentralMain Pass Area          1409334 9065334
+CentralBay Marchand Area         24035   16864
+WesternGarden Banks            258389514184466
+WesternMatagorda Island Area     35482 9012149
+CentralSouth Pelto Area         192508 2917153
+CentralChandeleur Area              45 1092559
+WesternGarden Banks            268661514753587
+CentralEugene Island Area      265656333414176
+WesternGarden Banks            362412017288180
+CentralEast Cameron Area        48206916853299
+WesternMatagorda Island Area     30862 8147146
+CentralEugene Island Area      278394531665837
+CentralSouth Timbalier Area    199226523423625
+CentralEast Cameron Area        66524220967643
+WesternGalveston Area           178982 6002596
+CentralSouth Marsh Island Area 121317118855744
+CentralWest Cameron Area        37962231071005
+CentralSouth Marsh Island Area 134131011736320
+CentralEugene Island Area      201666123624635
+CentralEugene Island Area      195311522911817
+WesternGalveston Area           199079 4129257
+CentralWest Cameron Area        59661637949340
+WesternNorth Padre Island Area     325 1684233
+WesternBrazos Area                9255 7764033
+CentralViosca Knoll            252780723069675
+CentralMississippi Canyon     1342299549226474
+WesternBrazos Area                7155 6761824
+WesternGarden Banks            250409114044920
+CentralMobile                     204915280065
+WesternNorth Padre Island Area      60 1063398
+CentralEast Cameron Area        31789211344602
+CentralVermilion Area           94858112713482
+WesternAlaminos Canyon          590325 1373804
+CentralGreen Canyon            579495414466553
+CentralEugene Island Area      366928543193828
+WesternMatagorda Island Area    10648921862982
+WesternBrazos Area               2173312016485
+CentralMississippi Canyon      332561616172860
+CentralSouth Pelto Area         196228 1952160
+CentralBreton Sound Area         69696  479797
+CentralMain Pass Area          215369213945415
+CentralWest Delta Area         214525813629401
+CentralBreton Sound Area        112128  793068
+CentralShip Shoal Area         277400821153269
+WesternEast Breaks              179718 1347390
+CentralSouth Pelto Area         289989 4281957
+WesternGarden Banks            337042116486197
+WesternMustang Island Area       18979 1608190
+CentralMississippi Canyon      420437016564970
+WesternGalveston Area           263625 5781388
+WesternSabine Pass Area           2850  259611
+WesternMatagorda Island Area    11223820280215
+CentralChandeleur Area              18  811359
+CentralGreen Canyon            774033720614822
+WesternBrazos Area               22085 8676270
+WesternGalveston Area           152861 3724634
+CentralEugene Island Area      358732342412458
+CentralEast Cameron Area         88280 4636069
+CentralWest Cameron Area        52082143132663
+CentralMobile                      70711671103
+WesternMustang Island Area        6031 3481383
+CentralEwing Bank              3061703 4348471
+WesternEast Breaks              198630 3063711
+WesternGarden Banks            387446921092559
+CentralEwing Bank              2633786 4898707
+WesternNorth Padre Island Area     773 1506278
+CentralMobile                     163110609147
+CentralEast Cameron Area        54532516951337
+CentralWest Cameron Area        42526429211029
+CentralWest Cameron Area        46871936710164
+CentralEwing Bank              1173799 1776595
+WesternNorth Padre Island Area     267 1506142
+CentralVermilion Area          115089727880092
+CentralSouth Marsh Island Area 1052385 9256833
+CentralMobile                     1492 8450295
+WesternMustang Island Area       2207910074125
+WesternGarden Banks            390128722823633
+CentralEast Cameron Area        40636412757029
+CentralWest Delta Area          887245 5361436
+CentralSouth Timbalier Area    196922422824742
+WesternSabine Pass Area            975  203828
+WesternEast Breaks              187297 2502807
+WesternBrazos Area               22427 9953699
+CentralChandeleur Area               0  568989
+WesternSabine Pass Area           1974  138454
+CentralBay Marchand Area         17205   21300
+CentralBreton Sound Area         53028  159835
+CentralSabine Pass Area          16024  262375
+CentralBreton Sound Area         75028  952713
+CentralSabine Pass Area          16571  435566
+WesternMatagorda Island Area     58938 9381364
+CentralChandeleur Area               8  285044
+CentralChandeleur Area               8  342712
+CentralSouth Pass Area          319764 2289371
+CentralMain Pass Area          238664511054135
+CentralBreton Sound Area         74476  853350
+WesternNorth Padre Island Area     106 1257819
+WesternHigh Island Area         75557126982795
+CentralEast Cameron Area        44914214154848
+CentralShip Shoal Area         223061617633730
+CentralGrand Isle Area         1065790 9065058
+WesternHigh Island Area         81731035716734
+CentralMain Pass Area          223308117936036
+CentralWest Delta Area         1293622 8664261
+CentralSouth Marsh Island Area 189915837565311
+CentralMobile                     213915690684
+WesternHigh Island Area         81985030557959
+CentralViosca Knoll            301628629837022
+WesternMustang Island Area        1680 1499084
+CentralSouth Timbalier Area    165322120611981
+CentralEugene Island Area      326085739022556
+CentralVermilion Area           90380313673056
+WesternNorth Padre Island Area      87 1302776
+CentralSouth Pelto Area         262300 5015311
+WesternGalveston Area           254693 5725104
+WesternMustang Island Area       11683 4117388
+CentralEugene Island Area       86674511663431
+CentralMississippi Canyon     1202928341220776
+WesternSabine Pass Area              6   34852
+WesternSabine Pass Area              0  245472
+WesternEast Breaks              143642 2023490
+WesternHigh Island Area         81059630739745
+CentralSouth Pelto Area         137649  932834
+CentralGreen Canyon            478842612847671
+WesternGalveston Area           163781 7034716
+CentralMain Pass Area          213729921131249
+CentralShip Shoal Area         136925111055659
+CentralSouth Timbalier Area    249137832434202
+CentralWest Delta Area         214045114066525
+CentralGrand Isle Area          633640 6411831
+CentralSouth Pass Area         174800512087083
+CentralGrand Isle Area          670769 6679877
+WesternHigh Island Area        135802438706926
+WesternGarden Banks            367017518975113
+WesternSabine Pass Area             55    2892
+CentralVermilion Area          118288325030230
+WesternNorth Padre Island Area      87 1066500
+CentralGrand Isle Area          92594610492424
+WesternSabine Pass Area             58    4204
+CentralShip Shoal Area         275535424047643
+CentralSabine Pass Area          11118  432718
+CentralMississippi Canyon      425595517174922
+WesternGalveston Area           207263 5041500
+WesternGalveston Area            94313 2357791
+CentralSouth Pass Area         1242256 9640339
+CentralWest Delta Area          987189 5795575
+CentralEast Cameron Area        37175510865383
+CentralEugene Island Area      277417629418483
+CentralSouth Pass Area         217773814218177
+CentralSabine Pass Area          25114  231362
+WesternMatagorda Island Area     35208 5047272
+CentralMain Pass Area          177577516546359
+CentralBay Marchand Area           220    1494
+CentralBay Marchand Area         34472   40001
+CentralWest Delta Area         175804812842734
+CentralShip Shoal Area         316247525698525
+WesternAlaminos Canyon          669353 1855871
+CentralEast Cameron Area        74354421760581
+CentralChandeleur Area              14  186598
+CentralVermilion Area           90588411741875
+WesternHigh Island Area         82550630593464
+CentralVermilion Area           83811611472033
+CentralChandeleur Area               2  375181
+CentralWest Cameron Area        61105039333585
+CentralWest Cameron Area         91591 2796542
+CentralWest Cameron Area        51407337671080
+CentralMobile                     207010451092
+WesternHigh Island Area         76736126602986
+WesternMatagorda Island Area     9163914040712
+CentralSouth Pelto Area         281991 3682039
+WesternAlaminos Canyon          917951  893067
+CentralVermilion Area          132691127996591
+WesternMatagorda Island Area     50205 9398166
+WesternNorth Padre Island Area     574 1579035
+CentralMobile                     1357 8198319
+CentralSouth Pass Area          822664 6482292
+CentralWest Delta Area         178858812076978
+CentralShip Shoal Area          828992 7993787
+WesternNorth Padre Island Area     245 1524980
+CentralEast Cameron Area        35003611003658
+CentralMobile                      701 7660428
+WesternBrazos Area               3399412249478
+WesternHigh Island Area         82925322518500
+CentralMobile                     351312732698
+CentralGreen Canyon            597137214945064
+CentralEast Cameron Area        37180913399695
+CentralSabine Pass Area          18281  461736
+CentralShip Shoal Area         307500125219334
+CentralMain Pass Area          175623316347997
+CentralMobile                     1013 6087386
+WesternMatagorda Island Area     23928 6257958
+WesternAlaminos Canyon          655569  884417
+CentralMississippi Canyon     1133684839903549
+WesternMatagorda Island Area     41371 9248230
+WesternEast Breaks             159355015873534
+WesternGalveston Area           190842 5324564
+WesternSabine Pass Area            225   19289
+CentralBay Marchand Area         17074  130782
+WesternHigh Island Area         72571025502014
+CentralMississippi Canyon      665302630910955
+WesternMustang Island Area        4283 1369432
+WesternGalveston Area           156517 3440594
+CentralSouth Pelto Area         209311 1857756
+CentralMobile                     144012570998
+CentralVermilion Area          122241526384954
+CentralMississippi Canyon     1118289739740147
+CentralWest Delta Area         145633912392835
+CentralEast Cameron Area        50899315963315
+WesternBrazos Area               29499 7296689
+WesternGalveston Area           217221 4527303
+WesternMatagorda Island Area     7582915338581
+CentralWest Delta Area         158525410747455
+CentralEwing Bank              1829242 3245131
+CentralSouth Marsh Island Area 130067516213172
+CentralVermilion Area           81527712363051
+WesternMatagorda Island Area    10170922477235
+CentralWest Cameron Area        40162129123731
+CentralSabine Pass Area          20806  554959
+CentralSouth Pelto Area         310058 3655037
+WesternSabine Pass Area            117  162570
+CentralMain Pass Area           251882 3208944
+CentralSabine Pass Area          22159  377201
+CentralWest Delta Area         222170912737299
+WesternNorth Padre Island Area     351 1358219
+WesternHigh Island Area         84434627130173
+WesternNorth Padre Island Area     325 1468942
+WesternBrazos Area               1634110217447
+CentralMississippi Canyon     1564981053536451
+CentralGreen Canyon            1832313 9891950
+CentralEast Cameron Area         27908 3814248
+CentralBay Marchand Area          9892   31202
+WesternGarden Banks            231076012027830
+CentralMississippi Canyon      577121418126963
+CentralVermilion Area           77975213742548
+CentralShip Shoal Area         217504120495146
+CentralBreton Sound Area         87327  970749
+WesternMustang Island Area        7440 2656038
+CentralSabine Pass Area          18085  363920
+CentralSouth Marsh Island Area 1206281 9949828
+WesternSabine Pass Area            304  168710
+CentralBay Marchand Area         76220  108610
+WesternBrazos Area               17745 7514622
+CentralVermilion Area           95053211348283
+WesternGarden Banks            314674519832030
+WesternEast Breaks             122935517694930
+CentralWest Delta Area         1263733 8441215
+CentralVermilion Area          139075328527540
+WesternHigh Island Area        131418544392963
+CentralShip Shoal Area         173979813426116
+WesternBrazos Area               24263 7530906
+CentralBay Marchand Area         63570   43418
+CentralMobile                     104312432187
+CentralVermilion Area           86897113463462
+CentralChandeleur Area             142  368708
+CentralGreen Canyon            558681414326906
+CentralShip Shoal Area         237781918165046
+WesternBrazos Area               15340 9510460
+CentralEast Cameron Area        61044019925602
+CentralViosca Knoll            345646628778582
+CentralMobile                      410 8962358
+WesternEast Breaks              556786 6722493
+CentralSouth Pelto Area         235985 2524960
+WesternBrazos Area               2714912736569
+CentralWest Cameron Area        96394139855201
+CentralVermilion Area           97983011086710
+CentralGrand Isle Area          730784 7832569
+CentralSouth Pelto Area         246357 3744357
+WesternMustang Island Area       13459 5223653
+CentralMobile                     2486 9113586
+WesternEast Breaks              260572 3371434
+WesternMatagorda Island Area     21948 5596396
+CentralViosca Knoll             264609 8205788
+CentralWest Cameron Area        54747837538621
+CentralVermilion Area          127078925393535
+CentralVermilion Area           86687311479110
+WesternNorth Padre Island Area      61  937214
+WesternMustang Island Area       14450 5217140
+CentralGrand Isle Area          747966 7743139
+CentralEwing Bank              1798118 4288704
+CentralSouth Marsh Island Area 130545612363562
+CentralSouth Timbalier Area    138131311181768
+CentralMobile                     189216727676
+CentralMain Pass Area          237839518996569
+CentralGrand Isle Area          613414 7057252
+CentralWest Cameron Area        68558537414755
+CentralMobile                      574 8571106
+CentralShip Shoal Area         138697210681865
+CentralSouth Marsh Island Area 1148384 9987776
+WesternEast Breaks              225032 2305714
+CentralGreen Canyon            2357793 9717495
+CentralSabine Pass Area          13436  450413
+WesternMustang Island Area        4327 2301355
+CentralEwing Bank              1425601 2077070
+WesternMustang Island Area       28211 8975023
+CentralWest Cameron Area        37982427062853
+CentralMississippi Canyon      892554634506553
+CentralMississippi Canyon      723776223509656
+WesternMustang Island Area       19923 7238427
+CentralSouth Pass Area         108720310166420
+CentralEwing Bank              2024877 3597667
+CentralSabine Pass Area          18255  426213
+CentralGreen Canyon            1264326 8240069
+WesternSabine Pass Area            329  263571
+WesternEast Breaks              647205 8557344
+CentralSouth Pass Area          835776 4916715
+WesternHigh Island Area        132889444075687
+CentralMississippi Canyon      988433135925160
+CentralSouth Timbalier Area    236751224375071
+WesternGalveston Area           155603 3342177
+WesternMustang Island Area        8088 3511685
+CentralMobile                     221212235560
+CentralViosca Knoll            264760520507059
+CentralWest Cameron Area        60103136483774
+CentralGrand Isle Area          95008813060598
+CentralWest Cameron Area        37538730346165
+CentralMississippi Canyon     1633586456528072
+CentralBay Marchand Area          7837   76069
+WesternHigh Island Area         59147714898558
+CentralSouth Timbalier Area    244767624753322
+CentralGrand Isle Area          869654 6211484
+WesternMatagorda Island Area    11068017366028
+CentralGrand Isle Area          797351 9141202
+CentralChandeleur Area              73  327321
+CentralBay Marchand Area         16093   11989
+CentralEast Cameron Area        47979210619896
+WesternMatagorda Island Area     8770318766150
+WesternMustang Island Area       11438 3822408
+CentralEugene Island Area      371078141380579
+CentralWest Cameron Area        16001615829953
+CentralBay Marchand Area         32554   37502
+CentralChandeleur Area              49  374209
+CentralMississippi Canyon      632807520616934
+CentralSouth Pass Area         141530810730552
+CentralWest Delta Area         218212613583935
+CentralEugene Island Area      291503735626120
+WesternMustang Island Area        7124 1736436
+WesternAlaminos Canyon          799248  821666
+WesternGarden Banks            355715018145714
+CentralMain Pass Area          228940719931067
+CentralShip Shoal Area         225501722174679
+CentralMain Pass Area          1750264 8786246
+CentralBreton Sound Area         96799  600450
+CentralSouth Timbalier Area    160018818785175
+CentralShip Shoal Area          756911 7751517
+WesternHigh Island Area         75152825923906
+CentralGrand Isle Area          547216 5767037
+CentralMobile                      93711293514
+CentralGreen Canyon            1678671 9948574
+CentralBreton Sound Area         87167  649294
+CentralBreton Sound Area          5827   15839
+CentralChandeleur Area              19  287993
+WesternGarden Banks            338780716432045
+CentralEugene Island Area      244048326139391
+CentralSabine Pass Area          15836  327768
+CentralSouth Pass Area         1309437 6660459
+CentralMobile                      912 6770918
+WesternMustang Island Area       10152 2671520
+WesternMatagorda Island Area    10343721104095
+WesternSabine Pass Area             45    6211
+WesternHigh Island Area         74892330041359
+CentralSouth Pass Area          852949 6786338
+CentralMobile                     223414833814
+CentralGreen Canyon            727518519146164
+WesternMustang Island Area        9812 4460341
+WesternSabine Pass Area           1483  209946
+CentralEast Cameron Area        51013716960967
+WesternGalveston Area           146791 3417127
+WesternGarden Banks            433973425531370
+CentralWest Cameron Area        39926233225762
+CentralEwing Bank              1747097 3289450
+CentralChandeleur Area              17  477268
+CentralSouth Timbalier Area    257830722117654
+WesternGarden Banks            465600027074198
+CentralBay Marchand Area         93830  140339
+CentralMobile                      98211547369
+CentralBreton Sound Area         91598  543294
+CentralBay Marchand Area         57752   49519
+CentralGreen Canyon            553716313599548
+WesternNorth Padre Island Area     228 1270019
+CentralSouth Pass Area         142614110976850
+CentralWest Delta Area         153757510628236
+CentralWest Cameron Area        45821935319005
+CentralSouth Pass Area         184984010474421
+CentralBay Marchand Area          7034    2818
+CentralSouth Pass Area         202743211557902
+CentralMississippi Canyon     1374991148565351
+CentralSouth Pass Area         1719463 9713246
+WesternMatagorda Island Area     7663015870995
+CentralWest Cameron Area        43294833157995
+WesternBrazos Area               2887111362302
+CentralEast Cameron Area        307251 9077414
+CentralSouth Timbalier Area    216478125087451
+CentralMain Pass Area          213525021270897
+CentralSouth Marsh Island Area 120539912910390
+CentralEugene Island Area      261886531056725
+CentralWest Cameron Area        71373534570832
+CentralMississippi Canyon      329698514032303
+WesternGarden Banks            460787517147910
+CentralShip Shoal Area         147922712119667
+WesternSabine Pass Area              4   27582
+WesternAlaminos Canyon          825883  937818
+CentralEwing Bank              1666163 3389384
+CentralMain Pass Area          1072633 6830023
+CentralEwing Bank              1905771 3600987
+CentralBay Marchand Area         17634   16075
+CentralSouth Timbalier Area    198475226197937
+WesternSouth Padre Island Area       0  749040
+CentralEast Cameron Area        51096619802185
+WesternMustang Island Area       51347 1426475
+CentralViosca Knoll            1037803 9606667
+CentralGrand Isle Area          955038 7229386
+CentralSabine Pass Area          13809  361780
+WesternGalveston Area           160696 6767135
+CentralVermilion Area          130357428148932
+CentralSouth Pelto Area         179047 2134854
+CentralBreton Sound Area         69797  788685
+CentralWest Cameron Area        23383916413968
+CentralSabine Pass Area          18633  382379
+CentralSouth Timbalier Area    211984430530044
+WesternEast Breaks             211090419979720
+CentralSouth Marsh Island Area 111835611211911
+CentralSabine Pass Area          20229  287592
+CentralMain Pass Area          166469320453641
+CentralMississippi Canyon      753596031727335
+CentralBreton Sound Area         53964  256197
+WesternBrazos Area                6244 3626149
+CentralEwing Bank              2253619 3401700
+CentralSouth Marsh Island Area 141172012699905
+WesternGalveston Area           377658 7307284
+CentralBreton Sound Area         50605  674152
+CentralViosca Knoll            321719724547990
+CentralShip Shoal Area         198990215231507
+CentralWest Delta Area         160845412966201
+WesternMatagorda Island Area     19172 5392078
+CentralSouth Marsh Island Area 145459728070745
+WesternGarden Banks            478529621468048
+WesternHigh Island Area        105442539911854
+WesternSabine Pass Area            366  207669
+CentralWest Cameron Area        63918641390738
+WesternBrazos Area               2865714321278
+WesternEast Breaks              154025 1688968
+WesternGalveston Area           338468 6052023
+WesternMatagorda Island Area     46227 8711704
+CentralEwing Bank              1422074 1935275
+WesternHigh Island Area        118938137455682
+CentralEugene Island Area      362883641583773
+WesternGalveston Area           254807 5610761
+CentralGreen Canyon            391089213416601
+CentralChandeleur Area              52 1142840
+CentralViosca Knoll            360060232929332
+WesternNorth Padre Island Area     119 1053218
+CentralWest Cameron Area        54813432500976
+WesternEast Breaks             225323020103915
+CentralSouth Marsh Island Area 116248815975492
+CentralMain Pass Area          1716209 9002261
+CentralEugene Island Area      297703335703105
+WesternNorth Padre Island Area     509 1752756
+CentralMobile                     1120 8136236
+CentralChandeleur Area              15  361908
+CentralMain Pass Area          1389522 6450537
+CentralEwing Bank              3523264 5540643
+CentralViosca Knoll            206216814382329
+CentralGreen Canyon            632111616150895
+WesternSouth Padre Island Area       0  484309
+CentralWest Delta Area         1154857 7051539
+CentralSouth Pelto Area         237269 2543536
+CentralEast Cameron Area        42751716315068
+WesternEast Breaks             229683225357080
+CentralChandeleur Area              67 1160380
+CentralEwing Bank               783264 1569383
+WesternHigh Island Area        113472435228992
+CentralViosca Knoll            286465815185906
+CentralEugene Island Area      373821641448336
+CentralBreton Sound Area         81917  443545
+WesternSabine Pass Area           1437  118210
+WesternGalveston Area           160122 5274035
+WesternHigh Island Area         64390824367816
+CentralEast Cameron Area        85251422801299
+CentralMississippi Canyon     1289834250398004
+WesternGalveston Area           142068 3860198
+CentralWest Cameron Area        60403134714395
+CentralGreen Canyon            545626815318195
+CentralWest Cameron Area        64047639589188
+CentralWest Delta Area         1122437 6715837
+WesternEast Breaks              201997 3171753
+WesternBrazos Area                7992 7089189
+CentralSouth Pass Area         206082715002081
+CentralWest Delta Area         191674612244325
+WesternHigh Island Area         79580923121427
+CentralSouth Pass Area         111094710011009
+WesternGarden Banks            364389516304512
+CentralSouth Pass Area          899558 5652249
+WesternBrazos Area               16211 8555347
+CentralBreton Sound Area         78063  320917
+CentralEwing Bank              3622515 4954169
+WesternSabine Pass Area              1  270906
+WesternEast Breaks              636779 9157541
+WesternGalveston Area           154704 3784881
+CentralEugene Island Area       433808 8150953
+CentralMississippi Canyon     1745887453391966
+CentralShip Shoal Area         267418320239846
+CentralMain Pass Area          232541610973489
+CentralMain Pass Area          189214919290323
+CentralEwing Bank               997846 2510072
+CentralSouth Pass Area          874290 5028373
+WesternGarden Banks            246969514013852
+CentralEast Cameron Area        46093416819911
+WesternBrazos Area                5210 4256367
+WesternBrazos Area               18152 8436320
+CentralBreton Sound Area         57660  673847
+CentralWest Cameron Area        50000428495467
+CentralShip Shoal Area         149075212820488
+CentralGrand Isle Area          469608 2974147
+WesternMatagorda Island Area     8343519812294
+CentralVermilion Area           98094511452276
+WesternGalveston Area           235897 5873752
+WesternEast Breaks              184760 3057849
+CentralGreen Canyon             992353 7851991
+CentralSouth Timbalier Area    211660121903227
+WesternHigh Island Area        132185038512076
+CentralBreton Sound Area         65536  184632
+WesternNorth Padre Island Area      86  873212
+CentralSouth Timbalier Area    195123323169403
+CentralMississippi Canyon     1098292830635083
+WesternNorth Padre Island Area      15 1044872
+CentralGreen Canyon            1948682 8684736
+CentralViosca Knoll            244930725345576
+CentralMississippi Canyon         1641 3492373
+CentralWest Delta Area         1100707 6677604
+CentralGreen Canyon            558466314918888
+CentralMain Pass Area          258633510864315
+CentralGreen Canyon            1658950 9706983
+CentralBay Marchand Area         42057   32173
+CentralSouth Pelto Area         183883 3392314
+CentralGreen Canyon            441757912084626
+WesternBrazos Area               1646810575635
+WesternMustang Island Area        9239 1160834
+CentralEast Cameron Area        43010613206919
+WesternGalveston Area           192430 3927465
+WesternHigh Island Area        105581339644131
+WesternMustang Island Area       27456 8585567
+CentralEugene Island Area      191722019804631
+CentralVermilion Area           88429012094794
+CentralEwing Bank               450488  737991
+CentralGrand Isle Area          454682 3124232
+CentralBay Marchand Area         43527   36612
+WesternSabine Pass Area            230   49453
+CentralMississippi Canyon     1373196552188968
+CentralEast Cameron Area        53493418428648
+CentralShip Shoal Area         220853717826757
+CentralEugene Island Area      262103528513024
+CentralSouth Timbalier Area    194077526514456
+CentralBay Marchand Area         12845   95606
+CentralMain Pass Area          1407675 7153262
+WesternEast Breaks              214528 1233083
+CentralGrand Isle Area          492004 4300304
+WesternBrazos Area               36220 7788805
+WesternMustang Island Area       15457 5393920
+WesternMatagorda Island Area     7683814526429
+WesternGarden Banks            327492021927960
+WesternAlaminos Canyon          707597 1868202
+CentralMobile                     146814687809
+CentralWest Cameron Area        36238129113809
+WesternGarden Banks            323178213410161
+CentralGreen Canyon            1564454 7916323
+CentralViosca Knoll            346182930708389
+WesternMatagorda Island Area     8886119380062
+CentralGreen Canyon            236382411591051
+CentralChandeleur Area               0  271143
+CentralBreton Sound Area        123383  604698
+CentralGrand Isle Area          649570 6318774
+CentralMississippi Canyon      558130018677530
+CentralBay Marchand Area         37467   33503
+CentralSouth Pelto Area         141106  823772
+WesternSabine Pass Area            214  242497
+CentralGreen Canyon            669165014518965
+WesternGarden Banks            272796016021444
+CentralMain Pass Area          226288318271392
+CentralMississippi Canyon     1409916148855463
+CentralMobile                      473 8287191
+CentralGrand Isle Area          105333 1275447
+CentralGreen Canyon            581682414519494
+WesternGalveston Area           247850 5078852
+CentralEugene Island Area      335536539181877
+WesternEast Breaks             219325921677434
+WesternGarden Banks            272683414112000
+WesternGarden Banks            245570412921850
+CentralMississippi Canyon     1095375237746437
+WesternHigh Island Area         91057328577716
+CentralEugene Island Area      202229621862732
+CentralEugene Island Area      395003445022244
+CentralEugene Island Area      288122436473932
+CentralViosca Knoll            343260523364205
+WesternMustang Island Area       19054 5651266
+CentralShip Shoal Area         154036111934719
+CentralBay Marchand Area         41182   37900
+CentralShip Shoal Area         227080120642590
+CentralMobile                     1831 8356267
+CentralMississippi Canyon     1105391939770832
+CentralMain Pass Area          1665590 9529026
+WesternEast Breaks              144468 1121250
+WesternHigh Island Area        119881838244710
+CentralWest Cameron Area        36976328866305
+CentralShip Shoal Area         262413928306866
+CentralSouth Pass Area          211803 1638439
+CentralSabine Pass Area          13074  332388
+WesternHigh Island Area         80549625020990
+WesternSabine Pass Area           2059  185518
+WesternNorth Padre Island Area     835 1447668
+CentralEwing Bank              2222995 3353108
+CentralWest Delta Area          321688 2368196
+CentralSouth Pelto Area         115432 2632008
+CentralWest Delta Area         189921812721408
+CentralMain Pass Area          230118617617537
+CentralBay Marchand Area         20430   14031
+CentralVermilion Area          104913026108664
+CentralMobile                     297013882064
+WesternEast Breaks              186475 1683292
+CentralEugene Island Area      340819339510806
+CentralSouth Pelto Area         215302 3661817
+CentralEwing Bank              1752727 2733199
+CentralGrand Isle Area          594256 4858457
+WesternEast Breaks             141575716489985
+CentralWest Cameron Area        39223333686669
+WesternMustang Island Area        7139 1788639
+CentralWest Delta Area          956804 6013802
+CentralBreton Sound Area         62480  190745
+WesternAlaminos Canyon          740928  641125
+WesternMatagorda Island Area     40963 8441156
+CentralChandeleur Area              64  994942
+WesternAlaminos Canyon          447503  876524
+CentralViosca Knoll            120012310666025
+CentralSabine Pass Area          19291  249287
+WesternBrazos Area               22586 8793672
+CentralMississippi Canyon      587061220994572
+CentralSabine Pass Area          15416  310638
+WesternMustang Island Area       27172 9007455
+WesternMustang Island Area        1711 1858510
+CentralChandeleur Area              32 1171381
+CentralMain Pass Area          237222211482547
+CentralViosca Knoll            242838924236317
+WesternHigh Island Area         88312426035135
+CentralBreton Sound Area         96465  400741
+CentralShip Shoal Area         222852421453948
+CentralSouth Timbalier Area     532602 4700537
+CentralWest Delta Area         187471011944151
+WesternSabine Pass Area           1431  129205
+CentralBay Marchand Area         30937   48406
+WesternGarden Banks            412225322132774
+WesternMatagorda Island Area     5156414135385
+CentralChandeleur Area              14  136562
+CentralBreton Sound Area         59438  355941
+CentralVermilion Area          102012313886866
+CentralEugene Island Area      282153230407006
+CentralEwing Bank              1502712 1934021
+WesternHigh Island Area         77497833305554
+WesternMatagorda Island Area    12105619376173
+CentralEast Cameron Area        86848722632132
+WesternEast Breaks              151985 1297687
+CentralGreen Canyon            684552717565404
+WesternSabine Pass Area           1359  195566
+CentralSouth Pelto Area         263331 2739375
+CentralEugene Island Area      334320039925553
+CentralSouth Timbalier Area    214580926230475
+CentralWest Cameron Area        42448930291090
+CentralBay Marchand Area         29710   13156
+WesternHigh Island Area         88125726467730
+CentralSouth Timbalier Area    209431521569274
+WesternSabine Pass Area             82   48368
+CentralEast Cameron Area        64660119700965
+WesternSabine Pass Area           1169  184920
+CentralSouth Timbalier Area    184364424945450
+WesternNorth Padre Island Area     469 1378019
+WesternGalveston Area           170862 6855313
+CentralWest Delta Area         176465612727974
+WesternBrazos Area               2243613494674
+CentralSouth Pass Area         199437712009417
+CentralChandeleur Area              65  459286
+CentralBreton Sound Area        135413  780622
+CentralEwing Bank              2003682 3016892
+CentralWest Cameron Area        34226834719430
+CentralBay Marchand Area         85545  139721
+CentralEwing Bank              1609225 3012968
+WesternGarden Banks            364567920673789
+CentralShip Shoal Area         140222011660666
+WesternGalveston Area           188931 3925767
+WesternEast Breaks              194086 1394323
+WesternGalveston Area           208755 6249906
+CentralEugene Island Area      380103146357921
+CentralMobile                     1300 7334009
+CentralShip Shoal Area         236605126607545
+WesternGalveston Area           151436 3597280
+CentralSouth Marsh Island Area 161693329859334
+CentralChandeleur Area               0  610556
+CentralGrand Isle Area          889194 9695182
+CentralEugene Island Area      269528129806313
+CentralSouth Timbalier Area    204447226341842
+CentralVermilion Area          112912722566283
+CentralEugene Island Area      368151541833637
+CentralMobile                     219015119897
+CentralShip Shoal Area         278771629613497
+CentralEwing Bank              1705363 2430606
+CentralMain Pass Area          208700218108436
+CentralEwing Bank              2141873 3465101
+CentralViosca Knoll            241949925978533
+CentralSouth Timbalier Area    240587227869796
+CentralMississippi Canyon     1809991554755448
+CentralWest Delta Area         1246113 9251363
+CentralMississippi Canyon      184725714670988
+CentralViosca Knoll            264649224374341
+CentralGrand Isle Area          849601 9436411
+CentralEast Cameron Area        45717414935343
+WesternHigh Island Area        104432132552964
+CentralSabine Pass Area          12889  203557
+CentralMississippi Canyon      376015318773592
+CentralSouth Pass Area         224449412434343
+CentralShip Shoal Area         120688610682533
+CentralWest Delta Area         160273713938482
+WesternHigh Island Area         86778234009509
+CentralVermilion Area           84273610514653
+CentralChandeleur Area              30  683986
+WesternGarden Banks            338152616959474
+WesternGarden Banks            392071421067347
+WesternGarden Banks            274768914218196
+CentralBreton Sound Area         57708  145452
+CentralShip Shoal Area         201256317211028
+CentralGrand Isle Area          515310 3595917
+CentralSouth Marsh Island Area 128665516312997
+WesternEast Breaks             116869910783859
+CentralMain Pass Area          185274622565504
+CentralSouth Timbalier Area    250863622125793
+WesternHigh Island Area         62841823498147
+CentralMobile                     1610 5546736
+CentralSabine Pass Area          23629  222285
+CentralVermilion Area           95735912353303
+CentralGrand Isle Area          982030 8411462
+CentralBay Marchand Area         47732   35242
+CentralSouth Pass Area         146009410838613
+CentralEugene Island Area      270845929034467
+CentralVermilion Area          114277329086478
+CentralSouth Pass Area         142516010475683
+CentralSouth Timbalier Area    188952824234920
+CentralEwing Bank              2311525 3591378
+CentralBreton Sound Area         71324  813493
+CentralShip Shoal Area         134422411863509
+CentralShip Shoal Area         223339918541813
+WesternNorth Padre Island Area     367 1489758
+CentralSabine Pass Area          11996  221112
+WesternBrazos Area               1573610138788
+WesternNorth Padre Island Area     338 1838579
+CentralBreton Sound Area         43907  443973
+WesternHigh Island Area         78258118544025
+WesternMatagorda Island Area     9118218807156
+CentralMain Pass Area          237166911087908
+CentralChandeleur Area              40 1178156
+CentralSouth Marsh Island Area  222742 1846496
+CentralGrand Isle Area          876121 6415821
+CentralEugene Island Area      194561820672496
+CentralSabine Pass Area          24066  569493
+CentralMobile                     154210386103
+WesternSabine Pass Area              4     705
+WesternSabine Pass Area            772  285116
+CentralGrand Isle Area          550493 7280633
+CentralEast Cameron Area        44933110329118
+CentralSouth Pelto Area         220320 3789025
+CentralMobile                      70215493547
+CentralEast Cameron Area        83555025718512
+CentralEwing Bank              1631266 2244234
+WesternMatagorda Island Area     22012 5895533
+CentralGreen Canyon            598894015705988
+WesternNorth Padre Island Area      13 1082788
+CentralEwing Bank              1024809 1613517
+WesternAlaminos Canyon         1069486 1153936
+WesternGarden Banks            258508514723577
+CentralMobile                     1151 9764991
+CentralGrand Isle Area          560539 6289922
+CentralSouth Pelto Area         261064 2927386
+WesternMustang Island Area       17277 6876405
+CentralMain Pass Area          217919122206396
+CentralMississippi Canyon     1641387849206462
+CentralShip Shoal Area         216921915629095
+CentralMain Pass Area          208156923093411
+CentralGrand Isle Area          568300 5529151
+CentralSouth Timbalier Area    250278518186791
+CentralSabine Pass Area          22248  532660
+WesternNorth Padre Island Area     306 1382562
+CentralMississippi Canyon      483090820474927
+CentralEugene Island Area      353913041308978
+WesternEast Breaks             218183420080463
+WesternSabine Pass Area            376  204698
+WesternBrazos Area               19514 8060438
+CentralSouth Pelto Area         247427 3082093
+CentralChandeleur Area              13  208463
+CentralEast Cameron Area        90682526367176
+CentralWest Cameron Area        19493914808452
+WesternEast Breaks             225313122982971
+CentralMississippi Canyon     1619510756630559
+CentralGreen Canyon            511250310713292
+WesternMustang Island Area        2343 1607034
+WesternBrazos Area               19261 8859158
+WesternGalveston Area           140007 6514280
+CentralVermilion Area          122342224851531
+WesternGarden Banks            338120611647337
+CentralMississippi Canyon      197362914101952
+CentralShip Shoal Area         302853724325937
+CentralBreton Sound Area         55363  699973
+WesternHigh Island Area         80351631583569
+CentralMain Pass Area           223370 4103400
+CentralSouth Timbalier Area    217936030959860
+CentralChandeleur Area               4  284504
+CentralBreton Sound Area         56931  138790
+CentralChandeleur Area              60 1441697
+CentralBreton Sound Area        116577  448302
+CentralWest Cameron Area        45037032033449
+CentralEast Cameron Area        73693322000178
+CentralBay Marchand Area          9378   65876
+CentralSabine Pass Area          23746  208304
+CentralVermilion Area          107142623434846
+WesternMustang Island Area       11072 4586124
+CentralMississippi Canyon     1120953239962333
+CentralSabine Pass Area            928  252799
+CentralViosca Knoll            252572820864290
+WesternMatagorda Island Area     9747718268060
+WesternEast Breaks             242525726806879
+CentralMobile                      189 5583589
+WesternHigh Island Area         81581829853841
+CentralWest Delta Area         153645810660991
+CentralSabine Pass Area          12619  202503
+CentralEwing Bank              1613128 2985436
+CentralEast Cameron Area        49631817235474
+CentralSabine Pass Area          22349  327481
+CentralViosca Knoll            279646725476954
+CentralSabine Pass Area          18877  391415
+WesternSabine Pass Area            137  159650
+CentralEast Cameron Area        39109510904647
+CentralViosca Knoll             278247 5105086
+WesternEast Breaks              192825 2592106
+CentralSabine Pass Area           7863  393988
+WesternSabine Pass Area              1  222738
+CentralSouth Pass Area         116092410479036
+CentralMain Pass Area          204805321851687
+WesternSabine Pass Area            607  288557
+CentralSouth Marsh Island Area 129275811457013
+CentralShip Shoal Area         154617912421529
+CentralSouth Pass Area          932032 7746567
+CentralMobile                      874 6607530
+CentralMobile                     136913433019
+CentralWest Delta Area          994678 6070587
+CentralSouth Pelto Area         327567 4402482
+CentralSouth Timbalier Area    207032224744466
+WesternSabine Pass Area           1055  254911
+CentralWest Delta Area         180371411521833
+CentralMobile                      44414525991
+CentralGreen Canyon            1049321 7785206
+WesternSabine Pass Area            660  158571
+CentralChandeleur Area              30  372156
+CentralEast Cameron Area        55797719858700
+CentralEugene Island Area      289843334528667
+CentralWest Delta Area         221774414641284
+WesternBrazos Area               22643 9719302
+CentralGreen Canyon            798082422286847
+CentralEast Cameron Area        72975423042195
+CentralEwing Bank              3386218 6554877
+WesternAlaminos Canyon         1727753 2052967
+CentralSouth Marsh Island Area 122748415539716
+CentralSabine Pass Area          18813  203902
+CentralMobile                     243712622860
+CentralGreen Canyon            605081213811965
+WesternEast Breaks             155679414943502
+WesternSabine Pass Area             53  305082
+WesternNorth Padre Island Area     897 1432730
+CentralSouth Pelto Area         127055 1672641
+CentralEugene Island Area      375587941709004
+WesternGalveston Area           174353 4202861
+CentralWest Delta Area         178203411742175
+WesternBrazos Area               2457910101253
+CentralChandeleur Area              52  382808
+WesternNorth Padre Island Area     412 1452099
+CentralSabine Pass Area          15644  497137
+WesternMustang Island Area       12405 3958609
+WesternEast Breaks              907611 6915014
+WesternNorth Padre Island Area     539 1469134
+CentralSouth Pass Area          839781 4779442
+CentralChandeleur Area               0  491462
+WesternAlaminos Canyon         1046430 1189657
+CentralViosca Knoll            253535415539726
+CentralSouth Pelto Area         237022 3282947
+CentralSabine Pass Area          15777  125178
+CentralWest Delta Area          725375 4696209
+WesternMatagorda Island Area    10492519056474
+CentralEugene Island Area      309417833383460
+CentralSabine Pass Area          20192  228279
+CentralVermilion Area          100266112365635
+CentralChandeleur Area              58  493203
+CentralViosca Knoll            422286435267292
+WesternMustang Island Area       27154 9204445
+WesternNorth Padre Island Area      81  788200
+CentralBreton Sound Area         43137  408078
+CentralViosca Knoll            353892329279266
+CentralWest Delta Area          315661 3129276
+CentralViosca Knoll            272256923280645
+CentralMississippi Canyon     1993148660868843
+CentralEwing Bank              1219633 1789703
+CentralShip Shoal Area         231208317769833
+CentralSabine Pass Area          20563  522897
+WesternMatagorda Island Area     7096717352571
+CentralGrand Isle Area          739578 7360714
+CentralGrand Isle Area          714211 7712949
+WesternBrazos Area               32024 9670164
+CentralShip Shoal Area         146752912833278
+CentralSouth Timbalier Area    190366923837209
+CentralBreton Sound Area         92812  530009
+CentralWest Cameron Area        39972833254358
+WesternEast Breaks              153836 1347828
+CentralGreen Canyon            885267323813890
+CentralViosca Knoll            349580430463553
+CentralEast Cameron Area        37866112626846
+CentralGrand Isle Area          725827 6682256
+CentralSouth Timbalier Area    193280425485134
+WesternMatagorda Island Area     9478514606568
+WesternBrazos Area               17141 9943403
+CentralWest Delta Area         223849114479859
+WesternHigh Island Area        137659446440917
+CentralVermilion Area          141123530074130
+CentralChandeleur Area              19  137496
+CentralEugene Island Area      303021738001095
+WesternEast Breaks              144545 1546796
+CentralWest Delta Area         1092296 6671227
+WesternHigh Island Area        113091239295392
+CentralMobile                     125010218528
+WesternHigh Island Area         89245529165126
+CentralBreton Sound Area         65582 1178573
+CentralShip Shoal Area          651541 5873222
+WesternGarden Banks            270531815185937
+CentralGreen Canyon            431441112359863
+CentralSabine Pass Area          20966  330620
+CentralSouth Timbalier Area    159859118923619
+CentralBreton Sound Area         75892  659948
+WesternMatagorda Island Area     34353 5931735
+CentralSouth Pelto Area         195932 3941531
+CentralMain Pass Area           789229 5121596
+WesternGarden Banks            368175023858369
+CentralMobile                     115812227903
+CentralWest Delta Area         1261869 7446145
+CentralChandeleur Area              40  267260
+CentralSouth Marsh Island Area 134143112265893
+CentralGreen Canyon            763238817235678
+CentralSabine Pass Area          12864  261103
+CentralShip Shoal Area         217995616413586
+CentralEast Cameron Area        40425913167117
+CentralShip Shoal Area         156670212860737
+CentralWest Delta Area         159033614151316
+CentralVermilion Area          139513431826941
+WesternMatagorda Island Area     45894 9894195
+WesternGarden Banks            232184411790909
+WesternMustang Island Area       10134 2042630
+CentralSouth Timbalier Area    1217806 9892603
+CentralGrand Isle Area          674549 6275607
+CentralGreen Canyon            634494515739926
+CentralSabine Pass Area          19329  449851
+CentralEwing Bank              1121588 1388704
+CentralEugene Island Area      189544522369375
+CentralSouth Timbalier Area    250322933427751
+WesternSabine Pass Area            102   20739
+CentralViosca Knoll            312750623891482
+WesternHigh Island Area         69368214443404
+CentralSouth Timbalier Area    182263921260756
+CentralEwing Bank              1888808 3624016
+CentralViosca Knoll            440798836420692
+CentralShip Shoal Area         204764317863523
+WesternGalveston Area           151289 2932292
+CentralMississippi Canyon      262868715309215
+WesternSabine Pass Area            225   30669
+WesternGalveston Area           351164 6057584
+CentralWest Cameron Area        50550835639670
+CentralSouth Marsh Island Area 138716610534851
+WesternSabine Pass Area            479   79701
+WesternMustang Island Area        7980 2283491
+CentralMississippi Canyon     1072676536540259
+CentralGrand Isle Area          551253 6717005
+CentralWest Cameron Area        65765341068603
+WesternMustang Island Area       11378 3360602
+CentralViosca Knoll            275816817858095
+WesternGarden Banks            385230423429006
+CentralViosca Knoll            250493925048163
+WesternMatagorda Island Area    10618822266805
+WesternGalveston Area            85098 1397796
+CentralWest Cameron Area        12443211637951
+CentralSouth Pelto Area         154514 2488291
+CentralSouth Pelto Area         234930 2148707
+CentralWest Delta Area         1329586 8648809
+CentralSouth Marsh Island Area 132596023542251
+CentralSouth Pelto Area         221394 3259073
+WesternMustang Island Area       21219 9149728
+WesternEast Breaks              174309 2893420
+CentralBreton Sound Area         94920  689173
+CentralGrand Isle Area          478966 3134984
+CentralSouth Timbalier Area    156219018794745
+WesternMustang Island Area       18192 7515216
+CentralViosca Knoll            253913715875110
+CentralBreton Sound Area         38536  103128
+CentralEast Cameron Area        42822214436458
+CentralVermilion Area          141076127259397
+CentralEast Cameron Area        48585714611587
+CentralWest Cameron Area        39426335242970
+WesternGalveston Area           173764 4643005
+CentralSouth Marsh Island Area 119777917099935
+CentralChandeleur Area              40  402413
+CentralVermilion Area          118917020990034
+CentralSouth Marsh Island Area 118850418750761
+CentralWest Cameron Area        38968931599654
+CentralVermilion Area          112698323846919
+CentralViosca Knoll            233033624020992
+CentralChandeleur Area               0  191359
+CentralSouth Pass Area         151112111227271
+CentralBay Marchand Area         48197   51710
+CentralChandeleur Area               8  331805
+CentralEwing Bank              1530313 3229357
+CentralSouth Timbalier Area    235580626701047
+CentralEwing Bank              3327680 6201740
+CentralWest Delta Area         187206114415690
+CentralShip Shoal Area         269691121935414
+CentralMobile                     1736 9195112
+CentralShip Shoal Area         275547225783878
+CentralVermilion Area          130662027383711
+CentralViosca Knoll            347841127034014
+CentralVermilion Area          111404423197705
+WesternHigh Island Area        129203442207112
+CentralSabine Pass Area          17605  125389
+CentralBreton Sound Area         76517  654281
+CentralGreen Canyon            1666676 8367254
+CentralMain Pass Area          209704518044173
+WesternNorth Padre Island Area     107 1114408
+WesternAlaminos Canyon         1387021 1461537
+CentralBay Marchand Area         25402   15492
+WesternNorth Padre Island Area     247 1149579
+CentralVermilion Area          116328923960368
+CentralWest Delta Area         190516413765018
+CentralSouth Marsh Island Area 161393828568179
+WesternAlaminos Canyon         1571517 2474444
+CentralSouth Marsh Island Area  673364 5594581
+CentralEwing Bank               974036 2252270
+CentralEast Cameron Area        83100822730568
+CentralSouth Timbalier Area    181401314650149
+CentralWest Delta Area         1483604 8203346
+CentralMobile                      625 7218422
+CentralMain Pass Area          269562012116090
+WesternSabine Pass Area           2064  143342
+CentralEwing Bank              1446582 1665644
+CentralEast Cameron Area        62619017427830
+CentralBreton Sound Area        116462  817399
+WesternMatagorda Island Area     52394 9119973
+WesternEast Breaks              151416 1036158
+CentralMain Pass Area          216825412935651
+CentralSabine Pass Area          21328  439913
+CentralMain Pass Area          1713826 9549767
+WesternGarden Banks            245621615766921
+CentralChandeleur Area               8  454776
+CentralEugene Island Area      342508742140512
+CentralChandeleur Area               0  457477
+CentralWest Cameron Area        45683734236862
+WesternGarden Banks            304879320172858
+CentralWest Cameron Area        61760038496154
+WesternNorth Padre Island Area      62 1096124
+WesternGalveston Area           188895 4281845
+WesternMatagorda Island Area     35758 4960396
+WesternMatagorda Island Area     8525714521294
+CentralMississippi Canyon     1368772738416712
+CentralSouth Pelto Area         231272 2132227
+WesternSabine Pass Area            336  231291
+WesternEast Breaks              188147 2077025
+CentralMain Pass Area          216908615714372
+WesternSabine Pass Area            589  104306
+CentralEugene Island Area      175920619327958
+WesternMatagorda Island Area    10154218833582
+CentralSouth Timbalier Area    152284910357639
+WesternHigh Island Area         86262420023687
+CentralSouth Pass Area          322587 1627340
+CentralChandeleur Area               0  536806
+WesternGarden Banks            341088319925795
+WesternEast Breaks              199885 3057304
+CentralEugene Island Area      329271039574935
+WesternBrazos Area               23808 8887502
+WesternGalveston Area           150543 4612819
+WesternGarden Banks            439496426406560
+WesternMatagorda Island Area     40053 8748882
+WesternMatagorda Island Area     4683010013674
+CentralSouth Pelto Area         336047 3712350
+CentralVermilion Area           95201812544005
+CentralBay Marchand Area         39160   20530
+CentralSouth Marsh Island Area 127178111494781
+CentralBreton Sound Area         69246  231605
+WesternEast Breaks              555658 8706677
+CentralWest Delta Area         189845912254547
+CentralEugene Island Area      335740240268722
+WesternHigh Island Area        109655536380343
+WesternBrazos Area                6614 7029913
+CentralEast Cameron Area        39024912736575
+CentralEast Cameron Area        81225322418402
+WesternMustang Island Area       44950 1727241
+CentralSouth Pelto Area         203245 4057616
+CentralGreen Canyon            713237816063590
+WesternMatagorda Island Area     7170315514559
+CentralVermilion Area           96637112397948
+CentralSouth Pelto Area         165487 1136197
+CentralMain Pass Area          217089323728486
+CentralSouth Pass Area          881561 7003735
+WesternSabine Pass Area             94   52973
+CentralBay Marchand Area           396    6400
+CentralShip Shoal Area         135220811342746
+CentralEugene Island Area      296963430925116
+CentralGrand Isle Area          552047 4707131
+CentralMain Pass Area          217812512875430
+WesternNorth Padre Island Area     223  506195
+CentralMain Pass Area          200297718323772
+CentralGreen Canyon            670058618155349
+WesternBrazos Area               14405 6956385
+WesternEast Breaks             204318122845620
+CentralBay Marchand Area         22612   31656
+WesternBrazos Area               3187614135121
+WesternGalveston Area           326735 7097767
+CentralSabine Pass Area          26657  226370
+CentralShip Shoal Area         284123523009693
+CentralBay Marchand Area         31868   37932
+WesternEast Breaks              199990 1363961
+WesternGarden Banks            339444818630404
+WesternAlaminos Canyon          562258 1129220
+CentralEast Cameron Area        55934617843683
+CentralWest Delta Area         213372814002439
+WesternNorth Padre Island Area    1287 1542789
+CentralBreton Sound Area         64320  635318
+WesternEast Breaks              574447 8617206
+CentralChandeleur Area               0  496393
+WesternMustang Island Area       22385 8886948
+CentralSouth Marsh Island Area 115680110638795
+WesternEast Breaks             199966521107872
+WesternEast Breaks              769688 6373425
+CentralWest Delta Area          968687 5786768
+CentralShip Shoal Area         258168122722533
+CentralSouth Pelto Area         256630 4602118
+WesternSabine Pass Area           1343  108786
+CentralEugene Island Area      252131031962194
+CentralWest Cameron Area        46386938674585
+CentralSabine Pass Area          21171  385308
+CentralSabine Pass Area          12675  362520
+CentralWest Cameron Area        15740116431017
+WesternNorth Padre Island Area      15 1188452
+CentralMobile                     229911827932
+CentralEwing Bank               712854 1384130
+CentralMobile                     278015574204
+WesternBrazos Area               18246 7156146
+CentralMobile                      893 9839879
+CentralSouth Marsh Island Area 157470028125884
+WesternHigh Island Area         72576825293446
+CentralSouth Pass Area         176143910251291
+CentralShip Shoal Area         250850828283972
+CentralMobile                     1081 7814131
+WesternHigh Island Area        103414631290814
+CentralEugene Island Area      307332532349357
+WesternGalveston Area           192670 6023722
+CentralSouth Timbalier Area    247183817459590
+CentralVermilion Area           68286710373395
+WesternHigh Island Area         84312926963844
+CentralWest Delta Area         141925410644022
+WesternBrazos Area               1972410406650
+CentralChandeleur Area               0  169128
+CentralMobile                     117814738662
+CentralSouth Pelto Area         269408 3703565
+WesternBrazos Area               13059 9999608
+WesternGarden Banks            264523911757362
+WesternBrazos Area                9253 7414984
+CentralSouth Pelto Area         293817 3453075
+CentralBreton Sound Area         46928  227027
+CentralMain Pass Area          205632118065818
+WesternHigh Island Area         84482932982028
+WesternGarden Banks            290762918021982
+WesternMustang Island Area        5401 1445580
+CentralViosca Knoll            327609930392032
+WesternNorth Padre Island Area    1371 1514241
+WesternGarden Banks            408495124992210
+CentralMobile                     137313683250
+CentralBreton Sound Area        113653  599967
+CentralWest Delta Area         187501111930881
+WesternBrazos Area               2766113084854
+WesternGalveston Area           141415 3901081
+CentralEugene Island Area      269609232952831
+CentralBreton Sound Area         69149  481070
+CentralEugene Island Area      290445331869374
+CentralEwing Bank              2798944 4990532
+WesternNorth Padre Island Area       0  588517
+CentralSouth Pelto Area         158926 1091686
+CentralSouth Pass Area         220332614995722
+CentralBay Marchand Area         46686   35102
+CentralMain Pass Area          202521522767521
+CentralMobile                      683 9436627
+CentralMississippi Canyon      597040626386920
+CentralWest Cameron Area        57231135316599
+CentralMobile                     174115236780
+CentralChandeleur Area              29  314868
+CentralMain Pass Area          215741810218402
+CentralMobile                      873 8391304
+CentralWest Delta Area          246774 1948645
+CentralVermilion Area          111119123544135
+WesternNorth Padre Island Area     678 1469301
+CentralBay Marchand Area         60823   77503
+CentralVermilion Area          114087024381763
+WesternSabine Pass Area           5610  731081
+CentralEast Cameron Area        40387813734571
+WesternHigh Island Area         70113725030919
+CentralChandeleur Area              60  114440
+CentralShip Shoal Area         278713530444029
+CentralGreen Canyon            1413260 8840500
+CentralShip Shoal Area         215639815874159
+WesternEast Breaks              209048 2798983
+WesternBrazos Area                8012 6552609
+CentralWest Cameron Area        50150834446708
+CentralMain Pass Area          189278316768631
+WesternBrazos Area               16032 6567591
+CentralSouth Pass Area         140100310355975
+WesternGarden Banks            382123513229419
+CentralViosca Knoll            264393124081786
+WesternGalveston Area           146641 7475099
+CentralWest Delta Area         158622213261744
+WesternMatagorda Island Area     8194113523054
+WesternBrazos Area                5981 3989818
+CentralSouth Marsh Island Area 126366711075486
+WesternBrazos Area               15254 8445383
+CentralBreton Sound Area         61750  714849
+WesternGalveston Area           323838 5864075
+CentralViosca Knoll            275397824368851
+CentralChandeleur Area              51 1229100
+WesternHigh Island Area        112961839774332
+WesternBrazos Area               22693 7051328
+CentralSouth Pelto Area         314370 4083124
+CentralSouth Marsh Island Area 122749310224126
+CentralEast Cameron Area        38045813623467
+CentralVermilion Area           77541512492930
+WesternEast Breaks              705263 9113053
+CentralSabine Pass Area          12794  419666
+CentralMain Pass Area          231829110257604
+CentralMobile                      368 7143900
+CentralBay Marchand Area         21255   17711
+WesternSabine Pass Area            101   33922
+WesternBrazos Area                9821 7168058
+CentralVermilion Area          111551622953222
+CentralChandeleur Area              39  403023
+CentralShip Shoal Area         133736011768725
+WesternMatagorda Island Area     7574017869607
+WesternBrazos Area               12164 6750297
+CentralBay Marchand Area         25712   27307
+CentralMississippi Canyon      595466619696717
+WesternMustang Island Area       15931 5377473
+CentralWest Delta Area         203928213254233
+CentralSouth Timbalier Area    235808925400166
+WesternMatagorda Island Area     30115 6785318
+WesternGarden Banks            204373914329925
+WesternBrazos Area                4399 3873076
+CentralSabine Pass Area          12765  415245
+CentralWest Cameron Area        34661230796751
+CentralSouth Marsh Island Area  683326 6495187
+CentralEugene Island Area      378104142817337
+CentralChandeleur Area               0  107756
+WesternEast Breaks             196847423345588
+WesternNorth Padre Island Area      32  651794
+CentralGrand Isle Area          858523 8276616
+CentralBreton Sound Area         77032  285629
+CentralGreen Canyon            592113115283928
+WesternMatagorda Island Area     25273 6120999
+CentralShip Shoal Area         242645319407912
+CentralWest Delta Area               0     211
+CentralGrand Isle Area          604198 6397170
+CentralBay Marchand Area         74969   78324
+CentralWest Cameron Area        48224335847188
+CentralVermilion Area          101405625686396
+WesternEast Breaks              557736 8497034
+CentralGrand Isle Area          619968 5746222
+CentralEast Cameron Area        81846525567667
+WesternHigh Island Area         75209226535649
+WesternGalveston Area           146037 3328494
+CentralShip Shoal Area         281715628816518
+CentralViosca Knoll            181760313699638
+WesternNorth Padre Island Area     257  677053
+WesternHigh Island Area         72465529901230
+WesternEast Breaks              196729 1726969
+CentralSouth Pass Area          935416 7665430
+CentralWest Delta Area         222474113472691
+CentralMississippi Canyon      592204327962143
+CentralVermilion Area           82509211681949
+CentralShip Shoal Area         169041713733953
+CentralWest Cameron Area        51370835607264
+CentralEugene Island Area      300139431102040
+CentralShip Shoal Area         176308714017395
+CentralEwing Bank              1530405 3551499
+WesternHigh Island Area         73796625300112
+WesternGarden Banks            429218024513146
+WesternGalveston Area           154740 4924428
+CentralSouth Marsh Island Area 127065823468941
+CentralMississippi Canyon     1573221046996425
+CentralBreton Sound Area         85043  898016
+WesternHigh Island Area        134602435813434
+CentralMississippi Canyon     1117956837699165
+WesternHigh Island Area         84497131517527
+WesternGarden Banks            424201024316744
+CentralWest Cameron Area        39711427911306
+WesternEast Breaks             1243986 6148334
+WesternEast Breaks             244452524737118
+CentralGrand Isle Area          622393 4802138
+CentralWest Delta Area         163156212111372
+CentralSabine Pass Area          15023  291699
+CentralMississippi Canyon     1315313243603419
+CentralGrand Isle Area          990923 8723606
+CentralGreen Canyon            254770911396198
+CentralWest Delta Area         189041911773766
+WesternGarden Banks            449888128420281
+WesternNorth Padre Island Area       1  437685
+WesternSabine Pass Area           1187  119618
+CentralViosca Knoll            436711935172060
+CentralWest Delta Area         202778012316009
+CentralSouth Pass Area         189231911424443
+CentralEast Cameron Area        85265522532441
+CentralGrand Isle Area          881602 7680903
+CentralSabine Pass Area          17720  286485
+CentralBreton Sound Area         74056  420925
+CentralMobile                     1088 6948533
+WesternHigh Island Area         92456529652555
+CentralBreton Sound Area        112094 1229690
+CentralEast Cameron Area        39143511637690
+CentralSouth Marsh Island Area 120598918206090
+CentralWest Cameron Area        34993126578671
+CentralGreen Canyon            592013514729814
+WesternNorth Padre Island Area      24  481240
+CentralSouth Pass Area         199042714947805
+CentralSouth Pass Area         192817514074521
+WesternNorth Padre Island Area     299 1746694
+CentralEast Cameron Area        89262125440431
+CentralMain Pass Area          224165518634830
+CentralSouth Timbalier Area    157459519662401
+WesternSabine Pass Area            150   46291
+CentralGrand Isle Area           72723 1203513
+CentralMississippi Canyon     1088123936773311
+CentralGreen Canyon            700556717579981
+CentralWest Delta Area         223867012532416
+CentralViosca Knoll            206089518927471
+WesternSabine Pass Area             44   28045
+CentralWest Cameron Area        63068735917639
+CentralShip Shoal Area         123663711010954
+WesternEast Breaks              243956 3167131
+CentralBreton Sound Area         93893  833661
+CentralGrand Isle Area          96005311360284
+WesternBrazos Area               1744510178600
+WesternGarden Banks            375643623450486
+CentralGrand Isle Area          921846 6790005
+WesternSabine Pass Area              0  308751
+CentralSouth Timbalier Area    162617923064898
+CentralViosca Knoll            387613836352754
+CentralSouth Marsh Island Area 143179629672461
+CentralBreton Sound Area         69713  544096
+CentralGrand Isle Area          794188 7246221
+CentralSouth Pass Area         201809614294174
+CentralMain Pass Area          224998810554064
+CentralWest Delta Area          960148 5511153
+WesternAlaminos Canyon         1558858 2631603
+WesternBrazos Area               2861512623909
+CentralMobile                     1215 4276964
+CentralSouth Pelto Area         217803 2298113
+CentralSouth Timbalier Area    210090123407727
+WesternGalveston Area           148012 3622679
+WesternNorth Padre Island Area       0  726298
+WesternGalveston Area           150435 3004525
+CentralMobile                     208718356821
+CentralBreton Sound Area         71007  543853
+WesternBrazos Area                4998 3784259
+CentralChandeleur Area              45  268122
+CentralMississippi Canyon      797078232630436
+CentralWest Cameron Area        38911734361016
+CentralShip Shoal Area         263127629287724
+CentralWest Delta Area         214999614787238
+WesternGalveston Area           145105 3313519
+CentralBay Marchand Area         21705   23126
+CentralSouth Pass Area         1529409 8384236
+WesternNorth Padre Island Area      25  631281
+WesternEast Breaks              631371 8177321
+CentralVermilion Area          140309827398507
+CentralSouth Pelto Area         233067 2128954
+CentralBay Marchand Area         64751   76440
+CentralBay Marchand Area         47362   43055
+WesternBrazos Area                7954 5825384
+CentralEast Cameron Area        56073920616910
+CentralGrand Isle Area          726633 6546020
+CentralSouth Marsh Island Area  557227 5734419
+CentralSouth Timbalier Area    214881016037105
+CentralWest Delta Area         155757412337517
+CentralEwing Bank              1510619 2242640
+CentralSouth Marsh Island Area 130756512920148
+WesternGarden Banks            285463820370856
+CentralSabine Pass Area          15572  353378
+WesternSabine Pass Area            295  214749
+CentralChandeleur Area              20  320993
+WesternGalveston Area           267850 5347974
+CentralEast Cameron Area        44609413280284
+CentralViosca Knoll            242057819360650
+CentralSouth Timbalier Area    205707816765927
+CentralBay Marchand Area         16997   89577
+CentralMobile                     130512214047
+CentralSouth Marsh Island Area 153435530017495
+WesternNorth Padre Island Area     467 1546226
+CentralEwing Bank              1685271 3136059
+WesternNorth Padre Island Area     613  876688
+WesternGarden Banks            212377314896879
+CentralSouth Marsh Island Area 132277713188339
+CentralSouth Timbalier Area    243325026234166
+CentralEwing Bank              1070360 2344754
+CentralMississippi Canyon      484924018213107
+WesternHigh Island Area         67302216023996
+CentralSabine Pass Area          25516  198530
+WesternSabine Pass Area           1344  231358
+CentralSouth Pelto Area         332213 3989884
+WesternHigh Island Area         75602425197317
+CentralSouth Pass Area          962026 6030385
+CentralSouth Pass Area         145686111054404
+WesternEast Breaks              224203 3020105
+CentralBreton Sound Area         72469  691419
+CentralWest Cameron Area        62496839018588
+CentralMississippi Canyon     1044277735698484
+CentralGrand Isle Area          734205 7922219
+CentralSouth Marsh Island Area 120339320493383
+CentralGreen Canyon            2332088 9374770
+CentralMain Pass Area          211165618298180
+CentralSabine Pass Area          14336  346166
+WesternHigh Island Area        118154741172788
+WesternAlaminos Canyon          559429  660480
+CentralGrand Isle Area          611111 5933599
+WesternBrazos Area               14602 9784970
+WesternEast Breaks              70243110138764
+CentralEugene Island Area      170671219148477
+WesternHigh Island Area        129943442001107
+CentralWest Cameron Area        35039631551194
+CentralSouth Pelto Area         233499 3628056
+WesternSabine Pass Area             40   47685
+CentralChandeleur Area               5  322707
+WesternNorth Padre Island Area      89  904791
+WesternSabine Pass Area             12    2620
+WesternGarden Banks            312091216952611
+CentralSouth Timbalier Area    219794824411425
+CentralSouth Pelto Area         249732 3927335
+CentralEugene Island Area      374406142067559
+WesternSabine Pass Area            320  193082
+CentralBay Marchand Area         16735   21581
+WesternSabine Pass Area            568  241090
+CentralWest Delta Area         1553709 8547199
+CentralEugene Island Area       64078011367908
+WesternHigh Island Area         70114022264636
+WesternBrazos Area               2541810311908
+WesternNorth Padre Island Area     163 1048627
+CentralSouth Marsh Island Area 110846620548483
+CentralSouth Pass Area         247711514216207
+CentralVermilion Area           93517011664048
+CentralEugene Island Area      309471435677605
+CentralViosca Knoll            349744026727782
+CentralGreen Canyon            1270430 8785945
+CentralMississippi Canyon      185043014837782
+CentralBay Marchand Area         45933   44765
+WesternBrazos Area               19814 8588444
+CentralSouth Pass Area          300003 3126802
+CentralBay Marchand Area         27667   25463
+CentralGrand Isle Area          548437 4943505
+CentralChandeleur Area              27  413413
+CentralEugene Island Area      309120136158482
+CentralWest Cameron Area        57958634824336
+CentralVermilion Area          108709013681248
+CentralGreen Canyon            245928712325512
+WesternBrazos Area               3291810763071
+CentralSouth Pelto Area         245383 2381750
+WesternAlaminos Canyon          496495  503859
+CentralEugene Island Area      201564122649384
+WesternMustang Island Area        8835 3915041
+CentralSouth Pelto Area         289601 4153887
+CentralSabine Pass Area          17850  361213
+WesternAlaminos Canyon          560616 1149107
+CentralMain Pass Area          196100222875393
+CentralChandeleur Area              50  772973
+WesternNorth Padre Island Area       6 1140265
+WesternHigh Island Area        145926336824398
+CentralSouth Marsh Island Area 137073812972919
+WesternGalveston Area           136486 3910931
+CentralMississippi Canyon      601754524657376
+CentralSouth Timbalier Area    230848116781218
+CentralSouth Pelto Area         151017 2832473
+CentralSouth Pass Area         108425710068711
+CentralGreen Canyon            186639010250014
+CentralBreton Sound Area         78378  203716
+WesternMatagorda Island Area     24316 6948551
+CentralSouth Timbalier Area    234701624686464
+CentralSabine Pass Area          19777  497724
+CentralGrand Isle Area          628768 7150592
+WesternBrazos Area               25973 8818150
+WesternGarden Banks            447008627726920
+CentralEast Cameron Area        48428416860728
+CentralEugene Island Area      255976828694745
+WesternBrazos Area                8843 8283901
+CentralEast Cameron Area        53837818963621
+WesternSabine Pass Area            125  403056
+CentralWest Delta Area         185518213102844
+CentralGreen Canyon            657977516657313
+CentralEugene Island Area      296460538556366
+CentralGrand Isle Area         103822113315834
+CentralSouth Pass Area         159083011731732
+CentralSouth Timbalier Area    252651426943062
+CentralMain Pass Area          232865519850633
+CentralEast Cameron Area        80018222332622
+CentralEugene Island Area      229404224780114
+CentralSouth Pass Area         176705611077729
+WesternSabine Pass Area           1635  293007
+CentralSouth Pass Area         213055912033810
+CentralBay Marchand Area         51838   21167
+CentralShip Shoal Area         301321025234345
+CentralSouth Marsh Island Area 129303910115272
+CentralMain Pass Area          1769351 9780103
+CentralSouth Marsh Island Area 144525328920246
+CentralWest Delta Area         1079021 6715592
+WesternAlaminos Canyon          761696 2077117
+CentralSouth Timbalier Area    227364915379941
+WesternNorth Padre Island Area     605 1449210
+CentralWest Cameron Area        36743332152317
+CentralSouth Timbalier Area    241142228429005
+CentralGreen Canyon            584653914209852
+WesternSabine Pass Area           1902  144927
+CentralWest Delta Area         219379613746981
+CentralBay Marchand Area         27673   21084
+CentralSabine Pass Area          16249  378120
+WesternMatagorda Island Area     9162517667816
+CentralSabine Pass Area          20759  556605
+CentralGrand Isle Area           50632 1133512
+WesternGarden Banks            467087321296716
+WesternAlaminos Canyon          837902 1038365
+CentralSouth Pelto Area         238040 2635235
+CentralSabine Pass Area          17950  409007
+WesternEast Breaks              852972 6229640
+WesternNorth Padre Island Area     101 1081433
+CentralBay Marchand Area         19291   19811
+CentralSouth Pelto Area         186760 1920875
+CentralViosca Knoll            219154225070560
+CentralEast Cameron Area        41737613658699
+WesternSabine Pass Area           4655  257878
+CentralShip Shoal Area         254753925790878
+WesternSabine Pass Area           1725  285098
+WesternMustang Island Area       10008 2840712
+WesternSabine Pass Area            839  276067
+WesternMustang Island Area       20174 8240423
+CentralBay Marchand Area        106530   98990
+WesternEast Breaks              212605 2725964
+CentralWest Cameron Area        34368930994894
+CentralBay Marchand Area         26662   18499
+CentralWest Cameron Area        36267931663838
+CentralEugene Island Area      292973835663099
+CentralShip Shoal Area         295504625268698
+WesternGarden Banks            398020325313801
+WesternSabine Pass Area           1789  134623
+CentralEwing Bank              1925299 3885920
+CentralBay Marchand Area         86595  105069
+CentralShip Shoal Area         224224415916257
+CentralVermilion Area           95172012043263
+CentralEast Cameron Area        82723422846279
+WesternMatagorda Island Area     8208217404384
+CentralSouth Pass Area          766153 5964148
+CentralBay Marchand Area         54374   62374
+WesternSabine Pass Area           1267   82671
+CentralGreen Canyon            175674410218280
+CentralMain Pass Area          228134810590558
+CentralViosca Knoll            256146821822452
+CentralViosca Knoll            278104724454650
+CentralMobile                     245512150494
+CentralViosca Knoll            276492122561030
+CentralSouth Marsh Island Area 137966629154939
+WesternGarden Banks            231763515643348
+CentralBay Marchand Area         18708   14951
+CentralEast Cameron Area        74942622583695
+CentralVermilion Area           223062 6190242
+WesternNorth Padre Island Area     238 1652757
+CentralViosca Knoll            210828424292229
+CentralShip Shoal Area         251026220954043
+CentralViosca Knoll            372200928308196
+CentralViosca Knoll             250215 5527068
+CentralSabine Pass Area          17578  423970
+CentralEugene Island Area      330609238984592
+CentralSouth Timbalier Area    198965627716857
+CentralSouth Timbalier Area    198553823583464
+CentralBreton Sound Area         70183  503792
+CentralViosca Knoll             277445 5064376
+CentralViosca Knoll            257438214897803
+CentralBreton Sound Area         78425  437796
+CentralEwing Bank              1447309 2997928
+CentralSouth Timbalier Area    179467422633809
+CentralMobile                     164411557729
+CentralChandeleur Area               3  414992
+WesternAlaminos Canyon          787277 2012449
+CentralChandeleur Area              28  434566
+WesternAlaminos Canyon          627787 1665509
+CentralViosca Knoll             334126 8900259
+CentralShip Shoal Area         182938614230934
+CentralWest Cameron Area        63175835249740
+WesternBrazos Area               1456810123267
+CentralShip Shoal Area         176602214131197
+CentralMississippi Canyon      765881234441554
+CentralBreton Sound Area         68954  409873
+CentralGrand Isle Area          97477112971542
+CentralGrand Isle Area          805745 8087951
+WesternGarden Banks            467143229771794
+CentralSouth Pelto Area         310632 4390055
+WesternEast Breaks              588351 7460601
+CentralMobile                     114211956614
+CentralVermilion Area           81763612907844
+CentralVermilion Area           88892213112675
+WesternMatagorda Island Area     42209 9659694
+CentralMain Pass Area          238679710878050
+WesternEast Breaks              191621 1095146
+CentralBreton Sound Area         56727  732395
+CentralEast Cameron Area        46273615345842
+CentralChandeleur Area             108  932571
+CentralWest Delta Area         207464913857746
+WesternEast Breaks              226045 2911370
+CentralBay Marchand Area         53950  104946
+WesternBrazos Area               16597 8421661
+WesternNorth Padre Island Area      53  942297
+WesternBrazos Area                8056 5002050
+CentralSouth Pelto Area         155751 1058306
+CentralBreton Sound Area         78080  605247
+CentralSouth Pass Area         155183011492396
+CentralChandeleur Area              30 1274233
+CentralBay Marchand Area         17865   94585
+CentralEast Cameron Area        176225 5863040
+CentralMain Pass Area          210755523640910
+WesternMatagorda Island Area     7764815267462
+WesternNorth Padre Island Area     229 1074400
+WesternHigh Island Area        102908130637602
+WesternMatagorda Island Area    10488218721911
+CentralShip Shoal Area         139570010978177
+CentralSabine Pass Area          22612  469367
+CentralSouth Timbalier Area    200443626580968
+CentralSabine Pass Area          13862  261005
+WesternMustang Island Area       29262 9458468
+CentralSouth Marsh Island Area 112475814995292
+CentralSouth Pelto Area         152780 1811136
+WesternGalveston Area           345926 5989529
+CentralViosca Knoll             253123 6658193
+CentralBreton Sound Area         80499  821698
+CentralMobile                     215810444899
+CentralSouth Pelto Area         149426 3007699
+CentralEast Cameron Area        39123914962262
+WesternBrazos Area               21107 9501741
+CentralViosca Knoll            329936124572117
+CentralSouth Pass Area          222759 1486689
+CentralWest Delta Area         164295311065063
+CentralMobile                      295 4398325
+WesternNorth Padre Island Area      67  839191
+CentralGrand Isle Area          791752 6025336
+CentralSouth Pelto Area         372673 4365699
+WesternEast Breaks              188413 2430345
+CentralGrand Isle Area          585533 6338017
+CentralEast Cameron Area        51792418720263
+WesternMatagorda Island Area     57056 9322897
+CentralBay Marchand Area         33971   32941
+CentralSouth Pelto Area         236700 3609762
+CentralMain Pass Area          227302811082614
+WesternMustang Island Area       21196 7211121
+CentralShip Shoal Area         215374815939769
+WesternMatagorda Island Area     15309 3877852
+CentralWest Delta Area          764532 4508891
+WesternNorth Padre Island Area      91  954951
+CentralEast Cameron Area        50778616592787
+WesternAlaminos Canyon          693922  884505
+CentralSouth Pelto Area          33833  543007
+CentralSouth Pelto Area         101643  993220
+CentralGreen Canyon            711495416592886
+CentralSabine Pass Area          20082  349774
+CentralSabine Pass Area          10053  256877
+WesternHigh Island Area         73527226839894
+CentralSouth Marsh Island Area 134041523314090
+CentralSabine Pass Area          23424  560489
+CentralSouth Marsh Island Area 152290212658884
+WesternGarden Banks            389999423943469
+WesternMustang Island Area        2883 1563042
+WesternEast Breaks             156085515853166
+CentralGreen Canyon            1144602 8622476
+CentralSouth Pelto Area         213090 3112803
+CentralGrand Isle Area          760369 6992460
+CentralGreen Canyon            600404114892611
+WesternNorth Padre Island Area     221 1522105
+CentralSabine Pass Area          16851  410174
+WesternHigh Island Area         80356327882463
+WesternHigh Island Area        110038440944954
+CentralEwing Bank              2470652 4556981
+CentralEugene Island Area      206290323627160
+CentralShip Shoal Area         138512112566506
+CentralVermilion Area          131511228966921
+CentralViosca Knoll            386312131278958
+CentralShip Shoal Area         236975619370232
+WesternHigh Island Area         76825529078556
+CentralEwing Bank               899476 1899741
+CentralSouth Pelto Area         270493 4021779
+CentralSouth Pelto Area         232470 3221987
+CentralEwing Bank              1585179 3392515
+WesternBrazos Area               3299013122080
+CentralWest Delta Area         216083913486222
+CentralSouth Pass Area          962344 7897503
+CentralGreen Canyon            689502017207737
+CentralBay Marchand Area          6748    2872
+CentralMississippi Canyon      174558913791785
+WesternMatagorda Island Area     8879419650549
+CentralMain Pass Area          206645920814681
+WesternGarden Banks            318221015280715
+CentralWest Delta Area         212351313487349
+CentralEast Cameron Area        70183319828730
+CentralShip Shoal Area         150310112253048
+WesternAlaminos Canyon          836618 1512532
+WesternHigh Island Area         68926022063368
+CentralMississippi Canyon      655998430466799
+CentralGrand Isle Area         1084152 9206106
+CentralBay Marchand Area         20405   17673
+CentralSouth Timbalier Area    204227530111674
+CentralMississippi Canyon     1292110146852615
+CentralSouth Marsh Island Area 188006134597163
+WesternMustang Island Area       17468 4715796
+CentralMain Pass Area            17261 1231112
+WesternHigh Island Area        134837035214663
+CentralShip Shoal Area         211527018354253
+CentralChandeleur Area              18  427621
+CentralSouth Timbalier Area    173593023769686
+CentralSouth Timbalier Area    225224527781596
+WesternMatagorda Island Area     22641 5716607
+CentralChandeleur Area              15  388870
+WesternGarden Banks            338127418625581
+WesternMatagorda Island Area     6340211643662
+CentralViosca Knoll             329253 9354506
+CentralEast Cameron Area        40369813948190
+CentralGrand Isle Area          685242 6998298
+WesternMustang Island Area       3131611745637
+CentralSouth Pass Area          741689 8358195
+CentralEwing Bank              1697788 2444675
+CentralMain Pass Area          190974416247525
+CentralGrand Isle Area          688111 6479995
+CentralEwing Bank               928432 2189257
+CentralBay Marchand Area         11771    4119
+CentralMobile                     2216 9714001
+WesternNorth Padre Island Area      88 1088378
+CentralMobile                     168912133648
+WesternMustang Island Area        7985 3814712
+WesternGarden Banks            456430228996476
+CentralVermilion Area          135061825681264
+CentralEast Cameron Area        83120321861847
+CentralBay Marchand Area         14986   16372
+CentralSouth Marsh Island Area 1211588 9562380
+CentralSouth Marsh Island Area 165429032061825
+CentralEugene Island Area      274536529576880
+CentralBay Marchand Area         38254   51936
+WesternGalveston Area           149056 7026489
+WesternSabine Pass Area             50   16332
+CentralEast Cameron Area        55266720055767
+CentralGrand Isle Area          745756 6890131
+CentralMobile                      213 4217671
+CentralSouth Marsh Island Area 124136211973600
+CentralMain Pass Area          195888220968462
+CentralSouth Timbalier Area    277038134321136
+CentralSouth Marsh Island Area 103602711427261
+CentralMain Pass Area          225949612611338
+WesternHigh Island Area         80867933906569
+WesternHigh Island Area        112680433141855
+WesternNorth Padre Island Area     289 1000944
+CentralMobile                     166313864260
+CentralBreton Sound Area         62289  743914
+CentralWest Cameron Area        78086134869998
+CentralMain Pass Area          201927222804120
+CentralWest Cameron Area        57759739975277
+CentralWest Delta Area         202851213736097
+CentralVermilion Area          156575630562280
+CentralBreton Sound Area        128438  786385
+CentralChandeleur Area              62 1075081
+WesternMustang Island Area        9068 3462375
+WesternGalveston Area           204170 3520165
+WesternSabine Pass Area           1140  146804
+WesternBrazos Area               2110112031212
+WesternMatagorda Island Area     5773812006221
+CentralMain Pass Area          211175517586692
+WesternGalveston Area           134523 4508605
+WesternMustang Island Area       31392 9478769
+CentralVermilion Area          112559021870731
+CentralViosca Knoll             111852 5381639
+CentralShip Shoal Area         302823125109988
+WesternGalveston Area           356523 7192383
+WesternMatagorda Island Area     47656 9568374
+WesternNorth Padre Island Area     232 1536920
+CentralSouth Timbalier Area    189845522113251
+CentralMobile                     145511963164
+CentralSouth Timbalier Area    236281522048778
+CentralWest Cameron Area        60242738961460
+WesternSabine Pass Area              1   29154
+CentralWest Delta Area         156253211541494
+CentralEugene Island Area      337923241305382
+CentralSouth Marsh Island Area 133759811643787
+CentralMississippi Canyon      503955817498628
+WesternHigh Island Area         84011428341383
+CentralGrand Isle Area          341898 2397304
+CentralBreton Sound Area         79355  383096
+CentralVermilion Area           523793 8101967
+CentralViosca Knoll             260620 4356306
+CentralEugene Island Area      369713143396226
+CentralMain Pass Area          207637923005081
+CentralEwing Bank              1321146 1757482
+CentralVermilion Area          116610924382984
+WesternAlaminos Canyon          779348 2202639
+WesternAlaminos Canyon          757480  877404
+CentralSouth Pelto Area         327936 4457658
+WesternBrazos Area               1400610098178
+CentralMississippi Canyon     1335235952576199
+CentralSouth Pelto Area         138166 3194481
+WesternSabine Pass Area            467   58296
+CentralSouth Pass Area         120462710012454
+WesternGarden Banks            372862622184983
+CentralSouth Marsh Island Area 128585011614057
+CentralEwing Bank              2506934 3823309
+WesternMatagorda Island Area    10066518168541
+WesternGarden Banks            466922025424921
+CentralMain Pass Area          211508022973245
+CentralSouth Timbalier Area    200352925924349
+WesternBrazos Area               15493 8561919
+CentralEast Cameron Area        38178612354344
+WesternGarden Banks            270237814867476
+CentralGreen Canyon            488264915019614
+CentralMain Pass Area          226757411251582
+WesternGarden Banks            413010624201275
+WesternMustang Island Area       23208 8984691
+CentralBay Marchand Area         91355  124750
+CentralMississippi Canyon      966818233415809
+CentralViosca Knoll            267691923760805
+WesternGarden Banks            311512914277418
+WesternMatagorda Island Area     7610314948839
+CentralWest Delta Area          970454 5656338
+CentralVermilion Area          116684325255577
+WesternNorth Padre Island Area     437 1730395
+CentralBay Marchand Area         16013   23373
+WesternSabine Pass Area            419  250254
+CentralChandeleur Area              16  314518
+CentralMain Pass Area          204516915788709
+CentralEast Cameron Area        40507311919246
+CentralGreen Canyon            515522113132587
+WesternGalveston Area           130460 2811212
+WesternHigh Island Area         62717323609141
+WesternMatagorda Island Area     36370 5068216
+WesternMatagorda Island Area     33399 4715364
+CentralVermilion Area          119300619687857
+WesternMustang Island Area       12636 6001806
+CentralWest Cameron Area        47612833469604
+CentralChandeleur Area               9  242284
+WesternHigh Island Area         78777633949131
+CentralEast Cameron Area        50370310393910
+CentralChandeleur Area              37  682727
+CentralBay Marchand Area         44118   25184
+WesternMustang Island Area       20838 7646524
+CentralEugene Island Area      339036441151742
+CentralGrand Isle Area          488695 3439727
+CentralSouth Pass Area         1599733 9570942
+CentralGreen Canyon            665582512708686
+CentralSabine Pass Area          17601  493166
+CentralSouth Marsh Island Area 166324333508443
+WesternMustang Island Area        3271 1523316
+CentralEast Cameron Area        41333713026825
+CentralEugene Island Area      381915643085766
+WesternHigh Island Area        109692741056181
+WesternEast Breaks              160177 1065196
+CentralEugene Island Area      306388737575476
+CentralWest Cameron Area        48223333832016
+CentralWest Delta Area         156779610114238
+WesternHigh Island Area         469940 5621780
+CentralEast Cameron Area        364382 9681987
+CentralEast Cameron Area        37933411985547
+CentralVermilion Area          138774327748344
+CentralWest Cameron Area        59615736085991
+WesternBrazos Area               10703 9316453
+CentralBay Marchand Area           621   39761
+CentralSouth Pelto Area         231840 2965891
+WesternGalveston Area           137212 3411223
+CentralShip Shoal Area         268756623205784
+CentralGrand Isle Area         1077062 8736345
+WesternMatagorda Island Area     8088911602599
+CentralViosca Knoll            219864524658045
+WesternGalveston Area           328375 5802674
+WesternMatagorda Island Area    11177720958642
+CentralVermilion Area          117765722117052
+CentralSouth Pass Area         1131347 9655500
+CentralBreton Sound Area        112033 1036103
+CentralBay Marchand Area         14752   86839
+CentralEast Cameron Area        37967312640641
+CentralGreen Canyon            796835420884660
+CentralMobile                     199612510378
+CentralBay Marchand Area         33941   35628
+CentralChandeleur Area              35  426617
+CentralWest Cameron Area        51523434466747
+WesternEast Breaks             184418918320753
+WesternSouth Padre Island Area       0  648893
+CentralSouth Pass Area          417955 2915303
+CentralSouth Pelto Area         261910 4610586
+CentralEast Cameron Area        62379718250418
+WesternGalveston Area           141575 3382753
+WesternBrazos Area               2958614389587
+CentralGrand Isle Area          850953 8100957
+WesternNorth Padre Island Area     200 1514409
+WesternMatagorda Island Area     24023 6527977
+WesternEast Breaks              175459 1481569
+CentralChandeleur Area              55  734466
+CentralSouth Pass Area           73115 1664014
+WesternSabine Pass Area           2000  196931
+CentralViosca Knoll            233840818466546
+WesternBrazos Area               1712810347726
+WesternMatagorda Island Area    10482018401855
+CentralBreton Sound Area         62563  151256
+CentralGrand Isle Area         1050654 8014650
+CentralGreen Canyon            778039216613333
+WesternGalveston Area           174011 3464863
+CentralVermilion Area          128651624613892
+WesternAlaminos Canyon          619771 1744825
+WesternHigh Island Area        121787643074080
+CentralWest Delta Area         202361313571984
+WesternHigh Island Area         92450427746723
+CentralMississippi Canyon     1092055137639424
+CentralMobile                     119811005784
+CentralSouth Marsh Island Area 165835832344839
+CentralSouth Pelto Area         178837 1688200
+WesternHigh Island Area        103948031402094
+WesternSabine Pass Area             66  167720
+CentralEugene Island Area      286961234561014
+CentralSouth Pelto Area         156180 2978683
+CentralMississippi Canyon      694623533644663
+CentralSouth Pass Area         148569910784310
+CentralWest Delta Area         1315411 7804825
+WesternNorth Padre Island Area     293 1344064
+WesternGalveston Area           263064 6123375
+WesternEast Breaks              129404 1147355
+CentralMain Pass Area          214478426109214
+CentralSouth Pelto Area         146214 2282380
+WesternMustang Island Area       15733 4977234
+CentralMississippi Canyon     1081792537494318
+WesternAlaminos Canyon         1278998 1407158
+CentralSouth Pelto Area         277501 4201021
+WesternGalveston Area           153300 3657515
+CentralMississippi Canyon      621367626245191
+WesternMustang Island Area        8602 1834877
+CentralWest Delta Area         189028513119073
+CentralEwing Bank              1878843 2934313
+WesternGalveston Area           166234 4879036
+CentralMobile                     189212569569
+WesternEast Breaks             245860624260663
+WesternBrazos Area                5007 8379532
+CentralMississippi Canyon     1097474632098552
+CentralSouth Timbalier Area    253930327030723
+CentralEwing Bank              1377467 2973550
+CentralEugene Island Area      323961437925313
+CentralSouth Pelto Area         211183 2217117
+CentralSouth Pelto Area         161402 2487718
+WesternSabine Pass Area            501  117687
+CentralWest Delta Area         208909213463314
+CentralSouth Pass Area          716555 5709582
+WesternEast Breaks             1208111 8303905
+CentralWest Cameron Area        50076240958370
+CentralMobile                     216515241560
+CentralEast Cameron Area         40967 2624209
+CentralMississippi Canyon      536952417694530
+WesternAlaminos Canyon          739622 2068773
+WesternGalveston Area           156302 4113170
+CentralShip Shoal Area         210951114875191
+CentralSouth Pass Area          848947 7005212
+WesternGarden Banks            421596619850995
+CentralShip Shoal Area         130283610712089
+CentralViosca Knoll             338067 7333699
+CentralMobile                     177313094155
+CentralShip Shoal Area         211407019079528
+CentralGrand Isle Area          91941511852624
+CentralViosca Knoll            343284929809827
+WesternNorth Padre Island Area     219 1655434
+CentralMobile                     132014316757
+WesternSabine Pass Area             14  147718
+CentralVermilion Area          100679721975486
+WesternMustang Island Area       10543 5038252
+CentralViosca Knoll            283262923163502
+CentralMississippi Canyon     1008770833012517
+WesternGalveston Area           159395 6977110
+WesternNorth Padre Island Area      69  886603
+CentralWest Cameron Area        38025132141868
+CentralVermilion Area          143620027496713
+CentralChandeleur Area              65 1538851
+CentralSabine Pass Area          20191  506515
+CentralSouth Marsh Island Area 132228416977691
+CentralBay Marchand Area         10660  141007
+CentralMississippi Canyon      703985933852177
+CentralSouth Pass Area         209977515107781
+CentralWest Cameron Area        40274929630906
+WesternAlaminos Canyon         1069330 1139714
+CentralMobile                      903 7001505
+WesternMatagorda Island Area     42498 9869750
+CentralGreen Canyon            537306716364260
+CentralEugene Island Area      262716429407921
+CentralWest Delta Area         189114612737291
+WesternGalveston Area           198528 4178842
+CentralViosca Knoll            1150589 9886212
+WesternMatagorda Island Area     8856315873711
+CentralEast Cameron Area        71258521060023
+WesternSabine Pass Area            802  172777
+WesternEast Breaks             198927620855502
+CentralSouth Marsh Island Area 129554216206816
+CentralEwing Bank              2011062 4087430
+CentralSouth Marsh Island Area 127580716250409
+WesternGarden Banks            475652926925317
+CentralGrand Isle Area         104589512687435
+WesternMustang Island Area       16670 5771392
+CentralChandeleur Area              21  459829
+CentralChandeleur Area               1  313948
+CentralSouth Pass Area         186548013249346
+CentralSouth Timbalier Area    239971926669955
+CentralSabine Pass Area          21151  386127
+CentralWest Delta Area         1549787 8733434
+CentralWest Cameron Area        47697837808996
+CentralSouth Marsh Island Area 139125210409783
+CentralSouth Pass Area         213581213811689
+CentralVermilion Area           77998612672128
+CentralSouth Timbalier Area    234149225790036
+CentralBreton Sound Area         87230  565525
+WesternMustang Island Area       16973 5057366
+CentralVermilion Area           88850111459654
+CentralBreton Sound Area        103011  491046
+CentralSabine Pass Area          19974  366541
+WesternEast Breaks              547189 6684637
+CentralEugene Island Area      292745235574202
+WesternBrazos Area               1365510005401
+CentralEwing Bank              3087632 4351706
+CentralSabine Pass Area          22162  437787
+CentralChandeleur Area              37  111618
+CentralEwing Bank              2120586 4319011
+CentralWest Delta Area         1412204 9355577
+WesternMustang Island Area       16441 5774632
+CentralSouth Marsh Island Area 132984411189837
+CentralSouth Marsh Island Area 141013811842351
+WesternHigh Island Area         88190429777770
+CentralBreton Sound Area         95329  972619
+CentralSabine Pass Area          17317  544643
+CentralSouth Pelto Area         263599 3516141
+CentralBreton Sound Area         96292 1043852
+CentralSouth Pass Area          406901 3373028
+CentralBreton Sound Area        127611  501342
+CentralBay Marchand Area         15878   22995
+CentralGrand Isle Area          678394 8255763
+WesternNorth Padre Island Area       1  857178
+CentralShip Shoal Area         232280816191014
+WesternNorth Padre Island Area       0  797383
+CentralSouth Timbalier Area    181693323837887
+CentralGrand Isle Area          141278 1366925
+CentralSouth Marsh Island Area 111752310150739
+CentralShip Shoal Area         272558621098950
+WesternBrazos Area               29181 8050952
+CentralWest Cameron Area        45966634253769
+CentralSabine Pass Area          22108  467595
+WesternAlaminos Canyon         1355748 1374670
+CentralMississippi Canyon     1772528743342961
+WesternNorth Padre Island Area     145 1141034
+WesternBrazos Area               2448910480631
+WesternGalveston Area           279556 7402552
+CentralBreton Sound Area         50879  658492
+CentralWest Cameron Area        41442331781571
+CentralSouth Marsh Island Area 119168812175620
+CentralMobile                     1873 8816800
+CentralGrand Isle Area          572394 6115077
+CentralSouth Timbalier Area    184152823514902
+CentralSouth Timbalier Area    269607429377690
+CentralSouth Marsh Island Area 142063910857704
+CentralSabine Pass Area          18430  651227
+WesternNorth Padre Island Area     155 1023569
+CentralSouth Pelto Area         160221 2394650
+WesternNorth Padre Island Area     385 1676966
+CentralBay Marchand Area         42986   61829
+CentralWest Cameron Area        47411333432840
+CentralShip Shoal Area         146922212959797
+CentralSabine Pass Area          13446  446256
+CentralSabine Pass Area          15746  289146
+CentralGrand Isle Area          508392 3063495
+CentralMississippi Canyon      778631032050317
+WesternMustang Island Area        9751 4750674
+CentralChandeleur Area              62 1686102
+CentralVermilion Area          124128926438312
+CentralSouth Timbalier Area    265874527205899
+CentralMain Pass Area          199860210033389
+CentralShip Shoal Area         227312317670265
+CentralSouth Marsh Island Area 111843021052307
+CentralGrand Isle Area          477408 2937417
+WesternGarden Banks            269984314265132
+WesternMustang Island Area       11251 4876270
+CentralShip Shoal Area         138765011242603
+WesternMatagorda Island Area     7067613646300
+WesternEast Breaks             206960018171039
+WesternMustang Island Area       67918 1774535
+CentralVermilion Area          135288430825587
+CentralGreen Canyon            577889115348295
+CentralWest Delta Area         155363710899607
+CentralGreen Canyon            2086364 9657980
+WesternGalveston Area           231164 6152270
+WesternEast Breaks             187864721038347
+CentralSouth Pass Area          416790 3299363
+CentralEugene Island Area      190807919934421
+CentralEast Cameron Area        44807814983877
+WesternAlaminos Canyon          664832  774315
+CentralMobile                     139311222358
+WesternHigh Island Area        116196238473356
+CentralShip Shoal Area         138898411641758
+CentralEast Cameron Area        43327813803502
+CentralSouth Pass Area         131115110536407
+WesternNorth Padre Island Area       1 1428403
+CentralEwing Bank              2688880 4356364
+CentralEwing Bank              1252853 2054724
+CentralSabine Pass Area          15781  291982
+WesternGarden Banks            256641014343389
+CentralGreen Canyon            1342020 8327514
+WesternMatagorda Island Area     15567 4698406
+CentralSouth Pass Area         199946511224840
+CentralEast Cameron Area        76152621469025
+CentralShip Shoal Area         137511311597163
+CentralBreton Sound Area         68008  664614
+CentralChandeleur Area             188  296659
+CentralGreen Canyon            243110011626077
+WesternGarden Banks            335772116412468
+CentralEwing Bank              1317460 1913883
+WesternHigh Island Area        105024635320749
+WesternNorth Padre Island Area       0 1598660
+CentralGreen Canyon            452564113160330
+WesternHigh Island Area         61997723558159
+WesternGalveston Area           149784 6825123
+CentralMain Pass Area           918522 4842374
+CentralChandeleur Area               0  396642
+CentralShip Shoal Area         130193112535776
+WesternMustang Island Area        7760 3084220
+WesternGarden Banks            166705513528535
+WesternAlaminos Canyon         1779559 1765469
+CentralBreton Sound Area         76107  417888
+CentralEwing Bank              3618461 7588524
+WesternMustang Island Area       25586 8404166
+CentralEwing Bank              3405118 4719572
+CentralMain Pass Area          232582710768812
+CentralViosca Knoll             659984 8308355
+CentralViosca Knoll            266423823215642
+CentralGrand Isle Area          920541 7361906
+CentralWest Cameron Area        51297032189596
+CentralSouth Pass Area         1007487 9141637
+CentralWest Cameron Area        48203536133087
+WesternMustang Island Area       23033 5807006
+CentralChandeleur Area              22  490989
+CentralBay Marchand Area          9788   63322
+CentralSabine Pass Area          11955  333876
+CentralVermilion Area           400698 6638724
+CentralMississippi Canyon      175749814240996
+CentralMobile                     154512805411
+CentralEast Cameron Area        87371025929052
+CentralSabine Pass Area          21331  223830
+WesternMatagorda Island Area     39962 7569829
+CentralSouth Marsh Island Area 114823311016045
+CentralMobile                     2697 9495443
+WesternMustang Island Area        4085 1664267
+WesternNorth Padre Island Area      92  587300
+CentralSouth Pelto Area         138074 2505255
+CentralGreen Canyon            526228211523111
+CentralShip Shoal Area         119487910811148
+WesternMustang Island Area       28077 8124421
+WesternGarden Banks            301058215136567
+CentralShip Shoal Area         148095411091009
+CentralSouth Marsh Island Area  696132 4171503
+CentralEwing Bank               932771 2005634
+WesternSabine Pass Area            586  288993
+WesternNorth Padre Island Area     340 1853675
+CentralSouth Timbalier Area    276150830412118
+CentralSouth Timbalier Area    176971421725000
+CentralWest Delta Area         152035511542881
+CentralMobile                     287711375350
+CentralMain Pass Area          1011401 6909602
+WesternBrazos Area               22121 9603714
+CentralWest Delta Area         200146311704862
+WesternHigh Island Area         82539221617313
+CentralSouth Pass Area         211886411088765
+CentralSabine Pass Area          14456  183809
+WesternMatagorda Island Area     9973315115285
+WesternBrazos Area               23278 8892132
+WesternMustang Island Area       27007 8800661
+WesternAlaminos Canyon          736780 2088289
+CentralEwing Bank              3016576 4069695
+WesternGarden Banks            324401314467694
+WesternNorth Padre Island Area      68  600265
+CentralMississippi Canyon     1749651953106874
+WesternEast Breaks             221750416142361
+CentralViosca Knoll            385948028474805
+CentralSouth Pass Area          376203 2274894
+CentralGreen Canyon            672738617511433
+CentralWest Cameron Area        49358637868600
+CentralBay Marchand Area         50689   53032
+WesternGalveston Area           145731 3897971
+CentralViosca Knoll            267184523331163
+CentralGrand Isle Area          165261 1243837
+CentralBreton Sound Area         90646  866352
+CentralSouth Pelto Area         160406 3293784
+CentralSabine Pass Area          18795  538536
+WesternGalveston Area           254762 5031844
+CentralChandeleur Area             105  419915
+WesternAlaminos Canyon          585637 1377638
+CentralMississippi Canyon      475577717126405
+CentralViosca Knoll            169147514587770
+WesternNorth Padre Island Area     281 1545603
+CentralEugene Island Area      250653828413252
+WesternGarden Banks            393664525402129
+CentralWest Delta Area         144948810390427
+WesternMustang Island Area       15175 5555580
+WesternEast Breaks             199960021177959
+WesternGalveston Area           308645 5856675
+WesternGalveston Area           385460 6863701
+CentralWest Cameron Area        32481632310592
+WesternGalveston Area           304668 5873610
+WesternNorth Padre Island Area     287 1005485
+CentralSouth Pelto Area         244138 3455338
+WesternSabine Pass Area            133  123511
+CentralSabine Pass Area          17773  280707
+WesternGarden Banks            227742412884873
+CentralViosca Knoll            263096524858372
+WesternEast Breaks              193291 2119727
+CentralSouth Pelto Area         210434 3831499
+WesternBrazos Area               14220 9366893
+CentralEast Cameron Area        81745222589299
+CentralEwing Bank               814746 1744860
+CentralGreen Canyon            882910621378127
+CentralSouth Marsh Island Area 167411934539147
+CentralMobile                     159610360641
+CentralSouth Marsh Island Area 118479211192869
+WesternHigh Island Area         70487924250090
+CentralEugene Island Area       90973114220963
+CentralShip Shoal Area         1016902 9209755
+CentralBreton Sound Area         62765  785910
+CentralShip Shoal Area         224944916729066
+WesternHigh Island Area        114167237579498
+WesternMatagorda Island Area     37812 8604269
+CentralEwing Bank              1613510 3157646
+WesternHigh Island Area         60226522710636
+CentralEwing Bank              2017465 3363680
+WesternMustang Island Area       13344 3486784
+CentralSouth Timbalier Area    184086524787770
+WesternSabine Pass Area            760  254363
+CentralViosca Knoll             327892 4726490
+CentralEast Cameron Area        79882824107507
+CentralMississippi Canyon     1381882149978720
+CentralSouth Pelto Area         197050 2617718
+CentralMississippi Canyon     1222257732978554
+CentralMobile                     427015591310
+CentralSouth Pass Area          931000 6075150
+CentralSouth Marsh Island Area 145061910968500
+WesternHigh Island Area         85143930340735
+WesternHigh Island Area         67603023074167
+CentralGreen Canyon            365612114304575
+WesternSabine Pass Area            468  275656
+CentralSouth Marsh Island Area 123651622962894
+WesternMatagorda Island Area     8495218961960
+CentralSouth Pelto Area         150723 1378326
+CentralSouth Pelto Area         226806 3419332
+CentralMississippi Canyon     1761307846704428
+CentralSouth Pass Area         1102523 8374799
+WesternMatagorda Island Area     17879 4720399
+CentralSouth Marsh Island Area 141550411887360
+WesternBrazos Area               16968 7954045
+CentralBay Marchand Area             0     148
+CentralBreton Sound Area         86537  516624
+CentralShip Shoal Area          891607 7861390
+WesternAlaminos Canyon          829531  806683
+CentralSouth Timbalier Area    237061525042886
+CentralGrand Isle Area          873360 6459889
+CentralSouth Pelto Area         168491 1926387
+CentralGrand Isle Area           16311  459015
+WesternGalveston Area           140145 3550519
+WesternMustang Island Area        2336 1400836
+CentralViosca Knoll            368523028745881
+CentralGrand Isle Area          604633 4301460
+WesternNorth Padre Island Area     206  949973
+CentralEwing Bank              1843100 2887781
+WesternSabine Pass Area              7  481107
+WesternMatagorda Island Area     48944 9115205
+CentralEast Cameron Area        46924917235751
+CentralSouth Pelto Area         232331 3571603
+CentralEast Cameron Area        60234616918462
+CentralSouth Pass Area           37752  479428
+WesternGarden Banks            312858915838262
+WesternHigh Island Area         66304121163675
+WesternEast Breaks              184610 2920134
+CentralSouth Pass Area         193962212921206
+WesternSabine Pass Area             91   25188
+CentralVermilion Area          127489524905067
+CentralBay Marchand Area         50733  117987
+CentralMobile                     209312632874
+CentralMain Pass Area          1279372 7560499
+WesternNorth Padre Island Area     257 1685460
+WesternGarden Banks            370005817863229
+CentralEwing Bank              1369634 3110212
+WesternNorth Padre Island Area     682 1043486
+CentralMississippi Canyon     1647284552906885
+WesternGalveston Area           154670 4946692
+CentralSouth Pelto Area         237486 2397493
+CentralEwing Bank               898246 1797798
+CentralViosca Knoll            119168812438510
+CentralSouth Pass Area          679422 6539496
+CentralVermilion Area           92547711970183
+WesternGarden Banks            310491117938326
+CentralSabine Pass Area          20953  561249
+CentralBay Marchand Area         88746   72398
+WesternSabine Pass Area             56  137654
+CentralChandeleur Area              60 1362293
+CentralMobile                      713 7110845
+WesternMustang Island Area       22227 9545846
+CentralWest Cameron Area        96885037324001
+CentralSouth Timbalier Area    285057731794315
+WesternEast Breaks             235811222598341
+WesternSabine Pass Area             10   94869
+CentralSabine Pass Area          16167  511837
+CentralEugene Island Area      225220926122661
+CentralChandeleur Area              72  507018
+CentralSouth Timbalier Area    179779724392294
+WesternMatagorda Island Area     24585 7953770
+WesternBrazos Area               15520 8775438
+CentralGreen Canyon            756221820209265
+CentralViosca Knoll             508077 8563691
+CentralChandeleur Area             178  453249
+WesternHigh Island Area         68462423942505
+CentralSouth Timbalier Area     834379 8664942
+WesternMustang Island Area       20909 8994638
+CentralSouth Timbalier Area    208108822367149
+CentralGrand Isle Area          621454 6160949
+CentralEwing Bank              1151595 1681673
+WesternGarden Banks            398862222355918
+CentralViosca Knoll            347040029546488
+CentralWest Delta Area         213618512392244
+WesternHigh Island Area         81094027405481
+CentralSouth Pass Area         240543613813315
+CentralGreen Canyon            586000514995353
+WesternMatagorda Island Area     15728 4676916
+CentralMississippi Canyon      596336821146509
+CentralChandeleur Area              47  407587
+CentralGrand Isle Area          196009 1387623
+WesternGalveston Area           293453 5404222
+WesternNorth Padre Island Area     219 1360858
+WesternGalveston Area           195918 5576634
+CentralGreen Canyon            1154833 7537910
+CentralEwing Bank              1440133 1642841
+CentralEugene Island Area      202751722712414
+WesternGalveston Area           299570 7077461
+CentralEwing Bank              1758431 2705229
+CentralSouth Pelto Area         250587 3161480
+CentralGreen Canyon            6209107 9718591
+CentralWest Cameron Area        46492036936247
+CentralMobile                     173212279786
+WesternSabine Pass Area              1  154402
+WesternBrazos Area               2077312955451
+CentralGrand Isle Area          816424 7489600
+CentralChandeleur Area              17  943142
+WesternHigh Island Area        127826335421424
+WesternGarden Banks            302074218031105
+CentralMississippi Canyon      792772336033932
+CentralSouth Marsh Island Area 153765732997937
+WesternMustang Island Area       15925 6474678
+CentralMain Pass Area          214335017783958
+WesternGarden Banks            317564119597713
+CentralSouth Pass Area         1081750 8918202
+CentralSouth Timbalier Area    275146527175939
+CentralViosca Knoll            286494022763937
+CentralWest Delta Area         197606411437781
+WesternGalveston Area           152847 3575397
+CentralViosca Knoll            258756819377155
+CentralGreen Canyon            1778797 9282612
+WesternEast Breaks              175795 1482871
+WesternMatagorda Island Area     9142014539653
+WesternGarden Banks            456115326461559
+CentralWest Cameron Area        50710737350818
+WesternMustang Island Area       16728 6777047
+CentralBay Marchand Area         16146   97477
+CentralChandeleur Area              43 1180489
+CentralShip Shoal Area         152645512897169
+WesternBrazos Area               2109310081685
+CentralEast Cameron Area        76409121782632
+CentralSouth Pass Area         193089413503945
+CentralSouth Timbalier Area    248989118070873
+CentralGrand Isle Area         107710712640887
+CentralEast Cameron Area        85015922346511
+CentralGrand Isle Area          432231 2827623
+CentralWest Delta Area          267312 2949080
+CentralViosca Knoll            181486410654910
+CentralSouth Marsh Island Area 134717112427859
+WesternAlaminos Canyon         1739030 3043403
+CentralMississippi Canyon      370863116883484
+CentralMobile                      852 6144838
+CentralViosca Knoll            302297827167038
+CentralVermilion Area          122479528336658
+CentralEast Cameron Area        35706713117073
+CentralMain Pass Area          233124716824088
+CentralMobile                     142611506429
+CentralSouth Marsh Island Area 169563634786361
+CentralGrand Isle Area          843218 8406449
+CentralEugene Island Area      237620626838957
+CentralBay Marchand Area         45060   39789
+WesternHigh Island Area         78314718316925
+CentralSabine Pass Area          17412  336249
+CentralSouth Pelto Area         279852 5074114
+CentralSouth Marsh Island Area 176258137041083
+CentralMain Pass Area          199968117276586
+CentralEast Cameron Area        94240625524941
+CentralGreen Canyon            3337690 7191190
+CentralBreton Sound Area         61379  646154
+CentralBreton Sound Area         95177 1022720
+CentralGrand Isle Area         1006171 8337478
+CentralShip Shoal Area         223979318881871
+CentralWest Delta Area         186878114993667
+WesternGarden Banks            403470823550693
+CentralSouth Pelto Area         354170 3971277
+CentralSouth Marsh Island Area 113929913279048
+CentralGreen Canyon            667211911403252
+CentralViosca Knoll            270513826289509
+CentralMobile                     348214941861
+WesternSabine Pass Area           1161  193917
+WesternSabine Pass Area           1836  192419
+CentralMississippi Canyon      944048335571484
+CentralViosca Knoll            363457434020065
+CentralSouth Pelto Area         216165 3403149
+CentralViosca Knoll            254233422689455
+CentralSouth Timbalier Area    265695825774227
+WesternGarden Banks            460882320997646
+WesternMustang Island Area        5129 2299578
+WesternMustang Island Area       20056 8744181
+WesternMustang Island Area       12405 5001588
+WesternGarden Banks            464228021396174
+CentralEugene Island Area      331327239835849
+CentralWest Delta Area         1397950 9255096
+WesternSabine Pass Area              4  285723
+CentralMain Pass Area          211951924631207
+CentralEast Cameron Area        49632915102140
+CentralSouth Marsh Island Area 161859731929675
+CentralMississippi Canyon     1508781544022111
+CentralBay Marchand Area         92827   99941
+WesternAlaminos Canyon          200169  389970
+CentralMobile                      46316486361
+WesternEast Breaks             181486617945049
+CentralEast Cameron Area        68575420210798
+WesternBrazos Area               3087012555721
+WesternSabine Pass Area           1154  113783
+CentralChandeleur Area              72 1093710
+CentralMississippi Canyon     1327115952885896
+WesternSabine Pass Area            112   81154
+WesternEast Breaks             183636617780994
+CentralMain Pass Area          222691616741465
+CentralGreen Canyon            300720111606929
+CentralBay Marchand Area         40027   25510
+CentralWest Cameron Area        46904436197559
+WesternMatagorda Island Area     7264515257471
+CentralEugene Island Area      220599224836385
+CentralVermilion Area           93198415853981
+WesternBrazos Area                9744 8335653
+CentralGrand Isle Area          760897 7673410
+CentralEugene Island Area      361449442232447
+WesternBrazos Area               14659 8232271
+WesternGalveston Area           155879 3620806
+CentralEugene Island Area      120524213232143
+CentralSouth Marsh Island Area 191896335725323
+CentralGreen Canyon            780751413093970
+CentralWest Cameron Area        42353729083402
+CentralSouth Pass Area         212525211856793
+CentralMississippi Canyon      770216833740190
+CentralMain Pass Area          221327916040439
+CentralVermilion Area          111803122559768
+CentralSouth Timbalier Area    199356825360943
+CentralEast Cameron Area        47157615276453
+CentralChandeleur Area              41  414008
+CentralEugene Island Area      289577835584906
+WesternSabine Pass Area              0  240879
+CentralSouth Pelto Area         201935 3239732
+CentralChandeleur Area              14  480269
+CentralEwing Bank               989977 1194997
+CentralBay Marchand Area         18274   14273
+CentralEwing Bank              1679550 2815720
+CentralShip Shoal Area         151457012105481
+CentralMississippi Canyon     1327220350466757
+CentralViosca Knoll            236642915466538
+WesternNorth Padre Island Area     670 1575476
+CentralEugene Island Area      373907145834839
+CentralSouth Marsh Island Area 117239711828970
+CentralSouth Marsh Island Area 130016313269141
+WesternGalveston Area           202907 4588847
+WesternGalveston Area           145068 3320324
+CentralSabine Pass Area          12448  283746
+WesternMustang Island Area       11947 4736944
+WesternHigh Island Area         69663124841187
+CentralMississippi Canyon      440083617836075
+CentralSabine Pass Area          21973  332037
+CentralGrand Isle Area          97054810509080
+CentralSabine Pass Area          18298  128707
+CentralWest Delta Area          860502 5519680
+WesternEast Breaks              745351 9375433
+CentralVermilion Area           96237617170510
+CentralVermilion Area           97266311755191
+CentralBreton Sound Area         71485  549302
+CentralMain Pass Area          227971716917575
+CentralChandeleur Area              28  664579
+CentralGreen Canyon            643019210404710
+CentralGrand Isle Area          680214 7307625
+WesternAlaminos Canyon         1172315 1297927
+CentralWest Delta Area         1217927 6854151
+CentralVermilion Area          130413726079266
+CentralSouth Timbalier Area    267597729197592
+CentralViosca Knoll            333073929088531
+CentralMississippi Canyon     1274927841284733
+WesternMustang Island Area       13509 4779503
+CentralBreton Sound Area        101230 1018666
+CentralGreen Canyon            584095614875093
+CentralWest Cameron Area        33018926088404
+WesternBrazos Area               2481313073277
+WesternEast Breaks              207188 1985428
+CentralSouth Marsh Island Area 190833333715888
+CentralChandeleur Area              73  397270
+CentralGreen Canyon            629577815057511
+WesternMatagorda Island Area     8881719478982
+CentralChandeleur Area              28  318912
+WesternAlaminos Canyon          938272 1215063
+WesternGarden Banks            406537024382222
+CentralBay Marchand Area         16020  146512
+CentralSouth Pelto Area         193992 3548182
+WesternMustang Island Area        3863 1621702
+CentralWest Delta Area         179501410943010
+WesternEast Breaks             1320331 6434119
+WesternGarden Banks            416437224383199
+CentralSouth Timbalier Area    190050225926590
+CentralBay Marchand Area         35491   19222
+CentralGreen Canyon            652673218845533
+CentralSouth Pelto Area         248040 3545070
+CentralWest Cameron Area        29645831542986
+CentralSouth Marsh Island Area 165936132551604
+WesternGarden Banks            262157214768010
+CentralSabine Pass Area          20864  514572
+CentralSabine Pass Area          34366  337513
+CentralEast Cameron Area        42869314699212
+CentralBay Marchand Area         14510  139924
+CentralWest Cameron Area        69553230272023
+WesternSabine Pass Area           1097  132344
+CentralBreton Sound Area         59285  738311
+CentralGrand Isle Area         1070099 7732231
+CentralGrand Isle Area          747667 8003076
+CentralWest Cameron Area        82870236760182
+CentralMobile                     222110212748
+CentralWest Cameron Area        41203932648908
+CentralEwing Bank              1716789 4035842
+CentralChandeleur Area               7  149015
+WesternMustang Island Area       23114 8884975
+CentralVermilion Area          119564423819517
+CentralViosca Knoll            264738121892702
+CentralSouth Pass Area         207061414204408
+CentralViosca Knoll            116203315541158
+WesternNorth Padre Island Area     118 1233766
+CentralMississippi Canyon      490740717361802
+CentralEugene Island Area      211481923310714
+CentralBreton Sound Area         85156  315930
+CentralBay Marchand Area         27331   26210
+CentralWest Cameron Area        72378738226106
+WesternSabine Pass Area             11  257354
+CentralSabine Pass Area          18343  231324
+CentralVermilion Area          110549025270108
+CentralSouth Marsh Island Area 1248240 9706507
+WesternMatagorda Island Area    11331919960135
+CentralSouth Pass Area         111148410604186
+CentralSouth Pelto Area         225315 3636382
+CentralMobile                     265618266839
+CentralMain Pass Area          141608115033033
+CentralShip Shoal Area         228543320604247
+CentralEugene Island Area      248065228784207
+CentralShip Shoal Area          629661 5098145
+CentralMain Pass Area          177771119472767
+CentralEast Cameron Area        65533717155770
+WesternGalveston Area           139344 7295777
+CentralChandeleur Area              39  297707
+WesternNorth Padre Island Area     875 1109150
+CentralBreton Sound Area         44296  367440
+WesternBrazos Area               1299110214559
+CentralSouth Pass Area         201629513476417
+WesternGarden Banks            304213113667592
+CentralEast Cameron Area        103395 4274452
+CentralEugene Island Area      260309629921947
+CentralVermilion Area           491202 7376356
+CentralWest Delta Area          292011 2294722
+WesternSabine Pass Area            106   40363
+CentralMississippi Canyon     1074248940371871
+CentralSouth Pelto Area         150274 2911859
+WesternAlaminos Canyon          624294  723745
+CentralSabine Pass Area          25200  320404
+CentralEwing Bank              1852952 3585958
+WesternMustang Island Area       19441 6350409
+WesternSabine Pass Area            963  310356
+WesternSabine Pass Area            251   33115
+WesternHigh Island Area         79001529906664
+WesternGalveston Area           168958 4403964
+WesternSabine Pass Area           1114  142766
+WesternEast Breaks              542205 7580799
+CentralSouth Timbalier Area    196751424288449
+CentralMain Pass Area          196848515950395
+WesternEast Breaks              548678 7673831
+CentralSouth Timbalier Area    205861725172915
+CentralSouth Pass Area          867433 6844005
+CentralEugene Island Area      279347030700516
+CentralMain Pass Area          211310322897769
+CentralSouth Pass Area         1053438 9021237
+CentralWest Cameron Area        49501030584440
+CentralWest Delta Area         196051313804847
+WesternBrazos Area                8804 6895321
+CentralSouth Marsh Island Area 117281916048683
+CentralEast Cameron Area        68259920490512
+CentralGreen Canyon            652911416728807
+WesternNorth Padre Island Area     499 1569516
+CentralSouth Pass Area           28752  216075
+CentralSabine Pass Area          18953  490933
+CentralWest Cameron Area        58147336478618
+WesternNorth Padre Island Area     569 1294414
+CentralChandeleur Area               0  573255
+CentralEwing Bank              1733791 3099996
+WesternGalveston Area            92296 2670077
+CentralWest Delta Area         1080542 6590330
+CentralEwing Bank              1004990 2073704
+CentralMobile                      792 9986763
+WesternAlaminos Canyon          815718 1107254
+CentralGreen Canyon            562871613573969
+CentralMobile                     1123 8181652
+WesternMustang Island Area       14658 4502754
+WesternEast Breaks              209160 1895920
+CentralSouth Pelto Area         230288 2364244
+CentralEwing Bank              1391389 1657695
+WesternHigh Island Area         76564332256409
+WesternBrazos Area               16773 7666170
+CentralEugene Island Area      300136132358029
+CentralEast Cameron Area        41503512913959
+CentralVermilion Area          108250424838175
+WesternMatagorda Island Area     7513617128051
+CentralEwing Bank              2852296 5761067
+WesternMatagorda Island Area     44820 8435041
+CentralWest Cameron Area        36488231300636
+CentralSouth Timbalier Area    204182823815103
+CentralVermilion Area           74582812008317
+CentralSabine Pass Area          15160  316628
+WesternGarden Banks            366038521206538
+WesternMatagorda Island Area     15985 4787710
+WesternGalveston Area           368961 7238429
+WesternGalveston Area           222625 5301253
+CentralSouth Timbalier Area    195508625717263
+WesternEast Breaks             167875217325251
+WesternGalveston Area           142533 7219458
+CentralSouth Marsh Island Area 141193928034395
+WesternEast Breaks              146951 1471818
+CentralBay Marchand Area         15511    6225
+CentralGreen Canyon            745663316879240
+CentralMobile                     2148 9621800
+WesternHigh Island Area         86501428537955
+CentralWest Cameron Area        56252944914795
+WesternAlaminos Canyon          243520  392587
+WesternEast Breaks              190547 2506259
+CentralBay Marchand Area         10228   69425
+CentralSouth Timbalier Area    245606325505521
+CentralEugene Island Area      292335436301567
+WesternMatagorda Island Area     34864 8729386
+WesternBrazos Area               24249 9035462
+CentralSouth Timbalier Area    180308621855097
+CentralWest Delta Area         230707514065372
+CentralEwing Bank              1100422 2108477
+WesternAlaminos Canyon          778465 2206197
+WesternSabine Pass Area           1385  124724
+CentralMobile                     140816689600
+CentralSouth Pelto Area         171874 1520720
+CentralWest Delta Area         168621411479006
+CentralMississippi Canyon      322034614966119
+CentralEwing Bank              1557467 2247944
+WesternBrazos Area                8683 7137842
+CentralViosca Knoll            276944924967189
+CentralGreen Canyon            649495614965597
+CentralEwing Bank              1621682 2335321
+CentralChandeleur Area               9  257806
+CentralChandeleur Area              48 1028526
+WesternNorth Padre Island Area     645 1395994
+WesternGarden Banks            307875916023879
+CentralBreton Sound Area         52857  456369
+WesternMatagorda Island Area     15436 3698974
+CentralGrand Isle Area          90026710769694
+CentralMississippi Canyon     1025468635994892
+WesternGalveston Area           160599 4090623
+WesternNorth Padre Island Area     514 1995692
+WesternBrazos Area               20090 8424493
+CentralEugene Island Area      357904143526119
+CentralShip Shoal Area         174158513256480
+CentralEwing Bank              2115400 4105234
+CentralSouth Marsh Island Area 183945532820526
+CentralGreen Canyon            725492019049969
+CentralGrand Isle Area          673707 6487438
+WesternEast Breaks              191440 2871115
+CentralGrand Isle Area          721395 7077181
+CentralViosca Knoll             306749 4715841
+CentralEwing Bank              3411322 4735855
+CentralSouth Marsh Island Area 159684730854845
+CentralChandeleur Area              29  526720
+WesternMustang Island Area       16610 4377469
+CentralMississippi Canyon      663201429602570
+CentralGrand Isle Area          869096 6725321
+CentralEast Cameron Area        308007 9015259
+CentralSouth Pelto Area         246310 3530903
+WesternNorth Padre Island Area      66  678653
+CentralMobile                     1039 7545351
+CentralSouth Pass Area          820293 6106748
+WesternGalveston Area           353830 6055151
+CentralVermilion Area           99034723564916
+WesternHigh Island Area         77028626552693
+WesternNorth Padre Island Area     397 1572799
+CentralSouth Pelto Area         165229 1841965
+CentralBay Marchand Area         24158   23776
+WesternGarden Banks            418844020901402
+CentralGreen Canyon            176289310038637
+CentralSabine Pass Area          16945  292974
+CentralEast Cameron Area        35386612452054
+CentralChandeleur Area              71  351434
+WesternMustang Island Area        6847 2715428
+WesternGarden Banks            280493920227901
+CentralBay Marchand Area         45491   43965
+CentralEugene Island Area      365611941956178
+CentralGreen Canyon            1098211 8326959
+WesternBrazos Area               16514 7761668
+CentralWest Cameron Area        61258337165458
+CentralMississippi Canyon     1549448548519002
+CentralEugene Island Area      191157120634415
+CentralEwing Bank               854517 1573282
+CentralSouth Timbalier Area    226328724767365
+WesternMustang Island Area        7304 2723923
+CentralMobile                      658 7477965
+CentralShip Shoal Area         210660719730076
+WesternGalveston Area           144956 3250089
+CentralSabine Pass Area          13944  195247
+CentralMississippi Canyon      469333119239362
+CentralSouth Timbalier Area    211830827893207
+CentralMain Pass Area          190565316383967
+WesternGarden Banks            285152714846407
+CentralMain Pass Area          226864512256679
+CentralEast Cameron Area        41049913610886
+WesternMatagorda Island Area    11138720429874
+CentralMobile                     220614138927
+CentralBreton Sound Area        112565  424720
+CentralSabine Pass Area          19925  217600
+CentralWest Delta Area         1267906 8599363
+WesternNorth Padre Island Area      76  490592
+WesternGarden Banks            338392218760583
+WesternNorth Padre Island Area      91 1507768
+WesternSabine Pass Area            138  223216
+CentralSouth Timbalier Area    225688426680535
+CentralMobile                      76915836394
+CentralSouth Pass Area            4792  190407
+CentralGreen Canyon            748044713474752
+CentralSouth Marsh Island Area 123114611678072
+CentralBreton Sound Area         56961  693637
+CentralMississippi Canyon     1578824955379795
+CentralSouth Timbalier Area    254850024421166
+WesternMustang Island Area       15349 4139436
+CentralGrand Isle Area          446009 3050514
+CentralViosca Knoll            262271917336450
+WesternBrazos Area               24806 7516273
+WesternMatagorda Island Area     22226 6123223
+CentralSouth Marsh Island Area 127862514978067
+CentralChandeleur Area              41  327011
+WesternMatagorda Island Area     5838611578130
+CentralSouth Pelto Area         206557 3736742
+CentralSouth Pelto Area         233631 3363994
+CentralEwing Bank              1401386 3944381
+WesternMustang Island Area        8875 2921400
+CentralShip Shoal Area         231078922062482
+CentralEugene Island Area      280691534595362
+WesternGalveston Area           156142 3194192
+CentralSouth Timbalier Area    156194911401675
+WesternGalveston Area           204154 6313513
+WesternEast Breaks             226219625011585
+CentralMississippi Canyon      665916931370728
+CentralSouth Timbalier Area    253183120745675
+CentralShip Shoal Area         174559013907369
+WesternGalveston Area           367264 6085154
+CentralGreen Canyon            443219112063128
+WesternAlaminos Canyon          977469  950772
+WesternMustang Island Area        4639 1269348
+CentralEast Cameron Area        78760822730121
+CentralBay Marchand Area        101688   74251
+WesternEast Breaks             244324223661460
+WesternGarden Banks            310704216227154
+CentralChandeleur Area              12  572530
+WesternEast Breaks              142769  799395
+CentralBay Marchand Area         12817    5900
+WesternMustang Island Area       42108 1686198
+CentralChandeleur Area               2   90102
+WesternGarden Banks            433657119767718
+CentralEugene Island Area      250662526413122
+CentralEast Cameron Area        57277220310826
+CentralGrand Isle Area          448061 2756932
+CentralBay Marchand Area         25826   13623
+WesternNorth Padre Island Area      57  712770
+WesternAlaminos Canyon         1863008 2415443
+WesternHigh Island Area        119223637581322
+CentralShip Shoal Area         273296623410000
+CentralGrand Isle Area          905721 7054815
+WesternNorth Padre Island Area     569 1186218
+CentralEugene Island Area      363197241079631
+WesternGalveston Area           185730 7476545
+CentralEwing Bank              2490228 4617027
+CentralEugene Island Area      396137144944692
+WesternMustang Island Area        5787 1267650
+CentralSouth Pass Area         181603410974088
+WesternSabine Pass Area            456  256556
+WesternBrazos Area               2903313456163
+CentralVermilion Area          141609126165251
+CentralWest Delta Area         228275515311059
+CentralMississippi Canyon     1283556240058479
+CentralSouth Pelto Area         145151 3098344
+WesternGarden Banks            250794512976291
+CentralEwing Bank              1200536 1770916
+CentralWest Delta Area         194031513241455
+CentralWest Delta Area         183175812871899
+CentralBay Marchand Area         48071   56396
+CentralChandeleur Area              35 1382631
+WesternEast Breaks              198578 2574815
+CentralEwing Bank              2071872 3010124
+CentralSouth Timbalier Area    184906525126216
+CentralEast Cameron Area        41950013701844
+CentralSabine Pass Area          17530  378328
+WesternGarden Banks            299719016168025
+CentralWest Cameron Area        39617534490935
+CentralViosca Knoll            266381320925334
+CentralGreen Canyon            6279986 9828729
+WesternGarden Banks            293099715168962
+CentralVermilion Area          122801825414617
+WesternGalveston Area           181378 4760113
+CentralGrand Isle Area          604868 6968685
+WesternEast Breaks              204863 1861875
+CentralWest Cameron Area        43376836924363
+WesternMustang Island Area       15011 2586795
+WesternSabine Pass Area           1203  211238
+CentralVermilion Area          101663321260966
+CentralWest Delta Area         197398212985831
+CentralWest Cameron Area        54609341338879
+CentralVermilion Area           97661012673540
+CentralSouth Pass Area          816521 4828268
+CentralChandeleur Area              25  918409
+CentralWest Delta Area         1480215 8498670
+WesternMatagorda Island Area    11185818426787
+CentralBreton Sound Area         84157  522900
+CentralMain Pass Area          194370720012839
+CentralChandeleur Area              35  468674
+CentralShip Shoal Area         229387219444440
+WesternEast Breaks              186301 2985861
+WesternHigh Island Area        135455144401355
+CentralGreen Canyon            539117713783845
+WesternEast Breaks              255540 3324068
+CentralVermilion Area           80876320235836
+WesternSabine Pass Area            115   35780
+CentralSouth Marsh Island Area 122086410701180
+CentralMobile                     154010036636
+WesternMatagorda Island Area     30224 8704915
+CentralEugene Island Area      238354625538923
+CentralVermilion Area           322897 7799810
+CentralMississippi Canyon     1207966940521569
+CentralSabine Pass Area          22059  297331
+WesternBrazos Area               20741 8409544
+CentralMississippi Canyon     1118579240785632
+CentralEugene Island Area      344873041589708
+CentralSouth Pelto Area         231313 2637817
+CentralSouth Marsh Island Area 168378035285302
+CentralMain Pass Area          234883614995372
+CentralSouth Pass Area          758790 4131529
+CentralWest Delta Area         173041811469681
+CentralGreen Canyon            1407361 8864344
+CentralBay Marchand Area         51785   45249
+WesternSabine Pass Area            184   38358
+CentralEugene Island Area      273925534465613
+CentralGrand Isle Area          689022 7535534
+CentralMain Pass Area          219265719333922
+WesternHigh Island Area         66441123552123
+CentralGrand Isle Area          798033 9580970
+CentralSouth Marsh Island Area  337383 4802364
+CentralMain Pass Area          165307120435823
+CentralMain Pass Area          223381718626796
+WesternBrazos Area               25680 9680181
+CentralBreton Sound Area         58296  581166
+CentralEugene Island Area      296654333214825
+CentralBreton Sound Area         70519  405290
+CentralSouth Pelto Area         309552 3678116
+CentralSouth Timbalier Area    210629315619919
+WesternBrazos Area                8720 4593936
+CentralBreton Sound Area         61619  653834
+CentralShip Shoal Area         229492717587779
+WesternNorth Padre Island Area      76 1426437
+CentralWest Delta Area         1514157 9487216
+CentralGreen Canyon            577452514929508
+WesternEast Breaks             244477824813867
+CentralSabine Pass Area          27098  549092
+WesternEast Breaks             250440628064737
+WesternMustang Island Area        7046 3470852
+WesternGarden Banks            341733716308251
+WesternSabine Pass Area            337  276511
+CentralSouth Pass Area         125898610745717
+CentralMain Pass Area          132052916642912
+WesternGalveston Area           152324 4480011
+CentralBreton Sound Area         69503  745775
+CentralWest Cameron Area        46910532964206
+CentralSouth Pelto Area         152901 2216435
+CentralShip Shoal Area         131700211117619
+WesternNorth Padre Island Area     108 1524228
+WesternNorth Padre Island Area     138 1027069
+CentralBreton Sound Area         71928  374185
+WesternGarden Banks            323531119008992
+WesternEast Breaks             190431917108805
+CentralChandeleur Area              61  978640
+WesternAlaminos Canyon          529405 1144372
+WesternMustang Island Area       13276 5500047
+WesternSabine Pass Area             77  107513
+WesternAlaminos Canyon          851897  865894
+CentralShip Shoal Area         256439819289994
+WesternGarden Banks            257797913827551
+CentralSouth Pass Area          189502 2412337
+WesternEast Breaks             234433522415863
+WesternHigh Island Area        108608833848178
+WesternAlaminos Canyon          478828  690343
+CentralSouth Pass Area         192737814278847
+WesternHigh Island Area        135999244209127
+CentralChandeleur Area               0  196399
+CentralMobile                     358013883525
+WesternGalveston Area           158051 7508319
+CentralSouth Pass Area         120068410052985
+CentralBreton Sound Area         87843  291552
+CentralGrand Isle Area          520484 3755790
+CentralMississippi Canyon      192785912218900
+CentralWest Cameron Area        47498433049736
+WesternEast Breaks             241428520854455
+WesternAlaminos Canyon         1105991 1209237
+WesternNorth Padre Island Area     412 1522579
+CentralVermilion Area           83399314304118
+CentralGrand Isle Area          558543 5662121
+CentralChandeleur Area              16  369293
+CentralShip Shoal Area         238231920545407
+CentralSabine Pass Area          18242  355328
+WesternGarden Banks            3030328 9327175
+WesternAlaminos Canyon          660385  576067
+CentralMain Pass Area          1773995 8736362
+WesternAlaminos Canyon         1318009 1916816
+CentralSouth Pelto Area         359738 4273611
+CentralBay Marchand Area         14884   17020
+WesternAlaminos Canyon          642949 1579081
+WesternNorth Padre Island Area     127 1547619
+CentralMain Pass Area          219715916683408
+WesternBrazos Area               1782910501521
+WesternEast Breaks              204277 1860497
+CentralSouth Pelto Area         281057 4120806
+CentralSouth Pelto Area         332925 4061800
+CentralViosca Knoll            225852425157294
+WesternGarden Banks            406219524452249
+CentralMississippi Canyon     1007173238006371
+CentralViosca Knoll            362588528333111
+CentralSouth Timbalier Area    204345724087497
+CentralChandeleur Area              90  370579
+WesternMustang Island Area       12826 1665794
+WesternMatagorda Island Area     6905614235711
+WesternBrazos Area               16102 7545832
+WesternMatagorda Island Area     8877916708117
+CentralVermilion Area          139116930341665
+CentralEugene Island Area       96879410665016
+CentralChandeleur Area              21  499276
+CentralSouth Marsh Island Area 155053229845840
+CentralGrand Isle Area          894566 6878428
+CentralSouth Timbalier Area    205074223352245
+WesternNorth Padre Island Area     119 1550967
+CentralMobile                      326 8716700
+WesternHigh Island Area         72614024354994
+CentralGreen Canyon            485652712276145
+CentralSouth Pass Area          861136 5911033
+CentralSouth Pelto Area         177212 1727962
+CentralEugene Island Area      176680418482241
+CentralBay Marchand Area         58508   36069
+CentralChandeleur Area              40  579900
+CentralBay Marchand Area         31599   42070
+CentralWest Cameron Area        46884535076212
+CentralSouth Timbalier Area    187858324680252
+CentralGreen Canyon            5548672 8857852
+WesternGarden Banks            287673218113078
+WesternNorth Padre Island Area     498 1526703
+CentralEwing Bank              1921721 3061594
+WesternGarden Banks            377931420784085
+CentralBreton Sound Area         65759  387231
+CentralSouth Pass Area         157746710010213
+WesternHigh Island Area         81331429298752
+WesternGarden Banks            292689819132330
+CentralMississippi Canyon      445377316262002
+CentralViosca Knoll            399662530262907
+WesternSabine Pass Area             53   29866
+WesternBrazos Area                6246 4563602
+CentralGrand Isle Area          728409 7142488
+WesternEast Breaks             221509025915470
+CentralSouth Pass Area         133594110651539
+CentralMobile                     205811692351
+WesternGalveston Area           280355 5307865
+CentralGrand Isle Area          574015 4141799
+CentralMobile                     194113420516
+CentralSabine Pass Area          17799  449854
+WesternGalveston Area           178602 3699156
+CentralSouth Marsh Island Area 131511626327093
+CentralSouth Timbalier Area    262600634242580
+CentralMobile                     201813399803
+CentralGreen Canyon            542524613187400
+WesternNorth Padre Island Area     495 1106666
+CentralViosca Knoll            135149313296494
+WesternEast Breaks              206446 1902225
+WesternGarden Banks            289387914758373
+WesternHigh Island Area         73937025817978
+CentralEast Cameron Area        54880817740692
+CentralChandeleur Area              46 1525570
+WesternNorth Padre Island Area     366 1600482
+WesternGarden Banks            244218116208061
+WesternEast Breaks              711098 6927499
+CentralSabine Pass Area          16216  326790
+CentralWest Cameron Area        35455727479978
+CentralShip Shoal Area         265370026661530
+CentralShip Shoal Area         261634227202048
+CentralBay Marchand Area        106590  120124
+CentralEwing Bank              2031195 3645333
+WesternHigh Island Area         82453026219065
+WesternGalveston Area           304664 7593782
+CentralBay Marchand Area         35812   22594
+CentralViosca Knoll            151625113018505
+CentralMississippi Canyon      527767619872937
+CentralSouth Marsh Island Area 162489833501597
+CentralGrand Isle Area          86743510143959
+WesternNorth Padre Island Area     324 1541660
+CentralGreen Canyon            679107617510192
+CentralMain Pass Area          1514370 6115011
+CentralWest Delta Area         202357612285401
+CentralEwing Bank              1845749 3031423
+CentralBreton Sound Area         74673  328849
+CentralMississippi Canyon     1482550351863327
+WesternMatagorda Island Area     27715 5607405
+CentralEast Cameron Area        94540524459067
+WesternMustang Island Area       10229 4299654
+WesternGalveston Area           298897 5552327
+WesternSabine Pass Area             59   15003
+CentralGreen Canyon            593422817698425
+CentralChandeleur Area               9  258215
+CentralSouth Pelto Area         131021 2829575
+CentralBreton Sound Area        106895  996434
+WesternBrazos Area                7720 4434231
+CentralMain Pass Area          203078720137244
+CentralSouth Marsh Island Area 123478815747023
+CentralMain Pass Area          214699316648133
+WesternGarden Banks            341221415700507
+CentralWest Cameron Area        34969330850110
+CentralEwing Bank               778221 1404764
+CentralBay Marchand Area         16569   74627
+CentralGreen Canyon            574299114360822
+CentralBreton Sound Area         89355  677425
+WesternMatagorda Island Area     7897815710770
+WesternHigh Island Area         83435521156432
+WesternMatagorda Island Area     9394015900508
+CentralWest Delta Area          773584 4725337
+WesternMustang Island Area        8917 1922011
+CentralShip Shoal Area         144752512345393
+WesternGalveston Area           160065 7926168
+WesternGalveston Area           290202 7160280
+CentralSabine Pass Area          23205  208251
+CentralShip Shoal Area         263803126409621
+CentralBay Marchand Area         51899   45780
+CentralVermilion Area           77701511472498
+CentralEast Cameron Area        86390123407904
+WesternGalveston Area           147311 3567643
+CentralEast Cameron Area        58906818745729
+CentralChandeleur Area              48 1060279
+WesternBrazos Area               11602 7674456
+WesternHigh Island Area        110586934353837
+WesternAlaminos Canyon          777027 1977250
+WesternMustang Island Area       11402 3948847
+CentralEwing Bank              1046227 1260646
+WesternGalveston Area           158032 7229219
+WesternGalveston Area           150221 3466089
+CentralVermilion Area          118874022492287
+CentralEugene Island Area      225559626543438
+WesternGalveston Area           296619 5755287
+CentralSouth Pass Area         180020910662236
+CentralWest Delta Area         1630890 9788701
+CentralGreen Canyon            357433213625216
+WesternGalveston Area           335975 6099870
+WesternMatagorda Island Area    11143221264888
+WesternHigh Island Area        110819534834914
+CentralSouth Pelto Area         199628 2785097
+CentralChandeleur Area              25  536008
+CentralGreen Canyon            500817011951007
+WesternMatagorda Island Area     30061 8148642
+CentralViosca Knoll            324655722985606
+CentralMain Pass Area          1403931 8462299
+CentralShip Shoal Area         267483921722891
+CentralGreen Canyon            208853911036198
+CentralVermilion Area          112815020875964
+CentralVermilion Area           99598025242972
+CentralSouth Pelto Area         246545 4095905
+CentralMain Pass Area          212506522357774
+WesternEast Breaks              149700  931398
+CentralBreton Sound Area         67373  583443
+WesternMatagorda Island Area     6753113255492
+CentralSabine Pass Area          17454  340361
+CentralMississippi Canyon     1256405740339938
+CentralChandeleur Area              45  304013
+CentralSabine Pass Area          16472  334700
+CentralVermilion Area           96919913629237
+CentralVermilion Area          108778924042661
+WesternSabine Pass Area             77    1257
+CentralMain Pass Area          238066118926129
+CentralMain Pass Area          223231317982854
+CentralViosca Knoll            256848915101101
+WesternMatagorda Island Area     8213118914232
+CentralVermilion Area           99178714152722
+CentralVermilion Area          145739429931386
+CentralWest Cameron Area        46752437384984
+CentralViosca Knoll            367235033465571
+CentralWest Cameron Area        47108136031517
+CentralGreen Canyon            703604117508972
+WesternBrazos Area               2413212448309
+CentralSouth Marsh Island Area 116180914738195
+CentralSouth Pass Area         110533210575706
+WesternBrazos Area               2017010845547
+CentralBay Marchand Area         15773  117056
+CentralGrand Isle Area          890479 8484717
+CentralChandeleur Area               1  447182
+CentralShip Shoal Area         246830719852359
+CentralMobile                      81910146830
+WesternGalveston Area           200129 4047759
+CentralViosca Knoll            226334615433269
+CentralSouth Timbalier Area    237185817111920
+CentralSouth Marsh Island Area 115185214815497
+WesternSabine Pass Area             63   36822
+CentralChandeleur Area              18  313255
+CentralMobile                     181212015204
+CentralSabine Pass Area          16831  313955
+CentralVermilion Area           99559311836500
+WesternBrazos Area               3991714892459
+CentralWest Cameron Area        55728936129086
+WesternGarden Banks            2194587 8479689
+CentralSabine Pass Area          16860  386814
+CentralChandeleur Area              52 1261422
+CentralWest Delta Area         213385014592683
+CentralSouth Pelto Area         154769 1409171
+WesternMustang Island Area       18669 8487166
+CentralSouth Timbalier Area    248525227587452
+CentralEast Cameron Area        40860914217505
+CentralSouth Pelto Area         217507 3017532
+CentralEwing Bank              1730795 3821409
+WesternBrazos Area               12456 7471704
+CentralViosca Knoll            311139829053637
+CentralBay Marchand Area         23023   12411
+CentralViosca Knoll               1918 1661751
+CentralViosca Knoll            259723920081389
+WesternMustang Island Area       2694610490105
+CentralGrand Isle Area          581974 5293090
+WesternMatagorda Island Area     29770 6941129
+CentralShip Shoal Area         151325512043533
+WesternSabine Pass Area           1042  181808
+CentralSouth Pelto Area         262214 4048234
+CentralBreton Sound Area         76060  296003
+CentralMain Pass Area          206883116948603
+CentralSouth Marsh Island Area 123407812739927
+WesternAlaminos Canyon          955618 1291828
+CentralSouth Timbalier Area    205408321990282
+CentralVermilion Area           79570111636398
+CentralWest Delta Area         1379707 9836697
+CentralSabine Pass Area          14058  525660
+CentralGreen Canyon            277339912408587
+CentralVermilion Area          130927128123102
+CentralEwing Bank              1484260 3942117
+CentralEwing Bank              1333370 2020509
+CentralMobile                     1446 8902278
+CentralSouth Pass Area         191114511342565
+CentralEugene Island Area      184463519275289
+CentralSouth Timbalier Area    223527026479376
+CentralEwing Bank               883183 1845299
+WesternBrazos Area               16814 8743377
+CentralEugene Island Area      175769521015302
+WesternAlaminos Canyon          766019  723397
+CentralSouth Pass Area         144404011259778
+WesternMustang Island Area        1336 1196190
+CentralWest Cameron Area        44490935636401
+CentralSouth Marsh Island Area  608444 4951593
+CentralMain Pass Area          213328420327785
+CentralViosca Knoll            138591016772548
+WesternMatagorda Island Area    10731322675274
+WesternMatagorda Island Area     14767 5092843
+CentralShip Shoal Area         225792316934425
+CentralMobile                      748 9515657
+WesternNorth Padre Island Area     367 1410425
+WesternGalveston Area           159908 6406848
+WesternHigh Island Area        115471635350418
+CentralWest Delta Area          974696 6030614
+CentralWest Cameron Area        41263132978555
+CentralSouth Marsh Island Area 120957110806164
+CentralSouth Marsh Island Area 135176610940958
+CentralVermilion Area          107555818136153
+CentralGreen Canyon            542380813193792
+CentralSouth Marsh Island Area 123832613999986
+CentralSabine Pass Area          11513  260970
+WesternSabine Pass Area            179  242495
+CentralShip Shoal Area         150598211636249
+WesternGarden Banks            451044827417449
+CentralEast Cameron Area        67856920478584
+CentralEast Cameron Area        68546922264871
+CentralViosca Knoll            219805717493776
+WesternNorth Padre Island Area     327 1594682
+CentralViosca Knoll            413874631383331
+CentralEugene Island Area      353332543581070
+CentralSouth Pelto Area         322252 4527306
+CentralSouth Marsh Island Area 120909511165075
+CentralEast Cameron Area        72097922838613
+CentralGreen Canyon            1633872 7428087
+CentralBay Marchand Area         32247   45104
+CentralMain Pass Area          265979011721712
+CentralSouth Pelto Area         245425 3959181
+CentralSouth Pass Area         152812311300195
+WesternAlaminos Canyon          893289 1092548
+CentralBay Marchand Area         96968  148798
+CentralBreton Sound Area         78573  744175
+CentralSouth Timbalier Area    165214322747512
+CentralBay Marchand Area         28627   45771
+CentralSabine Pass Area          14626  405998
+CentralViosca Knoll            253123324900258
+WesternMatagorda Island Area     6997816293754
+CentralEwing Bank              2744081 3940412
+CentralBreton Sound Area         84470  352389
+CentralEast Cameron Area        81065320497105
+CentralSouth Marsh Island Area 133464910697094
+WesternMatagorda Island Area     5656312321837
+CentralGrand Isle Area          667721 6910473
+CentralEast Cameron Area        41307213676559
+CentralSabine Pass Area          16191  325102
+CentralShip Shoal Area         297966625297620
+WesternBrazos Area               13977 7761409
+CentralBreton Sound Area        116930  516430
+WesternBrazos Area               3004912485393
+CentralSouth Pass Area         193355813538868
+CentralSouth Timbalier Area    248467026202346
+CentralBay Marchand Area         31115   46586
+WesternSabine Pass Area           1183  162986
+CentralWest Cameron Area        51897241830639
+CentralMobile                      899 8607785
+CentralChandeleur Area              42  326257
+WesternEast Breaks             1008059 5418544
+CentralGrand Isle Area          84167110432931
+WesternSabine Pass Area              0  273736
+WesternGalveston Area           185093 7336346
+CentralMississippi Canyon     1121891938197169
+CentralBay Marchand Area         11308  142419
+WesternHigh Island Area         87922537723204
+CentralMississippi Canyon     1251926546269166
+CentralVermilion Area          121289023931172
+CentralGrand Isle Area          980530 7172642
+CentralSouth Timbalier Area    200065623807758
+WesternMustang Island Area       2758710666896
+CentralMain Pass Area          226885119141879
+CentralGrand Isle Area         1029109 8617988
+CentralEast Cameron Area         32203  807964
+CentralSabine Pass Area          14282  386418
+CentralChandeleur Area              27 1001576
+CentralEwing Bank              1972842 3732368
+WesternGalveston Area           162516 3862631
+WesternMatagorda Island Area     8103315833447
+CentralSabine Pass Area          18148  215226
+WesternBrazos Area                9997 6447247
+CentralBay Marchand Area         28370   56277
+CentralViosca Knoll             286627 4876590
+CentralWest Cameron Area        93466836926159
+CentralSouth Timbalier Area    241135525271743
+CentralMain Pass Area          204751217109864
+CentralWest Delta Area         209222513928913
+CentralMobile                      349 8429918
+CentralMississippi Canyon     1130580842648098
+CentralSouth Pass Area         191023510502565
+CentralVermilion Area            54968 3016909
+CentralShip Shoal Area         149659412534022
+CentralSouth Pelto Area         262889 3036387
+CentralViosca Knoll             283053 6217073
+WesternBrazos Area               28766 7265800
+CentralMississippi Canyon     1397972052303260
+CentralSabine Pass Area          15260  321217
+CentralViosca Knoll            379289335218630
+CentralEwing Bank              2442161 3603345
+CentralSabine Pass Area          18575  254199
+CentralMain Pass Area          214357517197281
+CentralSabine Pass Area          17110  397829
+WesternNorth Padre Island Area       2 1046469
+CentralBay Marchand Area         40321   22550
+WesternSabine Pass Area            508  181877
+WesternMatagorda Island Area     15412 4604273
+CentralMobile                     1393 9803959
+WesternGalveston Area           139310 3268995
+WesternEast Breaks             224644717888743
+WesternHigh Island Area         71092223559621
+CentralViosca Knoll             299104 4925054
+CentralSouth Pass Area          396904 1934508
+WesternAlaminos Canyon          737268 2124660
+CentralSouth Timbalier Area    198565326078388
+WesternGalveston Area           122218 2460001
+CentralMississippi Canyon      940680533469645
+CentralSouth Marsh Island Area 143091928771126
+WesternEast Breaks             193190817898053
+CentralBreton Sound Area         73353  247313
+WesternEast Breaks             193363916903150
+CentralSabine Pass Area          12066  389780
+CentralWest Cameron Area        65457838182115
+CentralWest Cameron Area        78001235698727
+WesternHigh Island Area        104939230955463
+CentralEast Cameron Area        82881121063143
+CentralEugene Island Area      286248232141802
+WesternEast Breaks              247450 3281327
+CentralSouth Timbalier Area    206944427943781
+CentralWest Cameron Area        41845233611714
+CentralSouth Pelto Area         292555 3750325
+WesternSabine Pass Area           2342  282243
+WesternNorth Padre Island Area      69 1045069
+CentralSouth Pass Area         206089114143147
+CentralMain Pass Area          224840010133694
+CentralViosca Knoll             887726 8762415
+CentralBreton Sound Area         80347  890464
+CentralMobile                       55 6297698
+CentralSouth Pelto Area         208435 3285777
+CentralSabine Pass Area          12787  321625
+CentralEugene Island Area      225570225064820
+CentralSouth Marsh Island Area 133532115015055
+CentralSouth Marsh Island Area 126884421637351
+CentralEugene Island Area      307905332372055
+CentralBreton Sound Area        118444  584817
+CentralEwing Bank              2656488 5300009
+CentralShip Shoal Area         278445029044267
+CentralSouth Marsh Island Area 116686712287872
+WesternGalveston Area           151389 4983497
+WesternGalveston Area           164585 3224345
+CentralGreen Canyon            348745613675464
+WesternSabine Pass Area              3  235851
+CentralVermilion Area          109740122364530
+CentralEugene Island Area      377647844532737
+WesternHigh Island Area         70714928652810
+WesternGalveston Area           256845 6126208
+CentralWest Delta Area         207288313673127
+CentralWest Cameron Area        63403039794647
+WesternEast Breaks              563330 8166173
+CentralWest Delta Area         143451110335569
+WesternGarden Banks            474793030356964
+WesternMatagorda Island Area     53626 9108560
+CentralGreen Canyon            556208914881599
+CentralEwing Bank              1918844 2847984
+WesternNorth Padre Island Area     348 1299576
+CentralChandeleur Area               0  265053
+CentralEwing Bank              1724900 3369729
+CentralGreen Canyon            529802015116934
+CentralGreen Canyon            1772650 9195868
+CentralEugene Island Area      348615041340000
+CentralGreen Canyon            864707023180387
+CentralMain Pass Area          218094310094224
+WesternNorth Padre Island Area     369 1355896
+CentralSouth Marsh Island Area 117014110756915
+CentralEugene Island Area      306333338218783
+CentralSouth Timbalier Area    150391121627589
+WesternMatagorda Island Area     8657320074618
+CentralBay Marchand Area             0    8543
+WesternGalveston Area           170358 7757420
+CentralWest Cameron Area        27294918729362
+CentralSouth Marsh Island Area 110085011364560
+WesternEast Breaks              197603 1249015
+WesternMatagorda Island Area     23980 6376868
+CentralGreen Canyon            3754210 8130574
+WesternMustang Island Area       30120 9232169
+CentralMobile                     196011958290
+CentralMain Pass Area          239042717303159
+CentralBreton Sound Area         58792  339204
+CentralGrand Isle Area          550450 6891812
+CentralEugene Island Area      233375225180318
+WesternBrazos Area               1517510045073
+CentralViosca Knoll            362585432339241
+CentralWest Cameron Area        52820833097225
+CentralViosca Knoll            102628715183998
+CentralGrand Isle Area          391366 2702276
+CentralMississippi Canyon      975990837146833
+CentralSouth Timbalier Area    194059827702073
+CentralMain Pass Area          234579410939171
+WesternSabine Pass Area            140   99630
+CentralViosca Knoll            367750229599546
+CentralMobile                      327 5891682
+CentralMain Pass Area          199324216376748
+CentralSabine Pass Area          19059  473328
+CentralEwing Bank              1438317 2128798
+WesternGalveston Area           165471 4023546
+CentralSouth Timbalier Area    237052027586433
+WesternHigh Island Area         84161424931205
+CentralGreen Canyon            4552079 8669198
+CentralMobile                     129712619411
+CentralSouth Marsh Island Area 123086115668778
+WesternEast Breaks              660148 9367816
+WesternBrazos Area               1452310149794
+CentralMississippi Canyon     1120045037013022
+WesternSabine Pass Area           1911  204948
+CentralMobile                     1904 7787682
+CentralBreton Sound Area         69663  164147
+WesternAlaminos Canyon         1153868 1186310
+CentralSouth Pass Area         195940112703959
+CentralSouth Marsh Island Area 136881023842797
+WesternEast Breaks             221660325353489
+CentralEugene Island Area      262287235264056
+CentralSouth Marsh Island Area 129065716573468
+CentralMain Pass Area          266152011962440
+CentralViosca Knoll             262583 6405072
+WesternEast Breaks              209087 2289682
+WesternGarden Banks            306158718395638
+WesternNorth Padre Island Area     493 1101189
+WesternSabine Pass Area             78   22518
+CentralChandeleur Area               5  309396
+CentralEwing Bank              1172704 1594379
+CentralWest Delta Area         1319651 7620929
+CentralBay Marchand Area         11181  109148
+CentralSabine Pass Area          32183  193014
+WesternBrazos Area               14864 8426591
+CentralSabine Pass Area          15405  308852
+CentralVermilion Area          109721813139102
+WesternNorth Padre Island Area     854 1474206
+CentralGreen Canyon            257091812052285
+CentralEwing Bank              1770248 3267939
